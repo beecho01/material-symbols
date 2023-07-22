@@ -1,4 +1,4 @@
-const HUE_ICONS_MAP = {
+const MATERIAL_SYMBOLS_MAP = {
 
   "adore":{
     path:"M21.6,8.8H2.4C1.6,8.8,1,9.7,1,10.7v1.9c0,1.1,0.7,1.6,1.4,1.6h6.9c0,0,0,0,0,0.1v0.4c0,0.6,0.5,1.1,1.1,1.1 h3.3c0.6,0,1.1-0.5,1.1-1.1v-0.4c0,0,0,0,0-0.1h6.9c0.7,0,1.4-0.5,1.4-1.6v-1.9C23,9.7,22.4,8.8,21.6,8.8z M21.6,13.2H2.4 c-0.1,0-0.4,0-0.4-0.6c0-0.5,0.3-0.9,0.4-0.9h19.1c0.2,0,0.4,0.3,0.4,0.9C22,13.2,21.7,13.2,21.6,13.2z", 
@@ -2037,34 +2037,34 @@ const HUE_ICONS_MAP = {
 async function getIcon(name) {
   let new_name;
 
-  if (!(name in HUE_ICONS_MAP)) {
+  if (!(name in MATERIAL_SYMBOLS_MAP)) {
     // try swapping the '_' for a '-'
     new_name = name.replace(/_/gm, `-`);
-    if (!(new_name in HUE_ICONS_MAP)) {
+    if (!(new_name in MATERIAL_SYMBOLS_MAP)) {
       console.log(`Icon "${name}" is not available`);
       return '';
     }else{
       console.log(`Aliased "${name}" with "${new_name}"`);
-      return {path: HUE_ICONS_MAP[new_name].path};
+      return {path: MATERIAL_SYMBOLS_MAP[new_name].path};
     }
   }
-  return {path: HUE_ICONS_MAP[name].path};
+  return {path: MATERIAL_SYMBOLS_MAP[name].path};
 }
 async function getIconList() {
-  return Object.entries(HUE_ICONS_MAP).map(([icon, content]) => ({
+  return Object.entries(MATERIAL_SYMBOLS_MAP).map(([icon, content]) => ({
     name: icon,
     keywords: content.keywords
   }));
 }
 window.customIcons = window.customIcons || {};
-window.customIcons["hue"] = { getIcon, getIconList };
+window.customIcons["m3s"] = { getIcon, getIconList };
 
 window.customIconsets = window.customIconsets || {};
-window.customIconsets["hue"] = getIcon;
+window.customIconsets["m3s"] = getIcon;
 
 
 console.info(
-    `%c HASS-HUE-ICONS %c Version 1.2.51 `,
+    `%c MATERIAL-SYMBOLS %c Version 1.2.51 `,
     "color: orange; font-weight: bold; background: black",
     "color: white; font-weight: bold; background: dimgray"
 );
