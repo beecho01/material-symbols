@@ -2,7 +2,7 @@
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/beecho01/hass-hue-icons)](https://github.com/beecho01/material-symbols/releases)
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-![GitHub file size in bytes](https://img.shields.io/github/size/beecho01/material-symbols/dist/hass-hue-icons.js?label=plugin%20size)
+![GitHub file size in bytes](https://img.shields.io/github/size/beecho01/material-symbols/dist/material-symbols.js?label=plugin%20size)
 ![GitHub last commit](https://img.shields.io/github/last-commit/arallsopp/hass-hue-icons)
 [![GitHub closed issues by-label](https://img.shields.io/github/issues-closed/beecho01/material-symbols/icon%20request?label=community%20requests)](https://github.com/beecho01/material-symbols/issues?q=is%3Aclosed+label%3A"icon+request")
 [![Man Hours](https://img.shields.io/endpoint?url=https%3A%2F%2Fmh.jessemillar.com%2Fhours%3Frepo%3Dhttps%3A%2F%2Fgithub.com%2Farallsopp%2Fhass-hue-icons.git)](https://jessemillar.com/r/man-hours)
