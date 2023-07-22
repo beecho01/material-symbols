@@ -1,11 +1,11 @@
 # HomeAssistant Material Symbols
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/beecho01/hass-hue-icons)](https://github.com/beecho01/material-symbols/releases)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/beecho01/material-symbols)](https://github.com/beecho01/material-symbols/releases)
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 ![GitHub file size in bytes](https://img.shields.io/github/size/beecho01/material-symbols/dist/material-symbols.js?label=plugin%20size)
 ![GitHub last commit](https://img.shields.io/github/last-commit/beecho01/material-symbols)
 [![GitHub closed issues by-label](https://img.shields.io/github/issues-closed/beecho01/material-symbols/icon%20request?label=community%20requests)](https://github.com/beecho01/material-symbols/issues?q=is%3Aclosed+label%3A"icon+request")
-[![Man Hours](https://img.shields.io/endpoint?url=https%3A%2F%2Fmh.jessemillar.com%2Fhours%3Frepo%3Dhttps%3A%2F%2Fgithub.com%2Farallsopp%2Fhass-hue-icons.git)](https://jessemillar.com/r/man-hours)
+[![Man Hours](https://img.shields.io/endpoint?url=https%3A%2F%2Fmh.jessemillar.com%2Fhours%3Frepo%3Dhttps%3A%2F%2Fgithub.com%2Farallsopp%2Fmaterial-symbols.git)](https://jessemillar.com/r/man-hours)
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
@@ -22,10 +22,10 @@ fixtures and groups that aren't represented by the 'official' icon set.
 
 ## <a name="installation"></a>Installation
 
-Hass-hue-icons has been accepted into the [Home Assistant Community Store (HACS)](https://hacs.xyz).
+material-symbols has been accepted into the [Home Assistant Community Store (HACS)](https://hacs.xyz).
 
 ### HACS (Recommended):
-This is the recommended way to install hass-hue-icons. Hass-hue-icons is a default repository for HACS. To install:
+This is the recommended way to install material-symbols. material-symbols is a default repository for HACS. To install:
 
 - Open HACS (installation instructions are [here](https://hacs.xyz/docs/installation/installation/)).
 - Go to "Frontend" section
@@ -35,18 +35,18 @@ This is the recommended way to install hass-hue-icons. Hass-hue-icons is a defau
 ```
 frontend:
   extra_module_url:
-    - /hacsfiles/hass-hue-icons/hass-hue-icons.js
+    - /hacsfiles/material-symbols/material-symbols.js
 ```
 
 ### Manual:
-- Copy `dist/hass-hue-icons.js` into your `config/www` folder.
+- Copy `dist/material-symbols.js` into your `config/www` folder.
 - Go to Configuration -> Lovelace Dashboards -> Resources -> Add Resource
-- set url as `/local/hass-hue-icons.js` and Resource Type as `Javascript Module`.
+- set url as `/local/material-symbols.js` and Resource Type as `Javascript Module`.
 - Add the following to your configuration.yaml, save and restart HA.
 ```
 frontend:
   extra_module_url:
-    - /local/hass-hue-icons.js
+    - /local/material-symbols.js
 ```
 
 - Save, restart Home Assistant.
@@ -72,7 +72,7 @@ entities:
 
 ### Hue Icons
 
-hass-hue-icons includes 72 Hue icons modelled upon the Hue iOS app for personal use
+material-symbols includes 72 Hue icons modelled upon the Hue iOS app for personal use
 
 [//]: # (Start Hue Icons)
 
@@ -118,7 +118,7 @@ hass-hue-icons includes 72 Hue icons modelled upon the Hue iOS app for personal 
 [//]: # (End Hue Icons)
 
 ### User Requested Hue Icons
-hass-hue-icons includes 436 custom icons designed by the author for specific hue fixtures and bulb combinations that aren't represented by the 'official' icon set. Each of these has been hand drawn in Illustrator and proposed in response to a community request.
+material-symbols includes 436 custom icons designed by the author for specific hue fixtures and bulb combinations that aren't represented by the 'official' icon set. Each of these has been hand drawn in Illustrator and proposed in response to a community request.
 
 [//]: # (Start Custom Icons)
 
@@ -355,7 +355,7 @@ With view icons and state color applied. Play bars are offline.
 ### Finding Icons
 Hass Hue Icons uses the new 'keywords' functionality to help you find specific fixtures. Try searching in the Home Assistant iconpicker for 'pendant' or 'switch'.
 
-**NEW:** Hass Hue Icons also offers a [standalone preview tool](https://arallsopp.github.io/hass-hue-icons/docs/build/tester/iconfinder.html). Take a look.
+**NEW:** Hass Hue Icons also offers a [standalone preview tool](https://arallsopp.github.io/material-symbols/docs/build/tester/iconfinder.html). Take a look.
 
 ### Discussion:
 There's a thread over at the [home assistant forums](https://community.home-assistant.io/t/created-custom-colorizable-hue-icons-as-a-lovelace-resource) that tracks this repo.
@@ -369,7 +369,7 @@ If you cannot see the new icons, or you get an empty box where you're expecting 
 Did you add the frontend extra_module_url in your configuration.yaml? See the [installation section](#installation) for details.
 
 ## OpenHASP user?
-I periodically update a ttf font file in a zip at [font/hass-hue-icons-ttf.zip](font/hass-hue-icons-ttf.zip). Thanks to @nagyrobi for the suggestion.
+I periodically update a ttf font file in a zip at [font/material-symbols-ttf.zip](font/material-symbols-ttf.zip). Thanks to @nagyrobi for the suggestion.
 
 ## Thanks and Props
 - @hulkhaugen and @thomasloven for the technique.
@@ -378,7 +378,7 @@ I periodically update a ttf font file in a zip at [font/hass-hue-icons-ttf.zip](
 - Everyone who has helped make this repo so broad by raising an [Icon Request](https://github.com/beecho01/material-symbols/issues/new?assignees=arallsopp&labels=icon+request&template=custom-icon-request.md&title=Icon%20Request%20%5Bname%20of%20fixture%5D).
 
 ### Stargazers
-[![Stargazers repo roster for @arallsopp/hass-hue-icons](https://reporoster.com/stars/arallsopp/hass-hue-icons)](https://github.com/beecho01/material-symbols/stargazers)
+[![Stargazers repo roster for @arallsopp/material-symbols](https://reporoster.com/stars/arallsopp/material-symbols)](https://github.com/beecho01/material-symbols/stargazers)
 
 ---
 
