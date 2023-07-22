@@ -1,4 +1,4 @@
-# hass-hue-icons
+# HomeAssistant Material Symbols
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/beecho01/hass-hue-icons)](https://github.com/beecho01/material-symbols/releases)
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
