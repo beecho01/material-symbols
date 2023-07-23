@@ -129,7 +129,7 @@ app.controller('AppCtrl', ['$scope', '$http','$mdToast',
                             path: my_icon.path,
                             keywords:keywords,
                             aliases: aliases,
-                            value: ('hue:' + my_list[icon].name + ' ' + aliases).toLowerCase()
+                            value: ('m3s:' + my_list[icon].name + ' ' + aliases).toLowerCase()
                         });
                         $scope.$applyAsync();
                     })
