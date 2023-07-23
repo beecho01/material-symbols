@@ -46,17 +46,17 @@
          */
         function importFromScript() {
             let icons = [];
-            for (const icon in HUE_ICONS_MAP){
+            for (const icon in MATERIAL_SYMBOLS_MAP){
 
-                let keywords = HUE_ICONS_MAP[icon].keywords,
+                let keywords = MATERIAL_SYMBOLS_MAP[icon].keywords,
                     aliases = keywords.join(', ');
 
                 icons.push({
                     name: icon,
-                    path:HUE_ICONS_MAP[icon].path,
+                    path:MATERIAL_SYMBOLS_MAP[icon].path,
                     keywords:keywords,
                     aliases:aliases,
-                    value:'hue:' + icon + ' ' + aliases.toLowerCase()
+                    value:'m3s:' + icon + ' ' + aliases.toLowerCase()
                 });
             }
             return icons;
