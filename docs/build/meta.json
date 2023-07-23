@@ -1,2125 +1,5154 @@
 {
     "aliases": {
-        "adore": [
-            "bathroom",
-            "light",
-            "wall"
-        ],
-        "adore-alt": [
-            "bathroom",
-            "light",
-            "wall"
-        ],
-        "adore-alt-off": [
-            "bathroom",
-            "light",
-            "wall"
-        ],
-        "adore-mirror": [
-            "bathroom",
-            "light",
-            "wall"
-        ],
-        "amarant": [
-            "floor",
-            "light"
-        ],
-        "amaze": [
-            "ceiling",
-            "light",
-            "pendant"
-        ],
-        "amaze-alt": [
-            "ceiling",
-            "light",
-            "pendant"
-        ],
-        "amaze-alt-off": [
-            "ceiling",
-            "light",
-            "pendant"
-        ],
-        "amaze-off": [
-            "ceiling",
-            "light",
-            "pendant"
-        ],
-        "aura": [
-            "floor",
-            "light",
-            "table"
-        ],
-        "aura-group": [
-            "floor",
-            "light",
-            "table"
-        ],
-        "aura-group-off": [
-            "floor",
-            "light",
-            "table"
-        ],
-        "aura-off": [
-            "floor",
-            "light",
-            "table"
-        ],
-        "beyond": [
-            "floor",
-            "lamp",
-            "light"
-        ],
-        "beyond-down": [
-            "floor",
-            "lamp",
-            "light"
-        ],
-        "beyond-down-group": [
-            "floor",
-            "lamp",
-            "light"
-        ],
-        "beyond-down-group-off": [
-            "floor",
-            "lamp",
-            "light"
-        ],
-        "beyond-down-off": [
-            "floor",
-            "lamp",
-            "light"
-        ],
-        "beyond-group": [
-            "floor",
-            "lamp",
-            "light"
-        ],
-        "beyond-group-off": [
-            "floor",
-            "lamp",
-            "light"
-        ],
-        "beyond-off": [
-            "floor",
-            "lamp",
-            "light"
-        ],
-        "beyond-solid": [
-            "floor",
-            "lamp",
-            "light"
-        ],
-        "beyond-solid-group": [
-            "floor",
-            "lamp",
-            "light"
-        ],
-        "beyond-solid-group-off": [
-            "floor",
-            "lamp",
-            "light"
-        ],
-        "beyond-solid-off": [
-            "floor",
-            "lamp",
-            "light"
-        ],
-        "beyond-up": [
-            "floor",
-            "lamp",
-            "light"
-        ],
-        "beyond-up-group": [
-            "floor",
-            "lamp",
-            "light"
-        ],
-        "beyond-up-group-off": [
-            "floor",
-            "lamp",
-            "light"
-        ],
-        "beyond-up-off": [
-            "floor",
-            "lamp",
-            "light"
-        ],
-        "bloom": [
-            "floor",
-            "light",
-            "table"
-        ],
-        "bloom-group": [
-            "floor",
-            "light",
-            "table"
-        ],
-        "bloom-group-off": [
-            "floor",
-            "light",
-            "light",
-            "table"
-        ],
-        "bloom-off": [
-            "floor",
-            "light",
-            "light",
-            "table"
-        ],
-        "bollard": [
-            "calla",
-            "exterior",
-            "light",
-            "pillar"
-        ],
-        "bollard-off": [
-            "calla",
-            "exterior",
-            "light",
-            "pillar"
-        ],
-        "bridge-v1": [
-            "infrastructure"
-        ],
-        "bridge-v2": [
-            "infrastructure"
-        ],
-        "bridge-v2-off": [
-            "infrastructure"
-        ],
-        "bulb-br30": [
-            "light",
-            "spot"
-        ],
-        "bulb-br30-hung": [
-            "light",
-            "spot"
-        ],
-        "bulb-br30-hung-off": [
-            "light",
-            "spot"
-        ],
-        "bulb-br30-off": [
-            "light",
-            "spot"
-        ],
-        "bulb-candle": [
-            "light",
-            "retro"
-        ],
-        "bulb-candle-hung": [
-            "light",
-            "retro"
-        ],
-        "bulb-candle-hung-off": [
-            "light",
-            "retro"
-        ],
-        "bulb-candle-off": [
-            "light",
-            "retro"
-        ],
-        "bulb-classic": [
-            "light"
-        ],
-        "bulb-classic-hung": [
-            "light"
-        ],
-        "bulb-classic-hung-off": [
-            "light"
-        ],
-        "bulb-classic-off": [
-            "light"
-        ],
-        "bulb-filament": [
-            "g40",
-            "light",
-            "retro"
-        ],
-        "bulb-filament-a19": [
-            "e26",
-            "g25",
-            "light",
-            "retro"
-        ],
-        "bulb-filament-a19-hung": [
-            "e26",
-            "g25",
-            "light",
-            "retro"
-        ],
-        "bulb-filament-a19-hung-off": [
-            "e26",
-            "g25",
-            "light",
-            "retro"
-        ],
-        "bulb-filament-a19-off": [
-            "e26",
-            "g25",
-            "light",
-            "retro"
-        ],
-        "bulb-filament-alt": [
-            "light",
-            "retro"
-        ],
-        "bulb-filament-alt-hung": [
-            "light",
-            "retro"
-        ],
-        "bulb-filament-candle": [
-            "light",
-            "retro"
-        ],
-        "bulb-filament-candle-hung": [
-            "light",
-            "retro"
-        ],
-        "bulb-filament-hung": [
-            "g40",
-            "light",
-            "retro"
-        ],
-        "bulb-filament-hung-off": [
-            "g40",
-            "light",
-            "retro"
-        ],
-        "bulb-filament-off": [
-            "g40",
-            "light",
-            "retro"
-        ],
-        "bulb-flood": [
-            "light",
-            "par38"
-        ],
-        "bulb-golfball-e14": [
-            "light"
-        ],
-        "bulb-group": [
-            "e26",
-            "light",
-            "sultan"
-        ],
-        "bulb-group-bollard": [
-            "calla",
-            "exterior",
-            "light",
-            "pillar"
-        ],
-        "bulb-group-bollard-3": [
-            "calla",
-            "exterior",
-            "light",
-            "pillar"
-        ],
-        "bulb-group-bollard-3-off": [
-            "calla",
-            "exterior",
-            "light",
-            "pillar"
-        ],
-        "bulb-group-bollard-off": [
-            "calla",
-            "exterior",
-            "light",
-            "pillar"
-        ],
-        "bulb-group-bollard-wall-appear": [
-            "exterior",
-            "light"
-        ],
-        "bulb-group-bollard-wall-appear-go": [
-            "light"
-        ],
-        "bulb-group-br30": [
-            "light",
-            "spot"
-        ],
-        "bulb-group-br30-hung": [
-            "light",
-            "spot"
-        ],
-        "bulb-group-br30-hung-off": [
-            "light",
-            "spot"
-        ],
-        "bulb-group-br30-off": [
-            "light",
-            "spot"
-        ],
-        "bulb-group-candle": [
-            "light",
-            "retro"
-        ],
-        "bulb-group-candle-filament-hung": [
-            "light",
-            "retro"
-        ],
-        "bulb-group-candle-lightstrip": [
-            "light"
-        ],
-        "bulb-group-ceiling-flush-circular": [
-            "light"
-        ],
-        "bulb-group-ceiling-round": [
-            "aurelle",
-            "devere",
-            "enrave",
-            "light"
-        ],
-        "bulb-group-ceiling-square": [
-            "aurelle",
-            "light",
-            "surimu"
-        ],
-        "bulb-group-centura": [
-            "ceiling",
-            "light",
-            "spot"
-        ],
-        "bulb-group-centura-round": [
-            "ceiling",
-            "light",
-            "milliskin",
-            "spot"
-        ],
-        "bulb-group-classic": [
-            "light"
-        ],
-        "bulb-group-classic-3": [
-            "light"
-        ],
-        "bulb-group-classic-3-alt": [
-            "light"
-        ],
-        "bulb-group-classic-4": [
-            "light"
-        ],
-        "bulb-group-classic-4-alt": [
-            "light"
-        ],
-        "bulb-group-classic-hung": [
-            "light"
-        ],
-        "bulb-group-classic-hung-3": [
-            "light"
-        ],
-        "bulb-group-classic-hung-3-alt": [
-            "light"
-        ],
-        "bulb-group-classic-hung-4": [
-            "light"
-        ],
-        "bulb-group-classic-hung-4-alt": [
-            "light"
-        ],
-        "bulb-group-filament": [
-            "light",
-            "retro"
-        ],
-        "bulb-group-filament-alt": [
-            "light",
-            "retro"
-        ],
-        "bulb-group-filament-alt-filament-hung": [
-            "light",
-            "retro"
-        ],
-        "bulb-group-filament-alt-filament-hung-off": [
-            "light",
-            "retro"
-        ],
-        "bulb-group-filament-alt-hung": [
-            "light",
-            "retro"
-        ],
-        "bulb-group-filament-alt-hung-off": [
-            "light",
-            "retro"
-        ],
-        "bulb-group-filament-alt-off": [
-            "light",
-            "retro"
-        ],
-        "bulb-group-filament-candle": [
-            "light",
-            "retro"
-        ],
-        "bulb-group-filament-candles": [
-            "light",
-            "retro"
-        ],
-        "bulb-group-filament-candles-hung": [
-            "light",
-            "retro"
-        ],
-        "bulb-group-filament-filament-alt": [
-            "light",
-            "retro"
-        ],
-        "bulb-group-filament-filament-alt-hung": [
-            "light",
-            "retro"
-        ],
-        "bulb-group-filament-go": [
-            "light"
-        ],
-        "bulb-group-filament-hung": [
-            "light",
-            "retro"
-        ],
-        "bulb-group-filament-spot": [
-            "light"
-        ],
-        "bulb-group-filament-sultan": [
-            "light"
-        ],
-        "bulb-group-go-filament": [
-            "light"
-        ],
-        "bulb-group-go-sultan": [
-            "light"
-        ],
-        "bulb-group-go-sultan-off": [
-            "light"
-        ],
-        "bulb-group-golfball-e14": [
-            "light"
-        ],
-        "bulb-group-lightstrip": [
-            "led",
-            "light"
-        ],
-        "bulb-group-lightstrip-v": [
-            "led",
-            "light"
-        ],
-        "bulb-group-par-38": [
-            "exterior",
+        "18-up-rating-outlined": [
+            "18",
+            "up",
+            "rating",
+            "outlined"
+        ],
+        "6-ft-apart-outlined": [
+            "6",
+            "ft",
+            "apart",
+            "outlined"
+        ],
+        "abc-outlined": [
+            "abc",
+            "outlined"
+        ],
+        "accessibility-new-outlined": [
+            "accessibility",
+            "new",
+            "outlined"
+        ],
+        "accessibility-outlined": [
+            "accessibility",
+            "outlined"
+        ],
+        "accessible-forward-outlined": [
+            "accessible",
+            "forward",
+            "outlined"
+        ],
+        "accessible-outlined": [
+            "accessible",
+            "outlined"
+        ],
+        "account-box-outlined": [
+            "account",
+            "box",
+            "outlined"
+        ],
+        "account-circle-off-outlined": [
+            "account",
+            "circle",
+            "off",
+            "outlined"
+        ],
+        "account-circle-outlined": [
+            "account",
+            "circle",
+            "outlined"
+        ],
+        "acute-outlined": [
+            "acute",
+            "outlined"
+        ],
+        "ad-group-off-outlined": [
+            "ad",
+            "group",
+            "off",
+            "outlined"
+        ],
+        "ad-group-outlined": [
+            "ad",
+            "group",
+            "outlined"
+        ],
+        "ad-off-outlined": [
+            "ad",
+            "off",
+            "outlined"
+        ],
+        "ad-outlined": [
+            "ad",
+            "outlined"
+        ],
+        "ad-units-outlined": [
+            "ad",
+            "units",
+            "outlined"
+        ],
+        "add-a-photo-outlined": [
+            "add",
+            "a",
+            "photo",
+            "outlined"
+        ],
+        "add-ad-outlined": [
+            "add",
+            "ad",
+            "outlined"
+        ],
+        "add-alert-outlined": [
+            "add",
+            "alert",
+            "outlined"
+        ],
+        "add-box-outlined": [
+            "add",
+            "box",
+            "outlined"
+        ],
+        "add-call-outlined": [
+            "add",
+            "call",
+            "outlined"
+        ],
+        "add-circle-outlined": [
+            "add",
+            "circle",
+            "outlined"
+        ],
+        "add-comment-outlined": [
+            "add",
+            "comment",
+            "outlined"
+        ],
+        "add-outlined": [
+            "add",
+            "outlined"
+        ],
+        "add-photo-alternate-outlined": [
+            "add",
+            "photo",
+            "alternate",
+            "outlined"
+        ],
+        "add-reaction-outlined": [
+            "add",
+            "reaction",
+            "outlined"
+        ],
+        "add-task-outlined": [
+            "add",
+            "task",
+            "outlined"
+        ],
+        "adjust-outlined": [
+            "adjust",
+            "outlined"
+        ],
+        "admin-meds-outlined": [
+            "admin",
+            "meds",
+            "outlined"
+        ],
+        "ads-click-outlined": [
+            "ads",
+            "click",
+            "outlined"
+        ],
+        "agender-outlined": [
+            "agender",
+            "outlined"
+        ],
+        "alarm-add-outlined": [
+            "alarm",
+            "add",
+            "outlined"
+        ],
+        "alarm-off-outlined": [
+            "alarm",
+            "off",
+            "outlined"
+        ],
+        "alarm-on-outlined": [
+            "alarm",
+            "on",
+            "outlined"
+        ],
+        "alarm-outlined": [
+            "alarm",
+            "outlined"
+        ],
+        "alarm-smart-wake-outlined": [
+            "alarm",
+            "smart",
+            "wake",
+            "outlined"
+        ],
+        "all-inbox-outlined": [
+            "all",
+            "inbox",
+            "outlined"
+        ],
+        "all-inclusive-outlined": [
+            "all",
+            "inclusive",
+            "outlined"
+        ],
+        "all-match-outlined": [
+            "all",
+            "match",
+            "outlined"
+        ],
+        "all-out-outlined": [
+            "all",
+            "out",
+            "outlined"
+        ],
+        "allergies-outlined": [
+            "allergies",
+            "outlined"
+        ],
+        "allergy-outlined": [
+            "allergy",
+            "outlined"
+        ],
+        "alternate-email-outlined": [
+            "alternate",
+            "email",
+            "outlined"
+        ],
+        "altitude-outlined": [
+            "altitude",
+            "outlined"
+        ],
+        "amend-outlined": [
+            "amend",
+            "outlined"
+        ],
+        "anchor-outlined": [
+            "anchor",
+            "outlined"
+        ],
+        "apartment-outlined": [
+            "apartment",
+            "outlined"
+        ],
+        "api-outlined": [
+            "api",
+            "outlined"
+        ],
+        "app-badging-outlined": [
+            "app",
+            "badging",
+            "outlined"
+        ],
+        "app-registration-outlined": [
+            "app",
+            "registration",
+            "outlined"
+        ],
+        "app-shortcut-outlined": [
+            "app",
+            "shortcut",
+            "outlined"
+        ],
+        "approval-delegation-outlined": [
+            "approval",
+            "delegation",
+            "outlined"
+        ],
+        "approval-outlined": [
+            "approval",
+            "outlined"
+        ],
+        "apps-outage-outlined": [
+            "apps",
+            "outage",
+            "outlined"
+        ],
+        "apps-outlined": [
+            "apps",
+            "outlined"
+        ],
+        "arrow-and-edge-outlined": [
+            "arrow",
+            "and",
+            "edge",
+            "outlined"
+        ],
+        "arrow-back-ios-new-outlined": [
+            "arrow",
+            "back",
+            "ios",
+            "new",
+            "outlined"
+        ],
+        "arrow-back-ios-outlined": [
+            "arrow",
+            "back",
+            "ios",
+            "outlined"
+        ],
+        "arrow-back-outlined": [
+            "arrow",
+            "back",
+            "outlined"
+        ],
+        "arrow-circle-down-outlined": [
+            "arrow",
+            "circle",
+            "down",
+            "outlined"
+        ],
+        "arrow-circle-left-outlined": [
+            "arrow",
+            "circle",
+            "left",
+            "outlined"
+        ],
+        "arrow-circle-right-outlined": [
+            "arrow",
+            "circle",
+            "right",
+            "outlined"
+        ],
+        "arrow-circle-up-outlined": [
+            "arrow",
+            "circle",
+            "up",
+            "outlined"
+        ],
+        "arrow-downward-alt-outlined": [
+            "arrow",
+            "downward",
+            "alt",
+            "outlined"
+        ],
+        "arrow-downward-outlined": [
+            "arrow",
+            "downward",
+            "outlined"
+        ],
+        "arrow-drop-down-circle-outlined": [
+            "arrow",
+            "drop",
+            "down",
+            "circle",
+            "outlined"
+        ],
+        "arrow-drop-down-outlined": [
+            "arrow",
+            "drop",
+            "down",
+            "outlined"
+        ],
+        "arrow-drop-up-outlined": [
+            "arrow",
+            "drop",
+            "up",
+            "outlined"
+        ],
+        "arrow-forward-ios-outlined": [
+            "arrow",
+            "forward",
+            "ios",
+            "outlined"
+        ],
+        "arrow-forward-outlined": [
+            "arrow",
+            "forward",
+            "outlined"
+        ],
+        "arrow-insert-outlined": [
+            "arrow",
+            "insert",
+            "outlined"
+        ],
+        "arrow-left-alt-outlined": [
+            "arrow",
+            "left",
+            "alt",
+            "outlined"
+        ],
+        "arrow-left-outlined": [
+            "arrow",
+            "left",
+            "outlined"
+        ],
+        "arrow-or-edge-outlined": [
+            "arrow",
+            "or",
+            "edge",
+            "outlined"
+        ],
+        "arrow-outward-outlined": [
+            "arrow",
+            "outward",
+            "outlined"
+        ],
+        "arrow-range-outlined": [
+            "arrow",
+            "range",
+            "outlined"
+        ],
+        "arrow-right-alt-outlined": [
+            "arrow",
+            "right",
+            "alt",
+            "outlined"
+        ],
+        "arrow-right-outlined": [
+            "arrow",
+            "right",
+            "outlined"
+        ],
+        "arrow-selector-tool-outlined": [
+            "arrow",
+            "selector",
+            "tool",
+            "outlined"
+        ],
+        "arrow-split-outlined": [
+            "arrow",
+            "split",
+            "outlined"
+        ],
+        "arrow-top-left-outlined": [
+            "arrow",
+            "top",
+            "left",
+            "outlined"
+        ],
+        "arrow-top-right-outlined": [
+            "arrow",
+            "top",
+            "right",
+            "outlined"
+        ],
+        "arrow-upward-alt-outlined": [
+            "arrow",
+            "upward",
+            "alt",
+            "outlined"
+        ],
+        "arrow-upward-outlined": [
+            "arrow",
+            "upward",
+            "outlined"
+        ],
+        "arrows-outward-outlined": [
+            "arrows",
+            "outward",
+            "outlined"
+        ],
+        "aspect-ratio-outlined": [
+            "aspect",
+            "ratio",
+            "outlined"
+        ],
+        "assistant-direction-outlined": [
+            "assistant",
+            "direction",
+            "outlined"
+        ],
+        "assistant-navigation-outlined": [
+            "assistant",
+            "navigation",
+            "outlined"
+        ],
+        "attach-email-outlined": [
+            "attach",
+            "email",
+            "outlined"
+        ],
+        "attribution-outlined": [
+            "attribution",
+            "outlined"
+        ],
+        "auto-delete-outlined": [
+            "auto",
+            "delete",
+            "outlined"
+        ],
+        "auto-read-pause-outlined": [
+            "auto",
+            "read",
+            "pause",
+            "outlined"
+        ],
+        "auto-read-play-outlined": [
+            "auto",
+            "read",
+            "play",
+            "outlined"
+        ],
+        "auto-stories-outlined": [
+            "auto",
+            "stories",
+            "outlined"
+        ],
+        "autorenew-outlined": [
+            "autorenew",
+            "outlined"
+        ],
+        "award-star-outlined": [
+            "award",
+            "star",
+            "outlined"
+        ],
+        "back-to-tab-outlined": [
+            "back",
+            "to",
+            "tab",
+            "outlined"
+        ],
+        "background-replace-outlined": [
+            "background",
+            "replace",
+            "outlined"
+        ],
+        "backspace-outlined": [
+            "backspace",
+            "outlined"
+        ],
+        "backup-outlined": [
+            "backup",
+            "outlined"
+        ],
+        "backup-table-outlined": [
+            "backup",
+            "table",
+            "outlined"
+        ],
+        "badge-outlined": [
+            "badge",
+            "outlined"
+        ],
+        "barefoot-outlined": [
+            "barefoot",
+            "outlined"
+        ],
+        "batch-prediction-outlined": [
+            "batch",
+            "prediction",
+            "outlined"
+        ],
+        "bedtime-off-outlined": [
+            "bedtime",
+            "off",
+            "outlined"
+        ],
+        "bedtime-outlined": [
+            "bedtime",
+            "outlined"
+        ],
+        "blind-outlined": [
+            "blind",
+            "outlined"
+        ],
+        "block-outlined": [
+            "block",
+            "outlined"
+        ],
+        "blood-pressure-outlined": [
+            "blood",
+            "pressure",
+            "outlined"
+        ],
+        "bloodtype-outlined": [
+            "bloodtype",
+            "outlined"
+        ],
+        "blur-on-outlined": [
+            "blur",
+            "on",
+            "outlined"
+        ],
+        "body-fat-outlined": [
+            "body",
+            "fat",
+            "outlined"
+        ],
+        "body-system-outlined": [
+            "body",
+            "system",
+            "outlined"
+        ],
+        "bolt-outlined": [
+            "bolt",
+            "outlined"
+        ],
+        "bookmark-add-outlined": [
+            "bookmark",
+            "add",
+            "outlined"
+        ],
+        "bookmark-added-outlined": [
+            "bookmark",
+            "added",
+            "outlined"
+        ],
+        "bookmark-manager-outlined": [
+            "bookmark",
+            "manager",
+            "outlined"
+        ],
+        "bookmark-outlined": [
+            "bookmark",
+            "outlined"
+        ],
+        "bookmark-remove-outlined": [
+            "bookmark",
+            "remove",
+            "outlined"
+        ],
+        "bookmarks-outlined": [
+            "bookmarks",
+            "outlined"
+        ],
+        "bottom-app-bar-outlined": [
+            "bottom",
+            "app",
+            "bar",
+            "outlined"
+        ],
+        "bottom-drawer-outlined": [
+            "bottom",
+            "drawer",
+            "outlined"
+        ],
+        "bottom-navigation-outlined": [
+            "bottom",
+            "navigation",
+            "outlined"
+        ],
+        "bottom-panel-close-outlined": [
+            "bottom",
+            "panel",
+            "close",
+            "outlined"
+        ],
+        "bottom-panel-open-outlined": [
+            "bottom",
+            "panel",
+            "open",
+            "outlined"
+        ],
+        "bottom-right-click-outlined": [
+            "bottom",
+            "right",
+            "click",
+            "outlined"
+        ],
+        "bottom-sheets-outlined": [
+            "bottom",
+            "sheets",
+            "outlined"
+        ],
+        "boy-outlined": [
+            "boy",
+            "outlined"
+        ],
+        "breastfeeding-outlined": [
+            "breastfeeding",
+            "outlined"
+        ],
+        "brightness-6-outlined": [
+            "brightness",
+            "6",
+            "outlined"
+        ],
+        "bring-your-own-ip-outlined": [
+            "bring",
+            "your",
+            "own",
+            "ip",
+            "outlined"
+        ],
+        "browse-activity-outlined": [
+            "browse",
+            "activity",
+            "outlined"
+        ],
+        "browse-gallery-outlined": [
+            "browse",
+            "gallery",
+            "outlined"
+        ],
+        "browse-outlined": [
+            "browse",
+            "outlined"
+        ],
+        "brush-outlined": [
+            "brush",
+            "outlined"
+        ],
+        "bubble-outlined": [
+            "bubble",
+            "outlined"
+        ],
+        "bubbles-outlined": [
+            "bubbles",
+            "outlined"
+        ],
+        "bug-report-outlined": [
+            "bug",
+            "report",
+            "outlined"
+        ],
+        "build-circle-outlined": [
+            "build",
+            "circle",
+            "outlined"
+        ],
+        "build-outlined": [
+            "build",
+            "outlined"
+        ],
+        "business-messages-outlined": [
+            "business",
+            "messages",
+            "outlined"
+        ],
+        "buttons-alt-outlined": [
+            "buttons",
+            "alt",
+            "outlined"
+        ],
+        "cached-outlined": [
+            "cached",
+            "outlined"
+        ],
+        "calendar-add-on-outlined": [
+            "calendar",
+            "add",
+            "on",
+            "outlined"
+        ],
+        "calendar-apps-script-outlined": [
+            "calendar",
+            "apps",
+            "script",
+            "outlined"
+        ],
+        "calendar-month-outlined": [
+            "calendar",
+            "month",
+            "outlined"
+        ],
+        "calendar-today-outlined": [
+            "calendar",
+            "today",
+            "outlined"
+        ],
+        "call-end-outlined": [
+            "call",
+            "end",
+            "outlined"
+        ],
+        "call-log-outlined": [
+            "call",
+            "log",
+            "outlined"
+        ],
+        "call-made-outlined": [
+            "call",
+            "made",
+            "outlined"
+        ],
+        "call-merge-outlined": [
+            "call",
+            "merge",
+            "outlined"
+        ],
+        "call-missed-outgoing-outlined": [
+            "call",
+            "missed",
+            "outgoing",
+            "outlined"
+        ],
+        "call-missed-outlined": [
+            "call",
+            "missed",
+            "outlined"
+        ],
+        "call-outlined": [
+            "call",
+            "outlined"
+        ],
+        "call-quality-outlined": [
+            "call",
+            "quality",
+            "outlined"
+        ],
+        "call-received-outlined": [
+            "call",
+            "received",
+            "outlined"
+        ],
+        "call-split-outlined": [
+            "call",
+            "split",
+            "outlined"
+        ],
+        "camera-outlined": [
+            "camera",
+            "outlined"
+        ],
+        "cancel-outlined": [
+            "cancel",
+            "outlined"
+        ],
+        "cancel-presentation-outlined": [
+            "cancel",
+            "presentation",
+            "outlined"
+        ],
+        "cancel-schedule-send-outlined": [
+            "cancel",
+            "schedule",
+            "send",
+            "outlined"
+        ],
+        "candle-outlined": [
+            "candle",
+            "outlined"
+        ],
+        "captive-portal-outlined": [
+            "captive",
+            "portal",
+            "outlined"
+        ],
+        "capture-outlined": [
+            "capture",
+            "outlined"
+        ],
+        "cardiology-outlined": [
+            "cardiology",
+            "outlined"
+        ],
+        "cards-outlined": [
+            "cards",
+            "outlined"
+        ],
+        "category-outlined": [
+            "category",
+            "outlined"
+        ],
+        "celebration-outlined": [
+            "celebration",
+            "outlined"
+        ],
+        "cell-tower-outlined": [
+            "cell",
+            "tower",
+            "outlined"
+        ],
+        "cell-wifi-outlined": [
+            "cell",
+            "wifi",
+            "outlined"
+        ],
+        "center-focus-strong-outlined": [
+            "center",
+            "focus",
+            "strong",
+            "outlined"
+        ],
+        "change-circle-outlined": [
+            "change",
+            "circle",
+            "outlined"
+        ],
+        "change-history-outlined": [
+            "change",
+            "history",
+            "outlined"
+        ],
+        "chat-add-on-outlined": [
+            "chat",
+            "add",
+            "on",
+            "outlined"
+        ],
+        "chat-apps-script-outlined": [
+            "chat",
+            "apps",
+            "script",
+            "outlined"
+        ],
+        "chat-bubble-outlined": [
+            "chat",
+            "bubble",
+            "outlined"
+        ],
+        "chat-error-outlined": [
+            "chat",
+            "error",
+            "outlined"
+        ],
+        "chat-outlined": [
+            "chat",
+            "outlined"
+        ],
+        "chat-paste-go-outlined": [
+            "chat",
+            "paste",
+            "go",
+            "outlined"
+        ],
+        "check-box-outline-blank-outlined": [
+            "check",
+            "box",
+            "outline",
+            "blank",
+            "outlined"
+        ],
+        "check-box-outlined": [
+            "check",
+            "box",
+            "outlined"
+        ],
+        "check-circle-outlined": [
+            "check",
+            "circle",
+            "outlined"
+        ],
+        "check-indeterminate-small-outlined": [
+            "check",
+            "indeterminate",
+            "small",
+            "outlined"
+        ],
+        "check-outlined": [
+            "check",
+            "outlined"
+        ],
+        "check-small-outlined": [
+            "check",
+            "small",
+            "outlined"
+        ],
+        "cheer-outlined": [
+            "cheer",
+            "outlined"
+        ],
+        "chess-outlined": [
+            "chess",
+            "outlined"
+        ],
+        "chevron-left-outlined": [
+            "chevron",
+            "left",
+            "outlined"
+        ],
+        "chevron-right-outlined": [
+            "chevron",
+            "right",
+            "outlined"
+        ],
+        "chip-extraction-outlined": [
+            "chip",
+            "extraction",
+            "outlined"
+        ],
+        "chips-outlined": [
+            "chips",
+            "outlined"
+        ],
+        "chrome-reader-mode-outlined": [
+            "chrome",
+            "reader",
+            "mode",
+            "outlined"
+        ],
+        "chronic-outlined": [
+            "chronic",
+            "outlined"
+        ],
+        "circle-notifications-outlined": [
+            "circle",
+            "notifications",
+            "outlined"
+        ],
+        "circle-outlined": [
+            "circle",
+            "outlined"
+        ],
+        "circles-ext-outlined": [
+            "circles",
+            "ext",
+            "outlined"
+        ],
+        "circles-outlined": [
+            "circles",
+            "outlined"
+        ],
+        "clean-hands-outlined": [
+            "clean",
+            "hands",
+            "outlined"
+        ],
+        "clear-all-outlined": [
+            "clear",
+            "all",
+            "outlined"
+        ],
+        "clear-day-outlined": [
+            "clear",
+            "day",
+            "outlined"
+        ],
+        "clear-night-outlined": [
+            "clear",
+            "night",
+            "outlined"
+        ],
+        "clinical-notes-outlined": [
+            "clinical",
+            "notes",
+            "outlined"
+        ],
+        "clock-loader-10-outlined": [
+            "clock",
+            "loader",
+            "10",
+            "outlined"
+        ],
+        "clock-loader-20-outlined": [
+            "clock",
+            "loader",
+            "20",
+            "outlined"
+        ],
+        "clock-loader-40-outlined": [
+            "clock",
+            "loader",
+            "40",
+            "outlined"
+        ],
+        "clock-loader-60-outlined": [
+            "clock",
+            "loader",
+            "60",
+            "outlined"
+        ],
+        "clock-loader-80-outlined": [
+            "clock",
+            "loader",
+            "80",
+            "outlined"
+        ],
+        "clock-loader-90-outlined": [
+            "clock",
+            "loader",
+            "90",
+            "outlined"
+        ],
+        "close-fullscreen-outlined": [
+            "close",
+            "fullscreen",
+            "outlined"
+        ],
+        "close-outlined": [
+            "close",
+            "outlined"
+        ],
+        "cloudy-snowing-outlined": [
+            "cloudy",
+            "snowing",
+            "outlined"
+        ],
+        "co-present-outlined": [
+            "co",
+            "present",
+            "outlined"
+        ],
+        "co2-outlined": [
+            "co2",
+            "outlined"
+        ],
+        "code-blocks-outlined": [
+            "code",
+            "blocks",
+            "outlined"
+        ],
+        "code-off-outlined": [
+            "code",
+            "off",
+            "outlined"
+        ],
+        "code-outlined": [
+            "code",
+            "outlined"
+        ],
+        "cognition-outlined": [
+            "cognition",
+            "outlined"
+        ],
+        "collapse-all-outlined": [
+            "collapse",
+            "all",
+            "outlined"
+        ],
+        "collections-bookmark-outlined": [
+            "collections",
+            "bookmark",
+            "outlined"
+        ],
+        "comic-bubble-outlined": [
+            "comic",
+            "bubble",
+            "outlined"
+        ],
+        "comment-bank-outlined": [
+            "comment",
+            "bank",
+            "outlined"
+        ],
+        "comment-outlined": [
+            "comment",
+            "outlined"
+        ],
+        "comments-disabled-outlined": [
+            "comments",
+            "disabled",
+            "outlined"
+        ],
+        "commit-outlined": [
+            "commit",
+            "outlined"
+        ],
+        "communication-outlined": [
+            "communication",
+            "outlined"
+        ],
+        "communities-outlined": [
+            "communities",
+            "outlined"
+        ],
+        "compare-arrows-outlined": [
+            "compare",
+            "arrows",
+            "outlined"
+        ],
+        "component-exchange-outlined": [
+            "component",
+            "exchange",
+            "outlined"
+        ],
+        "compost-outlined": [
+            "compost",
+            "outlined"
+        ],
+        "compress-outlined": [
+            "compress",
+            "outlined"
+        ],
+        "conditions-outlined": [
+            "conditions",
+            "outlined"
+        ],
+        "congenital-outlined": [
+            "congenital",
+            "outlined"
+        ],
+        "connect-without-contact-outlined": [
+            "connect",
+            "without",
+            "contact",
+            "outlined"
+        ],
+        "contact-emergency-outlined": [
+            "contact",
+            "emergency",
+            "outlined"
+        ],
+        "contact-mail-outlined": [
+            "contact",
+            "mail",
+            "outlined"
+        ],
+        "contact-phone-outlined": [
+            "contact",
+            "phone",
+            "outlined"
+        ],
+        "contact-support-outlined": [
+            "contact",
+            "support",
+            "outlined"
+        ],
+        "contacts-outlined": [
+            "contacts",
+            "outlined"
+        ],
+        "contrast-outlined": [
+            "contrast",
+            "outlined"
+        ],
+        "cookie-off-outlined": [
+            "cookie",
+            "off",
+            "outlined"
+        ],
+        "cookie-outlined": [
+            "cookie",
+            "outlined"
+        ],
+        "coronavirus-outlined": [
+            "coronavirus",
+            "outlined"
+        ],
+        "create-new-folder-outlined": [
+            "create",
+            "new",
+            "folder",
+            "outlined"
+        ],
+        "crop-free-outlined": [
+            "crop",
+            "free",
+            "outlined"
+        ],
+        "crop-outlined": [
+            "crop",
+            "outlined"
+        ],
+        "crop-square-outlined": [
+            "crop",
+            "square",
+            "outlined"
+        ],
+        "crossword-outlined": [
+            "crossword",
+            "outlined"
+        ],
+        "crowdsource-outlined": [
+            "crowdsource",
+            "outlined"
+        ],
+        "cruelty-free-outlined": [
+            "cruelty",
+            "free",
+            "outlined"
+        ],
+        "css-outlined": [
+            "css",
+            "outlined"
+        ],
+        "cycle-outlined": [
+            "cycle",
+            "outlined"
+        ],
+        "cyclone-outlined": [
+            "cyclone",
+            "outlined"
+        ],
+        "dangerous-outlined": [
+            "dangerous",
+            "outlined"
+        ],
+        "dark-mode-outlined": [
+            "dark",
+            "mode",
+            "outlined"
+        ],
+        "data-alert-outlined": [
+            "data",
+            "alert",
+            "outlined"
+        ],
+        "data-check-outlined": [
+            "data",
+            "check",
+            "outlined"
+        ],
+        "data-info-alert-outlined": [
+            "data",
+            "info",
+            "alert",
+            "outlined"
+        ],
+        "data-loss-prevention-outlined": [
+            "data",
+            "loss",
+            "prevention",
+            "outlined"
+        ],
+        "data-thresholding-outlined": [
+            "data",
+            "thresholding",
+            "outlined"
+        ],
+        "dataset-linked-outlined": [
+            "dataset",
+            "linked",
+            "outlined"
+        ],
+        "dataset-outlined": [
+            "dataset",
+            "outlined"
+        ],
+        "date-range-outlined": [
+            "date",
+            "range",
+            "outlined"
+        ],
+        "deceased-outlined": [
+            "deceased",
+            "outlined"
+        ],
+        "delete-forever-outlined": [
+            "delete",
+            "forever",
+            "outlined"
+        ],
+        "delete-outlined": [
+            "delete",
+            "outlined"
+        ],
+        "delete-sweep-outlined": [
+            "delete",
+            "sweep",
+            "outlined"
+        ],
+        "demography-outlined": [
+            "demography",
+            "outlined"
+        ],
+        "density-large-outlined": [
+            "density",
+            "large",
+            "outlined"
+        ],
+        "density-medium-outlined": [
+            "density",
+            "medium",
+            "outlined"
+        ],
+        "density-small-outlined": [
+            "density",
+            "small",
+            "outlined"
+        ],
+        "dentistry-outlined": [
+            "dentistry",
+            "outlined"
+        ],
+        "deployed-code-alert-outlined": [
+            "deployed",
+            "code",
+            "alert",
+            "outlined"
+        ],
+        "deployed-code-history-outlined": [
+            "deployed",
+            "code",
+            "history",
+            "outlined"
+        ],
+        "deployed-code-outlined": [
+            "deployed",
+            "code",
+            "outlined"
+        ],
+        "deployed-code-update-outlined": [
+            "deployed",
+            "code",
+            "update",
+            "outlined"
+        ],
+        "dermatology-outlined": [
+            "dermatology",
+            "outlined"
+        ],
+        "description-outlined": [
+            "description",
+            "outlined"
+        ],
+        "destruction-outlined": [
+            "destruction",
+            "outlined"
+        ],
+        "developer-guide-outlined": [
+            "developer",
+            "guide",
+            "outlined"
+        ],
+        "dew-point-outlined": [
+            "dew",
+            "point",
+            "outlined"
+        ],
+        "dialer-sip-outlined": [
+            "dialer",
+            "sip",
+            "outlined"
+        ],
+        "dialogs-outlined": [
+            "dialogs",
+            "outlined"
+        ],
+        "dialpad-outlined": [
+            "dialpad",
+            "outlined"
+        ],
+        "diamond-outlined": [
+            "diamond",
+            "outlined"
+        ],
+        "directory-sync-outlined": [
+            "directory",
+            "sync",
+            "outlined"
+        ],
+        "disabled-by-default-outlined": [
+            "disabled",
+            "by",
+            "default",
+            "outlined"
+        ],
+        "diversity-1-outlined": [
+            "diversity",
+            "1",
+            "outlined"
+        ],
+        "diversity-2-outlined": [
+            "diversity",
+            "2",
+            "outlined"
+        ],
+        "diversity-3-outlined": [
+            "diversity",
+            "3",
+            "outlined"
+        ],
+        "diversity-4-outlined": [
+            "diversity",
+            "4",
+            "outlined"
+        ],
+        "do-not-disturb-off-outlined": [
+            "do",
+            "not",
+            "disturb",
+            "off",
+            "outlined"
+        ],
+        "do-not-disturb-on-outlined": [
+            "do",
+            "not",
+            "disturb",
+            "on",
+            "outlined"
+        ],
+        "domain-verification-off-outlined": [
+            "domain",
+            "verification",
+            "off",
+            "outlined"
+        ],
+        "domain-verification-outlined": [
+            "domain",
+            "verification",
+            "outlined"
+        ],
+        "domino-mask-outlined": [
+            "domino",
+            "mask",
+            "outlined"
+        ],
+        "done-all-outlined": [
+            "done",
+            "all",
+            "outlined"
+        ],
+        "done-outline-outlined": [
+            "done",
+            "outline",
+            "outlined"
+        ],
+        "done-outlined": [
+            "done",
+            "outlined"
+        ],
+        "double-arrow-outlined": [
+            "double",
+            "arrow",
+            "outlined"
+        ],
+        "download-done-outlined": [
+            "download",
+            "done",
+            "outlined"
+        ],
+        "download-for-offline-outlined": [
+            "download",
+            "for",
+            "offline",
+            "outlined"
+        ],
+        "download-outlined": [
+            "download",
+            "outlined"
+        ],
+        "downloading-outlined": [
+            "downloading",
+            "outlined"
+        ],
+        "draft-orders-outlined": [
+            "draft",
+            "orders",
+            "outlined"
+        ],
+        "drafts-outlined": [
+            "drafts",
+            "outlined"
+        ],
+        "drag-click-outlined": [
+            "drag",
+            "click",
+            "outlined"
+        ],
+        "drag-indicator-outlined": [
+            "drag",
+            "indicator",
+            "outlined"
+        ],
+        "drag-pan-outlined": [
+            "drag",
+            "pan",
+            "outlined"
+        ],
+        "dropdown-outlined": [
+            "dropdown",
+            "outlined"
+        ],
+        "duo-outlined": [
+            "duo",
+            "outlined"
+        ],
+        "dynamic-feed-outlined": [
+            "dynamic",
+            "feed",
+            "outlined"
+        ],
+        "dynamic-form-outlined": [
+            "dynamic",
+            "form",
+            "outlined"
+        ],
+        "e911-avatar-outlined": [
+            "e911",
+            "avatar",
+            "outlined"
+        ],
+        "earthquake-outlined": [
+            "earthquake",
+            "outlined"
+        ],
+        "eco-outlined": [
+            "eco",
+            "outlined"
+        ],
+        "edit-calendar-outlined": [
+            "edit",
+            "calendar",
+            "outlined"
+        ],
+        "edit-notifications-outlined": [
+            "edit",
+            "notifications",
+            "outlined"
+        ],
+        "edit-outlined": [
+            "edit",
+            "outlined"
+        ],
+        "edit-square-outlined": [
+            "edit",
+            "square",
+            "outlined"
+        ],
+        "egg-alt-outlined": [
+            "egg",
+            "alt",
+            "outlined"
+        ],
+        "egg-outlined": [
+            "egg",
+            "outlined"
+        ],
+        "eject-outlined": [
+            "eject",
+            "outlined"
+        ],
+        "elderly-outlined": [
+            "elderly",
+            "outlined"
+        ],
+        "elderly-woman-outlined": [
+            "elderly",
+            "woman",
+            "outlined"
+        ],
+        "emoji-events-outlined": [
+            "emoji",
+            "events",
+            "outlined"
+        ],
+        "emoji-flags-outlined": [
+            "emoji",
+            "flags",
+            "outlined"
+        ],
+        "emoji-food-beverage-outlined": [
+            "emoji",
+            "food",
+            "beverage",
+            "outlined"
+        ],
+        "emoji-nature-outlined": [
+            "emoji",
+            "nature",
+            "outlined"
+        ],
+        "emoji-objects-outlined": [
+            "emoji",
+            "objects",
+            "outlined"
+        ],
+        "emoji-people-outlined": [
+            "emoji",
+            "people",
+            "outlined"
+        ],
+        "emoji-symbols-outlined": [
+            "emoji",
+            "symbols",
+            "outlined"
+        ],
+        "emoji-transportation-outlined": [
+            "emoji",
+            "transportation",
+            "outlined"
+        ],
+        "emoticon-outlined": [
+            "emoticon",
+            "outlined"
+        ],
+        "empty-dashboard-outlined": [
+            "empty",
+            "dashboard",
+            "outlined"
+        ],
+        "enable-outlined": [
+            "enable",
+            "outlined"
+        ],
+        "endocrinology-outlined": [
+            "endocrinology",
+            "outlined"
+        ],
+        "ent-outlined": [
+            "ent",
+            "outlined"
+        ],
+        "error-med-outlined": [
+            "error",
+            "med",
+            "outlined"
+        ],
+        "error-outlined": [
+            "error",
+            "outlined"
+        ],
+        "event-available-outlined": [
+            "event",
+            "available",
+            "outlined"
+        ],
+        "event-busy-outlined": [
+            "event",
+            "busy",
+            "outlined"
+        ],
+        "event-list-outlined": [
+            "event",
+            "list",
+            "outlined"
+        ],
+        "event-note-outlined": [
+            "event",
+            "note",
+            "outlined"
+        ],
+        "event-outlined": [
+            "event",
+            "outlined"
+        ],
+        "event-repeat-outlined": [
+            "event",
+            "repeat",
+            "outlined"
+        ],
+        "event-upcoming-outlined": [
+            "event",
+            "upcoming",
+            "outlined"
+        ],
+        "exit-to-app-outlined": [
+            "exit",
+            "to",
+            "app",
+            "outlined"
+        ],
+        "expand-all-outlined": [
+            "expand",
+            "all",
+            "outlined"
+        ],
+        "expand-circle-down-outlined": [
+            "expand",
+            "circle",
+            "down",
+            "outlined"
+        ],
+        "expand-circle-right-outlined": [
+            "expand",
+            "circle",
+            "right",
+            "outlined"
+        ],
+        "expand-circle-up-outlined": [
+            "expand",
+            "circle",
+            "up",
+            "outlined"
+        ],
+        "expand-content-outlined": [
+            "expand",
+            "content",
+            "outlined"
+        ],
+        "expand-less-outlined": [
+            "expand",
+            "less",
+            "outlined"
+        ],
+        "expand-more-outlined": [
+            "expand",
+            "more",
+            "outlined"
+        ],
+        "expand-outlined": [
+            "expand",
+            "outlined"
+        ],
+        "explosion-outlined": [
+            "explosion",
+            "outlined"
+        ],
+        "extension-off-outlined": [
+            "extension",
+            "off",
+            "outlined"
+        ],
+        "extension-outlined": [
+            "extension",
+            "outlined"
+        ],
+        "eyeglasses-outlined": [
+            "eyeglasses",
+            "outlined"
+        ],
+        "face-2-outlined": [
+            "face",
+            "2",
+            "outlined"
+        ],
+        "face-3-outlined": [
+            "face",
+            "3",
+            "outlined"
+        ],
+        "face-4-outlined": [
+            "face",
+            "4",
+            "outlined"
+        ],
+        "face-5-outlined": [
+            "face",
+            "5",
+            "outlined"
+        ],
+        "face-6-outlined": [
+            "face",
+            "6",
+            "outlined"
+        ],
+        "face-outlined": [
+            "face",
+            "outlined"
+        ],
+        "falling-outlined": [
+            "falling",
+            "outlined"
+        ],
+        "favorite-outlined": [
+            "favorite",
+            "outlined"
+        ],
+        "feature-search-outlined": [
+            "feature",
+            "search",
+            "outlined"
+        ],
+        "feedback-outlined": [
+            "feedback",
+            "outlined"
+        ],
+        "female-outlined": [
+            "female",
+            "outlined"
+        ],
+        "femur-alt-outlined": [
+            "femur",
+            "alt",
+            "outlined"
+        ],
+        "femur-outlined": [
+            "femur",
+            "outlined"
+        ],
+        "file-download-done-outlined": [
+            "file",
+            "download",
+            "done",
+            "outlined"
+        ],
+        "file-download-off-outlined": [
+            "file",
+            "download",
+            "off",
+            "outlined"
+        ],
+        "file-open-outlined": [
+            "file",
+            "open",
+            "outlined"
+        ],
+        "file-upload-off-outlined": [
+            "file",
+            "upload",
+            "off",
+            "outlined"
+        ],
+        "filter-alt-off-outlined": [
+            "filter",
+            "alt",
+            "off",
+            "outlined"
+        ],
+        "filter-alt-outlined": [
+            "filter",
+            "alt",
+            "outlined"
+        ],
+        "filter-list-off-outlined": [
+            "filter",
+            "list",
+            "off",
+            "outlined"
+        ],
+        "filter-list-outlined": [
+            "filter",
+            "list",
+            "outlined"
+        ],
+        "filter-vintage-outlined": [
+            "filter",
+            "vintage",
+            "outlined"
+        ],
+        "find-replace-outlined": [
+            "find",
+            "replace",
+            "outlined"
+        ],
+        "fingerprint-outlined": [
+            "fingerprint",
+            "outlined"
+        ],
+        "first-page-outlined": [
+            "first",
+            "page",
+            "outlined"
+        ],
+        "fit-screen-outlined": [
+            "fit",
+            "screen",
+            "outlined"
+        ],
+        "flash-on-outlined": [
+            "flash",
+            "on",
+            "outlined"
+        ],
+        "flood-outlined": [
             "flood",
-            "light"
+            "outlined"
         ],
-        "bulb-group-pillar-impress": [
-            "bollard",
-            "light"
+        "fluid-balance-outlined": [
+            "fluid",
+            "balance",
+            "outlined"
         ],
-        "bulb-group-pillar-impress-3": [
-            "bollard",
-            "light"
+        "fluid-med-outlined": [
+            "fluid",
+            "med",
+            "outlined"
         ],
-        "bulb-group-pillar-impress-short": [
-            "bollard",
-            "light"
+        "fluid-outlined": [
+            "fluid",
+            "outlined"
         ],
-        "bulb-group-pillar-turaco-short-tall": [
-            "exterior",
-            "light"
+        "flutter-dash-outlined": [
+            "flutter",
+            "dash",
+            "outlined"
         ],
-        "bulb-group-recessed-ceiling": [
+        "flutter-outlined": [
+            "flutter",
+            "outlined"
+        ],
+        "foggy-outlined": [
+            "foggy",
+            "outlined"
+        ],
+        "folded-hands-outlined": [
+            "folded",
+            "hands",
+            "outlined"
+        ],
+        "follow-the-signs-outlined": [
+            "follow",
+            "the",
+            "signs",
+            "outlined"
+        ],
+        "foot-bones-outlined": [
+            "foot",
+            "bones",
+            "outlined"
+        ],
+        "footprint-outlined": [
+            "footprint",
+            "outlined"
+        ],
+        "forest-outlined": [
+            "forest",
+            "outlined"
+        ],
+        "forum-outlined": [
+            "forum",
+            "outlined"
+        ],
+        "forward-outlined": [
+            "forward",
+            "outlined"
+        ],
+        "forward-to-inbox-outlined": [
+            "forward",
+            "to",
+            "inbox",
+            "outlined"
+        ],
+        "free-cancellation-outlined": [
+            "free",
+            "cancellation",
+            "outlined"
+        ],
+        "front-hand-outlined": [
+            "front",
+            "hand",
+            "outlined"
+        ],
+        "fullscreen-exit-outlined": [
+            "fullscreen",
+            "exit",
+            "outlined"
+        ],
+        "fullscreen-outlined": [
+            "fullscreen",
+            "outlined"
+        ],
+        "g-translate-outlined": [
+            "g",
+            "translate",
+            "outlined"
+        ],
+        "garden-cart-outlined": [
+            "garden",
+            "cart",
+            "outlined"
+        ],
+        "gastroenterology-outlined": [
+            "gastroenterology",
+            "outlined"
+        ],
+        "gavel-outlined": [
+            "gavel",
+            "outlined"
+        ],
+        "genetics-outlined": [
+            "genetics",
+            "outlined"
+        ],
+        "gesture-outlined": [
+            "gesture",
+            "outlined"
+        ],
+        "gesture-select-outlined": [
+            "gesture",
+            "select",
+            "outlined"
+        ],
+        "girl-outlined": [
+            "girl",
+            "outlined"
+        ],
+        "globe-asia-outlined": [
+            "globe",
+            "asia",
+            "outlined"
+        ],
+        "globe-uk-outlined": [
+            "globe",
+            "uk",
+            "outlined"
+        ],
+        "glucose-outlined": [
+            "glucose",
+            "outlined"
+        ],
+        "go-to-line-outlined": [
+            "go",
+            "to",
+            "line",
+            "outlined"
+        ],
+        "grade-outlined": [
+            "grade",
+            "outlined"
+        ],
+        "grid-on-outlined": [
+            "grid",
+            "on",
+            "outlined"
+        ],
+        "group-add-outlined": [
+            "group",
+            "add",
+            "outlined"
+        ],
+        "group-off-outlined": [
+            "group",
+            "off",
+            "outlined"
+        ],
+        "group-outlined": [
+            "group",
+            "outlined"
+        ],
+        "group-remove-outlined": [
+            "group",
+            "remove",
+            "outlined"
+        ],
+        "group-work-outlined": [
+            "group",
+            "work",
+            "outlined"
+        ],
+        "groups-2-outlined": [
+            "groups",
+            "2",
+            "outlined"
+        ],
+        "groups-3-outlined": [
+            "groups",
+            "3",
+            "outlined"
+        ],
+        "groups-outlined": [
+            "groups",
+            "outlined"
+        ],
+        "gynecology-outlined": [
+            "gynecology",
+            "outlined"
+        ],
+        "hand-bones-outlined": [
+            "hand",
+            "bones",
+            "outlined"
+        ],
+        "hand-gesture-outlined": [
+            "hand",
+            "gesture",
+            "outlined"
+        ],
+        "handshake-outlined": [
+            "handshake",
+            "outlined"
+        ],
+        "health-and-safety-outlined": [
+            "health",
+            "and",
+            "safety",
+            "outlined"
+        ],
+        "heart-broken-outlined": [
+            "heart",
+            "broken",
+            "outlined"
+        ],
+        "heart-check-outlined": [
+            "heart",
+            "check",
+            "outlined"
+        ],
+        "heart-minus-outlined": [
+            "heart",
+            "minus",
+            "outlined"
+        ],
+        "heart-plus-outlined": [
+            "heart",
+            "plus",
+            "outlined"
+        ],
+        "helicopter-outlined": [
+            "helicopter",
+            "outlined"
+        ],
+        "help-center-outlined": [
+            "help",
+            "center",
+            "outlined"
+        ],
+        "help-clinic-outlined": [
+            "help",
+            "clinic",
+            "outlined"
+        ],
+        "help-outlined": [
+            "help",
+            "outlined"
+        ],
+        "hematology-outlined": [
+            "hematology",
+            "outlined"
+        ],
+        "hide-outlined": [
+            "hide",
+            "outlined"
+        ],
+        "hide-source-outlined": [
+            "hide",
+            "source",
+            "outlined"
+        ],
+        "history-outlined": [
+            "history",
+            "outlined"
+        ],
+        "history-toggle-off-outlined": [
+            "history",
+            "toggle",
+            "off",
+            "outlined"
+        ],
+        "hive-outlined": [
+            "hive",
+            "outlined"
+        ],
+        "hls-off-outlined": [
+            "hls",
+            "off",
+            "outlined"
+        ],
+        "hls-outlined": [
+            "hls",
+            "outlined"
+        ],
+        "home-app-logo-outlined": [
+            "home",
+            "app",
+            "logo",
+            "outlined"
+        ],
+        "home-health-outlined": [
+            "home",
+            "health",
+            "outlined"
+        ],
+        "home-outlined": [
+            "home",
+            "outlined"
+        ],
+        "hotel-class-outlined": [
+            "hotel",
+            "class",
+            "outlined"
+        ],
+        "hourglass-bottom-outlined": [
+            "hourglass",
+            "bottom",
+            "outlined"
+        ],
+        "hourglass-disabled-outlined": [
+            "hourglass",
+            "disabled",
+            "outlined"
+        ],
+        "hourglass-empty-outlined": [
+            "hourglass",
+            "empty",
+            "outlined"
+        ],
+        "hourglass-top-outlined": [
+            "hourglass",
+            "top",
+            "outlined"
+        ],
+        "house-outlined": [
+            "house",
+            "outlined"
+        ],
+        "how-to-reg-outlined": [
+            "how",
+            "to",
+            "reg",
+            "outlined"
+        ],
+        "html-outlined": [
+            "html",
+            "outlined"
+        ],
+        "http-outlined": [
+            "http",
+            "outlined"
+        ],
+        "hub-outlined": [
+            "hub",
+            "outlined"
+        ],
+        "humerus-alt-outlined": [
+            "humerus",
+            "alt",
+            "outlined"
+        ],
+        "humerus-outlined": [
+            "humerus",
+            "outlined"
+        ],
+        "humidity-percentage-outlined": [
+            "humidity",
+            "percentage",
+            "outlined"
+        ],
+        "iframe-off-outlined": [
+            "iframe",
+            "off",
+            "outlined"
+        ],
+        "iframe-outlined": [
+            "iframe",
+            "outlined"
+        ],
+        "image-outlined": [
+            "image",
+            "outlined"
+        ],
+        "image-search-outlined": [
+            "image",
+            "search",
+            "outlined"
+        ],
+        "imagesmode-outlined": [
+            "imagesmode",
+            "outlined"
+        ],
+        "immunology-outlined": [
+            "immunology",
+            "outlined"
+        ],
+        "import-contacts-outlined": [
+            "import",
+            "contacts",
+            "outlined"
+        ],
+        "inbox-customize-outlined": [
+            "inbox",
+            "customize",
+            "outlined"
+        ],
+        "inbox-outlined": [
+            "inbox",
+            "outlined"
+        ],
+        "indeterminate-check-box-outlined": [
+            "indeterminate",
+            "check",
+            "box",
+            "outlined"
+        ],
+        "info-i-outlined": [
+            "info",
+            "i",
+            "outlined"
+        ],
+        "info-outlined": [
+            "info",
+            "outlined"
+        ],
+        "infrared-outlined": [
+            "infrared",
+            "outlined"
+        ],
+        "inpatient-outlined": [
+            "inpatient",
+            "outlined"
+        ],
+        "input-circle-outlined": [
+            "input",
+            "circle",
+            "outlined"
+        ],
+        "input-outlined": [
+            "input",
+            "outlined"
+        ],
+        "install-desktop-outlined": [
+            "install",
+            "desktop",
+            "outlined"
+        ],
+        "install-mobile-outlined": [
+            "install",
+            "mobile",
+            "outlined"
+        ],
+        "interests-outlined": [
+            "interests",
+            "outlined"
+        ],
+        "inventory-2-outlined": [
+            "inventory",
+            "2",
+            "outlined"
+        ],
+        "ios-share-outlined": [
+            "ios",
+            "share",
+            "outlined"
+        ],
+        "javascript-outlined": [
+            "javascript",
+            "outlined"
+        ],
+        "jump-to-element-outlined": [
+            "jump",
+            "to",
+            "element",
+            "outlined"
+        ],
+        "key-off-outlined": [
+            "key",
+            "off",
+            "outlined"
+        ],
+        "key-outlined": [
+            "key",
+            "outlined"
+        ],
+        "keyboard-command-key-outlined": [
+            "keyboard",
+            "command",
+            "key",
+            "outlined"
+        ],
+        "keyboard-control-key-outlined": [
+            "keyboard",
+            "control",
+            "key",
+            "outlined"
+        ],
+        "keyboard-double-arrow-down-outlined": [
+            "keyboard",
+            "double",
+            "arrow",
+            "down",
+            "outlined"
+        ],
+        "keyboard-double-arrow-left-outlined": [
+            "keyboard",
+            "double",
+            "arrow",
+            "left",
+            "outlined"
+        ],
+        "keyboard-double-arrow-right-outlined": [
+            "keyboard",
+            "double",
+            "arrow",
+            "right",
+            "outlined"
+        ],
+        "keyboard-double-arrow-up-outlined": [
+            "keyboard",
+            "double",
+            "arrow",
+            "up",
+            "outlined"
+        ],
+        "keyboard-option-key-outlined": [
+            "keyboard",
+            "option",
+            "key",
+            "outlined"
+        ],
+        "keyboard-voice-outlined": [
+            "keyboard",
+            "voice",
+            "outlined"
+        ],
+        "lab-panel-outlined": [
+            "lab",
+            "panel",
+            "outlined"
+        ],
+        "lab-research-outlined": [
+            "lab",
+            "research",
+            "outlined"
+        ],
+        "label-important-outlined": [
+            "label",
+            "important",
+            "outlined"
+        ],
+        "label-off-outlined": [
+            "label",
+            "off",
+            "outlined"
+        ],
+        "label-outlined": [
+            "label",
+            "outlined"
+        ],
+        "labs-outlined": [
+            "labs",
+            "outlined"
+        ],
+        "lan-outlined": [
+            "lan",
+            "outlined"
+        ],
+        "landscape-outlined": [
+            "landscape",
+            "outlined"
+        ],
+        "landslide-outlined": [
+            "landslide",
+            "outlined"
+        ],
+        "language-outlined": [
+            "language",
+            "outlined"
+        ],
+        "last-page-outlined": [
+            "last",
+            "page",
+            "outlined"
+        ],
+        "left-click-outlined": [
+            "left",
+            "click",
+            "outlined"
+        ],
+        "left-panel-close-outlined": [
+            "left",
+            "panel",
+            "close",
+            "outlined"
+        ],
+        "left-panel-open-outlined": [
+            "left",
+            "panel",
+            "open",
+            "outlined"
+        ],
+        "library-add-outlined": [
+            "library",
+            "add",
+            "outlined"
+        ],
+        "lightbulb-circle-outlined": [
+            "lightbulb",
+            "circle",
+            "outlined"
+        ],
+        "lightbulb-outlined": [
+            "lightbulb",
+            "outlined"
+        ],
+        "link-off-outlined": [
+            "link",
+            "off",
+            "outlined"
+        ],
+        "link-outlined": [
+            "link",
+            "outlined"
+        ],
+        "lists-outlined": [
+            "lists",
+            "outlined"
+        ],
+        "live-help-outlined": [
+            "live",
+            "help",
+            "outlined"
+        ],
+        "local-shipping-outlined": [
+            "local",
+            "shipping",
+            "outlined"
+        ],
+        "lock-clock-outlined": [
+            "lock",
+            "clock",
+            "outlined"
+        ],
+        "lock-open-outlined": [
+            "lock",
+            "open",
+            "outlined"
+        ],
+        "lock-open-right-outlined": [
+            "lock",
+            "open",
+            "right",
+            "outlined"
+        ],
+        "lock-outlined": [
+            "lock",
+            "outlined"
+        ],
+        "lock-person-outlined": [
+            "lock",
+            "person",
+            "outlined"
+        ],
+        "lock-reset-outlined": [
+            "lock",
+            "reset",
+            "outlined"
+        ],
+        "login-outlined": [
+            "login",
+            "outlined"
+        ],
+        "logo-dev-outlined": [
+            "logo",
+            "dev",
+            "outlined"
+        ],
+        "logout-outlined": [
+            "logout",
+            "outlined"
+        ],
+        "looks-one-outlined": [
+            "looks",
+            "one",
+            "outlined"
+        ],
+        "magnification-large-outlined": [
+            "magnification",
+            "large",
+            "outlined"
+        ],
+        "magnification-small-outlined": [
+            "magnification",
+            "small",
+            "outlined"
+        ],
+        "mail-lock-outlined": [
+            "mail",
+            "lock",
+            "outlined"
+        ],
+        "mail-outlined": [
+            "mail",
+            "outlined"
+        ],
+        "male-outlined": [
+            "male",
+            "outlined"
+        ],
+        "man-2-outlined": [
+            "man",
+            "2",
+            "outlined"
+        ],
+        "man-3-outlined": [
+            "man",
+            "3",
+            "outlined"
+        ],
+        "man-4-outlined": [
+            "man",
+            "4",
+            "outlined"
+        ],
+        "man-outlined": [
+            "man",
+            "outlined"
+        ],
+        "manage-accounts-outlined": [
+            "manage",
+            "accounts",
+            "outlined"
+        ],
+        "manage-history-outlined": [
+            "manage",
+            "history",
+            "outlined"
+        ],
+        "manage-search-outlined": [
+            "manage",
+            "search",
+            "outlined"
+        ],
+        "manga-outlined": [
+            "manga",
+            "outlined"
+        ],
+        "mark-as-unread-outlined": [
+            "mark",
+            "as",
+            "unread",
+            "outlined"
+        ],
+        "mark-chat-read-outlined": [
+            "mark",
+            "chat",
+            "read",
+            "outlined"
+        ],
+        "mark-chat-unread-outlined": [
+            "mark",
+            "chat",
+            "unread",
+            "outlined"
+        ],
+        "mark-email-read-outlined": [
+            "mark",
+            "email",
+            "read",
+            "outlined"
+        ],
+        "mark-email-unread-outlined": [
+            "mark",
+            "email",
+            "unread",
+            "outlined"
+        ],
+        "mark-unread-chat-alt-outlined": [
+            "mark",
+            "unread",
+            "chat",
+            "alt",
+            "outlined"
+        ],
+        "markunread-mailbox-outlined": [
+            "markunread",
+            "mailbox",
+            "outlined"
+        ],
+        "masks-outlined": [
+            "masks",
+            "outlined"
+        ],
+        "maximize-outlined": [
+            "maximize",
+            "outlined"
+        ],
+        "measuring-tape-outlined": [
+            "measuring",
+            "tape",
+            "outlined"
+        ],
+        "medical-information-outlined": [
+            "medical",
+            "information",
+            "outlined"
+        ],
+        "medical-mask-outlined": [
+            "medical",
+            "mask",
+            "outlined"
+        ],
+        "medication-liquid-outlined": [
+            "medication",
+            "liquid",
+            "outlined"
+        ],
+        "medication-outlined": [
+            "medication",
+            "outlined"
+        ],
+        "menu-open-outlined": [
+            "menu",
+            "open",
+            "outlined"
+        ],
+        "menu-outlined": [
+            "menu",
+            "outlined"
+        ],
+        "metabolism-outlined": [
+            "metabolism",
+            "outlined"
+        ],
+        "microbiology-outlined": [
+            "microbiology",
+            "outlined"
+        ],
+        "military-tech-outlined": [
+            "military",
+            "tech",
+            "outlined"
+        ],
+        "minimize-outlined": [
+            "minimize",
+            "outlined"
+        ],
+        "mist-outlined": [
+            "mist",
+            "outlined"
+        ],
+        "mixture-med-outlined": [
+            "mixture",
+            "med",
+            "outlined"
+        ],
+        "mms-outlined": [
+            "mms",
+            "outlined"
+        ],
+        "mode-comment-outlined": [
+            "mode",
+            "comment",
+            "outlined"
+        ],
+        "model-training-outlined": [
+            "model",
+            "training",
+            "outlined"
+        ],
+        "monitor-heart-outlined": [
+            "monitor",
+            "heart",
+            "outlined"
+        ],
+        "mood-bad-outlined": [
+            "mood",
+            "bad",
+            "outlined"
+        ],
+        "mood-outlined": [
+            "mood",
+            "outlined"
+        ],
+        "more-down-outlined": [
+            "more",
+            "down",
+            "outlined"
+        ],
+        "more-horiz-outlined": [
+            "more",
+            "horiz",
+            "outlined"
+        ],
+        "more-outlined": [
+            "more",
+            "outlined"
+        ],
+        "more-time-outlined": [
+            "more",
+            "time",
+            "outlined"
+        ],
+        "more-up-outlined": [
+            "more",
+            "up",
+            "outlined"
+        ],
+        "more-vert-outlined": [
+            "more",
+            "vert",
+            "outlined"
+        ],
+        "mountain-flag-outlined": [
+            "mountain",
+            "flag",
+            "outlined"
+        ],
+        "move-down-outlined": [
+            "move",
+            "down",
+            "outlined"
+        ],
+        "move-group-outlined": [
+            "move",
+            "group",
+            "outlined"
+        ],
+        "move-item-outlined": [
+            "move",
+            "item",
+            "outlined"
+        ],
+        "move-selection-down-outlined": [
+            "move",
+            "selection",
+            "down",
+            "outlined"
+        ],
+        "move-selection-left-outlined": [
+            "move",
+            "selection",
+            "left",
+            "outlined"
+        ],
+        "move-selection-right-outlined": [
+            "move",
+            "selection",
+            "right",
+            "outlined"
+        ],
+        "move-selection-up-outlined": [
+            "move",
+            "selection",
+            "up",
+            "outlined"
+        ],
+        "move-to-inbox-outlined": [
+            "move",
+            "to",
+            "inbox",
+            "outlined"
+        ],
+        "move-up-outlined": [
+            "move",
+            "up",
+            "outlined"
+        ],
+        "moving-beds-outlined": [
+            "moving",
+            "beds",
+            "outlined"
+        ],
+        "mystery-outlined": [
+            "mystery",
+            "outlined"
+        ],
+        "nat-outlined": [
+            "nat",
+            "outlined"
+        ],
+        "nature-outlined": [
+            "nature",
+            "outlined"
+        ],
+        "nature-people-outlined": [
+            "nature",
+            "people",
+            "outlined"
+        ],
+        "navigate-before-outlined": [
+            "navigate",
+            "before",
+            "outlined"
+        ],
+        "navigate-next-outlined": [
+            "navigate",
+            "next",
+            "outlined"
+        ],
+        "nephrology-outlined": [
+            "nephrology",
+            "outlined"
+        ],
+        "network-intelligence-history-outlined": [
+            "network",
+            "intelligence",
+            "history",
+            "outlined"
+        ],
+        "network-intelligence-update-outlined": [
+            "network",
+            "intelligence",
+            "update",
+            "outlined"
+        ],
+        "network-manage-outlined": [
+            "network",
+            "manage",
+            "outlined"
+        ],
+        "neurology-outlined": [
+            "neurology",
+            "outlined"
+        ],
+        "new-label-outlined": [
+            "new",
+            "label",
+            "outlined"
+        ],
+        "new-releases-outlined": [
+            "new",
+            "releases",
+            "outlined"
+        ],
+        "new-window-outlined": [
+            "new",
+            "window",
+            "outlined"
+        ],
+        "next-plan-outlined": [
+            "next",
+            "plan",
+            "outlined"
+        ],
+        "no-accounts-outlined": [
+            "no",
+            "accounts",
+            "outlined"
+        ],
+        "no-adult-content-outlined": [
+            "no",
+            "adult",
+            "content",
+            "outlined"
+        ],
+        "not-accessible-outlined": [
+            "not",
+            "accessible",
+            "outlined"
+        ],
+        "notification-add-outlined": [
+            "notification",
+            "add",
+            "outlined"
+        ],
+        "notification-important-outlined": [
+            "notification",
+            "important",
+            "outlined"
+        ],
+        "notification-multiple-outlined": [
+            "notification",
+            "multiple",
+            "outlined"
+        ],
+        "notifications-active-outlined": [
+            "notifications",
+            "active",
+            "outlined"
+        ],
+        "notifications-off-outlined": [
+            "notifications",
+            "off",
+            "outlined"
+        ],
+        "notifications-outlined": [
+            "notifications",
+            "outlined"
+        ],
+        "notifications-paused-outlined": [
+            "notifications",
+            "paused",
+            "outlined"
+        ],
+        "nutrition-outlined": [
+            "nutrition",
+            "outlined"
+        ],
+        "ods-outlined": [
+            "ods",
+            "outlined"
+        ],
+        "odt-outlined": [
+            "odt",
+            "outlined"
+        ],
+        "offline-bolt-outlined": [
+            "offline",
+            "bolt",
+            "outlined"
+        ],
+        "offline-pin-outlined": [
+            "offline",
+            "pin",
+            "outlined"
+        ],
+        "oil-barrel-outlined": [
+            "oil",
+            "barrel",
+            "outlined"
+        ],
+        "on-device-training-outlined": [
+            "on",
+            "device",
+            "training",
+            "outlined"
+        ],
+        "oncology-outlined": [
+            "oncology",
+            "outlined"
+        ],
+        "online-prediction-outlined": [
+            "online",
+            "prediction",
+            "outlined"
+        ],
+        "open-in-browser-outlined": [
+            "open",
+            "in",
+            "browser",
+            "outlined"
+        ],
+        "open-in-full-outlined": [
+            "open",
+            "in",
+            "full",
+            "outlined"
+        ],
+        "open-in-new-down-outlined": [
+            "open",
+            "in",
+            "new",
+            "down",
+            "outlined"
+        ],
+        "open-in-new-off-outlined": [
+            "open",
+            "in",
+            "new",
+            "off",
+            "outlined"
+        ],
+        "open-in-new-outlined": [
+            "open",
+            "in",
+            "new",
+            "outlined"
+        ],
+        "open-with-outlined": [
+            "open",
+            "with",
+            "outlined"
+        ],
+        "ophthalmology-outlined": [
+            "ophthalmology",
+            "outlined"
+        ],
+        "oral-disease-outlined": [
+            "oral",
+            "disease",
+            "outlined"
+        ],
+        "orthopedics-outlined": [
+            "orthopedics",
+            "outlined"
+        ],
+        "outbound-outlined": [
+            "outbound",
+            "outlined"
+        ],
+        "outbox-alt-outlined": [
+            "outbox",
+            "alt",
+            "outlined"
+        ],
+        "outbox-outlined": [
+            "outbox",
+            "outlined"
+        ],
+        "outdoor-garden-outlined": [
+            "outdoor",
+            "garden",
+            "outlined"
+        ],
+        "outgoing-mail-outlined": [
+            "outgoing",
+            "mail",
+            "outlined"
+        ],
+        "outpatient-med-outlined": [
+            "outpatient",
+            "med",
+            "outlined"
+        ],
+        "outpatient-outlined": [
+            "outpatient",
+            "outlined"
+        ],
+        "output-circle-outlined": [
+            "output",
+            "circle",
+            "outlined"
+        ],
+        "output-outlined": [
+            "output",
+            "outlined"
+        ],
+        "oxygen-saturation-outlined": [
+            "oxygen",
+            "saturation",
+            "outlined"
+        ],
+        "page-control-outlined": [
+            "page",
+            "control",
+            "outlined"
+        ],
+        "page-info-outlined": [
+            "page",
+            "info",
+            "outlined"
+        ],
+        "pageview-outlined": [
+            "pageview",
+            "outlined"
+        ],
+        "palette-outlined": [
+            "palette",
+            "outlined"
+        ],
+        "pan-tool-alt-outlined": [
+            "pan",
+            "tool",
+            "alt",
+            "outlined"
+        ],
+        "pan-tool-outlined": [
+            "pan",
+            "tool",
+            "outlined"
+        ],
+        "pan-zoom-outlined": [
+            "pan",
+            "zoom",
+            "outlined"
+        ],
+        "partly-cloudy-day-outlined": [
+            "partly",
+            "cloudy",
+            "day",
+            "outlined"
+        ],
+        "partly-cloudy-night-outlined": [
+            "partly",
+            "cloudy",
+            "night",
+            "outlined"
+        ],
+        "partner-exchange-outlined": [
+            "partner",
+            "exchange",
+            "outlined"
+        ],
+        "partner-reports-outlined": [
+            "partner",
+            "reports",
+            "outlined"
+        ],
+        "patient-list-outlined": [
+            "patient",
+            "list",
+            "outlined"
+        ],
+        "pause-presentation-outlined": [
+            "pause",
+            "presentation",
+            "outlined"
+        ],
+        "pediatrics-outlined": [
+            "pediatrics",
+            "outlined"
+        ],
+        "pending-outlined": [
+            "pending",
+            "outlined"
+        ],
+        "perm-contact-calendar-outlined": [
+            "perm",
+            "contact",
+            "calendar",
+            "outlined"
+        ],
+        "perm-phone-msg-outlined": [
+            "perm",
+            "phone",
+            "msg",
+            "outlined"
+        ],
+        "person-2-outlined": [
+            "person",
+            "2",
+            "outlined"
+        ],
+        "person-3-outlined": [
+            "person",
+            "3",
+            "outlined"
+        ],
+        "person-4-outlined": [
+            "person",
+            "4",
+            "outlined"
+        ],
+        "person-add-disabled-outlined": [
+            "person",
+            "add",
+            "disabled",
+            "outlined"
+        ],
+        "person-add-outlined": [
+            "person",
+            "add",
+            "outlined"
+        ],
+        "person-apron-outlined": [
+            "person",
+            "apron",
+            "outlined"
+        ],
+        "person-off-outlined": [
+            "person",
+            "off",
+            "outlined"
+        ],
+        "person-outlined": [
+            "person",
+            "outlined"
+        ],
+        "person-raised-hand-outlined": [
+            "person",
+            "raised",
+            "hand",
+            "outlined"
+        ],
+        "person-remove-outlined": [
+            "person",
+            "remove",
+            "outlined"
+        ],
+        "person-search-outlined": [
+            "person",
+            "search",
+            "outlined"
+        ],
+        "pets-outlined": [
+            "pets",
+            "outlined"
+        ],
+        "phone-bluetooth-speaker-outlined": [
+            "phone",
+            "bluetooth",
+            "speaker",
+            "outlined"
+        ],
+        "phone-callback-outlined": [
+            "phone",
+            "callback",
+            "outlined"
+        ],
+        "phone-disabled-outlined": [
+            "phone",
+            "disabled",
+            "outlined"
+        ],
+        "phone-enabled-outlined": [
+            "phone",
+            "enabled",
+            "outlined"
+        ],
+        "phone-forwarded-outlined": [
+            "phone",
+            "forwarded",
+            "outlined"
+        ],
+        "phone-in-talk-outlined": [
+            "phone",
+            "in",
+            "talk",
+            "outlined"
+        ],
+        "phone-iphone-outlined": [
+            "phone",
+            "iphone",
+            "outlined"
+        ],
+        "phone-locked-outlined": [
+            "phone",
+            "locked",
+            "outlined"
+        ],
+        "phone-missed-outlined": [
+            "phone",
+            "missed",
+            "outlined"
+        ],
+        "phone-paused-outlined": [
+            "phone",
+            "paused",
+            "outlined"
+        ],
+        "phonelink-erase-outlined": [
+            "phonelink",
+            "erase",
+            "outlined"
+        ],
+        "phonelink-lock-outlined": [
+            "phonelink",
+            "lock",
+            "outlined"
+        ],
+        "phonelink-ring-off-outlined": [
+            "phonelink",
+            "ring",
+            "off",
+            "outlined"
+        ],
+        "phonelink-ring-outlined": [
+            "phonelink",
+            "ring",
+            "outlined"
+        ],
+        "photo-camera-outlined": [
+            "photo",
+            "camera",
+            "outlined"
+        ],
+        "photo-library-outlined": [
+            "photo",
+            "library",
+            "outlined"
+        ],
+        "photo-outlined": [
+            "photo",
+            "outlined"
+        ],
+        "php-outlined": [
+            "php",
+            "outlined"
+        ],
+        "picture-as-pdf-outlined": [
+            "picture",
+            "as",
+            "pdf",
+            "outlined"
+        ],
+        "picture-in-picture-alt-outlined": [
+            "picture",
+            "in",
+            "picture",
+            "alt",
+            "outlined"
+        ],
+        "picture-in-picture-outlined": [
+            "picture",
+            "in",
+            "picture",
+            "outlined"
+        ],
+        "pill-off-outlined": [
+            "pill",
+            "off",
+            "outlined"
+        ],
+        "pill-outlined": [
+            "pill",
+            "outlined"
+        ],
+        "pin-drop-outlined": [
+            "pin",
+            "drop",
+            "outlined"
+        ],
+        "pin-end-outlined": [
+            "pin",
+            "end",
+            "outlined"
+        ],
+        "pin-invoke-outlined": [
+            "pin",
+            "invoke",
+            "outlined"
+        ],
+        "pinch-outlined": [
+            "pinch",
+            "outlined"
+        ],
+        "pinch-zoom-in-outlined": [
+            "pinch",
+            "zoom",
+            "in",
+            "outlined"
+        ],
+        "pinch-zoom-out-outlined": [
+            "pinch",
+            "zoom",
+            "out",
+            "outlined"
+        ],
+        "pip-exit-outlined": [
+            "pip",
+            "exit",
+            "outlined"
+        ],
+        "pip-outlined": [
+            "pip",
+            "outlined"
+        ],
+        "place-item-outlined": [
+            "place",
+            "item",
+            "outlined"
+        ],
+        "play-arrow-outlined": [
+            "play",
+            "arrow",
+            "outlined"
+        ],
+        "play-for-work-outlined": [
+            "play",
+            "for",
+            "work",
+            "outlined"
+        ],
+        "playing-cards-outlined": [
+            "playing",
+            "cards",
+            "outlined"
+        ],
+        "point-scan-outlined": [
+            "point",
+            "scan",
+            "outlined"
+        ],
+        "polymer-outlined": [
+            "polymer",
+            "outlined"
+        ],
+        "position-bottom-left-outlined": [
+            "position",
+            "bottom",
+            "left",
+            "outlined"
+        ],
+        "position-bottom-right-outlined": [
+            "position",
+            "bottom",
+            "right",
+            "outlined"
+        ],
+        "position-top-right-outlined": [
+            "position",
+            "top",
+            "right",
+            "outlined"
+        ],
+        "potted-plant-outlined": [
+            "potted",
+            "plant",
+            "outlined"
+        ],
+        "power-settings-new-outlined": [
+            "power",
+            "settings",
+            "new",
+            "outlined"
+        ],
+        "prayer-times-outlined": [
+            "prayer",
+            "times",
+            "outlined"
+        ],
+        "pregnancy-outlined": [
+            "pregnancy",
+            "outlined"
+        ],
+        "pregnant-woman-outlined": [
+            "pregnant",
+            "woman",
+            "outlined"
+        ],
+        "preliminary-outlined": [
+            "preliminary",
+            "outlined"
+        ],
+        "prescriptions-outlined": [
+            "prescriptions",
+            "outlined"
+        ],
+        "present-to-all-outlined": [
+            "present",
+            "to",
+            "all",
+            "outlined"
+        ],
+        "preview-off-outlined": [
+            "preview",
+            "off",
+            "outlined"
+        ],
+        "preview-outlined": [
+            "preview",
+            "outlined"
+        ],
+        "priority-high-outlined": [
+            "priority",
+            "high",
+            "outlined"
+        ],
+        "priority-outlined": [
+            "priority",
+            "outlined"
+        ],
+        "problem-outlined": [
+            "problem",
+            "outlined"
+        ],
+        "procedure-outlined": [
+            "procedure",
+            "outlined"
+        ],
+        "progress-activity-outlined": [
+            "progress",
+            "activity",
+            "outlined"
+        ],
+        "psychiatry-outlined": [
+            "psychiatry",
+            "outlined"
+        ],
+        "psychology-alt-outlined": [
+            "psychology",
+            "alt",
+            "outlined"
+        ],
+        "psychology-outlined": [
+            "psychology",
+            "outlined"
+        ],
+        "public-off-outlined": [
+            "public",
+            "off",
+            "outlined"
+        ],
+        "public-outlined": [
+            "public",
+            "outlined"
+        ],
+        "publish-outlined": [
+            "publish",
+            "outlined"
+        ],
+        "published-with-changes-outlined": [
+            "published",
+            "with",
+            "changes",
+            "outlined"
+        ],
+        "pulmonology-outlined": [
+            "pulmonology",
+            "outlined"
+        ],
+        "push-pin-outlined": [
+            "push",
+            "pin",
+            "outlined"
+        ],
+        "question-exchange-outlined": [
+            "question",
+            "exchange",
+            "outlined"
+        ],
+        "question-mark-outlined": [
+            "question",
+            "mark",
+            "outlined"
+        ],
+        "quick-reference-all-outlined": [
+            "quick",
+            "reference",
+            "all",
+            "outlined"
+        ],
+        "quick-reference-outlined": [
+            "quick",
+            "reference",
+            "outlined"
+        ],
+        "quickreply-outlined": [
+            "quickreply",
+            "outlined"
+        ],
+        "quiz-outlined": [
+            "quiz",
+            "outlined"
+        ],
+        "radio-button-checked-outlined": [
+            "radio",
+            "button",
+            "checked",
+            "outlined"
+        ],
+        "radio-button-unchecked-outlined": [
+            "radio",
+            "button",
+            "unchecked",
+            "outlined"
+        ],
+        "radiology-outlined": [
+            "radiology",
+            "outlined"
+        ],
+        "rainy-heavy-outlined": [
+            "rainy",
+            "heavy",
+            "outlined"
+        ],
+        "rainy-light-outlined": [
+            "rainy",
             "light",
-            "spot"
+            "outlined"
         ],
-        "bulb-group-spot": [
-            "gu10",
-            "light"
+        "rainy-outlined": [
+            "rainy",
+            "outlined"
         ],
-        "bulb-group-spot-hung": [
-            "gu10",
-            "light"
+        "rainy-snow-outlined": [
+            "rainy",
+            "snow",
+            "outlined"
         ],
-        "bulb-group-spot-hung-off": [
-            "gu10",
-            "light"
+        "rate-review-outlined": [
+            "rate",
+            "review",
+            "outlined"
         ],
-        "bulb-group-sultan-3": [
-            "light"
+        "rebase-edit-outlined": [
+            "rebase",
+            "edit",
+            "outlined"
         ],
-        "bulb-group-sultan-3-hung": [
-            "light"
+        "rebase-outlined": [
+            "rebase",
+            "outlined"
         ],
-        "bulb-group-sultan-3-hung-off": [
-            "light"
+        "recent-patient-outlined": [
+            "recent",
+            "patient",
+            "outlined"
         ],
-        "bulb-group-sultan-3-off": [
-            "light"
+        "recommend-outlined": [
+            "recommend",
+            "outlined"
         ],
-        "bulb-group-sultan-3-offf": [
-            "light"
+        "record-voice-over-outlined": [
+            "record",
+            "voice",
+            "over",
+            "outlined"
         ],
-        "bulb-group-sultan-4": [
-            "e26",
-            "light"
+        "recycling-outlined": [
+            "recycling",
+            "outlined"
         ],
-        "bulb-group-sultan-4-hung": [
-            "e26",
-            "light"
+        "redo-outlined": [
+            "redo",
+            "outlined"
         ],
-        "bulb-group-sultan-4-hung-off": [
-            "e26",
-            "light"
+        "reduce-capacity-outlined": [
+            "reduce",
+            "capacity",
+            "outlined"
         ],
-        "bulb-group-sultan-4-off": [
-            "e26",
-            "light"
+        "refresh-outlined": [
+            "refresh",
+            "outlined"
         ],
-        "bulb-group-sultan-go": [
-            "light"
+        "release-alert-outlined": [
+            "release",
+            "alert",
+            "outlined"
         ],
-        "bulb-group-sultan-hung": [
-            "e26",
-            "light"
+        "reminder-outlined": [
+            "reminder",
+            "outlined"
         ],
-        "bulb-group-sultan-lightstrip": [
-            "light"
+        "remove-done-outlined": [
+            "remove",
+            "done",
+            "outlined"
         ],
-        "bulb-group-sultan-lightstrip-off": [
-            "light"
+        "remove-outlined": [
+            "remove",
+            "outlined"
         ],
-        "bulb-group-sultan-spot": [
-            "light"
+        "reopen-window-outlined": [
+            "reopen",
+            "window",
+            "outlined"
         ],
-        "bulb-group-sultan-spot-off": [
-            "light"
+        "repartition-outlined": [
+            "repartition",
+            "outlined"
         ],
-        "bulb-group-wall-lucca": [
-            "exterior",
-            "light"
+        "reply-all-outlined": [
+            "reply",
+            "all",
+            "outlined"
         ],
-        "bulb-group-wall-nyro-flood": [
-            "exterior",
-            "light"
+        "reply-outlined": [
+            "reply",
+            "outlined"
         ],
-        "bulb-group-wall-nyro-flood-alt": [
-            "light",
-            "pendant"
+        "resize-outlined": [
+            "resize",
+            "outlined"
         ],
-        "bulb-lightguide-flask": [
-            "light"
+        "respiratory-rate-outlined": [
+            "respiratory",
+            "rate",
+            "outlined"
         ],
-        "bulb-lightguide-oval": [
-            "light"
+        "restart-alt-outlined": [
+            "restart",
+            "alt",
+            "outlined"
         ],
-        "bulb-lightguide-round": [
-            "light"
+        "restore-from-trash-outlined": [
+            "restore",
+            "from",
+            "trash",
+            "outlined"
         ],
-        "bulb-par-38": [
-            "exterior",
-            "flood",
-            "light"
+        "reviews-outlined": [
+            "reviews",
+            "outlined"
         ],
-        "bulb-spot": [
-            "gu10",
-            "light"
+        "rheumatology-outlined": [
+            "rheumatology",
+            "outlined"
         ],
-        "bulb-spot-hung": [
-            "gu10",
-            "light"
+        "rib-cage-outlined": [
+            "rib",
+            "cage",
+            "outlined"
         ],
-        "bulb-spot-hung-off": [
-            "gu10",
-            "light"
+        "right-click-outlined": [
+            "right",
+            "click",
+            "outlined"
         ],
-        "bulb-spot-off": [
-            "gu10",
-            "light"
+        "right-panel-close-outlined": [
+            "right",
+            "panel",
+            "close",
+            "outlined"
         ],
-        "bulb-sultan": [
-            "e26",
-            "light"
+        "right-panel-open-outlined": [
+            "right",
+            "panel",
+            "open",
+            "outlined"
         ],
-        "bulb-sultan-hung": [
-            "e26",
-            "light"
+        "ring-volume-outlined": [
+            "ring",
+            "volume",
+            "outlined"
         ],
-        "bulb-sultan-off": [
-            "e26",
-            "light"
+        "ripples-outlined": [
+            "ripples",
+            "outlined"
         ],
-        "button": [
-            "light",
+        "rocket-launch-outlined": [
+            "rocket",
+            "launch",
+            "outlined"
+        ],
+        "rocket-outlined": [
+            "rocket",
+            "outlined"
+        ],
+        "rotate-right-outlined": [
+            "rotate",
+            "right",
+            "outlined"
+        ],
+        "rounded-corner-outlined": [
+            "rounded",
+            "corner",
+            "outlined"
+        ],
+        "routine-outlined": [
+            "routine",
+            "outlined"
+        ],
+        "rsvp-outlined": [
+            "rsvp",
+            "outlined"
+        ],
+        "rtt-outlined": [
+            "rtt",
+            "outlined"
+        ],
+        "rule-outlined": [
+            "rule",
+            "outlined"
+        ],
+        "rule-settings-outlined": [
+            "rule",
+            "settings",
+            "outlined"
+        ],
+        "running-with-errors-outlined": [
+            "running",
+            "with",
+            "errors",
+            "outlined"
+        ],
+        "safety-divider-outlined": [
+            "safety",
+            "divider",
+            "outlined"
+        ],
+        "salinity-outlined": [
+            "salinity",
+            "outlined"
+        ],
+        "sanitizer-outlined": [
+            "sanitizer",
+            "outlined"
+        ],
+        "satellite-alt-outlined": [
+            "satellite",
+            "alt",
+            "outlined"
+        ],
+        "save-as-outlined": [
+            "save",
+            "as",
+            "outlined"
+        ],
+        "saved-search-outlined": [
+            "saved",
+            "search",
+            "outlined"
+        ],
+        "schedule-outlined": [
+            "schedule",
+            "outlined"
+        ],
+        "schedule-send-outlined": [
+            "schedule",
+            "send",
+            "outlined"
+        ],
+        "school-outlined": [
+            "school",
+            "outlined"
+        ],
+        "score-outlined": [
+            "score",
+            "outlined"
+        ],
+        "scrollable-header-outlined": [
+            "scrollable",
+            "header",
+            "outlined"
+        ],
+        "search-check-outlined": [
+            "search",
+            "check",
+            "outlined"
+        ],
+        "search-off-outlined": [
+            "search",
+            "off",
+            "outlined"
+        ],
+        "search-outlined": [
+            "search",
+            "outlined"
+        ],
+        "select-all-outlined": [
+            "select",
+            "all",
+            "outlined"
+        ],
+        "select-check-box-outlined": [
+            "select",
+            "check",
+            "box",
+            "outlined"
+        ],
+        "select-window-off-outlined": [
+            "select",
+            "window",
+            "off",
+            "outlined"
+        ],
+        "select-window-outlined": [
+            "select",
+            "window",
+            "outlined"
+        ],
+        "send-and-archive-outlined": [
+            "send",
+            "and",
+            "archive",
+            "outlined"
+        ],
+        "send-outlined": [
+            "send",
+            "outlined"
+        ],
+        "send-time-extension-outlined": [
+            "send",
+            "time",
+            "extension",
+            "outlined"
+        ],
+        "sentiment-calm-outlined": [
+            "sentiment",
+            "calm",
+            "outlined"
+        ],
+        "sentiment-content-outlined": [
+            "sentiment",
+            "content",
+            "outlined"
+        ],
+        "sentiment-dissatisfied-outlined": [
+            "sentiment",
+            "dissatisfied",
+            "outlined"
+        ],
+        "sentiment-excited-outlined": [
+            "sentiment",
+            "excited",
+            "outlined"
+        ],
+        "sentiment-extremely-dissatisfied-outlined": [
+            "sentiment",
+            "extremely",
+            "dissatisfied",
+            "outlined"
+        ],
+        "sentiment-frustrated-outlined": [
+            "sentiment",
+            "frustrated",
+            "outlined"
+        ],
+        "sentiment-neutral-outlined": [
+            "sentiment",
+            "neutral",
+            "outlined"
+        ],
+        "sentiment-sad-outlined": [
+            "sentiment",
+            "sad",
+            "outlined"
+        ],
+        "sentiment-satisfied-outlined": [
+            "sentiment",
+            "satisfied",
+            "outlined"
+        ],
+        "sentiment-stressed-outlined": [
+            "sentiment",
+            "stressed",
+            "outlined"
+        ],
+        "sentiment-very-dissatisfied-outlined": [
+            "sentiment",
+            "very",
+            "dissatisfied",
+            "outlined"
+        ],
+        "sentiment-very-satisfied-outlined": [
+            "sentiment",
+            "very",
+            "satisfied",
+            "outlined"
+        ],
+        "sentiment-worried-outlined": [
+            "sentiment",
+            "worried",
+            "outlined"
+        ],
+        "settings-accessibility-outlined": [
+            "settings",
+            "accessibility",
+            "outlined"
+        ],
+        "settings-account-box-outlined": [
+            "settings",
+            "account",
+            "box",
+            "outlined"
+        ],
+        "settings-applications-outlined": [
+            "settings",
+            "applications",
+            "outlined"
+        ],
+        "settings-backup-restore-outlined": [
+            "settings",
+            "backup",
+            "restore",
+            "outlined"
+        ],
+        "settings-bluetooth-outlined": [
+            "settings",
+            "bluetooth",
+            "outlined"
+        ],
+        "settings-outlined": [
+            "settings",
+            "outlined"
+        ],
+        "settings-overscan-outlined": [
+            "settings",
+            "overscan",
+            "outlined"
+        ],
+        "settings-phone-outlined": [
+            "settings",
+            "phone",
+            "outlined"
+        ],
+        "settings-power-outlined": [
+            "settings",
+            "power",
+            "outlined"
+        ],
+        "severe-cold-outlined": [
+            "severe",
+            "cold",
+            "outlined"
+        ],
+        "shadow-add-outlined": [
+            "shadow",
+            "add",
+            "outlined"
+        ],
+        "shadow-minus-outlined": [
+            "shadow",
+            "minus",
+            "outlined"
+        ],
+        "shadow-outlined": [
+            "shadow",
+            "outlined"
+        ],
+        "share-off-outlined": [
+            "share",
+            "off",
+            "outlined"
+        ],
+        "share-outlined": [
+            "share",
+            "outlined"
+        ],
+        "share-reviews-outlined": [
+            "share",
+            "reviews",
+            "outlined"
+        ],
+        "share-windows-outlined": [
+            "share",
+            "windows",
+            "outlined"
+        ],
+        "shelf-auto-hide-outlined": [
+            "shelf",
+            "auto",
+            "hide",
+            "outlined"
+        ],
+        "shelf-position-outlined": [
+            "shelf",
+            "position",
+            "outlined"
+        ],
+        "shift-lock-outlined": [
+            "shift",
+            "lock",
+            "outlined"
+        ],
+        "shift-outlined": [
+            "shift",
+            "outlined"
+        ],
+        "shopping-cart-checkout-outlined": [
+            "shopping",
+            "cart",
+            "checkout",
+            "outlined"
+        ],
+        "shopping-cart-outlined": [
+            "shopping",
+            "cart",
+            "outlined"
+        ],
+        "short-stay-outlined": [
+            "short",
+            "stay",
+            "outlined"
+        ],
+        "sick-outlined": [
+            "sick",
+            "outlined"
+        ],
+        "side-navigation-outlined": [
+            "side",
+            "navigation",
+            "outlined"
+        ],
+        "sign-language-outlined": [
+            "sign",
+            "language",
+            "outlined"
+        ],
+        "signal-cellular-add-outlined": [
+            "signal",
+            "cellular",
+            "add",
+            "outlined"
+        ],
+        "sip-outlined": [
+            "sip",
+            "outlined"
+        ],
+        "skeleton-outlined": [
+            "skeleton",
+            "outlined"
+        ],
+        "skull-outlined": [
+            "skull",
+            "outlined"
+        ],
+        "sliders-outlined": [
+            "sliders",
+            "outlined"
+        ],
+        "slideshow-outlined": [
+            "slideshow",
+            "outlined"
+        ],
+        "sms-outlined": [
+            "sms",
+            "outlined"
+        ],
+        "snooze-outlined": [
+            "snooze",
+            "outlined"
+        ],
+        "snowing-heavy-outlined": [
+            "snowing",
+            "heavy",
+            "outlined"
+        ],
+        "snowing-outlined": [
+            "snowing",
+            "outlined"
+        ],
+        "social-distance-outlined": [
+            "social",
+            "distance",
+            "outlined"
+        ],
+        "social-leaderboard-outlined": [
+            "social",
+            "leaderboard",
+            "outlined"
+        ],
+        "solar-power-outlined": [
+            "solar",
+            "power",
+            "outlined"
+        ],
+        "sort-by-alpha-outlined": [
+            "sort",
+            "by",
+            "alpha",
+            "outlined"
+        ],
+        "sort-outlined": [
+            "sort",
+            "outlined"
+        ],
+        "south-america-outlined": [
+            "south",
+            "america",
+            "outlined"
+        ],
+        "speaker-notes-off-outlined": [
+            "speaker",
+            "notes",
+            "off",
+            "outlined"
+        ],
+        "speaker-notes-outlined": [
+            "speaker",
+            "notes",
+            "outlined"
+        ],
+        "speaker-phone-outlined": [
+            "speaker",
+            "phone",
+            "outlined"
+        ],
+        "specific-gravity-outlined": [
+            "specific",
+            "gravity",
+            "outlined"
+        ],
+        "spoke-outlined": [
+            "spoke",
+            "outlined"
+        ],
+        "square-foot-outlined": [
+            "square",
+            "foot",
+            "outlined"
+        ],
+        "stack-off-outlined": [
+            "stack",
+            "off",
+            "outlined"
+        ],
+        "stack-outlined": [
+            "stack",
+            "outlined"
+        ],
+        "stack-star-outlined": [
+            "stack",
+            "star",
+            "outlined"
+        ],
+        "stacked-email-outlined": [
+            "stacked",
+            "email",
+            "outlined"
+        ],
+        "stacked-inbox-outlined": [
+            "stacked",
+            "inbox",
+            "outlined"
+        ],
+        "stadia-controller-outlined": [
+            "stadia",
+            "controller",
+            "outlined"
+        ],
+        "star-half-outlined": [
+            "star",
+            "half",
+            "outlined"
+        ],
+        "star-outlined": [
+            "star",
+            "outlined"
+        ],
+        "star-rate-half-outlined": [
+            "star",
+            "rate",
+            "half",
+            "outlined"
+        ],
+        "star-rate-outlined": [
+            "star",
+            "rate",
+            "outlined"
+        ],
+        "stars-outlined": [
+            "stars",
+            "outlined"
+        ],
+        "start-outlined": [
+            "start",
+            "outlined"
+        ],
+        "stat-1-outlined": [
+            "stat",
+            "1",
+            "outlined"
+        ],
+        "stat-2-outlined": [
+            "stat",
+            "2",
+            "outlined"
+        ],
+        "stat-3-outlined": [
+            "stat",
+            "3",
+            "outlined"
+        ],
+        "stat-minus-1-outlined": [
+            "stat",
+            "minus",
+            "1",
+            "outlined"
+        ],
+        "stat-minus-2-outlined": [
+            "stat",
+            "minus",
+            "2",
+            "outlined"
+        ],
+        "stat-minus-3-outlined": [
+            "stat",
+            "minus",
+            "3",
+            "outlined"
+        ],
+        "step-into-outlined": [
+            "step",
+            "into",
+            "outlined"
+        ],
+        "step-out-outlined": [
+            "step",
+            "out",
+            "outlined"
+        ],
+        "step-outlined": [
+            "step",
+            "outlined"
+        ],
+        "step-over-outlined": [
+            "step",
+            "over",
+            "outlined"
+        ],
+        "steppers-outlined": [
+            "steppers",
+            "outlined"
+        ],
+        "stethoscope-arrow-outlined": [
+            "stethoscope",
+            "arrow",
+            "outlined"
+        ],
+        "stethoscope-check-outlined": [
+            "stethoscope",
+            "check",
+            "outlined"
+        ],
+        "stethoscope-outlined": [
+            "stethoscope",
+            "outlined"
+        ],
+        "straighten-outlined": [
+            "straighten",
+            "outlined"
+        ],
+        "strategy-outlined": [
+            "strategy",
+            "outlined"
+        ],
+        "style-outlined": [
+            "style",
+            "outlined"
+        ],
+        "subdirectory-arrow-left-outlined": [
+            "subdirectory",
+            "arrow",
+            "left",
+            "outlined"
+        ],
+        "subdirectory-arrow-right-outlined": [
+            "subdirectory",
+            "arrow",
+            "right",
+            "outlined"
+        ],
+        "subheader-outlined": [
+            "subheader",
+            "outlined"
+        ],
+        "sunny-outlined": [
+            "sunny",
+            "outlined"
+        ],
+        "sunny-snowing-outlined": [
+            "sunny",
+            "snowing",
+            "outlined"
+        ],
+        "supervised-user-circle-off-outlined": [
+            "supervised",
+            "user",
+            "circle",
+            "off",
+            "outlined"
+        ],
+        "supervised-user-circle-outlined": [
+            "supervised",
+            "user",
+            "circle",
+            "outlined"
+        ],
+        "supervisor-account-outlined": [
+            "supervisor",
+            "account",
+            "outlined"
+        ],
+        "support-agent-outlined": [
+            "support",
+            "agent",
+            "outlined"
+        ],
+        "support-outlined": [
+            "support",
+            "outlined"
+        ],
+        "surgical-outlined": [
+            "surgical",
+            "outlined"
+        ],
+        "swap-calls-outlined": [
+            "swap",
+            "calls",
+            "outlined"
+        ],
+        "swap-horiz-outlined": [
+            "swap",
+            "horiz",
+            "outlined"
+        ],
+        "swap-horizontal-circle-outlined": [
+            "swap",
+            "horizontal",
+            "circle",
+            "outlined"
+        ],
+        "swap-vert-outlined": [
+            "swap",
+            "vert",
+            "outlined"
+        ],
+        "swap-vertical-circle-outlined": [
+            "swap",
+            "vertical",
+            "circle",
+            "outlined"
+        ],
+        "sweep-outlined": [
+            "sweep",
+            "outlined"
+        ],
+        "swipe-down-alt-outlined": [
+            "swipe",
+            "down",
+            "alt",
+            "outlined"
+        ],
+        "swipe-down-outlined": [
+            "swipe",
+            "down",
+            "outlined"
+        ],
+        "swipe-left-alt-outlined": [
+            "swipe",
+            "left",
+            "alt",
+            "outlined"
+        ],
+        "swipe-left-outlined": [
+            "swipe",
+            "left",
+            "outlined"
+        ],
+        "swipe-outlined": [
+            "swipe",
+            "outlined"
+        ],
+        "swipe-right-alt-outlined": [
+            "swipe",
+            "right",
+            "alt",
+            "outlined"
+        ],
+        "swipe-right-outlined": [
+            "swipe",
+            "right",
+            "outlined"
+        ],
+        "swipe-up-alt-outlined": [
+            "swipe",
+            "up",
+            "alt",
+            "outlined"
+        ],
+        "swipe-up-outlined": [
+            "swipe",
+            "up",
+            "outlined"
+        ],
+        "swipe-vertical-outlined": [
+            "swipe",
+            "vertical",
+            "outlined"
+        ],
+        "switch-access-outlined": [
             "switch",
-            "wall"
-        ],
-        "ceiling-adore": [
-            "light"
-        ],
-        "ceiling-adore-alt": [
-            "light"
-        ],
-        "ceiling-adore-alt-flush": [
-            "light"
-        ],
-        "ceiling-adore-flush": [
-            "light"
-        ],
-        "ceiling-aurelle": [
-            "light",
-            "panel"
-        ],
-        "ceiling-aurelle-circle": [
-            "light"
-        ],
-        "ceiling-aurelle-circle-off": [
-            "light"
-        ],
-        "ceiling-aurelle-off": [
-            "light",
-            "panel"
-        ],
-        "ceiling-aurelle-rect": [
-            "light",
-            "panel"
-        ],
-        "ceiling-being": [
-            "light"
-        ],
-        "ceiling-beyond": [
-            "light"
-        ],
-        "ceiling-beyond-alt": [
-            "light"
-        ],
-        "ceiling-buckram": [
-            "light",
-            "spot"
-        ],
-        "ceiling-buckram-three": [
-            "light",
-            "spot"
-        ],
-        "ceiling-buckram-two": [
-            "light",
-            "spot"
-        ],
-        "ceiling-buratto": [
-            "light",
-            "spot"
-        ],
-        "ceiling-buratto-four": [
-            "light",
-            "spot"
-        ],
-        "ceiling-buratto-three": [
-            "light",
-            "spot"
-        ],
-        "ceiling-buratto-two": [
-            "light",
-            "spot"
-        ],
-        "ceiling-buratto-two-off": [
-            "light",
-            "spot"
-        ],
-        "ceiling-cher-semiflush": [
-            "ceiling",
-            "light"
-        ],
-        "ceiling-devere": [
-            "light"
-        ],
-        "ceiling-devere-off": [
-            "light"
-        ],
-        "ceiling-explore": [
-            "light",
-            "pendant"
-        ],
-        "ceiling-fair": [
-            "light"
-        ],
-        "ceiling-fair-semiflush": [
-            "light",
-            "pendant"
-        ],
-        "ceiling-flourish": [
-            "light"
-        ],
-        "ceiling-flourish-pendant": [
-            "light"
-        ],
-        "ceiling-flush-circular": [
-            "light"
-        ],
-        "ceiling-fugato-four": [
-            "light",
-            "spot"
-        ],
-        "ceiling-fugato-four-alt": [
-            "light",
-            "spot"
-        ],
-        "ceiling-fugato-three": [
-            "light",
-            "spot"
-        ],
-        "ceiling-fugato-three-alt": [
-            "light",
-            "spot"
-        ],
-        "ceiling-fugato-two": [
-            "light",
-            "spot"
-        ],
-        "ceiling-fugato-two-alt": [
-            "light",
-            "spot"
-        ],
-        "ceiling-fugato-two-off": [
-            "light",
-            "spot"
-        ],
-        "ceiling-infuse": [
-            "light"
-        ],
-        "ceiling-muscari": [
-            "light"
-        ],
-        "ceiling-rect": [
-            "aurelle",
-            "light",
-            "panel",
-            "surimu"
-        ],
-        "ceiling-rect-off": [
-            "aurelle",
-            "light",
-            "panel",
-            "surimu"
-        ],
-        "ceiling-round": [
-            "devere",
-            "enrave",
-            "light"
-        ],
-        "ceiling-runner": [
-            "light",
-            "spot"
-        ],
-        "ceiling-runner-three": [
-            "light",
-            "spot"
-        ],
-        "ceiling-runner-three-bulb-one": [
-            "light",
-            "spot"
-        ],
-        "ceiling-runner-three-bulb-three": [
-            "light",
-            "spot"
-        ],
-        "ceiling-runner-three-bulb-two": [
-            "light",
-            "spot"
-        ],
-        "ceiling-runner-two": [
-            "light",
-            "spot"
-        ],
-        "ceiling-runner-two-bulb-one": [
-            "light",
-            "spot"
-        ],
-        "ceiling-runner-two-bulb-two": [
-            "light",
-            "spot"
-        ],
-        "ceiling-square": [
-            "aurelle",
-            "light",
-            "panel",
-            "surimu"
-        ],
-        "ceiling-still": [
-            "light"
-        ],
-        "ceiling-surimu": [
-            "light",
-            "panel"
-        ],
-        "ceiling-xamento": [
-            "ceiling",
-            "light"
-        ],
-        "centris": [
-            "ceiling",
-            "light",
-            "spot"
-        ],
-        "centris-off": [
-            "ceiling",
-            "light",
-            "spot"
-        ],
-        "centris-three": [
-            "ceiling",
-            "light",
-            "spot"
-        ],
-        "centris-three-off": [
-            "ceiling",
-            "light",
-            "spot"
-        ],
-        "centris-two": [
-            "ceiling",
-            "light",
-            "spot"
-        ],
-        "centris-two-off": [
-            "ceiling",
-            "light",
-            "spot"
-        ],
-        "centura": [
-            "ceiling",
-            "light",
-            "spot"
-        ],
-        "centura-round": [
-            "ceiling",
-            "light",
-            "milliskin",
-            "spot"
-        ],
-        "centura-two": [
-            "ceiling",
-            "light",
-            "spot"
-        ],
-        "cooker-hood-curve": [
-            "light"
-        ],
-        "cooker-hood-trapezoid": [
-            "light"
-        ],
-        "daylo-wall": [
-            "light"
-        ],
-        "daylo-wall-off": [
-            "light"
-        ],
-        "desk-lamp": [
-            "light",
-            "table"
-        ],
-        "dimmer-switch": [
-            "light",
-            "switch"
-        ],
-        "double-spot": [
-            "light"
-        ],
-        "double-spot-off": [
-            "light"
-        ],
-        "downstairs": [
-            "area"
-        ],
-        "ensis": [
-            "ceiling",
-            "light",
-            "pendant"
-        ],
-        "ensis-up": [
-            "ceiling",
-            "light",
-            "pendant"
-        ],
-        "entertainment-area": [
-            "music",
-            "room",
-            "spotify",
+            "access",
+            "outlined"
+        ],
+        "switch-access-shortcut-add-outlined": [
+            "switch",
+            "access",
+            "shortcut",
+            "add",
+            "outlined"
+        ],
+        "switch-access-shortcut-outlined": [
+            "switch",
+            "access",
+            "shortcut",
+            "outlined"
+        ],
+        "switch-left-outlined": [
+            "switch",
+            "left",
+            "outlined"
+        ],
+        "switch-right-outlined": [
+            "switch",
+            "right",
+            "outlined"
+        ],
+        "switches-outlined": [
+            "switches",
+            "outlined"
+        ],
+        "sword-rose-outlined": [
+            "sword",
+            "rose",
+            "outlined"
+        ],
+        "symptoms-outlined": [
+            "symptoms",
+            "outlined"
+        ],
+        "sync-alt-outlined": [
             "sync",
-            "zone"
+            "alt",
+            "outlined"
         ],
-        "festavia": [
-            "christmas",
-            "light",
-            "string"
-        ],
-        "floor-lantern": [
-            "bollard",
-            "exterior",
-            "lamp",
-            "light"
-        ],
-        "floor-lantern-group": [
-            "bollard",
-            "exterior",
-            "lamp",
-            "light"
-        ],
-        "floor-lantern-off": [
-            "bollard",
-            "exterior",
-            "lamp",
-            "light"
-        ],
-        "floor-shade": [
-            "lamp",
-            "light"
-        ],
-        "floor-shade-off": [
-            "lamp",
-            "light"
-        ],
-        "floor-spot": [
-            "light"
-        ],
-        "floor-spot-group": [
-            "light"
-        ],
-        "floor-spot-off": [
-            "light"
-        ],
-        "flourish": [
-            "floor",
-            "light",
-            "table"
-        ],
-        "flourish-alt": [
-            "floor",
-            "light",
-            "table"
-        ],
-        "flourish-alt-off": [
-            "floor",
-            "light",
-            "table"
-        ],
-        "friends-of-hue-20042LEDSWACDMG-BLRFR": [
-            "exterior",
-            "light",
-            "wall"
-        ],
-        "friends-of-hue-arke": [
-            "light",
-            "switch"
-        ],
-        "friends-of-hue-arke-round": [
-            "light",
-            "switch"
-        ],
-        "friends-of-hue-aurora-dimmer-switch": [
-            "light"
-        ],
-        "friends-of-hue-aurora-dimmer-switch-alt": [
-            "light"
-        ],
-        "friends-of-hue-eikon": [
-            "light",
-            "switch"
-        ],
-        "friends-of-hue-flat-p": [
-            "light",
-            "wall"
-        ],
-        "friends-of-hue-flat-p-alt": [
-            "light",
-            "wall"
-        ],
-        "friends-of-hue-iq-flush": [
-            "ceiling",
-            "light"
-        ],
-        "friends-of-hue-iq-pendant": [
-            "ceiling",
-            "light"
-        ],
-        "friends-of-hue-marbul-suspended": [
-            "ceiling",
-            "light",
-            "pendant"
-        ],
-        "friends-of-hue-retrotouch-black-chrome": [
-            "light",
-            "switch"
-        ],
-        "friends-of-hue-retrotouch-black-plain": [
-            "light",
-            "switch"
-        ],
-        "friends-of-hue-retrotouch-white-chrome": [
-            "light",
-            "switch"
-        ],
-        "friends-of-hue-retrotouch-white-plain": [
-            "light",
-            "switch"
-        ],
-        "friends-of-hue-rigel": [
-            "ceiling",
-            "light",
-            "pendant"
-        ],
-        "friends-of-hue-senic": [
-            "light",
-            "switch"
-        ],
-        "go": [
-            "floor",
-            "light",
-            "table"
-        ],
-        "go-group": [
-            "floor",
-            "light",
-            "table"
-        ],
-        "go-group-off": [
-            "floor",
-            "light",
-            "table"
-        ],
-        "go-off": [
-            "floor",
-            "light",
-            "table"
-        ],
-        "go-portable-table": [
-            "light"
-        ],
-        "go-portable-table-alt": [
-            "light"
-        ],
-        "gradient-lightstrip": [
-            "led",
-            "light"
-        ],
-        "gradient-lightstrip-wrap": [
-            "led",
-            "light"
-        ],
-        "gradient-tube-long": [
-            "light"
-        ],
-        "gradient-tube-long-off": [
-            "light"
-        ],
-        "gradient-tube-short": [
-            "light"
-        ],
-        "gradient-tube-short-off": [
-            "light"
-        ],
-        "home": [
-            "area",
-            "light",
-            "room"
-        ],
-        "ikea-death-star": [
-            "light"
-        ],
-        "iris": [
-            "floor",
-            "light",
-            "table"
-        ],
-        "iris-group": [
-            "floor",
-            "light",
-            "table"
-        ],
-        "iris-off": [
-            "floor",
-            "light",
-            "table"
-        ],
-        "liane": [
-            "floor",
-            "light",
-            "table"
-        ],
-        "lightstrip": [
-            "led",
-            "light"
-        ],
-        "lightstrip-off": [
-            "led",
-            "light"
-        ],
-        "lightstrip-tv": [
-            "led",
-            "light"
-        ],
-        "lightstrip-tv-alt": [
-            "led",
-            "light"
-        ],
-        "lightstrip-tv-off": [
-            "led",
-            "light"
-        ],
-        "lightstrip-wrap": [
-            "led",
-            "light"
-        ],
-        "lily": [
-            "exterior",
-            "light",
-            "spot"
-        ],
-        "lily-alt": [
-            "exterior",
-            "light",
-            "spot"
-        ],
-        "lily-two": [
-            "exterior",
-            "light",
-            "spot"
-        ],
-        "lily-two-off": [
-            "exterior",
-            "light",
-            "spot"
-        ],
-        "lily-xl": [
-            "exterior",
-            "light",
-            "spot"
-        ],
-        "lily-xl-alt": [
-            "exterior",
-            "light",
-            "spot"
-        ],
-        "logo": [
-            "philips"
-        ],
-        "logo-alt": [
-            "philips"
-        ],
-        "motion-sensor": [
-            "pir"
-        ],
-        "motion-sensor-luminance": [
-            "pir"
-        ],
-        "motion-sensor-luminance-alt": [
-            "pir"
-        ],
-        "motion-sensor-luminance-alt-off": [
-            "pir"
-        ],
-        "motion-sensor-luminance-off": [
-            "pir"
-        ],
-        "motion-sensor-movement": [
-            "pir"
-        ],
-        "motion-sensor-movement-off": [
-            "pir"
-        ],
-        "motion-sensor-temperature": [
-            "pir"
-        ],
-        "motion-sensor-temperature-off": [
-            "pir"
-        ],
-        "outdoor-motion-sensor": [
-            "exterior",
-            "pir"
-        ],
-        "outdoor-motion-sensor-temperature": [
-            "exterior",
-            "pir"
-        ],
-        "pedestal-econic": [
-            "bollard",
-            "exterior",
-            "lamp",
-            "light"
-        ],
-        "pendant-being": [
-            "ceiling",
-            "light"
-        ],
-        "pendant-cher": [
-            "ceiling",
-            "light"
-        ],
-        "pendant-cher-off": [
-            "ceiling",
-            "light"
-        ],
-        "pendant-devote": [
-            "ceiling",
-            "light"
-        ],
-        "pendant-devote-off": [
-            "ceiling",
-            "light"
-        ],
-        "pendant-devote-solid": [
-            "ceiling",
-            "light"
-        ],
-        "pendant-devote-solid-off": [
-            "ceiling",
-            "light"
-        ],
-        "pendant-devote-three": [
-            "ceiling",
-            "light"
-        ],
-        "pendant-devote-three-off": [
-            "ceiling",
-            "light"
-        ],
-        "pendant-devote-three-solid": [
-            "ceiling",
-            "light"
-        ],
-        "pendant-devote-three-solid-off": [
-            "ceiling",
-            "light"
-        ],
-        "pendant-devote-two": [
-            "ceiling",
-            "light"
-        ],
-        "pendant-devote-two-off": [
-            "ceiling",
-            "light"
-        ],
-        "pendant-devote-two-solid": [
-            "ceiling",
-            "light"
-        ],
-        "pendant-devote-two-solid-off": [
-            "ceiling",
-            "light"
-        ],
-        "pendant-long": [
-            "ceiling",
-            "light"
-        ],
-        "pendant-long-up": [
-            "ceiling",
-            "light"
-        ],
-        "pendant-muscari": [
-            "ceiling",
-            "light"
-        ],
-        "pendant-round": [
-            "ceiling",
-            "light"
-        ],
-        "pendant-round-off": [
-            "ceiling",
-            "light"
-        ],
-        "perifo-spot": [
-            "ceiling",
-            "light",
-            "track"
-        ],
-        "phoenix-pendant": [
-            "ceiling",
-            "light"
-        ],
-        "phoenix-plafond": [
-            "ceiling",
-            "light"
-        ],
-        "phoenix-semiflush": [
-            "ceiling",
-            "light"
-        ],
-        "phoenix-table": [
-            "lamp",
-            "light"
-        ],
-        "pillar-impress": [
-            "bollard",
-            "exterior",
-            "light"
-        ],
-        "pillar-impress-short": [
-            "bollard",
-            "exterior",
-            "light"
-        ],
-        "pillar-nyro": [
-            "bollard",
-            "exterior",
-            "light"
-        ],
-        "pillar-spot": [
-            "exterior",
-            "light",
-            "wall"
-        ],
-        "pillar-spot-2": [
-            "exterior",
-            "light",
-            "wall"
-        ],
-        "pillar-spot-3": [
-            "exterior",
-            "light",
-            "wall"
-        ],
-        "pillar-spot-double": [
-            "light"
-        ],
-        "pillar-tuar": [
-            "bollard",
-            "exterior",
-            "lamp",
-            "light"
-        ],
-        "pillar-turaco-short": [
-            "exterior",
-            "light"
-        ],
-        "pillar-turaco-tall": [
-            "exterior",
-            "light"
-        ],
-        "play-bar": [
-            "light",
+        "sync-disabled-outlined": [
             "sync",
-            "tv"
+            "disabled",
+            "outlined"
         ],
-        "play-bar-off": [
-            "light",
+        "sync-outlined": [
             "sync",
-            "tv"
+            "outlined"
         ],
-        "play-bar-three": [
-            "light",
+        "sync-problem-outlined": [
             "sync",
-            "tv"
+            "problem",
+            "outlined"
         ],
-        "play-bar-two": [
-            "light",
+        "sync-saved-locally-outlined": [
             "sync",
-            "tv"
-        ],
-        "play-bar-v": [
-            "light",
-            "sync",
-            "tv"
-        ],
-        "play-bar-v-alt": [
-            "light",
-            "sync",
-            "tv"
-        ],
-        "play-bar-v-off": [
-            "light",
-            "sync",
-            "tv"
-        ],
-        "play-bar-v-two": [
-            "light",
-            "sync",
-            "tv"
-        ],
-        "play-bar-v-two-in": [
-            "light",
-            "sync",
-            "tv"
-        ],
-        "play-bar-v-two-out": [
-            "light",
-            "sync",
-            "tv"
-        ],
-        "plug": [
-            "infrastructure",
-            "light"
-        ],
-        "plug-eu": [
-            "infrastructure",
-            "light"
-        ],
-        "plug-eu-alt": [
-            "infrastructure",
-            "light"
-        ],
-        "plug-eu-group": [
-            "infrastructure",
-            "light"
-        ],
-        "plug-eu-group-off": [
-            "infrastructure",
-            "light"
-        ],
-        "plug-eu-off": [
-            "infrastructure",
-            "light"
-        ],
-        "plug-group": [
-            "infrastructure",
-            "light"
-        ],
-        "plug-uk": [
-            "infrastructure",
-            "light"
-        ],
-        "plug-uk-group": [
-            "infrastructure",
-            "light"
-        ],
-        "plug-uk-group-off": [
-            "infrastructure",
-            "light"
-        ],
-        "plug-uk-off": [
-            "infrastructure",
-            "light"
-        ],
-        "plug-us": [
-            "infrastructure",
-            "light"
-        ],
-        "qr": [
-            "info"
-        ],
-        "recessed-ceiling": [
-            "light",
-            "spot"
-        ],
-        "recessed-floor": [
-            "light"
-        ],
-        "room-attic": [
-            "area",
-            "loft"
-        ],
-        "room-attic-alt": [
-            "area",
-            "loft"
-        ],
-        "room-attic-alt-off": [
-            "area",
-            "loft"
-        ],
-        "room-attic-off": [
-            "area",
-            "loft"
-        ],
-        "room-balcony": [
-            "area",
-            "bannister"
-        ],
-        "room-balcony-off": [
-            "area",
-            "bannister"
-        ],
-        "room-bathroom": [
-            "area",
-            "shower"
-        ],
-        "room-bathroom-off": [
-            "area",
-            "shower"
-        ],
-        "room-bbq": [
-            "area",
-            "barbecue"
-        ],
-        "room-bbq-off": [
-            "area",
-            "barbecue"
-        ],
-        "room-bedroom": [
-            "area",
-            "double"
-        ],
-        "room-bedroom-off": [
-            "area",
-            "double"
-        ],
-        "room-carport": [
-            "area",
-            "garage"
-        ],
-        "room-carport-off": [
-            "area",
-            "garage"
-        ],
-        "room-closet": [
-            "area",
-            "cupboard"
-        ],
-        "room-closet-off": [
-            "area",
-            "cupboard"
-        ],
-        "room-computer": [
-            "area",
-            "pc"
-        ],
-        "room-computer-off": [
-            "area",
-            "pc"
-        ],
-        "room-dining": [
-            "area",
-            "food"
-        ],
-        "room-dining-off": [
-            "area",
-            "food"
-        ],
-        "room-driveway": [
-            "area"
-        ],
-        "room-driveway-off": [
-            "area"
-        ],
-        "room-front-door": [
-            "area"
-        ],
-        "room-front-door-off": [
-            "area"
-        ],
-        "room-games": [
-            "area",
-            "console",
-            "xbox"
-        ],
-        "room-games-off": [
-            "area",
-            "console",
-            "xbox"
-        ],
-        "room-garage": [
-            "area",
-            "config",
-            "tools"
-        ],
-        "room-garage-off": [
-            "area",
-            "config",
-            "tools"
-        ],
-        "room-guestroom": [
-            "area",
-            "bed",
-            "single"
-        ],
-        "room-guestroom-off": [
-            "area",
-            "bed",
-            "single"
-        ],
-        "room-gym": [
-            "area",
-            "exercise",
-            "weights"
-        ],
-        "room-gym-off": [
-            "area",
-            "exercise",
-            "weights"
-        ],
-        "room-hallway": [
-            "area",
-            "coat"
-        ],
-        "room-hallway-off": [
-            "area",
-            "coat"
-        ],
-        "room-kids": [
-            "area",
-            "bear",
-            "toy"
-        ],
-        "room-kids-off": [
-            "area",
-            "bear",
-            "toy"
-        ],
-        "room-kitchen": [
-            "area",
-            "cook"
-        ],
-        "room-kitchen-off": [
-            "area",
-            "cook"
-        ],
-        "room-laundry": [
-            "area",
-            "utility",
-            "washing"
-        ],
-        "room-laundry-off": [
-            "area",
-            "utility",
-            "washing"
-        ],
-        "room-living": [
-            "area",
-            "lounge",
-            "settee",
-            "sofa"
-        ],
-        "room-living-off": [
-            "area",
-            "lounge",
-            "settee",
-            "sofa"
-        ],
-        "room-lounge": [
-            "area",
-            "chaise",
-            "settee"
-        ],
-        "room-lounge-off": [
-            "area",
-            "chaise",
-            "settee"
-        ],
-        "room-nursery": [
-            "area",
-            "rocking",
-            "toys"
-        ],
-        "room-nursery-off": [
-            "area",
-            "rocking",
-            "toys"
-        ],
-        "room-office": [
-            "area",
-            "chair",
-            "work"
-        ],
-        "room-office-off": [
-            "area",
-            "chair",
-            "work"
-        ],
-        "room-other": [
-            "area",
-            "door"
-        ],
-        "room-other-off": [
-            "area",
-            "door"
-        ],
-        "room-outdoors": [
-            "area",
-            "garden",
-            "trees"
-        ],
-        "room-outdoors-off": [
-            "area",
-            "garden",
-            "trees"
-        ],
-        "room-pool": [
-            "area",
-            "swim"
-        ],
-        "room-pool-off": [
-            "area",
-            "swim"
-        ],
-        "room-porch": [
-            "area",
-            "rocking"
-        ],
-        "room-porch-off": [
-            "area",
-            "rocking"
-        ],
-        "room-recreation": [
-            "area",
-            "games",
-            "ping",
-            "toys"
-        ],
-        "room-recreation-off": [
-            "area",
-            "games",
-            "ping",
-            "toys"
-        ],
-        "room-stairs": [
-            "area",
-            "basement",
-            "upstairs"
-        ],
-        "room-stairs-off": [
-            "area",
-            "basement",
-            "upstairs"
-        ],
-        "room-storage": [
-            "area",
-            "box",
-            "filing"
-        ],
-        "room-storage-off": [
-            "area",
-            "box",
-            "filing"
-        ],
-        "room-studio": [
-            "area",
-            "easel",
-            "paint"
-        ],
-        "room-studio-off": [
-            "area",
-            "easel",
-            "paint"
-        ],
-        "room-terrace": [
-            "area",
-            "picnic"
-        ],
-        "room-terrace-off": [
-            "area",
-            "picnic"
-        ],
-        "room-toilet": [
-            "area",
-            "wc"
-        ],
-        "room-toilet-off": [
-            "area",
-            "wc"
-        ],
-        "sana": [
-            "light"
-        ],
-        "sana-alt": [
-            "light"
-        ],
-        "scene-bright": [
+            "saved",
+            "locally",
+            "outlined"
+        ],
+        "syringe-outlined": [
+            "syringe",
+            "outlined"
+        ],
+        "system-update-alt-outlined": [
+            "system",
+            "update",
+            "alt",
+            "outlined"
+        ],
+        "tab-outlined": [
+            "tab",
+            "outlined"
+        ],
+        "tab-unselected-outlined": [
+            "tab",
+            "unselected",
+            "outlined"
+        ],
+        "tabs-outlined": [
+            "tabs",
+            "outlined"
+        ],
+        "target-outlined": [
+            "target",
+            "outlined"
+        ],
+        "task-alt-outlined": [
+            "task",
+            "alt",
+            "outlined"
+        ],
+        "taunt-outlined": [
+            "taunt",
+            "outlined"
+        ],
+        "terminal-outlined": [
+            "terminal",
+            "outlined"
+        ],
+        "thumb-down-outlined": [
+            "thumb",
+            "down",
+            "outlined"
+        ],
+        "thumb-up-outlined": [
+            "thumb",
+            "up",
+            "outlined"
+        ],
+        "thumbs-up-down-outlined": [
+            "thumbs",
+            "up",
+            "down",
+            "outlined"
+        ],
+        "thunderstorm-outlined": [
+            "thunderstorm",
+            "outlined"
+        ],
+        "tibia-alt-outlined": [
+            "tibia",
+            "alt",
+            "outlined"
+        ],
+        "tibia-outlined": [
+            "tibia",
+            "outlined"
+        ],
+        "time-auto-outlined": [
+            "time",
+            "auto",
+            "outlined"
+        ],
+        "timelapse-outlined": [
+            "timelapse",
+            "outlined"
+        ],
+        "timer-10-alt-1-outlined": [
+            "timer",
+            "10",
+            "alt",
+            "1",
+            "outlined"
+        ],
+        "timer-3-alt-1-outlined": [
+            "timer",
+            "3",
+            "alt",
+            "1",
+            "outlined"
+        ],
+        "timer-outlined": [
+            "timer",
+            "outlined"
+        ],
+        "toast-outlined": [
+            "toast",
+            "outlined"
+        ],
+        "today-outlined": [
+            "today",
+            "outlined"
+        ],
+        "toggle-off-outlined": [
+            "toggle",
+            "off",
+            "outlined"
+        ],
+        "toggle-on-outlined": [
+            "toggle",
+            "on",
+            "outlined"
+        ],
+        "token-outlined": [
+            "token",
+            "outlined"
+        ],
+        "toolbar-outlined": [
+            "toolbar",
+            "outlined"
+        ],
+        "tooltip-outlined": [
+            "tooltip",
+            "outlined"
+        ],
+        "topic-outlined": [
+            "topic",
+            "outlined"
+        ],
+        "tornado-outlined": [
+            "tornado",
+            "outlined"
+        ],
+        "total-dissolved-solids-outlined": [
+            "total",
+            "dissolved",
+            "solids",
+            "outlined"
+        ],
+        "touch-app-outlined": [
+            "touch",
             "app",
-            "mood"
+            "outlined"
+        ],
+        "transcribe-outlined": [
+            "transcribe",
+            "outlined"
+        ],
+        "transgender-outlined": [
+            "transgender",
+            "outlined"
+        ],
+        "translate-outlined": [
+            "translate",
+            "outlined"
+        ],
+        "travel-explore-outlined": [
+            "travel",
+            "explore",
+            "outlined"
+        ],
+        "tsunami-outlined": [
+            "tsunami",
+            "outlined"
+        ],
+        "tune-outlined": [
+            "tune",
+            "outlined"
+        ],
+        "ulna-radius-alt-outlined": [
+            "ulna",
+            "radius",
+            "alt",
+            "outlined"
+        ],
+        "ulna-radius-outlined": [
+            "ulna",
+            "radius",
+            "outlined"
+        ],
+        "unarchive-outlined": [
+            "unarchive",
+            "outlined"
+        ],
+        "undo-outlined": [
+            "undo",
+            "outlined"
+        ],
+        "unfold-less-double-outlined": [
+            "unfold",
+            "less",
+            "double",
+            "outlined"
+        ],
+        "unfold-less-outlined": [
+            "unfold",
+            "less",
+            "outlined"
+        ],
+        "unfold-more-double-outlined": [
+            "unfold",
+            "more",
+            "double",
+            "outlined"
+        ],
+        "unfold-more-outlined": [
+            "unfold",
+            "more",
+            "outlined"
+        ],
+        "unknown-5-outlined": [
+            "unknown",
+            "5",
+            "outlined"
+        ],
+        "unknown-med-outlined": [
+            "unknown",
+            "med",
+            "outlined"
+        ],
+        "unpublished-outlined": [
+            "unpublished",
+            "outlined"
+        ],
+        "unsubscribe-outlined": [
+            "unsubscribe",
+            "outlined"
+        ],
+        "upcoming-outlined": [
+            "upcoming",
+            "outlined"
+        ],
+        "update-disabled-outlined": [
+            "update",
+            "disabled",
+            "outlined"
+        ],
+        "update-outlined": [
+            "update",
+            "outlined"
+        ],
+        "upgrade-outlined": [
+            "upgrade",
+            "outlined"
+        ],
+        "upload-file-outlined": [
+            "upload",
+            "file",
+            "outlined"
+        ],
+        "upload-outlined": [
+            "upload",
+            "outlined"
+        ],
+        "urology-outlined": [
+            "urology",
+            "outlined"
+        ],
+        "vaccines-outlined": [
+            "vaccines",
+            "outlined"
+        ],
+        "vape-free-outlined": [
+            "vape",
+            "free",
+            "outlined"
+        ],
+        "vaping-rooms-outlined": [
+            "vaping",
+            "rooms",
+            "outlined"
+        ],
+        "verified-outlined": [
+            "verified",
+            "outlined"
+        ],
+        "video-chat-outlined": [
+            "video",
+            "chat",
+            "outlined"
+        ],
+        "view-comfy-alt-outlined": [
+            "view",
+            "comfy",
+            "alt",
+            "outlined"
+        ],
+        "view-compact-alt-outlined": [
+            "view",
+            "compact",
+            "alt",
+            "outlined"
+        ],
+        "view-cozy-outlined": [
+            "view",
+            "cozy",
+            "outlined"
+        ],
+        "view-kanban-outlined": [
+            "view",
+            "kanban",
+            "outlined"
+        ],
+        "view-timeline-outlined": [
+            "view",
+            "timeline",
+            "outlined"
+        ],
+        "visibility-lock-outlined": [
+            "visibility",
+            "lock",
+            "outlined"
+        ],
+        "visibility-off-outlined": [
+            "visibility",
+            "off",
+            "outlined"
+        ],
+        "visibility-outlined": [
+            "visibility",
+            "outlined"
+        ],
+        "vital-signs-outlined": [
+            "vital",
+            "signs",
+            "outlined"
+        ],
+        "voice-chat-outlined": [
+            "voice",
+            "chat",
+            "outlined"
+        ],
+        "voice-over-off-outlined": [
+            "voice",
+            "over",
+            "off",
+            "outlined"
+        ],
+        "voicemail-outlined": [
+            "voicemail",
+            "outlined"
+        ],
+        "volcano-outlined": [
+            "volcano",
+            "outlined"
+        ],
+        "ward-outlined": [
+            "ward",
+            "outlined"
+        ],
+        "warning-off-outlined": [
+            "warning",
+            "off",
+            "outlined"
+        ],
+        "warning-outlined": [
+            "warning",
+            "outlined"
+        ],
+        "watch-screentime-outlined": [
+            "watch",
+            "screentime",
+            "outlined"
+        ],
+        "water-bottle-large-outlined": [
+            "water",
+            "bottle",
+            "large",
+            "outlined"
+        ],
+        "water-bottle-outlined": [
+            "water",
+            "bottle",
+            "outlined"
+        ],
+        "water-do-outlined": [
+            "water",
+            "do",
+            "outlined"
+        ],
+        "water-drop-outlined": [
+            "water",
+            "drop",
+            "outlined"
+        ],
+        "water-ec-outlined": [
+            "water",
+            "ec",
+            "outlined"
+        ],
+        "water-lock-outlined": [
+            "water",
+            "lock",
+            "outlined"
+        ],
+        "water-lux-outlined": [
+            "water",
+            "lux",
+            "outlined"
+        ],
+        "water-orp-outlined": [
+            "water",
+            "orp",
+            "outlined"
+        ],
+        "water-ph-outlined": [
+            "water",
+            "ph",
+            "outlined"
+        ],
+        "water-voc-outlined": [
+            "water",
+            "voc",
+            "outlined"
+        ],
+        "waving-hand-outlined": [
+            "waving",
+            "hand",
+            "outlined"
+        ],
+        "wb-sunny-outlined": [
+            "wb",
+            "sunny",
+            "outlined"
+        ],
+        "wc-outlined": [
+            "wc",
+            "outlined"
+        ],
+        "weather-hail-outlined": [
+            "weather",
+            "hail",
+            "outlined"
+        ],
+        "weather-mix-outlined": [
+            "weather",
+            "mix",
+            "outlined"
+        ],
+        "web-asset-off-outlined": [
+            "web",
+            "asset",
+            "off",
+            "outlined"
+        ],
+        "web-asset-outlined": [
+            "web",
+            "asset",
+            "outlined"
+        ],
+        "web-outlined": [
+            "web",
+            "outlined"
+        ],
+        "webhook-outlined": [
+            "webhook",
+            "outlined"
+        ],
+        "weight-outlined": [
+            "weight",
+            "outlined"
+        ],
+        "whatshot-outlined": [
+            "whatshot",
+            "outlined"
+        ],
+        "width-full-outlined": [
+            "width",
+            "full",
+            "outlined"
+        ],
+        "width-normal-outlined": [
+            "width",
+            "normal",
+            "outlined"
+        ],
+        "width-wide-outlined": [
+            "width",
+            "wide",
+            "outlined"
+        ],
+        "wifi-add-outlined": [
+            "wifi",
+            "add",
+            "outlined"
+        ],
+        "wifi-calling-outlined": [
+            "wifi",
+            "calling",
+            "outlined"
+        ],
+        "wifi-channel-outlined": [
+            "wifi",
+            "channel",
+            "outlined"
+        ],
+        "wifi-protected-setup-outlined": [
+            "wifi",
+            "protected",
+            "setup",
+            "outlined"
+        ],
+        "wifi-proxy-outlined": [
+            "wifi",
+            "proxy",
+            "outlined"
+        ],
+        "wind-power-outlined": [
+            "wind",
+            "power",
+            "outlined"
+        ],
+        "woman-2-outlined": [
+            "woman",
+            "2",
+            "outlined"
+        ],
+        "woman-outlined": [
+            "woman",
+            "outlined"
+        ],
+        "workspace-premium-outlined": [
+            "workspace",
+            "premium",
+            "outlined"
+        ],
+        "workspaces-outlined": [
+            "workspaces",
+            "outlined"
+        ],
+        "wounds-injuries-outlined": [
+            "wounds",
+            "injuries",
+            "outlined"
+        ],
+        "wrist-outlined": [
+            "wrist",
+            "outlined"
+        ],
+        "wysiwyg-outlined": [
+            "wysiwyg",
+            "outlined"
+        ],
+        "youtube-activity-outlined": [
+            "youtube",
+            "activity",
+            "outlined"
+        ],
+        "youtube-searched-for-outlined": [
+            "youtube",
+            "searched",
+            "for",
+            "outlined"
+        ],
+        "zoom-in-outlined": [
+            "zoom",
+            "in",
+            "outlined"
+        ],
+        "zoom-out-outlined": [
+            "zoom",
+            "out",
+            "outlined"
         ],
-        "scene-concentrate": [
-            "app",
-            "mood"
-        ],
-        "scene-dimmed": [
-            "app",
-            "mood"
-        ],
-        "scene-energize": [
-            "app",
-            "mood"
-        ],
-        "scene-natural-light": [
-            "app",
-            "mood"
-        ],
-        "scene-nightlight": [
-            "app",
-            "mood"
-        ],
-        "scene-read": [
-            "app",
-            "mood"
-        ],
-        "scene-relax": [
-            "app",
-            "mood"
-        ],
-        "scene-rest": [
-            "app",
-            "mood"
-        ],
-        "signe": [
-            "light"
-        ],
-        "signe-gradient-floor": [
-            "light"
-        ],
-        "signe-gradient-floor-off": [
-            "light"
-        ],
-        "signe-gradient-table": [
-            "light"
-        ],
-        "single-spot": [
-            "ceiling",
-            "light"
-        ],
-        "socket-eu": [
-            "infrastructure",
-            "light"
-        ],
-        "socket-uk": [
-            "infrastructure",
-            "light"
-        ],
-        "socket-us": [
-            "infrastructure",
-            "light"
-        ],
-        "struana": [
-            "bathroom",
-            "ceiling",
-            "light"
-        ],
-        "struana-alt": [
-            "bathroom",
-            "ceiling",
-            "light"
-        ],
-        "sync-box": [
-            "light",
-            "media"
-        ],
-        "sync-box-alt": [
-            "light",
-            "media"
-        ],
-        "sync-box-alt-off": [
-            "light",
-            "media"
-        ],
-        "sync-box-off": [
-            "light",
-            "media"
-        ],
-        "sync-high": [
-            "light",
-            "media"
-        ],
-        "sync-high-off": [
-            "light",
-            "media"
-        ],
-        "sync-intense": [
-            "light",
-            "media"
-        ],
-        "sync-intense-off": [
-            "light",
-            "media"
-        ],
-        "sync-moderate": [
-            "light",
-            "media"
-        ],
-        "sync-moderate-off": [
-            "light",
-            "media"
-        ],
-        "sync-music": [
-            "light",
-            "media"
-        ],
-        "sync-music-alt": [
-            "light",
-            "media"
-        ],
-        "sync-music-alt-off": [
-            "light",
-            "media"
-        ],
-        "sync-music-off": [
-            "light",
-            "media"
-        ],
-        "sync-subtle": [
-            "light",
-            "media"
-        ],
-        "sync-subtle-off": [
-            "light",
-            "media"
-        ],
-        "table-cylinder-lamp": [
-            "light"
-        ],
-        "table-shade": [
-            "lamp",
-            "light"
-        ],
-        "table-wash": [
-            "floor",
-            "light"
-        ],
-        "table-wash-off": [
-            "floor",
-            "light"
-        ],
-        "tap": [
-            "light",
-            "switch"
-        ],
-        "tap-dial": [
-            "light",
-            "switch"
-        ],
-        "upstairs": [
-            "area",
-            "light"
-        ],
-        "wall-appear": [
-            "exterior",
-            "light"
-        ],
-        "wall-appear-group": [
-            "exterior",
-            "light"
-        ],
-        "wall-appear-group-off": [
-            "exterior",
-            "light"
-        ],
-        "wall-appear-off": [
-            "exterior",
-            "light"
-        ],
-        "wall-attract": [
-            "exterior",
-            "light"
-        ],
-        "wall-econic": [
-            "exterior",
-            "light"
-        ],
-        "wall-econic-lantern": [
-            "exterior",
-            "light"
-        ],
-        "wall-econic-lantern-base": [
-            "exterior",
-            "light"
-        ],
-        "wall-econic-lantern-top": [
-            "exterior",
-            "light"
-        ],
-        "wall-flood": [
-            "exterior",
-            "light"
-        ],
-        "wall-fuzo": [
-            "exterior",
-            "light"
-        ],
-        "wall-fuzo-h": [
-            "exterior",
-            "light"
-        ],
-        "wall-impress": [
-            "exterior",
-            "light"
-        ],
-        "wall-impress-narrow": [
-            "exterior",
-            "light"
-        ],
-        "wall-impress-narrow-three": [
-            "exterior",
-            "light"
-        ],
-        "wall-impress-narrow-two": [
-            "exterior",
-            "light"
-        ],
-        "wall-inara": [
-            "exterior",
-            "light"
-        ],
-        "wall-inara-alt": [
-            "exterior",
-            "light"
-        ],
-        "wall-lantern": [
-            "exterior",
-            "light"
-        ],
-        "wall-lantern-off": [
-            "exterior",
-            "light"
-        ],
-        "wall-lucca": [
-            "exterior",
-            "light"
-        ],
-        "wall-lucca-alt": [
-            "exterior",
-            "light"
-        ],
-        "wall-lucca-alt-below": [
-            "exterior",
-            "light"
-        ],
-        "wall-lucca-alt-below-off": [
-            "exterior",
-            "light"
-        ],
-        "wall-lucca-alt-off": [
-            "exterior",
-            "light"
-        ],
-        "wall-lucca-off": [
-            "exterior",
-            "light"
-        ],
-        "wall-nyro": [
-            "exterior",
-            "light"
-        ],
-        "wall-resonate": [
-            "exterior",
-            "light"
-        ],
-        "wall-runner": [
-            "light",
-            "spot"
-        ],
-        "wall-shade": [
-            "lamp",
-            "light"
-        ],
-        "wall-spot": [
-            "light"
-        ],
-        "wall-spot-off": [
-            "light"
-        ],
-        "wall-switch-module": [
-            "switch"
-        ],
-        "wall-tuar": [
-            "exterior",
-            "light"
-        ],
-        "wall-turaco": [
-            "exterior",
-            "light"
-        ],
-        "wellner": [
-            "light",
-            "table"
-        ],
-        "wellner-solid": [
-            "light",
-            "table"
-        ],
-        "wellner-solid-off": [
-            "light",
-            "table"
-        ],
-        "wellness": [
-            "light",
-            "table"
-        ],
-        "wellness-off": [
-            "light",
-            "table"
-        ]
     }
 }
