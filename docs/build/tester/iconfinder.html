@@ -21,7 +21,7 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="styles.css" rel="stylesheet">
-    <script src="../../../dist/hass-hue-icons.js"></script>
+    <script src="../../../dist/material-symbols.js"></script>
     <script src="iconfinder.js"></script>
 </head>
 <body data-ng-controller="AppCtrl" data-ng-app="aaIconFinder">
@@ -31,7 +31,7 @@
             <md-card-title layout="row">
                 <md-card-title-text flex="">
                     <span class="md-headline">
-                        <span data-ng-if="!externalLibrary">Hass Hue Icons </span>
+                        <span data-ng-if="!externalLibrary">Material Symbols </span>
                         <span data-ng-if="externalLibrary">Icon Library </span>
                         Cheat Sheet
                     </span>
@@ -45,7 +45,7 @@
                             </span>
                             <span data-ng-if="!activeExternalLibrary">
                                 The cheat sheet is using an <a data-ng-href="{{externalLibrary}}" target="_blank">external script</a>.
-                            </span>To revert to hass-hue-icons, click <a href="iconfinder.html">here</a>.
+                            </span>To revert to material-symbols, click <a href="iconfinder.html">here</a>.
                         </div>
                     </span>
                 </md-card-title-text>
@@ -63,7 +63,7 @@
                         <md-menu-divider data-ng-if="externalLibrary"></md-menu-divider>
                         <md-menu-item data-ng-if="externalLibrary">
                             <md-button ng-click="newWindow()">
-                                <strong>Hass Hue Icons</strong> by arallsopp
+                                <strong>Material Symbols</strong> by arallsopp
                             </md-button>
                         </md-menu-item>
                     </md-menu-content>
@@ -99,7 +99,7 @@
                      class="no-margin-card">
                 <md-card-title>
                     <md-card-title-text>
-                        <span class="md-headline"><span data-ng-if="!externalLibrary">hue:</span>{{icon.name}}</span>
+                        <span class="md-headline"><span data-ng-if="!externalLibrary">m3s:</span>{{icon.name}}</span>
                         <span class="md-subhead">{{icon.aliases}}</span>
                     </md-card-title-text>
                     <md-card-title-media>
