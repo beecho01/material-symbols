@@ -1,7 +1,7 @@
 <?php
 // Run this to regenerate the documentation and script from svgs in the svg and custom_svg folders
 
-class HassHueIcon{
+class MaterialSymbols{
     public $path;
     public $name;
     public $modified_at;
@@ -62,7 +62,7 @@ class IconLibrary{
             if($count++ > $limit) return;
 
             $this->output_string_latest_icons .=
-                '| ![hue:' . basename($file,'.svg') . '](https://raw.githubusercontent.com/arallsopp/hass-hue-icons/main/docs/custom_svgs/' . basename($file) . ')| hue:' . basename($file,'.svg') . '|' . PHP_EOL;
+                '| ![m3s:' . basename($file,'.svg') . '](https://raw.githubusercontent.com/beecho01/material-symbols/main/docs/svgs/' . basename($file) . ')| m3s:' . basename($file,'.svg') . '|' . PHP_EOL;
         }
     }
 
@@ -77,7 +77,7 @@ class IconLibrary{
     public function find_version(){
 
         $this->script_file_contents = file_get_contents($this->script_file_path);
-        $re = '/HASS-HUE-ICONS\s+%c Version (.*) /m';
+        $re = '/MATERIAL-SYMBOLS\s+%c Version (.*) /m';
 
         preg_match_all($re, $this->script_file_contents, $matches, PREG_SET_ORDER, 0);
 
@@ -92,8 +92,8 @@ class IconLibrary{
 
         $this->script_file_contents = file_get_contents($this->script_file_path);
 
-        $re = '/const HUE_ICONS_MAP = {.*?};/s';
-        $subst = 'const HUE_ICONS_MAP = {' . PHP_EOL;
+        $re = '/const MATERIAL_SYMBOLS_MAP = {.*?};/s';
+        $subst = 'const MATERIAL_SYMBOLS_MAP = {' . PHP_EOL;
 
 
         // combine the two objects
@@ -114,7 +114,7 @@ class IconLibrary{
             $subst .= PHP_EOL . '  "' . $icon->name . '":{' . PHP_EOL . '    path:"' . $icon->path . '", ' . PHP_EOL . '    keywords: [' . $icon_aliases_as_array_vals . ']' . PHP_EOL . '  },';
 
             //update entity table
-            $entity_table .= '<tr' . ($icon_aliases_as_array_vals == '"light"' ? ' style="background:#f3d1d1"' : '') . '><td><img src="../' . (file_exists( '../svgs/' . $icon->name . '.svg') ? 'svgs/'  : 'custom_svgs/') . $icon->name . '.svg"</td><th>' . $icon->name . '</th><td>' . $icon_aliases_as_array_vals . '</td></tr>';
+            $entity_table .= '<tr' . ($icon_aliases_as_array_vals == '"light"' ? ' style="background:#f3d1d1"' : '') . '><td><img src="../' . (file_exists( '../svgs/' . $icon->name . '.svg') ? 'svgs/'  : 'svgs/') . $icon->name . '.svg"</td><th>' . $icon->name . '</th><td>' . $icon_aliases_as_array_vals . '</td></tr>';
 
             //todo: update the object here so that you have the meta?
             //even better, make it build the properties logically, then spit out the file system changes, etc.
@@ -129,8 +129,8 @@ class IconLibrary{
 
         if(!is_null($this->version)){
             //write the version tag to the script
-            $re = '/HASS-HUE-ICONS\s+%c Version [\d]+\.[\d]+\.[\d]+/m';
-            $subst = 'HASS-HUE-ICONS %c Version ' . (isset($this->new_version)
+            $re = '/material-symbols\s+%c Version [\d]+\.[\d]+\.[\d]+/m';
+            $subst = 'material-symbols %c Version ' . (isset($this->new_version)
                     ? $this->new_version
                     : $this->version);
             $this->script_file_contents = preg_replace($re, $subst, $this->script_file_contents);
@@ -171,40 +171,19 @@ class IconLibrary{
 
         //do the hue icons
         foreach ($this->default_icon_set as $icon){
-            $subst .=  ($new_row ? PHP_EOL . '|' : '') . ' ![hue:' . $icon->name . '](https://raw.githubusercontent.com/arallsopp/hass-hue-icons/main/docs/svgs/' . $icon->name . '.svg)| hue:' . $icon->name . ' |';
+            $subst .=  ($new_row ? PHP_EOL . '|' : '') . ' ![hue:' . $icon->name . '](https://raw.githubusercontent.com/beecho01/material-symbols/main/docs/svgs/' . $icon->name . '.svg)| hue:' . $icon->name . ' |';
             $new_row = !$new_row;
         }
-        $re = '/\(Start Hue Icons\).*\(End Hue Icons\)/s';
-        $subst .= PHP_EOL . PHP_EOL . '[//]: # (End Hue Icons)';
+        $re = '/\(Start Material Symbols\).*\(End Material Symbols\)/s';
+        $subst .= PHP_EOL . PHP_EOL . '[//]: # (End Material Symbols)';
         $readme = preg_replace($re, $subst, $this->readme_file_contents);
         if(!$new_row){
             $subst .= '| |';
         }
 
-        $subst = '(Start Custom Icons)' . PHP_EOL . PHP_EOL . '| Icon | Name | Icon | Name ' . PHP_EOL . '| :--- | :--- | :--- | :--- |' ;
-        $new_row = true;
-
-        //do the custom icons
-        foreach ($this->custom_icon_set as $icon){
-            $subst .=  ($new_row ? PHP_EOL . '|' : '') . ' ![hue:' . $icon->name . '](https://raw.githubusercontent.com/arallsopp/hass-hue-icons/main/docs/custom_svgs/' . $icon->name . '.svg)| hue:' . $icon->name . ' |';
-            $new_row = !$new_row;
-        }
-        if(!$new_row){
-            $subst .= '| |';
-        }
-
-        $re = '/\(Start Custom Icons\).*\(End Custom Icons\)/s';
-        $subst .= PHP_EOL . PHP_EOL . '[//]: # (End Custom Icons)';
-        $this->readme_file_contents = preg_replace($re, $subst, $this->readme_file_contents);
-
         // update the icon counts
-        $re = '/(hass-hue-icons includes) (\d+) (Hue icons)/';
+        $re = '/(material-symbols includes) (\d+) (Material Symbols)/';
         $subst = '$1 ' . sizeof($this->default_icon_set) . ' $3';
-        $this->readme_file_contents = preg_replace($re, $subst, $this->readme_file_contents, 1);
-
-        // update the icon counts
-        $re = '/(hass-hue-icons includes) (\d+) (custom icons)/';
-        $subst = '$1 ' . sizeof($this->custom_icon_set) . ' $3';
         $this->readme_file_contents = preg_replace($re, $subst, $this->readme_file_contents, 1);
 
         file_put_contents($this->readme_file_path,$this->readme_file_contents);
@@ -256,7 +235,7 @@ class IconLibrary{
                     $item_path = str_replace(array("\r", "\n", "\t"), ' ', $item->path);
                     $item_path = str_replace("  "," ",$item_path);
                     $item_path = $this->flag_if_more_than_two_decimal_places($item_path,$name);
-                    $optimised_output = '<svg viewBox="0 0 24 24" fill="#44739e" xmlns="http://www.w3.org/2000/svg"><title>hue:' . $item->name . '</title><desc>Source: https://github.com/arallsopp/hass-hue-icons</desc><path d="' . $item_path . '"/></svg>';
+                    $optimised_output = '<svg viewBox="0 0 24 24" fill="#44739e" xmlns="http://www.w3.org/2000/svg"><title>m3s:' . $item->name . '</title><desc>Source: https://github.com/beecho01/material-symbols</desc><path d="' . $item_path . '"/></svg>';
                     if ($content !== $optimised_output) {
                         file_put_contents($file, $optimised_output);
                     }
@@ -276,7 +255,7 @@ ini_set('display_errors','on');
 
 $myIconLibrary = new IconLibrary();
 $myIconLibrary->setReadmeFile('../../README.md');
-$myIconLibrary->setScriptFile('../../dist/hass-hue-icons.js');
+$myIconLibrary->setScriptFile('../../dist/material-symbols.js');
 $myIconLibrary->setNewVersion(isset($_GET['v']) ? $_GET['v'] : null);
 $myIconLibrary->find_version();
 $version_components = explode('.',$myIconLibrary->version);
@@ -314,9 +293,9 @@ echo '<strong>' . $limit . ' LATEST ICONS</strong><br/><textarea>' . $myIconLibr
 $myIconLibrary->default_icon_set = $myIconLibrary->read_files('../svgs/');
 $myIconLibrary->custom_icon_set = $myIconLibrary->read_files('../custom_svgs/');
 
-echo '<p><b>RELEASE NOTES</b><br/><textarea style="height:40px">Thanks for the suggestion. As always, feel free to raise an [icon request](https://github.com/arallsopp/hass-hue-icons/issues/new/choose) for any other hue fixtures or combinations you\'re missing.</textarea></p>';
+echo '<p><b>RELEASE NOTES</b><br/><textarea style="height:40px">Thanks for the suggestion. As always, feel free to raise an [icon request](https://github.com/beecho01/material-symbols/issues/new/choose) for any other hue fixtures or combinations you\'re missing.</textarea></p>';
 echo '<p><b>FEATURE REQUEST NOTES</b><br/>
-      <textarea>Thanks. Its in release [v' . $myIconLibrary->new_version . '](https://github.com/arallsopp/hass-hue-icons/releases/tag/v' . $myIconLibrary->new_version .').' . PHP_EOL .
+      <textarea>Thanks. Its in release [v' . $myIconLibrary->new_version . '](https://github.com/beecho01/material-symbols/releases/tag/v' . $myIconLibrary->new_version .').' . PHP_EOL .
       '### Want to help the community?' . PHP_EOL .
       'If you like what you see and want to help others discover this repo, please consider giving it a free star. Every one of the ' . sizeof($myIconLibrary->custom_icon_set) . ' custom icons has been driven by a community request just like yours, and stars help people find this repo.' . PHP_EOL .
       '### Want to get involved?' . PHP_EOL .
