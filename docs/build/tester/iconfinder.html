@@ -7,16 +7,16 @@
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
 
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.6/angular.min.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.6/angular-animate.min.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.6/angular-aria.min.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.6/angular-messages.min.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.6/angular-cookies.min.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.7.6/angular-sanitize.min.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/angular_material/1.1.12/angular-material.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-animate.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-aria.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-messages.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-cookies.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-sanitize.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angular_material/1.2.5/angular-material.min.js"></script>
     <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-114/svg-assets-cache.js"></script>
 
-    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/angular_material/1.1.12/angular-material.min.css">
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/angular_material/1.2.5/angular-material.min.css">
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
@@ -63,7 +63,7 @@
                         <md-menu-divider data-ng-if="externalLibrary"></md-menu-divider>
                         <md-menu-item data-ng-if="externalLibrary">
                             <md-button ng-click="newWindow()">
-                                <strong>Material Symbols</strong> by arallsopp
+                                <strong>Material Symbols</strong> by beecho01
                             </md-button>
                         </md-menu-item>
                     </md-menu-content>
@@ -82,9 +82,11 @@
                 </md-input-container>
                 <div data-ng-if="!externalLibrary">
                     Examples:
-                    <md-button class="md-raised btn-xs md-primary" data-ng-click="updateSearchTerm('spot')">spot</md-button>
-                    <md-button class="md-raised btn-xs md-primary" data-ng-click="updateSearchTerm('pendant')">pendant</md-button>
-                    <md-button class="md-raised btn-xs md-primary" data-ng-click="updateSearchTerm('ceiling')">ceiling</md-button>
+                    <md-button class="md-raised btn-xs md-primary" data-ng-click="updateSearchTerm('navigate')">navigate</md-button>
+					<md-button class="md-raised btn-xs md-primary" data-ng-click="updateSearchTerm('outlined')">outlined</md-button>
+					<md-button class="md-raised btn-xs md-primary" data-ng-click="updateSearchTerm('filled')">filled</md-button>
+                    <md-button class="md-raised btn-xs md-primary" data-ng-click="updateSearchTerm('rounded')">rounded</md-button>
+                    <md-button class="md-raised btn-xs md-primary" data-ng-click="updateSearchTerm('sharp')">sharp</md-button>
                 </div>
             </md-card-content>
         </md-card>
