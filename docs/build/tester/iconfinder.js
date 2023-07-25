@@ -19,6 +19,11 @@ app.controller('AppCtrl', ['$scope', '$http','$mdToast',
             url: 'https://cdn.jsdelivr.net/gh/Mariusthvdb/custom-icons/custom-icons.js',
             author: 'Mariusthvdb',
             repo: 'https://github.com/Mariusthvdb/custom-icons'
+        }, {
+            name: 'hass-hue-icons',
+            url: 'https://cdn.jsdelivr.net/gh/arallsopp/hass-hue-icons/dist/hass-hue-icons.js',
+            author: 'arallsopp',
+            repo: 'https://github.com/arallsopp/hass-hue-icons'
         }];
         $scope.activeExternalLibrary = false;
 
@@ -168,5 +173,3 @@ app.controller('AppCtrl', ['$scope', '$http','$mdToast',
         $scope.init();
     }
 ]);
-
-
