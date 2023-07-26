@@ -12459,16 +12459,13 @@ const MATERIAL_SYMBOLS_MAP = {
   }
   
   window.customIcons = window.customIcons || {};
-  window.customIcons[("m3s", "outlined")] = {
-    getIcon,
-    getIconList,
-  };
+  window.customIcons["m3s"] = { getIcon, getIconList };
   
   window.customIconsets = window.customIconsets || {};
-  window.customIconsets[("m3s", "outlined")] = getIcon;
+  window.customIconsets["m3s"] = getIcon;
   
   console.info(
-    `%c MATERIAL-SYMBOLS %c Version 0.0.2 `,
+    `%c MATERIAL-SYMBOLS %c Version 0.1.1 `,
     "color: orange; font-weight: bold; background: black",
     "color: white; font-weight: bold; background: dimgray",
   );
