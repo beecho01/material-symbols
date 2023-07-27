@@ -6,9 +6,9 @@
   <br>
   <br>
   <a href="https://img.shields.io/github/v/release/beecho01/material-symbols"><img src="https://img.shields.io/github/v/release/beecho01/material-symbols"></a> &nbsp
-  <img src="https://img.shields.io/github/size/beecho01/material-symbols/dist/material-symbols.js?label=plugin%20size">
-  <img src="https://img.shields.io/github/last-commit/beecho01/material-symbols">
-  <a href="https://github.com/beecho01/material-symbols/issues?q=is%3Aclosed+label%3A"icon+request"> <img src="https://img.shields.io/github/issues-closed/beecho01/material-symbols/icon%20request?label=community%20requests"></a>
+  <img src="https://img.shields.io/github/size/beecho01/material-symbols/dist/material-symbols.js?label=plugin%20size"> &nbsp
+  <img src="https://img.shields.io/github/last-commit/beecho01/material-symbols"> &nbsp
+  <a href="https://github.com/beecho01/material-symbols/issues?q=is%3Aclosed+label%3A"icon+request"><img src="https://img.shields.io/github/issues-closed/beecho01/material-symbols/icon%20request?label=community%20requests"></a>
   <br>
   <br>
   <br>
