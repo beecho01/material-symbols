@@ -1,7 +1,7 @@
 # HomeAssistant Material Symbols
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
 
-[![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration)
+<!-- [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration) -->
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/beecho01/material-symbols)](https://github.com/beecho01/material-symbols/releases)
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 ![GitHub file size in bytes](https://img.shields.io/github/size/beecho01/material-symbols/dist/material-symbols.js?label=plugin%20size)
