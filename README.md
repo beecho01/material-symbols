@@ -1,7 +1,7 @@
 # HomeAssistant Material Symbols
 <div align="left">
-  <img src="badges/built-for-homeassistant.svg"> &nbsp
-  <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="badges/license-cc-by-nc-sa-4.0.svg"></a> &nbsp
+  <img src="docs/badges/built-for-homeassistant.svg"> &nbsp
+  <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="docs/badges/license-cc-by-nc-sa-4.0.svg"></a> &nbsp
   <a href="https://img.shields.io/github/v/release/beecho01/material-symbols"><img src="https://img.shields.io/github/v/release/beecho01/material-symbols"></a> &nbsp
   <img src="https://img.shields.io/github/size/beecho01/material-symbols/dist/material-symbols.js?label=plugin%20size">
   <img src="https://img.shields.io/github/last-commit/beecho01/material-symbols">
