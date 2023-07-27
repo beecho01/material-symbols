@@ -1,17 +1,16 @@
 # HomeAssistant Material Symbols
-![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)
+<div align="left">
+  <img src="badges/built-for-homeassistant.svg"> &nbsp
+  <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="badges/license-cc-by-nc-sa-4.0.svg"></a> &nbsp
+  <a href="https://img.shields.io/github/v/release/beecho01/material-symbols"><img src="https://img.shields.io/github/v/release/beecho01/material-symbols"></a> &nbsp
+  <img src="https://img.shields.io/github/size/beecho01/material-symbols/dist/material-symbols.js?label=plugin%20size">
+  <img src="https://img.shields.io/github/last-commit/beecho01/material-symbols">
+  <a href="https://github.com/beecho01/material-symbols/issues?q=is%3Aclosed+label%3A"icon+request"> <img src="https://img.shields.io/github/issues-closed/beecho01/material-symbols/icon%20request?label=community%20requests"></a>
+  <br>
+  <br>
+</div>
 
 <!-- [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration) -->
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/beecho01/material-symbols)](https://github.com/beecho01/material-symbols/releases)
-[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
-![GitHub file size in bytes](https://img.shields.io/github/size/beecho01/material-symbols/dist/material-symbols.js?label=plugin%20size)
-![GitHub last commit](https://img.shields.io/github/last-commit/beecho01/material-symbols)
-[![GitHub closed issues by-label](https://img.shields.io/github/issues-closed/beecho01/material-symbols/icon%20request?label=community%20requests)](https://github.com/beecho01/material-symbols/issues?q=is%3Aclosed+label%3A"icon+request")
-
-[cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
-[cc-by-nc-sa-image]: https://licensebuttons.net/l/by-nc-sa/4.0/88x31.png
-[cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
-
 
 Inspired by the Material Symbols by Google for personal use only.
 
