@@ -16,7 +16,7 @@
 
 <!-- [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration) -->
 
-Material Symbols includes 18620 SVG icon files modelled upon the Google Webfont Material Symbols for personal use only.
+Material Symbols includes 18620 SVG icon files modelled upon the Google Material Symbols and is for personal use only.
 
 Material Symbols uses the new 'keywords' functionality to help you find specific fixtures. Try searching in the Home Assistant iconpicker for 'pendant' or 'switch'. Material Symbols also offers a [standalone preview tool](https://beecho01.github.io/material-symbols/docs/build/tester/iconfinder.html).
 
