@@ -16,7 +16,9 @@
 
 <!-- [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration) -->
 
-Inspired by the Material Symbols by Google for personal use only.
+Material Symbols includes 18620 SVG icon files modelled upon the Google Webfont Material Symbols for personal use only.
+
+Material Symbols uses the new 'keywords' functionality to help you find specific fixtures. Try searching in the Home Assistant iconpicker for 'pendant' or 'switch'. Material Symbols also offers a [standalone preview tool](https://beecho01.github.io/material-symbols/docs/build/tester/iconfinder.html).
 
 ## <a name="installation"></a>Installation
 
@@ -50,7 +52,7 @@ frontend:
 - Save, restart Home Assistant.
 
 
-## Usage
+## <a name="Usage"></a>Usage
 - In your entity editor, specify an icon as `m3s:<icon-name>-<style>`
 - If you set `state_color: true` in your card, you'll see the icons get colorised based upon the current RGB setting.
 
@@ -66,18 +68,7 @@ entities:
     icon: m3s:switches-outlined
 ```
 
-## Icons
-
-### Material Symbols
-
-Material Symbols includes ?? icons modelled upon the Google Webfont Material Symbols for personal use
-
-[//]: # (Start Material Symbols)
-
-| Icon | Name | Icon | Name 
-| :--- | :--- | :--- | :--- |
-
-[//]: # (End Material Symbols)
+## <a name="FAQ"></a>FAQ
 
 ### Icon Requests?
 Your light not there? Let me know what's missing by raising a [Custom Icon Request](https://github.com/beecho01/material-symbols/issues/new?assignees=beecho01&labels=icon+request&template=custom-icon-request.md&title=Icon%20Request%20%5Bname%20of%20fixture%5D).
@@ -85,15 +76,10 @@ Your light not there? Let me know what's missing by raising a [Custom Icon Reque
 ### Sample Dash
 With view icons and state color applied. Play bars are offline.
 
-### Finding Icons
-Hass Material Symbols uses the new 'keywords' functionality to help you find specific fixtures. Try searching in the Home Assistant iconpicker for 'pendant' or 'switch'.
-
-Material Symbols also offers a [standalone preview tool](https://beecho01.github.io/material-symbols/docs/build/tester/iconfinder.html). Take a look.
-
 ### Discussion:
 There's a thread over at the [home assistant forums](https://community.home-assistant.io/) that tracks this repo.
 
-## Troubleshooting:
+## <a name="Troubleshooting"></a>Troubleshooting
 
 ### Can't ever see the icons?
 If you cannot see the new icons, or you get an empty box where you're expecting an icon, flush your network cache.
@@ -109,7 +95,7 @@ Did you add the frontend extra_module_url in your configuration.yaml? See the [i
 - Everyone who has helped make this repo so broad by raising an [Icon Request](https://github.com/beecho01/material-symbols/issues/new?assignees=beecho01&labels=icon+request&template=custom-icon-request.md&title=Icon%20Request%20%5Bname%20of%20fixture%5D).
 
 ### Stargazers
-[![Stargazers repo roster for @beecho01/Material Symbols](https://reporoster.com/stars/beecho01/Material Symbols)](https://github.com/beecho01/material-symbols/stargazers)
+[![Stargazers repo roster for @beecho01/material-symbols](https://reporoster.com/stars/beecho01/material-symbols)](https://github.com/beecho01/material-symbols/stargazers)
 
 ---
 
