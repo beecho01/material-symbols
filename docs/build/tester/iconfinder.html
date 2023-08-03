@@ -3,7 +3,14 @@
 
 <head>
     <title>Icon Finder</title>
-    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale = 1.0, user-scalable = no">
+    <script>
+        var viewMode = getCookie("view-mode");
+        if (viewMode == "desktop") {
+            viewport.setAttribute('content', 'width=1080');
+        } else if (viewMode == "mobile") {
+            viewport.setAttribute('content', 'width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no');
+        }
+    </script>
     <meta name="apple-mobile-web-app-capable" content="yes">
     <meta name="mobile-web-app-capable" content="yes">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
@@ -27,7 +34,6 @@
     <link href="styles.css" rel="stylesheet">
     <script src="../../../dist/material-symbols.js"></script>
     <script src="iconfinder.js"></script>
-
 </head>
 
 <body data-ng-controller="AppCtrl" data-ng-app="aaIconFinder">
@@ -112,12 +118,8 @@
                 </md-card-content>
             </md-card>
             <md-content layout="row" layout-align="center" layout-wrap="">
-                <md-card data-ng-repeat="icon in icons | filter:matchesSearchTerm" 
-                        flex-sm="98"
-                        flex-md="48"
-                        flex-lg="30" 
-                        flex-gt-lg="23" 
-                        class="no-margin-card">
+                <md-card data-ng-repeat="icon in icons | filter:matchesSearchTerm" flex-sm="98" flex-md="48"
+                    flex-lg="30" flex-gt-lg="23" class="no-margin-card">
                     <md-card-title>
                         <md-card-title-media>
                             <div class="md-media-xl card-media">
