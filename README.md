@@ -20,6 +20,20 @@ Material Symbols includes 18620 SVG icon files modelled upon the Google Material
 
 Material Symbols uses the new 'keywords' functionality to help you find specific fixtures. Try searching in the Home Assistant iconpicker for 'pendant' or 'switch'. Material Symbols also offers a [standalone preview tool](https://beecho01.github.io/material-symbols/docs/build/tester/iconfinder.html).
 
+---
+
+## Table of contents
+
+- [Installation](#installation)
+- [Usage](#Usage)
+- [FAQ](#FAQ)
+- [Troubleshooting](#Troubleshooting)
+- [Community](#community)
+- [Thanks](#thanks)
+- [Copyright and license](#copyright-and-license)
+
+---
+
 ## <a name="installation"></a>Installation
 
 Unfortunately Material Symbols has not yet been accepted into the [Home Assistant Community Store (HACS)](https://hacs.xyz).
@@ -51,6 +65,7 @@ frontend:
 
 - Save, restart Home Assistant.
 
+---
 
 ## <a name="Usage"></a>Usage
 - In your entity editor, specify an icon as `m3s:<icon-name>-<style>`
@@ -68,6 +83,8 @@ entities:
     icon: m3s:switches-outlined
 ```
 
+---
+
 ## <a name="FAQ"></a>FAQ
 
 ### Icon Requests?
@@ -75,9 +92,6 @@ Your light not there? Let me know what's missing by raising a [Custom Icon Reque
 
 ### Sample Dash
 With view icons and state color applied. Play bars are offline.
-
-### Discussion:
-There's a thread over at the [home assistant forums](https://community.home-assistant.io/) that tracks this repo.
 
 ## <a name="Troubleshooting"></a>Troubleshooting
 
@@ -87,7 +101,14 @@ If you cannot see the new icons, or you get an empty box where you're expecting 
 ### Icons don't show on first load of the dash?
 Did you add the frontend extra_module_url in your configuration.yaml? See the [installation section](#installation) for details.
 
-## Thanks and Props
+---
+
+### <a name="community"></a>Community
+There's a thread over at the [home assistant forums](https://community.home-assistant.io/) that tracks this repo.
+
+---
+
+## <a name="thanks"></a>Thanks
 - Big thanks to @arallsopp for his repository and work he's undertaken, I have used it as a basis of this repository
 - @hulkhaugen and @thomasloven for the technique.
 - @ludeeus for the installation guidance.
@@ -99,7 +120,7 @@ Did you add the frontend extra_module_url in your configuration.yaml? See the [i
 
 ---
 
-### License
+### <a name="copyright-and-license"></a>Copyright and license
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
