@@ -1,27 +1,29 @@
 <div align="center">
     <img src="https://github.com/beecho01/material-symbols/blob/main/docs/build/tester/images/Screenshot%202023-08-04%20202906.png">
-     <h1 align="center">Material Symbols for HomeAssistant</h1>
+     <h1 align="center">Material Symbols for Home Assistant</h1>
 </div>
 
 ---
 
-Material Symbols includes 18620 SVG icon files modelled upon the Google Material Symbols and is for personal use only.
+Material Symbols for Home Assistant is collection of 18620 Google Material Symbols files for use within Home Assistant.
 
-Material Symbols uses the new 'keywords' functionality to help you find specific fixtures. Try searching in the Home Assistant iconpicker for 'pendant' or 'switch'. Material Symbols also offers a [standalone preview tool](https://beecho01.github.io/material-symbols/docs/build/tester/iconfinder.html).
+This repository has a [Preview Tool](https://beecho01.github.io/material-symbols/docs/build/tester/iconfinder.html) that can be used to assist in picking the correct the icon. This preview tool uses keywords to help you find icons matching your need for use for YAML configuration or UI interface. Simply type in what you are looking for and copy the icon string, starting "m3s:" for use.
+
+Please be aware that this tool has a couple of issues I am working on to resolve:
+- Slow seaching due to large number of icons
+- A number of icons appear blank due to an SVG "viewbox" issue
 
 ---
 
 <div align="left">
   <br>
-  <img src="docs/badges/built-for-homeassistant.svg"> &nbsp
-  <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://forthebadge.com/images/badges/cc-nc-sa.svg"></a> &nbsp
-  <br>
-  <br>
+  <img src="https://img.shields.io/badge/built_for-Home_Assistant-47BFF5?style=for-the-badge"> &nbsp
+  <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-lightgrey?style=for-the-badge"></a> &nbsp
+  <img src="https://img.shields.io/github/downloads/beecho01/material-symbols/total?style=for-the-badge"> &nbsp
   <img src="https://img.shields.io/github/v/release/beecho01/material-symbols?style=for-the-badge"> &nbsp
   <img src="https://img.shields.io/github/size/beecho01/material-symbols/dist%2Fmaterial-symbols.js?style=for-the-badge"> &nbsp
   <img src="https://img.shields.io/github/last-commit/beecho01/material-symbols?style=for-the-badge"> &nbsp
   <img src="https://img.shields.io/github/issues-closed/beecho01/material-symbols/icon%20request?label=community%20requests&style=for-the-badge">
-  <br>
   <br>
   <br>
 </div>
