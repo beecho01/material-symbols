@@ -1,4 +1,16 @@
-# HomeAssistant Material Symbols
+<div align="center">
+    <img src="https://github.com/beecho01/material-symbols/blob/main/docs/build/tester/images/Screenshot%202023-08-04%20202906.png">
+     <h1 align="center">Material Symbols for HomeAssistant</h1>
+</div>
+
+---
+
+Material Symbols includes 18620 SVG icon files modelled upon the Google Material Symbols and is for personal use only.
+
+Material Symbols uses the new 'keywords' functionality to help you find specific fixtures. Try searching in the Home Assistant iconpicker for 'pendant' or 'switch'. Material Symbols also offers a [standalone preview tool](https://beecho01.github.io/material-symbols/docs/build/tester/iconfinder.html).
+
+---
+
 <div align="left">
   <br>
   <img src="docs/badges/built-for-homeassistant.svg"> &nbsp
@@ -13,14 +25,6 @@
   <br>
   <br>
 </div>
-
-<!-- [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration) -->
-
-Material Symbols includes 18620 SVG icon files modelled upon the Google Material Symbols and is for personal use only.
-
-Material Symbols uses the new 'keywords' functionality to help you find specific fixtures. Try searching in the Home Assistant iconpicker for 'pendant' or 'switch'. Material Symbols also offers a [standalone preview tool](https://beecho01.github.io/material-symbols/docs/build/tester/iconfinder.html).
-
----
 
 ## Table of contents
 
