@@ -3,8 +3,6 @@
      <h1 align="center">Material Symbols for Home Assistant</h1>
 </div>
 
----
-
 Material Symbols for Home Assistant is collection of 18620 Google Material Symbols files for use within Home Assistant.
 
 This repository has a [Preview Tool](https://beecho01.github.io/material-symbols/docs/build/tester/iconfinder.html) that can be used to assist in picking the correct the icon. This preview tool uses keywords to help you find icons matching your need for use for YAML configuration or UI interface. Simply type in what you are looking for and copy the icon string, starting "m3s:" for use.
