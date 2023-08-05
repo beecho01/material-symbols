@@ -9,9 +9,16 @@ Material Symbols for Home Assistant is collection of 18620 Google Material Symbo
 
 This repository has a [Preview Tool](https://beecho01.github.io/material-symbols/docs/build/tester/iconfinder.html) that can be used to assist in picking the correct the icon. This preview tool uses keywords to help you find icons matching your need for use for YAML configuration or UI interface. Simply type in what you are looking for and copy the icon string, starting "m3s:" for use.
 
-Please be aware that this tool has a couple of issues I am working on to resolve:
-- Slow seaching due to large number of icons
-- A number of icons appear blank due to an SVG "viewbox" issue
+---
+
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/light-theme/info.svg">
+>   <img alt="Info" src="https://github.com/Mqxx/GitHub-Markdown/blob/main/blockquotes/badge/dark-theme/info.svg">
+> </picture><br>
+>
+> **Please be aware that this tool has a couple of issues I am working on to resolve:**
+> - Slow seaching due to large number of icons
+> - About 8% of icons appear blank due to an SVG "viewbox" issue
 
 ---
 
