@@ -9,7 +9,7 @@
         var self = this;
 
         self.icons = importFromScript();
-        self.querySearch   = querySearch;
+        self.querySearch   = _.debounce(querySearch, 1000);
         self.selectedItemChange = selectedItemChange;
         self.searchTextChange   = searchTextChange;
 
@@ -27,7 +27,7 @@
         /**
          * Search for icons.
          */
-        function querySearch (query) {
+        function querySearch(query) {
             let results = query ? self.icons.filter(createFilterFor(query)) : self.icons;
             return results;
         }
