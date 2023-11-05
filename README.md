@@ -117,7 +117,7 @@ Did you add the resource in your configuration.yaml? See the [installation secti
 ---
 
 ### <a name="community"></a>Community
-There's a thread over at the [home assistant forums](https://community.home-assistant.io/) that tracks this repo.
+There's a thread over at the [home assistant forums](https://community.home-assistant.io/t/material-symbols-for-home-assistant/599573) that tracks this repo.
 
 ---
 
