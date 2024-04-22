@@ -16,7 +16,7 @@ This repository has a [Preview Tool](https://beecho01.github.io/material-symbols
 >
 > **Please be aware that this tool has a couple of issues I am working on to resolve:**
 > - Slow seaching due to large number of icons
-> - About 8% of icons appear blank due to an SVG "viewbox" issue
+> - About 7% of icons appear blank due to an SVG "viewbox" issue
 
 ---
 
@@ -82,7 +82,7 @@ lovelace:
 ```
 frontend:
   extra_module_url:
-    - /local/material-symbols.js
+    - /local/community/material-symbols/material-symbols.js
 ```
 - Save, restart Home Assistant.
 
