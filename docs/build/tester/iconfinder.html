@@ -1,1 +1,133 @@
-<!DOCTYPE html><html lang="en" prefix="og: http://ogp.me/ns#"><head><title>Icon Finder</title><script>var viewMode=getCookie("view-mode");"desktop"==viewMode?viewport.setAttribute("content","width=1080"):"mobile"==viewMode&&viewport.setAttribute("content","width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no")</script><meta name="apple-mobile-web-app-capable" content="yes"><meta name="mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script><script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-animate.min.js"></script><script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-aria.min.js"></script><script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-messages.min.js"></script><script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-cookies.min.js"></script><script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-sanitize.min.js"></script><script src="https://ajax.googleapis.com/ajax/libs/angular_material/1.2.5/angular-material.min.js"></script><script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-114/svg-assets-cache.js"></script><script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.21/lodash.min.js"></script><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200"><link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/angular_material/1.2.5/angular-material.min.css"><link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet"><link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet"><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"><link href="styles.css" rel="stylesheet"><script src="../../../dist/material-symbols.js"></script><script src="iconfinder.js"></script></head><body data-ng-controller="AppCtrl" data-ng-app="aaIconFinder"><div id="outer"><div layout-padding=""><md-card id="header"><md-card-title><md-card-title-text flex=""><span id="title" class="md-headline"><span data-ng-if="!externalLibrary">Material Symbols </span><span data-ng-if="externalLibrary">Icon Library </span>Cheat Sheet</span></md-card-title-text><md-menu md-offset="0 45"><md-button id="switch-btn" aria-label="Open library interactions menu" ng-click="openMenu($mdMenu, $event)">Load another library <i id="menu-expand" class="fa fa-chevron-down"></i></md-button><md-menu-content><md-menu-item data-ng-repeat="lib in supportedLibraries"><md-button ng-click="newWindow(lib)"><strong>{{lib.name}}</strong> by {{lib.author}}</md-button></md-menu-item><md-menu-divider data-ng-if="externalLibrary"></md-menu-divider><md-menu-item data-ng-if="externalLibrary"><md-button ng-click="newWindow()"><strong>Material Symbols</strong> by beecho01</md-button></md-menu-item></md-menu-content></md-menu></md-card-title></md-card><md-card id="SearchArea"><md-card-title><md-card-title-text><span class="md-subhead">Use the search box below to look for <span data-ng-if="!externalLibrary">an icon by name or keyword</span> <span data-ng-if="externalLibrary">an icon by name or keyword</span><div data-ng-if="externalLibrary"><p><span data-ng-if="activeExternalLibrary">The cheat sheet is using <strong><a ng-href="{{activeExternalLibrary.repo}}">{{activeExternalLibrary.name}}</a></strong> by {{activeExternalLibrary.author}}. </span><span data-ng-if="!activeExternalLibrary">The cheat sheet is using an <a data-ng-href="{{externalLibrary}}" target="_blank">external script</a>. </span>To revert to material-symbols, click <a href="iconfinder.html">here</a>.</p></div></span></md-card-title-text></md-card-title><md-card-content><md-input-container class="md-block" flex=""><div class="slinput" ng-init=""><i class="fa fa-search left-icon"></i> <i class="mid-input"><input placeholder="Search here" ng-model="searchTerm"> </i><i ng-class="{'fa' : true, 'fa-close' : true, 'right-icon' : true, active : (searchInputVal.length > 0)}" ng-click="searchTerm = ''"></i></div><md-button id="copy-btn" class="md-raised md-primary" data-ng-if="searchTerm" data-ng-click="copyDirectLink()">Copy direct link to this search</md-button></md-input-container><div data-ng-if="!externalLibrary">Examples:<md-button class="md-raised btn-xs md-primary" data-ng-click="updateSearchTerm('navigate')">navigate</md-button><md-button class="md-raised btn-xs md-primary" data-ng-click="updateSearchTerm('outlined')">outlined</md-button><md-button class="md-raised btn-xs md-primary" data-ng-click="updateSearchTerm('filled')">filled</md-button><md-button class="md-raised btn-xs md-primary" data-ng-click="updateSearchTerm('rounded')">rounded</md-button><md-button class="md-raised btn-xs md-primary" data-ng-click="updateSearchTerm('sharp')">sharp</md-button></div></md-card-content></md-card><md-content layout="row" layout-align="center" layout-wrap=""><md-card data-ng-repeat="icon in icons | filter: matchesSearchTerm track by icon.name" flex-sm="98" flex-md="48" flex-lg="30" flex-gt-lg="23" class="no-margin-card"><md-card-title><md-card-title-media><div class="md-media-xl card-media"><svg id="icon" viewBox="0 0 24 24" width="70" xmlns="http://www.w3.org/2000/svg"><path ng-attr-d="{{icon.path}}"></path></svg></div></md-card-title-media><md-card-title-text><span class="md-headline"><span data-ng-if="!externalLibrary">m3s:</span>{{::icon.name}}</span> <span class="md-subhead">{{icon.aliases}}</span></md-card-title-text></md-card-title></md-card></md-content></div></div></body></html>
+<!DOCTYPE html>
+<html lang="en" prefix="og: http://ogp.me/ns#">
+
+    <head>
+        <title>Icon Finder</title>
+        <script>var viewMode = getCookie("view-mode"); "desktop" == viewMode ? viewport.setAttribute("content", "width=1080") : "mobile" == viewMode && viewport.setAttribute("content", "width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=no")</script>
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-animate.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-aria.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-messages.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-cookies.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.8.2/angular-sanitize.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/angular_material/1.2.5/angular-material.min.js"></script>
+        <script src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/t-114/svg-assets-cache.js"></script>
+        <script type=”text/JavaScript” src = “https://cdn.jsdelivr.net/npm/lodash@4.17.21/lodash.min.js”></script>
+        <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/angular_material/1.2.5/angular-material.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+        <link href="styles.css" rel="stylesheet">
+        <script src="../../../dist/material-symbols.js"></script>
+        <script src="iconfinder.js"></script>
+    </head>
+
+    <body data-ng-controller="AppCtrl" data-ng-app="aaIconFinder">
+        <div id="outer">
+            <div layout-padding="">
+                <md-card id="header">
+                    <md-card-title>
+                        <md-card-title-text>
+                            <span id="title" class="md-headline">
+                                <span data-ng-if="!externalLibrary" ng-bind="'Material Symbols'"></span>
+                                <span data-ng-if="externalLibrary" ng-bind="'Icon Library'"></span>
+                                Cheat Sheet
+                            </span>
+                        </md-card-title-text>
+                        <md-menu md-offset="0 45">
+                            <md-button id="switch-btn" aria-label="Open library interactions menu" ng-click="openMenu($mdMenu, $event)">
+                                Load another library
+                                <i id="menu-expand" class="fa fa-chevron-down"></i>
+                            </md-button>
+                            <md-menu-content>
+                                <md-menu-item data-ng-repeat="lib in supportedLibraries">
+                                    <md-button ng-click="newWindow(lib)">
+                                        <strong ng-bind="lib.name"></strong>
+                                        by
+                                        <span ng-bind="lib.author"></span>
+                                    </md-button>
+                                </md-menu-item>
+                                <md-menu-divider data-ng-if="externalLibrary"></md-menu-divider>
+                                <md-menu-item data-ng-if="externalLibrary">
+                                    <md-button ng-click="newWindow()">
+                                        <strong ng-bind="'Material Symbols'"></strong> by beecho01
+                                    </md-button>
+                                </md-menu-item>
+                            </md-menu-content>
+                        </md-menu>
+                    </md-card-title>
+                </md-card>
+                <md-card id="SearchArea">
+                    <md-card-title>
+                        <md-card-title-text>
+                            <span class="md-subhead">
+                                Use the search box below to look for an icon by name or keyword.
+                                <div ng-if="externalLibrary">
+                                    <p>
+                                        <span ng-if="activeExternalLibrary">
+                                            The cheat sheet is using
+                                            <strong>
+                                                <a ng-href="{{activeExternalLibrary.repo}}" ng-bind="activeExternalLibrary.name"></a>
+                                            </strong>
+                                            by {{activeExternalLibrary.author}}.
+                                        </span>
+                                        <span ng-if="!activeExternalLibrary">
+                                            The cheat sheet is using an
+                                            <a ng-href="{{externalLibrary}}" target="_blank">
+                                                external script
+                                            </a>.
+                                        </span>
+                                        To revert to material-symbols, click
+                                        <a href="iconfinder.html">here</a>.
+                                    </p>
+                                </div>
+                            </span>
+                        </md-card-title-text>
+                    </md-card-title>
+                    <md-card-content>
+                        <md-input-container class="md-block" flex="">
+                        <div class="slinput" ng-init="">
+                            <i class="fa fa-search left-icon"></i>
+                            <i class="mid-input">
+                                <input type="text" data-ng-model="searchTerm" ng-model-options="{debounce: 500}">
+                            </i>
+                            <i class="fa fa-close right-icon" ng-click="searchTerm = ''" ng-class="{active: (searchInputVal.length > 0)}"></i>
+                        </div>
+                        <md-button id="copy-btn" class="md-raised md-primary" data-ng-if="searchTerm" data-ng-click="copyDirectLink()" ng-bind="'Copy direct link to this search'"></md-button>
+                        </md-input-container>
+                        <div>
+                            Examples:
+                            <md-button class="md-raised btn-xs md-primary" data-ng-click="updateSearchTerm('navigate')" ng-bind="'navigate'"></md-button>
+                            <md-button class="md-raised btn-xs md-primary" data-ng-click="updateSearchTerm('outlined')" ng-bind="'outlined'"></md-button>
+                            <md-button class="md-raised btn-xs md-primary" data-ng-click="updateSearchTerm('filled')" ng-bind="'filled'"></md-button>
+                            <md-button class="md-raised btn-xs md-primary" data-ng-click="updateSearchTerm('rounded')" ng-bind="'rounded'"></md-button>
+                            <md-button class="md-raised btn-xs md-primary" data-ng-click="updateSearchTerm('sharp')" ng-bind="'sharp'"></md-button>
+                        </div>
+                    </md-card-content>
+                </md-card>
+                <md-content layout="row" layout-align="center" layout-wrap="">
+                    <md-card data-ng-repeat="icon in icons | filter: matchesSearchTerm track by icon.name" class="no-margin-card">
+                        <md-card-title>
+                            <md-card-title-media>
+                                <div class="md-media-xl card-media">
+                                    <svg id="icon" viewBox="0 0 24 24" width="70" xmlns="http://www.w3.org/2000/svg">
+                                        <path ng-attr-d="{{icon.path}}">
+                                        </path>
+                                    </svg>
+                                </div>
+                            </md-card-title-media>
+                            <md-card-title-text>
+                                <span class="md-headline">
+                                    <span data-ng-if="!externalLibrary" ng-bind="'m3s:'"></span>{{::icon.name}}</span>
+                                <span class="md-subhead" ng-bind="::icon.aliases"></span>
+                            </md-card-title-text>
+                        </md-card-title>
+                    </md-card>
+                </md-content>
+            </div>
+        </div>
+    </body>
+</html>

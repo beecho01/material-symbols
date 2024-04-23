@@ -1,3 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+@font-face {
+  font-family: "Google Sans";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Google Sans"), url("fonts/Google-Sans-v58.woff2") format("woff2");
+}
+
 :root {
   --Primary0: #000000;
   --Primary10: #042100;
@@ -114,6 +123,22 @@ html {
   tab-size: 4;
   font-family: Roboto, sans-serif !important;
   font-feature-settings: normal;
+}
+
+::-webkit-scrollbar {
+  width: 1rem;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--Secondary-container); 
+}
+ 
+::-webkit-scrollbar-thumb {
+  background: var(--Primary); 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--Inverse-primary); 
 }
 
 body {
@@ -343,7 +368,7 @@ md-card md-card-title {
   border-radius: 9999rem;
   justify-content: center;
   align-items: center;
-  border: 0px solid var(--Outline);
+  border: 0rem solid var(--Outline);
 }
 
 .btn-xs svg {
@@ -353,7 +378,7 @@ md-card md-card-title {
 .btn-xs:hover {
   color: var(--On-surface);
   background-color: transparent;
-  border: 1px solid transparent;
+  border: 0rem solid transparent;
 }
 
 .slinput input {
@@ -487,11 +512,4 @@ md-card md-card-title md-card-title-media {
 
 md-media-xl card-media {
   align-self: center !important;
-}
-
-@font-face {
-  font-family: "Google Sans";
-  font-style: normal;
-  font-weight: normal;
-  src: local("Google Sans"), url("fonts/Google-Sans-v58.woff2") format("woff2");
 }
