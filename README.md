@@ -77,7 +77,7 @@ lovelace:
 ### Manual:
 - Copy `dist/material-symbols.js` into your `config/www` folder.
 - Go to Configuration -> Lovelace Dashboards -> Resources -> Add Resource
-- set url as `/local/material-symbols.js` and Resource Type as `Javascript Module`.
+- set url as `/local/community/material-symbols/material-symbols.js` and Resource Type as `Javascript Module`.
 - Add the following to your configuration.yaml, save and restart HA.
 ```
 frontend:
