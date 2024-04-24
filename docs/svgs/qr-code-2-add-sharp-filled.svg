@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M200-400v-80h80v80h-80Zm-80-80v-80h80v80h-80Zm360-280v-80h80v80h-80ZM180-660h120v-120H180v120Zm-60 60v-240h240v240H120Zm60 420h120v-120H180v120Zm-60 60v-240h240v240H120Zm540-540h120v-120H660v120Zm-60 60v-240h240v240H600ZM360-400v-80h-80v-80h160v160h-80Zm40-200v-160h80v80h80v80H400Zm-190-90v-60h60v60h-60Zm0 480v-60h60v60h-60Zm480-480v-60h60v60h-60Zm-50 570v-120H520v-80h120v-120h80v120h120v80H720v120h-80Z"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 5 14 L 5 12 L 7 12 L 7 14 Z M 3 12 L 3 10 L 5 10 L 5 12 Z M 12 5 L 12 3 L 14 3 L 14 5 Z M 4.5 7.5 L 7.5 7.5 L 7.5 4.5 L 4.5 4.5 Z M 3 9 L 3 3 L 9 3 L 9 9 Z M 4.5 19.5 L 7.5 19.5 L 7.5 16.5 L 4.5 16.5 Z M 3 21 L 3 15 L 9 15 L 9 21 Z M 16.5 7.5 L 19.5 7.5 L 19.5 4.5 L 16.5 4.5 Z M 15 9 L 15 3 L 21 3 L 21 9 Z M 9 14 L 9 12 L 7 12 L 7 10 L 11 10 L 11 14 Z M 10 9 L 10 5 L 12 5 L 12 7 L 14 7 L 14 9 Z M 5.25 6.75 L 5.25 5.25 L 6.75 5.25 L 6.75 6.75 Z M 5.25 18.75 L 5.25 17.25 L 6.75 17.25 L 6.75 18.75 Z M 17.25 6.75 L 17.25 5.25 L 18.75 5.25 L 18.75 6.75 Z M 16 21 L 16 18 L 13 18 L 13 16 L 16 16 L 16 13 L 18 13 L 18 16 L 21 16 L 21 18 L 18 18 L 18 21 Z M 16 21 "/>
+</g>
+</svg>

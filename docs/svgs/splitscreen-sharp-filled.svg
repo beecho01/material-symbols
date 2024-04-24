@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="24" width="24"><path d="M4 11V2h16v9Zm0 11v-9h16v9Z"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 4 11 L 4 2 L 20 2 L 20 11 Z M 4 22 L 4 13 L 20 13 L 20 22 Z M 4 22 "/>
+</g>
+</svg>

@@ -1,1 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" height="24" viewBox="0 -960 960 960" width="24"><path d="M200-360h160v-240H200v240Zm60-60v-120h40v120h-40Zm140 60h130l30-30v-180l-30-30H400v240Zm60-60v-120h40v120h-40Zm190 60h60v-180h50v-60H600v60h50v180ZM80-160v-640h800v640H80Zm80-80h640v-480H160v480Zm0 0v-480 480Z"/></svg>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24px" height="24px" viewBox="0 0 24 24" version="1.1">
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(0%,0%,0%);fill-opacity:1;" d="M 5 15 L 9 15 L 9 9 L 5 9 Z M 6.5 13.5 L 6.5 10.5 L 7.5 10.5 L 7.5 13.5 Z M 10 15 L 13.25 15 L 14 14.25 L 14 9.75 L 13.25 9 L 10 9 Z M 11.5 13.5 L 11.5 10.5 L 12.5 10.5 L 12.5 13.5 Z M 16.25 15 L 17.75 15 L 17.75 10.5 L 19 10.5 L 19 9 L 15 9 L 15 10.5 L 16.25 10.5 Z M 2 20 L 2 4 L 22 4 L 22 20 Z M 4 18 L 20 18 L 20 6 L 4 6 Z M 4 18 L 4 6 Z M 4 18 "/>
+</g>
+</svg>

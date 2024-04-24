@@ -16,7 +16,6 @@ This repository has a [Preview Tool](https://beecho01.github.io/material-symbols
 >
 > **Please be aware that this tool has a couple of issues I am working on to resolve:**
 > - Slow seaching due to large number of icons
-> - About 7% of icons appear blank due to an SVG "viewbox" issue
 
 ---
 
@@ -77,7 +76,7 @@ lovelace:
 ### Manual:
 - Copy `dist/material-symbols.js` into your `config/www` folder.
 - Go to Configuration -> Lovelace Dashboards -> Resources -> Add Resource
-- set url as `/local/community/material-symbols/material-symbols.js` and Resource Type as `Javascript Module`.
+- set url as `/local/material-symbols.js` and Resource Type as `Javascript Module`.
 - Add the following to your configuration.yaml, save and restart HA.
 ```
 frontend:
