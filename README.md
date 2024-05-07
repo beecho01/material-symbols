@@ -70,11 +70,9 @@ https://github.com/beecho01/material-symbols
 - Open your "configuration.yaml" via File editor or other means.
 - Add the following, save and restart Home Assistant.
 ```
-lovelace:
-  mode: yaml
-  resources:
-    - url: /hacsfiles/material-symbols/material-symbols.js
-      type: module
+frontend:
+  extra_module_url:
+    - /hacsfiles/material-symbols/material-symbols.js
 ```
   
 ### Manual:
@@ -104,7 +102,7 @@ type: entities
 entities:
   - entity: switch.tv_smart_plug
     name: My TV
-    icon: m3s:switches-outlined
+    icon: m3s:volume-off-outlined
 ```
 
 ---
