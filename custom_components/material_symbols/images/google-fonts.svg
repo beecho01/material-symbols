@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 30 23"
+   width="30"
+   height="23"
+   preserveAspectRatio="xMidYMid"
+   version="1.1"
+   id="svg16"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1">
+    <clipPath
+       id="__lottie_element_40">
+      <rect
+         width="190"
+         height="35"
+         x="0"
+         y="0"
+         id="rect1" />
+    </clipPath>
+    <mask
+       id="__lottie_element_55">
+      <path
+         fill="#ffffff"
+         clip-rule="nonzero"
+         d="M 0,0 H 190 V 35 H 0 V 0 m 29.062,-3 c 0,0 -14.309,0 -14.309,0 0,0 0,32.816999 0,32.816999 0,0 14.309,0 14.309,0 0,0 0,-32.816999 0,-32.816999"
+         fill-opacity="1"
+         id="path1" />
+    </mask>
+  </defs>
+  <g
+     clip-path="url(#__lottie_element_40)"
+     id="g16"
+     transform="translate(-1.5,-6)">
+    <g
+       mask="url(#__lottie_element_55)"
+       style="display:block"
+       transform="translate(1.25,5.75)"
+       opacity="1"
+       id="g3">
+      <g
+         opacity="1"
+         transform="translate(12,11.75)"
+         id="g2">
+        <path
+           fill="#fbbc04"
+           fill-opacity="1"
+           d="m -11.75,11.5 c 0,0 14.5,-23 14.5,-23 0,0 9,0 9,0 0,0 0,3.1999998 0,3.1999998 0,0 -12.5,19.8000002 -12.5,19.8000002"
+           id="path2" />
+      </g>
+    </g>
+    <g
+       transform="translate(15.75,5.75)"
+       opacity="1"
+       style="display:block"
+       id="g5">
+      <g
+         opacity="1"
+         transform="translate(4.75,11.75)"
+         id="g4">
+        <path
+           fill="#1a73e8"
+           fill-opacity="1"
+           d="m 4.5,11.5 c 0,0 -9,0 -9,0 0,0 0,-23 0,-23 0,0 9,0 9,0 z"
+           id="path3" />
+      </g>
+    </g>
+    <g
+       transform="translate(24.75,15.75)"
+       opacity="1"
+       style="display:block"
+       id="g7">
+      <g
+         opacity="1"
+         transform="translate(3.5,6.75)"
+         id="g6">
+        <path
+           fill="#34a853"
+           fill-opacity="1"
+           d="m 3.25,0 c 0,3.5899999 -2.91,6.5 -6.5,6.5 0,0 0,-13 0,-13 3.59,0 6.5,2.9100001 6.5,6.5 z"
+           id="path5" />
+      </g>
+    </g>
+    <g
+       transform="translate(18.25,15.75)"
+       opacity="1"
+       style="display:block"
+       id="g9">
+      <g
+         opacity="1"
+         transform="translate(3.5,6.75)"
+         id="g8">
+        <path
+           fill="#0d652d"
+           fill-opacity="1"
+           d="m 3.25,6.5 c -3.59,0 -6.5,-2.9100001 -6.5,-6.5 0,-3.5899999 2.91,-6.5 6.5,-6.5 z"
+           id="path7" />
+      </g>
+    </g>
+    <g
+       transform="translate(24.75,5.75)"
+       opacity="1"
+       style="display:block"
+       id="g11">
+      <g
+         opacity="1"
+         transform="translate(2.75,5.25)"
+         id="g10">
+        <path
+           fill="#1a73e8"
+           fill-opacity="1"
+           d="m 2.5,0 c 0,2.7609999 -2.23800001,5 -5,5 0,0 0,-10 0,-10 2.76199999,0 5,2.2390001 5,5 z"
+           id="path9" />
+      </g>
+    </g>
+    <g
+       transform="translate(19.75,5.75)"
+       opacity="1"
+       style="display:block"
+       id="g13">
+      <g
+         opacity="1"
+         transform="translate(2.75,5.25)"
+         id="g12">
+        <path
+           fill="#174ea6"
+           fill-opacity="1"
+           d="m 2.5,5 c -2.76199999,0 -5,-2.2390001 -5,-5 0,-2.7609999 2.23800001,-5 5,-5 z"
+           id="path11" />
+      </g>
+    </g>
+    <g
+       transform="translate(1.75,5.75)"
+       opacity="1"
+       style="display:block"
+       id="g15">
+      <g
+         opacity="1"
+         transform="translate(4.75,4.75)"
+         id="g14">
+        <path
+           fill="#ea4335"
+           fill-opacity="1"
+           d="m -4.5,0 c 0,-2.4849999 2.0150001,-4.5 4.5,-4.5 2.4849999,0 4.5,2.0150001 4.5,4.5 C 4.5,2.4849999 2.4849999,4.5 0,4.5 -2.4849999,4.5 -4.5,2.4849999 -4.5,0 Z"
+           id="path13" />
+      </g>
+    </g>
+  </g>
+</svg>
