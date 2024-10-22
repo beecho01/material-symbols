@@ -1,11 +1,11 @@
 <div align="center">
-    <img src="https://github.com/beecho01/material-symbols/blob/2.0.0/custom_components/images/header_image.png">
+    <img src="https://raw.githubusercontent.com/beecho01/material-symbols/refs/heads/2024.10.22-beta/custom_components/material_symbols/images/Banner_Image.png">
      <h1 align="center">Material Symbols for Home Assistant</h1>
 </div>
 
 **Material Symbols for Home Assistant** is a collection of 13460 Google Material Symbols for use within Home Assistant. It uses the icon-set produced and maintained by [iconify](https://github.com/iconify/icon-sets).
 
-There is a [Icon Finder Tool](https://beecho01.github.io/material-symbols/docs/build/tester/iconfinder.html) to help you select the correct icon. Simply type in what you're looking for, click the icon of choice, and the icon entry for home assistant will be copied to your clipboard (e.g., `m3o:light`). The copied text can be pasted for use in your YAML configuration or in you UI frontend interface.
+There is a [Icon Finder Tool](https://beecho01.github.io/material-symbols-iconfinder/) to help you select the correct icon. Simply type in what you're looking for, click the icon of choice, and the icon entry for home assistant will be copied to your clipboard (e.g., `m3o:light`). The copied text can be pasted for use in your YAML configuration or in you UI frontend interface.
 
 ---
 
@@ -37,7 +37,7 @@ There is a [Icon Finder Tool](https://beecho01.github.io/material-symbols/docs/b
 ## <a name="table-of-contents"></a>Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [Migrating from v0.X.X to 202X.X.X](#migrating-from-v0xx-to-202xxx)
+- [Migrating from v1.X.X to 202X.X.X](#migrating-from-v1xx-to-202xxx)
 - [Installation](#installation)
     - [HACS Installation (Recommended)](#hacs-installation-recommended)
     - [Manual Installation](#manual-installation)
@@ -55,7 +55,7 @@ There is a [Icon Finder Tool](https://beecho01.github.io/material-symbols/docs/b
 ---
 
 
-## <a name="Migrating from v0.X.X to 202X.X.X"></a>Migrating from v0.X.X to 202X.X.X
+## <a name="Migrating from v1.X.X to 202X.X.X"></a>Migrating from v1.X.X to 202X.X.X
 
 My recommendation here is to fully uninstall the existing v0.X.X repository and remove all traces of it from the system. Please do the following to complete this:
 
