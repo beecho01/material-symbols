@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/beecho01/material-symbols/refs/heads/2024.10.22-beta/custom_components/material_symbols/images/Banner_Image.png">
+    <img src="https://raw.githubusercontent.com/beecho01/material-symbols/refs/heads/main/custom_components/material_symbols/images/Banner_Image.png">
      <h1 align="center">Material Symbols for Home Assistant</h1>
 </div>
 
