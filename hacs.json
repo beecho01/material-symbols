@@ -1,5 +1,6 @@
 {
   "name": "Material Symbols",
+  "content_in_root": true,
   "render_readme": true,
   "domains": ["material_symbols"],
   "iot_class": "local_static",
