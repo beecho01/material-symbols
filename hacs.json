@@ -1,4 +1,6 @@
 {
   "name": "Material Symbols",
-  "render_readme": true
+  "render_readme": true,
+  "zip_release": true,
+  "filename": "material-symbols.zip"
 }
