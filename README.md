@@ -27,7 +27,7 @@ There is a [Icon Finder Tool](https://beecho01.github.io/material-symbols-iconfi
   <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-lightgrey?style=for-the-badge"></a> &nbsp;
   <img src="https://img.shields.io/github/downloads/beecho01/material-symbols/total?style=for-the-badge"> &nbsp;
   <img src="https://img.shields.io/github/v/release/beecho01/material-symbols?style=for-the-badge"> &nbsp;
-  <img src="https://img.shields.io/github/size/beecho01/material-symbols/dist%2Fmaterial-symbols.js?style=for-the-badge"> &nbsp;
+  <img src="https://img.shields.io/github/size/beecho01/material-symbols?style=for-the-badge"> &nbsp;
   <img src="https://img.shields.io/github/last-commit/beecho01/material-symbols?style=for-the-badge"> &nbsp;
   <img src="https://img.shields.io/github/issues-closed/beecho01/material-symbols/icon%20request?label=community%20requests&style=for-the-badge">
   <br>
