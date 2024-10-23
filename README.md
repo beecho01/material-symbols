@@ -121,6 +121,9 @@ Make sure to delete the files from the location you placed it.
 
     [![Open your Home Assistant instance and start setting up a new integration.](https://my.home-assistant.io/badges/config_flow_start.svg)](https://my.home-assistant.io/redirect/config_flow_start/?domain=material_symbols)
 
+3. After the installation completes, restart Home Assistant to load the new integration.
+    - You're browser cache may need to be deleted to show the icons as desired.
+
 ##### HACS Method 2
 
 1. **Add the Custom Repository to HACS manually:**
@@ -146,6 +149,7 @@ Make sure to delete the files from the location you placed it.
 3. **Restart Home Assistant:**
 
    - After the installation completes, restart Home Assistant to load the new integration.
+   - You're browser cache may need to be deleted to show the icons as desired.
 <br>
 
 #### <a name="manual-installation"></a>Manual Installation
@@ -163,6 +167,7 @@ If you prefer to install the integration manually:
 3. **Restart Home Assistant:**
 
    - Restart Home Assistant to load the new integration.
+   - You're browser cache may need to be deleted to show the icons as desired.
 
 ---
 
