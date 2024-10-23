@@ -15,7 +15,7 @@ There is a [Icon Finder Tool](https://beecho01.github.io/material-symbols-iconfi
 > </picture><br>
 >
 > **Breaking Changes**
-> - I have moved the repository and installation from a "Lovelace" Repository in v0.X.X to an "Integration" repository in 202X.X.X+
+> - I have moved the repository and installation from a "Lovelace" Repository in v1.X.X to an "Integration" repository in 202X.X.X+
 > - The icon prefix has now migrated from `m3s`, which contained containing all styles, to individual styles with their own icon prefix.
 > - There has been a reduction in the number of icons avialbe from ~18600 to 13460.
 
@@ -57,7 +57,7 @@ There is a [Icon Finder Tool](https://beecho01.github.io/material-symbols-iconfi
 
 ## <a name="Migrating from v1.X.X to 202X.X.X"></a>Migrating from v1.X.X to 202X.X.X
 
-My recommendation here is to fully uninstall the existing v0.X.X repository and remove all traces of it from the system. Please do the following to complete this:
+My recommendation here is to fully uninstall the existing v1.X.X repository and remove all traces of it from the system. Please do the following to complete this:
 
 **If you originally installed the icons via HACS:**
 1.  Go to `HACS` and in the search bar search `Material Symbols`.
@@ -103,7 +103,27 @@ Make sure to delete the files from the location you placed it.
 
 **Note**: Material Symbols is now installable via [HACS](https://hacs.xyz) as a custom **Integration**.
 
-1. **Add the Custom Repository to HACS:**
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/info.svg">
+>   <img alt="Info" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/info.svg">
+> </picture><br>
+>
+> There are 2 methods to install via HACS below. First is by the my.home-assistant.io quick links and the second, by typing the custom repository.
+
+
+##### HACS Method 1
+
+1. First, tap on the integration repository quick-link below and install:
+
+    [![Open your Home Assistant instance and open a repository inside the Home Assistant Community Store.](https://my.home-assistant.io/badges/hacs_repository.svg)](https://my.home-assistant.io/redirect/hacs_repository/?owner=beecho01&repository=material-symbols)
+
+2. Then the next setup quick-link below to complete the setup configuration:
+
+    [![Open your Home Assistant instance and start setting up a new integration.](https://my.home-assistant.io/badges/config_flow_start.svg)](https://my.home-assistant.io/redirect/config_flow_start/?domain=material_symbols)
+
+##### HACS Method 2
+
+1. **Add the Custom Repository to HACS manually:**
 
    - Open Home Assistant and navigate to **HACS**.
    - Click on **Integrations**.
@@ -126,6 +146,7 @@ Make sure to delete the files from the location you placed it.
 3. **Restart Home Assistant:**
 
    - After the installation completes, restart Home Assistant to load the new integration.
+<br>
 
 #### <a name="manual-installation"></a>Manual Installation
 
