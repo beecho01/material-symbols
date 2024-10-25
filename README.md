@@ -145,8 +145,16 @@ Make sure to delete the files from the location you placed it.
    - Click on the **Material Symbols** integration.
    - Click **Download** in the bottom right corner.
    - Confirm the installation by clicking **Download** again.
+  
+3. ** Add Integration to Devices & Services:**
 
-3. **Restart Home Assistant:**
+   - In the Home Assistant Settings menu, select **Devices & Services**.
+   - Tap the **+ Add Integration** button.
+   - Search for **Material Symbols** and select it.
+   - This should now show as succesfully configured.
+   - Tap **Finish**.
+
+4. **Restart Home Assistant:**
 
    - After the installation completes, restart Home Assistant to load the new integration.
    - You're browser cache may need to be deleted to show the icons as desired.
@@ -167,7 +175,18 @@ If you prefer to install the integration manually:
 3. **Restart Home Assistant:**
 
    - Restart Home Assistant to load the new integration.
-   - You're browser cache may need to be deleted to show the icons as desired.
+  
+4. ** Add Integration to Devices & Services:**
+
+   - In the Home Assistant Settings menu, select **Devices & Services**.
+   - Tap the **+ Add Integration** button.
+   - Search for **Material Symbols** and select it.
+   - This should now show as succesfully configured.
+   - Tap **Finish**.
+  
+5. **Restart Home Assistant:**
+
+   - Restart Home Assistant to complete the setup.
 
 ---
 
