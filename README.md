@@ -151,7 +151,7 @@ Make sure to delete the files from the location you placed it.
    - In the Home Assistant Settings menu, select **Devices & Services**.
    - Tap the **+ Add Integration** button.
    - Search for **Material Symbols** and select it.
-   - This should now show as succesfully configured.
+   - This should now show as successfully configured.
    - Tap **Finish**.
 
 4. **Restart Home Assistant:**
@@ -181,7 +181,7 @@ If you prefer to install the integration manually:
    - In the Home Assistant Settings menu, select **Devices & Services**.
    - Tap the **+ Add Integration** button.
    - Search for **Material Symbols** and select it.
-   - This should now show as succesfully configured.
+   - This should now show as successfully configured.
    - Tap **Finish**.
   
 5. **Restart Home Assistant:**
