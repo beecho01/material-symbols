@@ -7,6 +7,7 @@ from homeassistant.components.http import StaticPathConfig
 LOGGER = logging.getLogger(__name__)
 
 DOMAIN = "material_symbols"
+VERSION = "2024.10.27"
 
 DATA_EXTRA_MODULE_URL = "frontend_extra_module_url"
 LOADER_URL = f"/{DOMAIN}/material_symbols.js"
