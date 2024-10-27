@@ -2,20 +2,17 @@ import os
 import json
 
 # Base data folder path
-data_folder = r"C:\Users\James Beeching\OneDrive\Home Assistant\material-symbols-2\custom_components\material_symbols\data"
+data_folder = r"C:\Github\material-symbols\custom_components\material_symbols\data"
 
 # Define the six icon sets with their corresponding folder paths
 icon_sets = {
-    "outlined": os.path.join(data_folder, "outlined"),
-    "outlined_filled": os.path.join(data_folder, "outlined_filled"),
-    "rounded": os.path.join(data_folder, "rounded"),
-    "rounded_filled": os.path.join(data_folder, "rounded_filled"),
-    "sharp": os.path.join(data_folder, "sharp"),
-    "sharp_filled": os.path.join(data_folder, "sharp_filled")
+    "m3o": os.path.join(data_folder, "m3o"),
+    "m3of": os.path.join(data_folder, "m3of"),
+    "m3r": os.path.join(data_folder, "m3r"),
+    "m3rf": os.path.join(data_folder, "m3rf"),
+    "m3s": os.path.join(data_folder, "m3s"),
+    "m3sf": os.path.join(data_folder, "m3sf")
 }
-
-# Dictionary to hold icon names per icon set
-icons_by_set = {}
 
 # Loop through each icon set and its folder
 for icon_set_name, folder in icon_sets.items():
@@ -39,22 +36,16 @@ for icon_set_name, folder in icon_sets.items():
         print(f"Error accessing folder {folder}: {e}")
         continue
 
-    # Sort the names alphabetically
-    sorted_names = sorted(unique_names)
+    # Sort the names alphabetically and convert to the required structure
+    icons_array = [{"name": name} for name in sorted(unique_names)]
 
-    # Create a dictionary where both keys and values are the same
-    name_dict = {name: name for name in sorted_names}
+    # Define the path for the icons.json file for this icon set
+    json_output = os.path.join(folder, "icons.json")
 
-    # Add this dictionary to the main dictionary under the icon set name
-    icons_by_set[icon_set_name] = name_dict
-
-# Define the path where you want the minified JSON file to be saved
-json_output = os.path.join(data_folder, "names.min.json")
-
-# Write the minified JSON file to the specified location
-try:
-    with open(json_output, "w") as json_file:
-        json.dump(icons_by_set, json_file, separators=(',', ':'))  # Minify the JSON
-    print(f"Minified icon names by set saved to {json_output}")
-except Exception as e:
-    print(f"Error writing JSON file: {e}")
+    # Write the JSON file in the correct format
+    try:
+        with open(json_output, "w") as json_file:
+            json.dump(icons_array, json_file, indent=2)  # Pretty print for readability
+        print(f"icons.json file saved to {json_output}")
+    except Exception as e:
+        print(f"Error writing JSON file for {icon_set_name}: {e}")

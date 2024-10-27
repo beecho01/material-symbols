@@ -1,0 +1,4274 @@
+[
+  {
+    "name": "10k"
+  },
+  {
+    "name": "10mp"
+  },
+  {
+    "name": "11mp"
+  },
+  {
+    "name": "12mp"
+  },
+  {
+    "name": "13mp"
+  },
+  {
+    "name": "14mp"
+  },
+  {
+    "name": "15mp"
+  },
+  {
+    "name": "16mp"
+  },
+  {
+    "name": "17mp"
+  },
+  {
+    "name": "18-up-rating"
+  },
+  {
+    "name": "18mp"
+  },
+  {
+    "name": "19mp"
+  },
+  {
+    "name": "1k"
+  },
+  {
+    "name": "1k-plus"
+  },
+  {
+    "name": "1x-mobiledata-badge"
+  },
+  {
+    "name": "20mp"
+  },
+  {
+    "name": "21mp"
+  },
+  {
+    "name": "22mp"
+  },
+  {
+    "name": "23mp"
+  },
+  {
+    "name": "24mp"
+  },
+  {
+    "name": "2d"
+  },
+  {
+    "name": "2k"
+  },
+  {
+    "name": "2k-plus"
+  },
+  {
+    "name": "2mp"
+  },
+  {
+    "name": "3g-mobiledata-badge"
+  },
+  {
+    "name": "3k"
+  },
+  {
+    "name": "3k-plus"
+  },
+  {
+    "name": "3mp"
+  },
+  {
+    "name": "3p"
+  },
+  {
+    "name": "4g-mobiledata-badge"
+  },
+  {
+    "name": "4k"
+  },
+  {
+    "name": "4k-plus"
+  },
+  {
+    "name": "4mp"
+  },
+  {
+    "name": "50mp"
+  },
+  {
+    "name": "5g-mobiledata-badge"
+  },
+  {
+    "name": "5k"
+  },
+  {
+    "name": "5k-plus"
+  },
+  {
+    "name": "5mp"
+  },
+  {
+    "name": "6k"
+  },
+  {
+    "name": "6k-plus"
+  },
+  {
+    "name": "6mp"
+  },
+  {
+    "name": "7k"
+  },
+  {
+    "name": "7k-plus"
+  },
+  {
+    "name": "7mp"
+  },
+  {
+    "name": "8k"
+  },
+  {
+    "name": "8k-plus"
+  },
+  {
+    "name": "8mp"
+  },
+  {
+    "name": "9k"
+  },
+  {
+    "name": "9k-plus"
+  },
+  {
+    "name": "9mp"
+  },
+  {
+    "name": "account-balance-wallet"
+  },
+  {
+    "name": "account-box"
+  },
+  {
+    "name": "ad-group"
+  },
+  {
+    "name": "ad-group-off"
+  },
+  {
+    "name": "ad-units"
+  },
+  {
+    "name": "add-a-photo"
+  },
+  {
+    "name": "add-ad"
+  },
+  {
+    "name": "add-alert"
+  },
+  {
+    "name": "add-box"
+  },
+  {
+    "name": "add-call"
+  },
+  {
+    "name": "add-card"
+  },
+  {
+    "name": "add-chart"
+  },
+  {
+    "name": "add-comment"
+  },
+  {
+    "name": "add-diamond"
+  },
+  {
+    "name": "add-notes"
+  },
+  {
+    "name": "add-photo-alternate"
+  },
+  {
+    "name": "add-to-home-screen"
+  },
+  {
+    "name": "add-to-queue"
+  },
+  {
+    "name": "adf-scanner"
+  },
+  {
+    "name": "admin-meds"
+  },
+  {
+    "name": "agriculture"
+  },
+  {
+    "name": "air-freshener"
+  },
+  {
+    "name": "air-purifier-gen"
+  },
+  {
+    "name": "airline-seat-flat"
+  },
+  {
+    "name": "airline-seat-flat-angled"
+  },
+  {
+    "name": "airline-seat-individual-suite"
+  },
+  {
+    "name": "airplane-ticket"
+  },
+  {
+    "name": "airplay"
+  },
+  {
+    "name": "airport-shuttle"
+  },
+  {
+    "name": "all-inbox"
+  },
+  {
+    "name": "all-match"
+  },
+  {
+    "name": "ambient-screen"
+  },
+  {
+    "name": "ambulance"
+  },
+  {
+    "name": "analytics"
+  },
+  {
+    "name": "animated-images"
+  },
+  {
+    "name": "aod"
+  },
+  {
+    "name": "aod-tablet"
+  },
+  {
+    "name": "apk-document"
+  },
+  {
+    "name": "apk-install"
+  },
+  {
+    "name": "app-blocking"
+  },
+  {
+    "name": "app-promo"
+  },
+  {
+    "name": "app-registration"
+  },
+  {
+    "name": "app-shortcut"
+  },
+  {
+    "name": "apparel"
+  },
+  {
+    "name": "approval"
+  },
+  {
+    "name": "approval-delegation"
+  },
+  {
+    "name": "ar-on-you"
+  },
+  {
+    "name": "ar-stickers"
+  },
+  {
+    "name": "archive"
+  },
+  {
+    "name": "art-track"
+  },
+  {
+    "name": "article"
+  },
+  {
+    "name": "article-shortcut"
+  },
+  {
+    "name": "aspect-ratio"
+  },
+  {
+    "name": "assignment"
+  },
+  {
+    "name": "assignment-add"
+  },
+  {
+    "name": "assignment-ind"
+  },
+  {
+    "name": "assignment-late"
+  },
+  {
+    "name": "assignment-return"
+  },
+  {
+    "name": "assignment-returned"
+  },
+  {
+    "name": "assignment-turned-in"
+  },
+  {
+    "name": "assistant"
+  },
+  {
+    "name": "assistant-direction"
+  },
+  {
+    "name": "assistant-on-hub"
+  },
+  {
+    "name": "attach-email"
+  },
+  {
+    "name": "attribution"
+  },
+  {
+    "name": "audio-file"
+  },
+  {
+    "name": "audio-video-receiver"
+  },
+  {
+    "name": "auto-awesome-mosaic"
+  },
+  {
+    "name": "auto-awesome-motion"
+  },
+  {
+    "name": "auto-delete"
+  },
+  {
+    "name": "auto-fix-normal"
+  },
+  {
+    "name": "auto-fix-off"
+  },
+  {
+    "name": "auto-label"
+  },
+  {
+    "name": "auto-read-pause"
+  },
+  {
+    "name": "auto-read-play"
+  },
+  {
+    "name": "auto-schedule"
+  },
+  {
+    "name": "auto-stories"
+  },
+  {
+    "name": "auto-transmission"
+  },
+  {
+    "name": "auto-videocam"
+  },
+  {
+    "name": "av1"
+  },
+  {
+    "name": "avc"
+  },
+  {
+    "name": "avg-time"
+  },
+  {
+    "name": "back-hand"
+  },
+  {
+    "name": "background-dot-large"
+  },
+  {
+    "name": "background-dot-small"
+  },
+  {
+    "name": "background-grid-small"
+  },
+  {
+    "name": "backpack"
+  },
+  {
+    "name": "backspace"
+  },
+  {
+    "name": "badge"
+  },
+  {
+    "name": "bakery-dining"
+  },
+  {
+    "name": "ballot"
+  },
+  {
+    "name": "barcode-reader"
+  },
+  {
+    "name": "bath-private"
+  },
+  {
+    "name": "bathroom"
+  },
+  {
+    "name": "bathtub"
+  },
+  {
+    "name": "battery-alert"
+  },
+  {
+    "name": "battery-change"
+  },
+  {
+    "name": "battery-charging-20"
+  },
+  {
+    "name": "battery-charging-full"
+  },
+  {
+    "name": "battery-error"
+  },
+  {
+    "name": "battery-plus"
+  },
+  {
+    "name": "battery-profile"
+  },
+  {
+    "name": "battery-saver"
+  },
+  {
+    "name": "battery-status-good"
+  },
+  {
+    "name": "battery-unknown"
+  },
+  {
+    "name": "bed"
+  },
+  {
+    "name": "bedroom-baby"
+  },
+  {
+    "name": "bedroom-child"
+  },
+  {
+    "name": "bedroom-parent"
+  },
+  {
+    "name": "beenhere"
+  },
+  {
+    "name": "bento"
+  },
+  {
+    "name": "bid-landscape"
+  },
+  {
+    "name": "bid-landscape-disabled"
+  },
+  {
+    "name": "bike-scooter"
+  },
+  {
+    "name": "blender"
+  },
+  {
+    "name": "blood-pressure"
+  },
+  {
+    "name": "bluetooth-drive"
+  },
+  {
+    "name": "bnagent"
+  },
+  {
+    "name": "bomb"
+  },
+  {
+    "name": "book"
+  },
+  {
+    "name": "book-online"
+  },
+  {
+    "name": "book-ribbon"
+  },
+  {
+    "name": "bookmark"
+  },
+  {
+    "name": "bookmark-add"
+  },
+  {
+    "name": "bookmark-added"
+  },
+  {
+    "name": "bookmark-bag"
+  },
+  {
+    "name": "bookmark-check"
+  },
+  {
+    "name": "bookmark-flag"
+  },
+  {
+    "name": "bookmark-heart"
+  },
+  {
+    "name": "bookmark-manager"
+  },
+  {
+    "name": "bookmark-remove"
+  },
+  {
+    "name": "bookmark-star"
+  },
+  {
+    "name": "bookmarks"
+  },
+  {
+    "name": "books-movies-and-music"
+  },
+  {
+    "name": "border-color"
+  },
+  {
+    "name": "borg"
+  },
+  {
+    "name": "bottom-app-bar"
+  },
+  {
+    "name": "bottom-drawer"
+  },
+  {
+    "name": "bottom-navigation"
+  },
+  {
+    "name": "bottom-panel-close"
+  },
+  {
+    "name": "bottom-panel-open"
+  },
+  {
+    "name": "bottom-sheets"
+  },
+  {
+    "name": "box"
+  },
+  {
+    "name": "box-add"
+  },
+  {
+    "name": "box-edit"
+  },
+  {
+    "name": "branding-watermark"
+  },
+  {
+    "name": "breakfast-dining"
+  },
+  {
+    "name": "breaking-news"
+  },
+  {
+    "name": "breaking-news-alt-1"
+  },
+  {
+    "name": "broadcast-on-home"
+  },
+  {
+    "name": "broken-image"
+  },
+  {
+    "name": "browse"
+  },
+  {
+    "name": "browse-activity"
+  },
+  {
+    "name": "brunch-dining"
+  },
+  {
+    "name": "brush"
+  },
+  {
+    "name": "build"
+  },
+  {
+    "name": "build-circle"
+  },
+  {
+    "name": "burst-mode"
+  },
+  {
+    "name": "bus-alert"
+  },
+  {
+    "name": "business-center"
+  },
+  {
+    "name": "business-chip"
+  },
+  {
+    "name": "business-messages"
+  },
+  {
+    "name": "buttons-alt"
+  },
+  {
+    "name": "cake"
+  },
+  {
+    "name": "cake-add"
+  },
+  {
+    "name": "calculate"
+  },
+  {
+    "name": "calendar-add-on"
+  },
+  {
+    "name": "calendar-apps-script"
+  },
+  {
+    "name": "calendar-clock"
+  },
+  {
+    "name": "calendar-month"
+  },
+  {
+    "name": "calendar-today"
+  },
+  {
+    "name": "calendar-view-day"
+  },
+  {
+    "name": "calendar-view-month"
+  },
+  {
+    "name": "calendar-view-week"
+  },
+  {
+    "name": "call"
+  },
+  {
+    "name": "call-end"
+  },
+  {
+    "name": "call-log"
+  },
+  {
+    "name": "call-quality"
+  },
+  {
+    "name": "call-to-action"
+  },
+  {
+    "name": "camera-enhance"
+  },
+  {
+    "name": "camera-front"
+  },
+  {
+    "name": "camera-indoor"
+  },
+  {
+    "name": "camera-outdoor"
+  },
+  {
+    "name": "camera-rear"
+  },
+  {
+    "name": "camera-roll"
+  },
+  {
+    "name": "cameraswitch"
+  },
+  {
+    "name": "campaign"
+  },
+  {
+    "name": "cancel-presentation"
+  },
+  {
+    "name": "candle"
+  },
+  {
+    "name": "capture"
+  },
+  {
+    "name": "car-crash"
+  },
+  {
+    "name": "car-rental"
+  },
+  {
+    "name": "car-repair"
+  },
+  {
+    "name": "car-tag"
+  },
+  {
+    "name": "card-membership"
+  },
+  {
+    "name": "card-travel"
+  },
+  {
+    "name": "cards"
+  },
+  {
+    "name": "carpenter"
+  },
+  {
+    "name": "carry-on-bag"
+  },
+  {
+    "name": "carry-on-bag-checked"
+  },
+  {
+    "name": "carry-on-bag-inactive"
+  },
+  {
+    "name": "carry-on-bag-question"
+  },
+  {
+    "name": "cases"
+  },
+  {
+    "name": "casino"
+  },
+  {
+    "name": "cast"
+  },
+  {
+    "name": "cast-connected"
+  },
+  {
+    "name": "cast-for-education"
+  },
+  {
+    "name": "cast-pause"
+  },
+  {
+    "name": "cast-warning"
+  },
+  {
+    "name": "castle"
+  },
+  {
+    "name": "celebration"
+  },
+  {
+    "name": "center-focus-strong"
+  },
+  {
+    "name": "center-focus-weak"
+  },
+  {
+    "name": "chair"
+  },
+  {
+    "name": "chair-alt"
+  },
+  {
+    "name": "charging-station"
+  },
+  {
+    "name": "chart-data"
+  },
+  {
+    "name": "chat"
+  },
+  {
+    "name": "chat-add-on"
+  },
+  {
+    "name": "chat-apps-script"
+  },
+  {
+    "name": "chat-bubble"
+  },
+  {
+    "name": "chat-error"
+  },
+  {
+    "name": "chat-info"
+  },
+  {
+    "name": "chat-paste-go"
+  },
+  {
+    "name": "chat-paste-go-2"
+  },
+  {
+    "name": "check-box"
+  },
+  {
+    "name": "checked-bag"
+  },
+  {
+    "name": "checked-bag-question"
+  },
+  {
+    "name": "cheer"
+  },
+  {
+    "name": "chess"
+  },
+  {
+    "name": "child-friendly"
+  },
+  {
+    "name": "chips"
+  },
+  {
+    "name": "chrome-maximize"
+  },
+  {
+    "name": "chrome-reader-mode"
+  },
+  {
+    "name": "chrome-restore"
+  },
+  {
+    "name": "chrome-tote"
+  },
+  {
+    "name": "church"
+  },
+  {
+    "name": "cinematic-blur"
+  },
+  {
+    "name": "circle-notifications"
+  },
+  {
+    "name": "clarify"
+  },
+  {
+    "name": "clean-hands"
+  },
+  {
+    "name": "cleaning"
+  },
+  {
+    "name": "cleaning-bucket"
+  },
+  {
+    "name": "cleaning-services"
+  },
+  {
+    "name": "climate-mini-split"
+  },
+  {
+    "name": "clinical-notes"
+  },
+  {
+    "name": "closed-caption"
+  },
+  {
+    "name": "closed-caption-add"
+  },
+  {
+    "name": "closed-caption-disabled"
+  },
+  {
+    "name": "cloud-alert"
+  },
+  {
+    "name": "co-present"
+  },
+  {
+    "name": "code-blocks"
+  },
+  {
+    "name": "coffee"
+  },
+  {
+    "name": "coffee-maker"
+  },
+  {
+    "name": "cognition"
+  },
+  {
+    "name": "cognition-2"
+  },
+  {
+    "name": "collections-bookmark"
+  },
+  {
+    "name": "colorize"
+  },
+  {
+    "name": "combine-columns"
+  },
+  {
+    "name": "comic-bubble"
+  },
+  {
+    "name": "comment"
+  },
+  {
+    "name": "comment-bank"
+  },
+  {
+    "name": "comments-disabled"
+  },
+  {
+    "name": "commute"
+  },
+  {
+    "name": "computer"
+  },
+  {
+    "name": "concierge"
+  },
+  {
+    "name": "confirmation-number"
+  },
+  {
+    "name": "connected-tv"
+  },
+  {
+    "name": "contact-emergency"
+  },
+  {
+    "name": "contact-mail"
+  },
+  {
+    "name": "contact-page"
+  },
+  {
+    "name": "contact-phone"
+  },
+  {
+    "name": "contacts"
+  },
+  {
+    "name": "content-copy"
+  },
+  {
+    "name": "contextual-token"
+  },
+  {
+    "name": "contextual-token-add"
+  },
+  {
+    "name": "contract-edit"
+  },
+  {
+    "name": "controller-gen"
+  },
+  {
+    "name": "convert-to-text"
+  },
+  {
+    "name": "conveyor-belt"
+  },
+  {
+    "name": "cooking"
+  },
+  {
+    "name": "copy-all"
+  },
+  {
+    "name": "copyright"
+  },
+  {
+    "name": "coronavirus"
+  },
+  {
+    "name": "counter-0"
+  },
+  {
+    "name": "counter-2"
+  },
+  {
+    "name": "counter-3"
+  },
+  {
+    "name": "counter-5"
+  },
+  {
+    "name": "counter-6"
+  },
+  {
+    "name": "counter-7"
+  },
+  {
+    "name": "counter-8"
+  },
+  {
+    "name": "counter-9"
+  },
+  {
+    "name": "create-new-folder"
+  },
+  {
+    "name": "credit-card"
+  },
+  {
+    "name": "credit-card-clock"
+  },
+  {
+    "name": "credit-card-gear"
+  },
+  {
+    "name": "credit-card-heart"
+  },
+  {
+    "name": "credit-card-off"
+  },
+  {
+    "name": "credit-score"
+  },
+  {
+    "name": "crib"
+  },
+  {
+    "name": "crop-16-9"
+  },
+  {
+    "name": "crop-3-2"
+  },
+  {
+    "name": "crop-5-4"
+  },
+  {
+    "name": "crop-7-5"
+  },
+  {
+    "name": "crop-9-16"
+  },
+  {
+    "name": "crop-portrait"
+  },
+  {
+    "name": "csv"
+  },
+  {
+    "name": "data-exploration"
+  },
+  {
+    "name": "data-table"
+  },
+  {
+    "name": "data-thresholding"
+  },
+  {
+    "name": "dataset"
+  },
+  {
+    "name": "dataset-linked"
+  },
+  {
+    "name": "date-range"
+  },
+  {
+    "name": "deceased"
+  },
+  {
+    "name": "delete"
+  },
+  {
+    "name": "delete-forever"
+  },
+  {
+    "name": "delete-sweep"
+  },
+  {
+    "name": "demography"
+  },
+  {
+    "name": "departure-board"
+  },
+  {
+    "name": "deployed-code"
+  },
+  {
+    "name": "deployed-code-account"
+  },
+  {
+    "name": "deployed-code-alert"
+  },
+  {
+    "name": "deployed-code-history"
+  },
+  {
+    "name": "deployed-code-update"
+  },
+  {
+    "name": "dermatology"
+  },
+  {
+    "name": "description"
+  },
+  {
+    "name": "design-services"
+  },
+  {
+    "name": "deskphone"
+  },
+  {
+    "name": "desktop-access-disabled"
+  },
+  {
+    "name": "desktop-cloud"
+  },
+  {
+    "name": "desktop-cloud-stack"
+  },
+  {
+    "name": "desktop-landscape"
+  },
+  {
+    "name": "desktop-landscape-add"
+  },
+  {
+    "name": "desktop-mac"
+  },
+  {
+    "name": "desktop-portrait"
+  },
+  {
+    "name": "desktop-windows"
+  },
+  {
+    "name": "destruction"
+  },
+  {
+    "name": "detector"
+  },
+  {
+    "name": "detector-alarm"
+  },
+  {
+    "name": "detector-battery"
+  },
+  {
+    "name": "detector-co"
+  },
+  {
+    "name": "detector-offline"
+  },
+  {
+    "name": "detector-smoke"
+  },
+  {
+    "name": "detector-status"
+  },
+  {
+    "name": "developer-board"
+  },
+  {
+    "name": "developer-board-off"
+  },
+  {
+    "name": "developer-guide"
+  },
+  {
+    "name": "developer-mode"
+  },
+  {
+    "name": "developer-mode-tv"
+  },
+  {
+    "name": "device-unknown"
+  },
+  {
+    "name": "devices"
+  },
+  {
+    "name": "devices-fold"
+  },
+  {
+    "name": "devices-fold-2"
+  },
+  {
+    "name": "devices-other"
+  },
+  {
+    "name": "devices-wearables"
+  },
+  {
+    "name": "diagnosis"
+  },
+  {
+    "name": "dialer-sip"
+  },
+  {
+    "name": "dialogs"
+  },
+  {
+    "name": "dictionary"
+  },
+  {
+    "name": "difference"
+  },
+  {
+    "name": "digital-out-of-home"
+  },
+  {
+    "name": "dining"
+  },
+  {
+    "name": "dinner-dining"
+  },
+  {
+    "name": "directions"
+  },
+  {
+    "name": "directions-alt"
+  },
+  {
+    "name": "directions-alt-off"
+  },
+  {
+    "name": "directions-boat"
+  },
+  {
+    "name": "directions-bus"
+  },
+  {
+    "name": "directions-car"
+  },
+  {
+    "name": "directions-off"
+  },
+  {
+    "name": "dirty-lens"
+  },
+  {
+    "name": "disabled-by-default"
+  },
+  {
+    "name": "dishwasher"
+  },
+  {
+    "name": "dishwasher-gen"
+  },
+  {
+    "name": "display-settings"
+  },
+  {
+    "name": "diversity-4"
+  },
+  {
+    "name": "dns"
+  },
+  {
+    "name": "do-not-step"
+  },
+  {
+    "name": "do-not-touch"
+  },
+  {
+    "name": "dock"
+  },
+  {
+    "name": "dock-to-bottom"
+  },
+  {
+    "name": "dock-to-left"
+  },
+  {
+    "name": "dock-to-right"
+  },
+  {
+    "name": "docs"
+  },
+  {
+    "name": "document-scanner"
+  },
+  {
+    "name": "domain-verification"
+  },
+  {
+    "name": "door-back"
+  },
+  {
+    "name": "door-front"
+  },
+  {
+    "name": "door-open"
+  },
+  {
+    "name": "door-sensor"
+  },
+  {
+    "name": "door-sliding"
+  },
+  {
+    "name": "doorbell"
+  },
+  {
+    "name": "doorbell-3p"
+  },
+  {
+    "name": "draft"
+  },
+  {
+    "name": "draft-orders"
+  },
+  {
+    "name": "drafts"
+  },
+  {
+    "name": "draw"
+  },
+  {
+    "name": "draw-abstract"
+  },
+  {
+    "name": "dresser"
+  },
+  {
+    "name": "drive-file-move"
+  },
+  {
+    "name": "drive-file-move-rtl"
+  },
+  {
+    "name": "drive-file-rename"
+  },
+  {
+    "name": "drive-file-rename-outline"
+  },
+  {
+    "name": "drive-folder-upload"
+  },
+  {
+    "name": "dropdown"
+  },
+  {
+    "name": "dry"
+  },
+  {
+    "name": "dry-cleaning"
+  },
+  {
+    "name": "dual-screen"
+  },
+  {
+    "name": "dvr"
+  },
+  {
+    "name": "dynamic-form"
+  },
+  {
+    "name": "e-mobiledata-badge"
+  },
+  {
+    "name": "e911-avatar"
+  },
+  {
+    "name": "e911-emergency"
+  },
+  {
+    "name": "earbuds"
+  },
+  {
+    "name": "earbuds-battery"
+  },
+  {
+    "name": "early-on"
+  },
+  {
+    "name": "ecg"
+  },
+  {
+    "name": "ecg-heart"
+  },
+  {
+    "name": "eda"
+  },
+  {
+    "name": "edgesensor-high"
+  },
+  {
+    "name": "edgesensor-low"
+  },
+  {
+    "name": "edit"
+  },
+  {
+    "name": "edit-calendar"
+  },
+  {
+    "name": "edit-document"
+  },
+  {
+    "name": "edit-location"
+  },
+  {
+    "name": "edit-location-alt"
+  },
+  {
+    "name": "edit-note"
+  },
+  {
+    "name": "edit-notifications"
+  },
+  {
+    "name": "edit-off"
+  },
+  {
+    "name": "edit-road"
+  },
+  {
+    "name": "edit-square"
+  },
+  {
+    "name": "egg"
+  },
+  {
+    "name": "electric-bike"
+  },
+  {
+    "name": "electric-car"
+  },
+  {
+    "name": "electric-moped"
+  },
+  {
+    "name": "electric-rickshaw"
+  },
+  {
+    "name": "electric-scooter"
+  },
+  {
+    "name": "elevator"
+  },
+  {
+    "name": "emergency-heat-2"
+  },
+  {
+    "name": "emergency-home"
+  },
+  {
+    "name": "emergency-recording"
+  },
+  {
+    "name": "emoji-food-beverage"
+  },
+  {
+    "name": "emoji-objects"
+  },
+  {
+    "name": "emoji-transportation"
+  },
+  {
+    "name": "empty-dashboard"
+  },
+  {
+    "name": "energy-program-time-used"
+  },
+  {
+    "name": "energy-savings-leaf"
+  },
+  {
+    "name": "engineering"
+  },
+  {
+    "name": "enhanced-encryption"
+  },
+  {
+    "name": "ent"
+  },
+  {
+    "name": "enterprise"
+  },
+  {
+    "name": "error-circle-rounded"
+  },
+  {
+    "name": "escalator"
+  },
+  {
+    "name": "ev-mobiledata-badge"
+  },
+  {
+    "name": "ev-station"
+  },
+  {
+    "name": "event"
+  },
+  {
+    "name": "event-available"
+  },
+  {
+    "name": "event-busy"
+  },
+  {
+    "name": "event-list"
+  },
+  {
+    "name": "event-note"
+  },
+  {
+    "name": "event-repeat"
+  },
+  {
+    "name": "event-seat"
+  },
+  {
+    "name": "event-upcoming"
+  },
+  {
+    "name": "exercise"
+  },
+  {
+    "name": "expansion-panels"
+  },
+  {
+    "name": "experiment"
+  },
+  {
+    "name": "explicit"
+  },
+  {
+    "name": "export-notes"
+  },
+  {
+    "name": "extension"
+  },
+  {
+    "name": "extension-off"
+  },
+  {
+    "name": "eye-tracking"
+  },
+  {
+    "name": "face-3"
+  },
+  {
+    "name": "face-6"
+  },
+  {
+    "name": "fact-check"
+  },
+  {
+    "name": "familiar-face-and-zone"
+  },
+  {
+    "name": "family-link"
+  },
+  {
+    "name": "family-star"
+  },
+  {
+    "name": "fastfood"
+  },
+  {
+    "name": "faucet"
+  },
+  {
+    "name": "fax"
+  },
+  {
+    "name": "feature-search"
+  },
+  {
+    "name": "featured-play-list"
+  },
+  {
+    "name": "featured-video"
+  },
+  {
+    "name": "feedback"
+  },
+  {
+    "name": "fiber-dvr"
+  },
+  {
+    "name": "fiber-new"
+  },
+  {
+    "name": "fiber-pin"
+  },
+  {
+    "name": "file-copy"
+  },
+  {
+    "name": "file-copy-off"
+  },
+  {
+    "name": "file-export"
+  },
+  {
+    "name": "file-json"
+  },
+  {
+    "name": "file-map"
+  },
+  {
+    "name": "file-map-stack"
+  },
+  {
+    "name": "file-open"
+  },
+  {
+    "name": "file-png"
+  },
+  {
+    "name": "file-present"
+  },
+  {
+    "name": "file-save"
+  },
+  {
+    "name": "file-save-off"
+  },
+  {
+    "name": "files"
+  },
+  {
+    "name": "filter"
+  },
+  {
+    "name": "filter-1"
+  },
+  {
+    "name": "filter-2"
+  },
+  {
+    "name": "filter-3"
+  },
+  {
+    "name": "filter-4"
+  },
+  {
+    "name": "filter-5"
+  },
+  {
+    "name": "filter-6"
+  },
+  {
+    "name": "filter-7"
+  },
+  {
+    "name": "filter-8"
+  },
+  {
+    "name": "filter-9"
+  },
+  {
+    "name": "filter-9-plus"
+  },
+  {
+    "name": "filter-alt"
+  },
+  {
+    "name": "filter-alt-off"
+  },
+  {
+    "name": "filter-center-focus"
+  },
+  {
+    "name": "filter-frames"
+  },
+  {
+    "name": "filter-none"
+  },
+  {
+    "name": "find-in-page"
+  },
+  {
+    "name": "fingerprint"
+  },
+  {
+    "name": "fire-hydrant"
+  },
+  {
+    "name": "fire-truck"
+  },
+  {
+    "name": "fit-screen"
+  },
+  {
+    "name": "fitbit-hourly-activity"
+  },
+  {
+    "name": "flight-class"
+  },
+  {
+    "name": "flights-and-hotels"
+  },
+  {
+    "name": "flip-camera-ios"
+  },
+  {
+    "name": "float-landscape"
+  },
+  {
+    "name": "float-landscape-2"
+  },
+  {
+    "name": "float-portrait"
+  },
+  {
+    "name": "float-portrait-2"
+  },
+  {
+    "name": "floor-lamp"
+  },
+  {
+    "name": "flowsheet"
+  },
+  {
+    "name": "fluid"
+  },
+  {
+    "name": "fluid-balance"
+  },
+  {
+    "name": "fluid-med"
+  },
+  {
+    "name": "folder"
+  },
+  {
+    "name": "folder-check"
+  },
+  {
+    "name": "folder-check-2"
+  },
+  {
+    "name": "folder-code"
+  },
+  {
+    "name": "folder-copy"
+  },
+  {
+    "name": "folder-data"
+  },
+  {
+    "name": "folder-delete"
+  },
+  {
+    "name": "folder-eye"
+  },
+  {
+    "name": "folder-limited"
+  },
+  {
+    "name": "folder-managed"
+  },
+  {
+    "name": "folder-match"
+  },
+  {
+    "name": "folder-off"
+  },
+  {
+    "name": "folder-open"
+  },
+  {
+    "name": "folder-shared"
+  },
+  {
+    "name": "folder-special"
+  },
+  {
+    "name": "folder-supervised"
+  },
+  {
+    "name": "folder-zip"
+  },
+  {
+    "name": "font-download"
+  },
+  {
+    "name": "font-download-off"
+  },
+  {
+    "name": "format-ink-highlighter"
+  },
+  {
+    "name": "format-paint"
+  },
+  {
+    "name": "fort"
+  },
+  {
+    "name": "forum"
+  },
+  {
+    "name": "forward-to-inbox"
+  },
+  {
+    "name": "frame-person"
+  },
+  {
+    "name": "frame-person-mic"
+  },
+  {
+    "name": "frame-person-off"
+  },
+  {
+    "name": "free-cancellation"
+  },
+  {
+    "name": "front-hand"
+  },
+  {
+    "name": "front-loader"
+  },
+  {
+    "name": "full-coverage"
+  },
+  {
+    "name": "full-hd"
+  },
+  {
+    "name": "fullscreen-portrait"
+  },
+  {
+    "name": "g-mobiledata-badge"
+  },
+  {
+    "name": "gallery-thumbnail"
+  },
+  {
+    "name": "garage"
+  },
+  {
+    "name": "garden-cart"
+  },
+  {
+    "name": "gas-meter"
+  },
+  {
+    "name": "gate"
+  },
+  {
+    "name": "general-device"
+  },
+  {
+    "name": "gesture-select"
+  },
+  {
+    "name": "gif-box"
+  },
+  {
+    "name": "glass-cup"
+  },
+  {
+    "name": "glucose"
+  },
+  {
+    "name": "gondola-lift"
+  },
+  {
+    "name": "google-wifi"
+  },
+  {
+    "name": "gradient"
+  },
+  {
+    "name": "grid-off"
+  },
+  {
+    "name": "grid-on"
+  },
+  {
+    "name": "groups"
+  },
+  {
+    "name": "h-mobiledata-badge"
+  },
+  {
+    "name": "h-plus-mobiledata-badge"
+  },
+  {
+    "name": "hallway"
+  },
+  {
+    "name": "hand-gesture"
+  },
+  {
+    "name": "hand-gesture-off"
+  },
+  {
+    "name": "handshake"
+  },
+  {
+    "name": "hangout-meeting"
+  },
+  {
+    "name": "hangout-video"
+  },
+  {
+    "name": "hangout-video-off"
+  },
+  {
+    "name": "hard-disk"
+  },
+  {
+    "name": "hard-drive"
+  },
+  {
+    "name": "hard-drive-2"
+  },
+  {
+    "name": "hardware"
+  },
+  {
+    "name": "hd"
+  },
+  {
+    "name": "hdr-enhanced-select"
+  },
+  {
+    "name": "hdr-off-select"
+  },
+  {
+    "name": "hdr-on-select"
+  },
+  {
+    "name": "hdr-plus"
+  },
+  {
+    "name": "hdr-plus-off"
+  },
+  {
+    "name": "headphones"
+  },
+  {
+    "name": "headphones-battery"
+  },
+  {
+    "name": "headset-mic"
+  },
+  {
+    "name": "headset-off"
+  },
+  {
+    "name": "healing"
+  },
+  {
+    "name": "health-and-beauty"
+  },
+  {
+    "name": "health-metrics"
+  },
+  {
+    "name": "heap-snapshot-large"
+  },
+  {
+    "name": "heap-snapshot-multiple"
+  },
+  {
+    "name": "heap-snapshot-thumbnail"
+  },
+  {
+    "name": "heat"
+  },
+  {
+    "name": "heat-pump"
+  },
+  {
+    "name": "heat-pump-balance"
+  },
+  {
+    "name": "helicopter"
+  },
+  {
+    "name": "help-center"
+  },
+  {
+    "name": "hide-image"
+  },
+  {
+    "name": "high-quality"
+  },
+  {
+    "name": "high-res"
+  },
+  {
+    "name": "home-repair-service"
+  },
+  {
+    "name": "home-storage"
+  },
+  {
+    "name": "host"
+  },
+  {
+    "name": "hot-tub"
+  },
+  {
+    "name": "hotel"
+  },
+  {
+    "name": "houseboat"
+  },
+  {
+    "name": "household-supplies"
+  },
+  {
+    "name": "how-to-vote"
+  },
+  {
+    "name": "hr-resting"
+  },
+  {
+    "name": "humidity-high"
+  },
+  {
+    "name": "hvac"
+  },
+  {
+    "name": "ice-skating"
+  },
+  {
+    "name": "id-card"
+  },
+  {
+    "name": "ifl"
+  },
+  {
+    "name": "iframe"
+  },
+  {
+    "name": "iframe-off"
+  },
+  {
+    "name": "image"
+  },
+  {
+    "name": "image-aspect-ratio"
+  },
+  {
+    "name": "image-not-supported"
+  },
+  {
+    "name": "image-search"
+  },
+  {
+    "name": "imagesearch-roller"
+  },
+  {
+    "name": "imagesmode"
+  },
+  {
+    "name": "import-contacts"
+  },
+  {
+    "name": "important-devices"
+  },
+  {
+    "name": "inactive-order"
+  },
+  {
+    "name": "inbox"
+  },
+  {
+    "name": "inbox-customize"
+  },
+  {
+    "name": "ink-eraser"
+  },
+  {
+    "name": "ink-eraser-off"
+  },
+  {
+    "name": "ink-highlighter"
+  },
+  {
+    "name": "ink-highlighter-move"
+  },
+  {
+    "name": "ink-pen"
+  },
+  {
+    "name": "inpatient"
+  },
+  {
+    "name": "insert-chart"
+  },
+  {
+    "name": "insert-page-break"
+  },
+  {
+    "name": "install-mobile"
+  },
+  {
+    "name": "integration-instructions"
+  },
+  {
+    "name": "interactive-space"
+  },
+  {
+    "name": "inventory-2"
+  },
+  {
+    "name": "iron"
+  },
+  {
+    "name": "jamboard-kiosk"
+  },
+  {
+    "name": "joystick"
+  },
+  {
+    "name": "keyboard"
+  },
+  {
+    "name": "keyboard-alt"
+  },
+  {
+    "name": "keyboard-capslock-badge"
+  },
+  {
+    "name": "keyboard-external-input"
+  },
+  {
+    "name": "keyboard-hide"
+  },
+  {
+    "name": "keyboard-lock"
+  },
+  {
+    "name": "keyboard-lock-off"
+  },
+  {
+    "name": "keyboard-off"
+  },
+  {
+    "name": "keyboard-onscreen"
+  },
+  {
+    "name": "keyboard-previous-language"
+  },
+  {
+    "name": "kid-star"
+  },
+  {
+    "name": "king-bed"
+  },
+  {
+    "name": "kitchen"
+  },
+  {
+    "name": "kitesurfing"
+  },
+  {
+    "name": "lab-panel"
+  },
+  {
+    "name": "lab-profile"
+  },
+  {
+    "name": "lab-research"
+  },
+  {
+    "name": "label"
+  },
+  {
+    "name": "label-important"
+  },
+  {
+    "name": "label-off"
+  },
+  {
+    "name": "labs"
+  },
+  {
+    "name": "laptop-car"
+  },
+  {
+    "name": "laptop-mac"
+  },
+  {
+    "name": "laptop-windows"
+  },
+  {
+    "name": "lda"
+  },
+  {
+    "name": "leaf-spark"
+  },
+  {
+    "name": "left-panel-close"
+  },
+  {
+    "name": "left-panel-open"
+  },
+  {
+    "name": "library-add"
+  },
+  {
+    "name": "library-add-check"
+  },
+  {
+    "name": "library-books"
+  },
+  {
+    "name": "library-music"
+  },
+  {
+    "name": "light"
+  },
+  {
+    "name": "light-group"
+  },
+  {
+    "name": "lightbulb-2"
+  },
+  {
+    "name": "linked-camera"
+  },
+  {
+    "name": "liquor"
+  },
+  {
+    "name": "list-alt"
+  },
+  {
+    "name": "list-alt-add"
+  },
+  {
+    "name": "list-alt-check"
+  },
+  {
+    "name": "live-help"
+  },
+  {
+    "name": "live-tv"
+  },
+  {
+    "name": "living"
+  },
+  {
+    "name": "local-activity"
+  },
+  {
+    "name": "local-atm"
+  },
+  {
+    "name": "local-cafe"
+  },
+  {
+    "name": "local-car-wash"
+  },
+  {
+    "name": "local-convenience-store"
+  },
+  {
+    "name": "local-drink"
+  },
+  {
+    "name": "local-gas-station"
+  },
+  {
+    "name": "local-hospital"
+  },
+  {
+    "name": "local-laundry-service"
+  },
+  {
+    "name": "local-mall"
+  },
+  {
+    "name": "local-post-office"
+  },
+  {
+    "name": "local-see"
+  },
+  {
+    "name": "local-shipping"
+  },
+  {
+    "name": "local-taxi"
+  },
+  {
+    "name": "lock"
+  },
+  {
+    "name": "lock-clock"
+  },
+  {
+    "name": "lock-open"
+  },
+  {
+    "name": "lock-open-right"
+  },
+  {
+    "name": "lock-person"
+  },
+  {
+    "name": "logo-dev"
+  },
+  {
+    "name": "looks-3"
+  },
+  {
+    "name": "looks-4"
+  },
+  {
+    "name": "looks-5"
+  },
+  {
+    "name": "looks-6"
+  },
+  {
+    "name": "looks-one"
+  },
+  {
+    "name": "looks-two"
+  },
+  {
+    "name": "loupe"
+  },
+  {
+    "name": "loyalty"
+  },
+  {
+    "name": "lte-mobiledata-badge"
+  },
+  {
+    "name": "lte-plus-mobiledata-badge"
+  },
+  {
+    "name": "luggage"
+  },
+  {
+    "name": "lunch-dining"
+  },
+  {
+    "name": "lyrics"
+  },
+  {
+    "name": "magnification-large"
+  },
+  {
+    "name": "magnification-small"
+  },
+  {
+    "name": "magnify-fullscreen"
+  },
+  {
+    "name": "mail"
+  },
+  {
+    "name": "mail-lock"
+  },
+  {
+    "name": "mail-off"
+  },
+  {
+    "name": "manga"
+  },
+  {
+    "name": "map"
+  },
+  {
+    "name": "map-search"
+  },
+  {
+    "name": "margin"
+  },
+  {
+    "name": "mark-as-unread"
+  },
+  {
+    "name": "mark-chat-read"
+  },
+  {
+    "name": "mark-chat-unread"
+  },
+  {
+    "name": "mark-email-read"
+  },
+  {
+    "name": "mark-email-unread"
+  },
+  {
+    "name": "mark-unread-chat-alt"
+  },
+  {
+    "name": "markdown"
+  },
+  {
+    "name": "markdown-copy"
+  },
+  {
+    "name": "markunread-mailbox"
+  },
+  {
+    "name": "media-link"
+  },
+  {
+    "name": "media-output"
+  },
+  {
+    "name": "media-output-off"
+  },
+  {
+    "name": "medical-information"
+  },
+  {
+    "name": "medical-mask"
+  },
+  {
+    "name": "medical-services"
+  },
+  {
+    "name": "medication"
+  },
+  {
+    "name": "medication-liquid"
+  },
+  {
+    "name": "memory"
+  },
+  {
+    "name": "memory-alt"
+  },
+  {
+    "name": "menu-book"
+  },
+  {
+    "name": "mic-external-off"
+  },
+  {
+    "name": "mic-external-on"
+  },
+  {
+    "name": "microbiology"
+  },
+  {
+    "name": "microwave"
+  },
+  {
+    "name": "microwave-gen"
+  },
+  {
+    "name": "military-tech"
+  },
+  {
+    "name": "mimo"
+  },
+  {
+    "name": "mimo-disconnect"
+  },
+  {
+    "name": "mindfulness"
+  },
+  {
+    "name": "minor-crash"
+  },
+  {
+    "name": "missed-video-call"
+  },
+  {
+    "name": "mixture-med"
+  },
+  {
+    "name": "mms"
+  },
+  {
+    "name": "mobile-friendly"
+  },
+  {
+    "name": "mobile-off"
+  },
+  {
+    "name": "mobile-screen-share"
+  },
+  {
+    "name": "mode-comment"
+  },
+  {
+    "name": "mode-dual"
+  },
+  {
+    "name": "money"
+  },
+  {
+    "name": "monitor-heart"
+  },
+  {
+    "name": "monitor-weight"
+  },
+  {
+    "name": "monitor-weight-gain"
+  },
+  {
+    "name": "monitor-weight-loss"
+  },
+  {
+    "name": "monochrome-photos"
+  },
+  {
+    "name": "mop"
+  },
+  {
+    "name": "moped"
+  },
+  {
+    "name": "more"
+  },
+  {
+    "name": "mosque"
+  },
+  {
+    "name": "motorcycle"
+  },
+  {
+    "name": "mountain-flag"
+  },
+  {
+    "name": "mouse-lock"
+  },
+  {
+    "name": "mouse-lock-off"
+  },
+  {
+    "name": "move-to-inbox"
+  },
+  {
+    "name": "movie"
+  },
+  {
+    "name": "movie-edit"
+  },
+  {
+    "name": "movie-filter"
+  },
+  {
+    "name": "movie-info"
+  },
+  {
+    "name": "movie-off"
+  },
+  {
+    "name": "moving-beds"
+  },
+  {
+    "name": "mp"
+  },
+  {
+    "name": "multimodal-hand-eye"
+  },
+  {
+    "name": "multiple-airports"
+  },
+  {
+    "name": "music-video"
+  },
+  {
+    "name": "nature-people"
+  },
+  {
+    "name": "nearby-off"
+  },
+  {
+    "name": "nest-cam-floodlight"
+  },
+  {
+    "name": "nest-cam-iq-outdoor"
+  },
+  {
+    "name": "nest-cam-magnet-mount"
+  },
+  {
+    "name": "nest-cam-outdoor"
+  },
+  {
+    "name": "nest-cam-stand"
+  },
+  {
+    "name": "nest-cam-wall-mount"
+  },
+  {
+    "name": "nest-cam-wired-stand"
+  },
+  {
+    "name": "nest-found-savings"
+  },
+  {
+    "name": "nest-mini"
+  },
+  {
+    "name": "nest-secure-alarm"
+  },
+  {
+    "name": "nest-wake-on-press"
+  },
+  {
+    "name": "network-locked"
+  },
+  {
+    "name": "new-label"
+  },
+  {
+    "name": "news"
+  },
+  {
+    "name": "newsmode"
+  },
+  {
+    "name": "next-week"
+  },
+  {
+    "name": "nfc"
+  },
+  {
+    "name": "nightlight-badge"
+  },
+  {
+    "name": "no-backpack"
+  },
+  {
+    "name": "no-crash"
+  },
+  {
+    "name": "no-encryption"
+  },
+  {
+    "name": "no-flash"
+  },
+  {
+    "name": "no-food"
+  },
+  {
+    "name": "no-luggage"
+  },
+  {
+    "name": "no-photography"
+  },
+  {
+    "name": "no-sim"
+  },
+  {
+    "name": "no-stroller"
+  },
+  {
+    "name": "no-transfer"
+  },
+  {
+    "name": "note-add"
+  },
+  {
+    "name": "note-alt"
+  },
+  {
+    "name": "note-stack"
+  },
+  {
+    "name": "note-stack-add"
+  },
+  {
+    "name": "notification-add"
+  },
+  {
+    "name": "notification-important"
+  },
+  {
+    "name": "notification-multiple"
+  },
+  {
+    "name": "notifications"
+  },
+  {
+    "name": "notifications-active"
+  },
+  {
+    "name": "notifications-off"
+  },
+  {
+    "name": "notifications-paused"
+  },
+  {
+    "name": "notifications-unread"
+  },
+  {
+    "name": "nutrition"
+  },
+  {
+    "name": "ods"
+  },
+  {
+    "name": "odt"
+  },
+  {
+    "name": "offline-share"
+  },
+  {
+    "name": "oil-barrel"
+  },
+  {
+    "name": "on-device-training"
+  },
+  {
+    "name": "on-hub-device"
+  },
+  {
+    "name": "open-in-phone"
+  },
+  {
+    "name": "open-jam"
+  },
+  {
+    "name": "order-approve"
+  },
+  {
+    "name": "order-play"
+  },
+  {
+    "name": "other-admission"
+  },
+  {
+    "name": "outbox"
+  },
+  {
+    "name": "outbox-alt"
+  },
+  {
+    "name": "outdoor-grill"
+  },
+  {
+    "name": "outlet"
+  },
+  {
+    "name": "outpatient-med"
+  },
+  {
+    "name": "oven"
+  },
+  {
+    "name": "overview"
+  },
+  {
+    "name": "overview-key"
+  },
+  {
+    "name": "oxygen-saturation"
+  },
+  {
+    "name": "p2p"
+  },
+  {
+    "name": "package"
+  },
+  {
+    "name": "package-2"
+  },
+  {
+    "name": "padding"
+  },
+  {
+    "name": "pages"
+  },
+  {
+    "name": "pageview"
+  },
+  {
+    "name": "pallet"
+  },
+  {
+    "name": "pan-tool"
+  },
+  {
+    "name": "pan-tool-alt"
+  },
+  {
+    "name": "panorama"
+  },
+  {
+    "name": "panorama-horizontal"
+  },
+  {
+    "name": "panorama-photosphere"
+  },
+  {
+    "name": "panorama-vertical"
+  },
+  {
+    "name": "party-mode"
+  },
+  {
+    "name": "pause-presentation"
+  },
+  {
+    "name": "payments"
+  },
+  {
+    "name": "pdf-off"
+  },
+  {
+    "name": "pedal-bike"
+  },
+  {
+    "name": "pediatrics"
+  },
+  {
+    "name": "performance-max"
+  },
+  {
+    "name": "pergola"
+  },
+  {
+    "name": "perm-camera-mic"
+  },
+  {
+    "name": "perm-contact-calendar"
+  },
+  {
+    "name": "perm-device-information"
+  },
+  {
+    "name": "perm-media"
+  },
+  {
+    "name": "perm-phone-msg"
+  },
+  {
+    "name": "person-book"
+  },
+  {
+    "name": "person-edit"
+  },
+  {
+    "name": "person-pin"
+  },
+  {
+    "name": "personal-bag"
+  },
+  {
+    "name": "personal-bag-off"
+  },
+  {
+    "name": "personal-bag-question"
+  },
+  {
+    "name": "pest-control-rodent"
+  },
+  {
+    "name": "phone-android"
+  },
+  {
+    "name": "phone-bluetooth-speaker"
+  },
+  {
+    "name": "phone-callback"
+  },
+  {
+    "name": "phone-disabled"
+  },
+  {
+    "name": "phone-enabled"
+  },
+  {
+    "name": "phone-forwarded"
+  },
+  {
+    "name": "phone-in-talk"
+  },
+  {
+    "name": "phone-in-talk-watchface-indicator"
+  },
+  {
+    "name": "phone-iphone"
+  },
+  {
+    "name": "phone-locked"
+  },
+  {
+    "name": "phone-missed"
+  },
+  {
+    "name": "phone-paused"
+  },
+  {
+    "name": "phonelink-erase"
+  },
+  {
+    "name": "phonelink-lock"
+  },
+  {
+    "name": "phonelink-off"
+  },
+  {
+    "name": "phonelink-ring"
+  },
+  {
+    "name": "phonelink-ring-off"
+  },
+  {
+    "name": "phonelink-setup"
+  },
+  {
+    "name": "photo-album"
+  },
+  {
+    "name": "photo-auto-merge"
+  },
+  {
+    "name": "photo-camera"
+  },
+  {
+    "name": "photo-camera-back"
+  },
+  {
+    "name": "photo-camera-front"
+  },
+  {
+    "name": "photo-frame"
+  },
+  {
+    "name": "photo-prints"
+  },
+  {
+    "name": "picture-as-pdf"
+  },
+  {
+    "name": "picture-in-picture"
+  },
+  {
+    "name": "picture-in-picture-alt"
+  },
+  {
+    "name": "picture-in-picture-center"
+  },
+  {
+    "name": "picture-in-picture-mobile"
+  },
+  {
+    "name": "picture-in-picture-off"
+  },
+  {
+    "name": "pin"
+  },
+  {
+    "name": "pinch"
+  },
+  {
+    "name": "pinch-zoom-in"
+  },
+  {
+    "name": "pinch-zoom-out"
+  },
+  {
+    "name": "pip-exit"
+  },
+  {
+    "name": "pixel-3-3xl-3a"
+  },
+  {
+    "name": "plagiarism"
+  },
+  {
+    "name": "planner-banner-ad-pt"
+  },
+  {
+    "name": "play-lesson"
+  },
+  {
+    "name": "play-pass"
+  },
+  {
+    "name": "playing-cards"
+  },
+  {
+    "name": "podiatry"
+  },
+  {
+    "name": "podium"
+  },
+  {
+    "name": "position-bottom-left"
+  },
+  {
+    "name": "position-bottom-right"
+  },
+  {
+    "name": "position-top-right"
+  },
+  {
+    "name": "potted-plant"
+  },
+  {
+    "name": "power-plug"
+  },
+  {
+    "name": "power-plug-off"
+  },
+  {
+    "name": "precision-manufacturing"
+  },
+  {
+    "name": "prescriptions"
+  },
+  {
+    "name": "present-to-all"
+  },
+  {
+    "name": "preview"
+  },
+  {
+    "name": "print"
+  },
+  {
+    "name": "print-add"
+  },
+  {
+    "name": "print-connect"
+  },
+  {
+    "name": "print-disabled"
+  },
+  {
+    "name": "print-error"
+  },
+  {
+    "name": "print-lock"
+  },
+  {
+    "name": "privacy"
+  },
+  {
+    "name": "privacy-screen"
+  },
+  {
+    "name": "privacy-screen-off"
+  },
+  {
+    "name": "private-connectivity"
+  },
+  {
+    "name": "problem"
+  },
+  {
+    "name": "propane"
+  },
+  {
+    "name": "propane-tank"
+  },
+  {
+    "name": "psychology"
+  },
+  {
+    "name": "psychology-alt"
+  },
+  {
+    "name": "pulmonology"
+  },
+  {
+    "name": "pulse-alert"
+  },
+  {
+    "name": "punch-clock"
+  },
+  {
+    "name": "queue-play-next"
+  },
+  {
+    "name": "quick-reference"
+  },
+  {
+    "name": "quick-reference-all"
+  },
+  {
+    "name": "quickreply"
+  },
+  {
+    "name": "quiz"
+  },
+  {
+    "name": "radio"
+  },
+  {
+    "name": "range-hood"
+  },
+  {
+    "name": "rate-review"
+  },
+  {
+    "name": "readiness-score"
+  },
+  {
+    "name": "real-estate-agent"
+  },
+  {
+    "name": "rear-camera"
+  },
+  {
+    "name": "rebase-edit"
+  },
+  {
+    "name": "recent-actors"
+  },
+  {
+    "name": "recommend"
+  },
+  {
+    "name": "relax"
+  },
+  {
+    "name": "remember-me"
+  },
+  {
+    "name": "reminder"
+  },
+  {
+    "name": "remote-gen"
+  },
+  {
+    "name": "remove-from-queue"
+  },
+  {
+    "name": "replace-image"
+  },
+  {
+    "name": "replace-video"
+  },
+  {
+    "name": "replay-circle-filled"
+  },
+  {
+    "name": "request-page"
+  },
+  {
+    "name": "request-quote"
+  },
+  {
+    "name": "reset-tv"
+  },
+  {
+    "name": "respiratory-rate"
+  },
+  {
+    "name": "restore-from-trash"
+  },
+  {
+    "name": "restore-page"
+  },
+  {
+    "name": "reviews"
+  },
+  {
+    "name": "rewarded-ads"
+  },
+  {
+    "name": "rice-bowl"
+  },
+  {
+    "name": "right-panel-close"
+  },
+  {
+    "name": "right-panel-open"
+  },
+  {
+    "name": "ring-volume"
+  },
+  {
+    "name": "ripples"
+  },
+  {
+    "name": "robot-2"
+  },
+  {
+    "name": "roller-skating"
+  },
+  {
+    "name": "room-service"
+  },
+  {
+    "name": "route"
+  },
+  {
+    "name": "router"
+  },
+  {
+    "name": "rule-folder"
+  },
+  {
+    "name": "rv-hookup"
+  },
+  {
+    "name": "sad-tab"
+  },
+  {
+    "name": "sanitizer"
+  },
+  {
+    "name": "satellite"
+  },
+  {
+    "name": "satellite-alt"
+  },
+  {
+    "name": "sauna"
+  },
+  {
+    "name": "save"
+  },
+  {
+    "name": "save-as"
+  },
+  {
+    "name": "scan"
+  },
+  {
+    "name": "scan-delete"
+  },
+  {
+    "name": "scanner"
+  },
+  {
+    "name": "scene"
+  },
+  {
+    "name": "science"
+  },
+  {
+    "name": "science-off"
+  },
+  {
+    "name": "score"
+  },
+  {
+    "name": "scoreboard"
+  },
+  {
+    "name": "screen-lock-landscape"
+  },
+  {
+    "name": "screen-lock-portrait"
+  },
+  {
+    "name": "screen-lock-rotation"
+  },
+  {
+    "name": "screen-rotation"
+  },
+  {
+    "name": "screen-search-desktop"
+  },
+  {
+    "name": "screen-share"
+  },
+  {
+    "name": "screenshot"
+  },
+  {
+    "name": "screenshot-keyboard"
+  },
+  {
+    "name": "screenshot-monitor"
+  },
+  {
+    "name": "screenshot-tablet"
+  },
+  {
+    "name": "script"
+  },
+  {
+    "name": "scrollable-header"
+  },
+  {
+    "name": "sd"
+  },
+  {
+    "name": "sd-card"
+  },
+  {
+    "name": "sd-card-alert"
+  },
+  {
+    "name": "sdk"
+  },
+  {
+    "name": "security-key"
+  },
+  {
+    "name": "security-update-good"
+  },
+  {
+    "name": "select-window-2"
+  },
+  {
+    "name": "select-window-off"
+  },
+  {
+    "name": "sell"
+  },
+  {
+    "name": "send-time-extension"
+  },
+  {
+    "name": "send-to-mobile"
+  },
+  {
+    "name": "sensor-door"
+  },
+  {
+    "name": "sensor-window"
+  },
+  {
+    "name": "serif"
+  },
+  {
+    "name": "server-person"
+  },
+  {
+    "name": "service-toolbox"
+  },
+  {
+    "name": "set-meal"
+  },
+  {
+    "name": "settings-account-box"
+  },
+  {
+    "name": "settings-applications"
+  },
+  {
+    "name": "settings-brightness"
+  },
+  {
+    "name": "settings-cell"
+  },
+  {
+    "name": "settings-cinematic-blur"
+  },
+  {
+    "name": "settings-input-component"
+  },
+  {
+    "name": "settings-input-hdmi"
+  },
+  {
+    "name": "settings-night-sight"
+  },
+  {
+    "name": "settings-overscan"
+  },
+  {
+    "name": "settings-phone"
+  },
+  {
+    "name": "settings-photo-camera"
+  },
+  {
+    "name": "settings-remote"
+  },
+  {
+    "name": "settings-system-daydream"
+  },
+  {
+    "name": "settings-video-camera"
+  },
+  {
+    "name": "settop-component"
+  },
+  {
+    "name": "shape-line"
+  },
+  {
+    "name": "shapes"
+  },
+  {
+    "name": "share-reviews"
+  },
+  {
+    "name": "shelf-auto-hide"
+  },
+  {
+    "name": "shelf-position"
+  },
+  {
+    "name": "shield-lock"
+  },
+  {
+    "name": "shield-locked"
+  },
+  {
+    "name": "shop"
+  },
+  {
+    "name": "shop-two"
+  },
+  {
+    "name": "shopping-bag"
+  },
+  {
+    "name": "shopping-basket"
+  },
+  {
+    "name": "shopping-cart"
+  },
+  {
+    "name": "shopping-cart-off"
+  },
+  {
+    "name": "shoppingmode"
+  },
+  {
+    "name": "short-stay"
+  },
+  {
+    "name": "shuffle-on"
+  },
+  {
+    "name": "sign-language"
+  },
+  {
+    "name": "signal-cellular-connected-no-internet-0-bar"
+  },
+  {
+    "name": "signal-wifi-bad"
+  },
+  {
+    "name": "sim-card"
+  },
+  {
+    "name": "sim-card-download"
+  },
+  {
+    "name": "single-bed"
+  },
+  {
+    "name": "sip"
+  },
+  {
+    "name": "skateboarding"
+  },
+  {
+    "name": "skillet"
+  },
+  {
+    "name": "skillet-cooktop"
+  },
+  {
+    "name": "slab-serif"
+  },
+  {
+    "name": "sledding"
+  },
+  {
+    "name": "slide-library"
+  },
+  {
+    "name": "slideshow"
+  },
+  {
+    "name": "smart-card-reader"
+  },
+  {
+    "name": "smart-card-reader-off"
+  },
+  {
+    "name": "smart-display"
+  },
+  {
+    "name": "smart-screen"
+  },
+  {
+    "name": "smart-toy"
+  },
+  {
+    "name": "smartphone"
+  },
+  {
+    "name": "smartphone-camera"
+  },
+  {
+    "name": "smb-share"
+  },
+  {
+    "name": "sms"
+  },
+  {
+    "name": "snippet-folder"
+  },
+  {
+    "name": "soap"
+  },
+  {
+    "name": "sound-detection-loud-sound"
+  },
+  {
+    "name": "source-notes"
+  },
+  {
+    "name": "space-dashboard"
+  },
+  {
+    "name": "spatial-speaker"
+  },
+  {
+    "name": "speaker"
+  },
+  {
+    "name": "speaker-group"
+  },
+  {
+    "name": "speaker-notes"
+  },
+  {
+    "name": "speaker-notes-off"
+  },
+  {
+    "name": "speaker-phone"
+  },
+  {
+    "name": "specific-gravity"
+  },
+  {
+    "name": "speed-1-75"
+  },
+  {
+    "name": "speed-camera"
+  },
+  {
+    "name": "split-scene"
+  },
+  {
+    "name": "splitscreen"
+  },
+  {
+    "name": "splitscreen-add"
+  },
+  {
+    "name": "splitscreen-bottom"
+  },
+  {
+    "name": "splitscreen-landscape"
+  },
+  {
+    "name": "splitscreen-left"
+  },
+  {
+    "name": "splitscreen-portrait"
+  },
+  {
+    "name": "splitscreen-right"
+  },
+  {
+    "name": "splitscreen-top"
+  },
+  {
+    "name": "splitscreen-vertical-add"
+  },
+  {
+    "name": "spo2"
+  },
+  {
+    "name": "sports-bar"
+  },
+  {
+    "name": "sports-cricket"
+  },
+  {
+    "name": "sports-esports"
+  },
+  {
+    "name": "sports-mma"
+  },
+  {
+    "name": "sports-motorsports"
+  },
+  {
+    "name": "stack"
+  },
+  {
+    "name": "stack-hexagon"
+  },
+  {
+    "name": "stack-off"
+  },
+  {
+    "name": "stack-star"
+  },
+  {
+    "name": "stacked-email"
+  },
+  {
+    "name": "stacked-inbox"
+  },
+  {
+    "name": "stairs"
+  },
+  {
+    "name": "stay-current-landscape"
+  },
+  {
+    "name": "stay-current-portrait"
+  },
+  {
+    "name": "stay-primary-portrait"
+  },
+  {
+    "name": "steps"
+  },
+  {
+    "name": "sticky-note"
+  },
+  {
+    "name": "sticky-note-2"
+  },
+  {
+    "name": "stock-media"
+  },
+  {
+    "name": "stockpot"
+  },
+  {
+    "name": "stop-screen-share"
+  },
+  {
+    "name": "storefront"
+  },
+  {
+    "name": "straighten"
+  },
+  {
+    "name": "stream-apps"
+  },
+  {
+    "name": "stroller"
+  },
+  {
+    "name": "style"
+  },
+  {
+    "name": "stylus"
+  },
+  {
+    "name": "stylus-note"
+  },
+  {
+    "name": "subheader"
+  },
+  {
+    "name": "subscriptions"
+  },
+  {
+    "name": "subtitles"
+  },
+  {
+    "name": "subtitles-off"
+  },
+  {
+    "name": "summarize"
+  },
+  {
+    "name": "supervisor-account"
+  },
+  {
+    "name": "surgical"
+  },
+  {
+    "name": "surround-sound"
+  },
+  {
+    "name": "swap-driving-apps"
+  },
+  {
+    "name": "swap-driving-apps-wheel"
+  },
+  {
+    "name": "swipe"
+  },
+  {
+    "name": "swipe-down"
+  },
+  {
+    "name": "swipe-left"
+  },
+  {
+    "name": "swipe-right"
+  },
+  {
+    "name": "swipe-up"
+  },
+  {
+    "name": "swipe-vertical"
+  },
+  {
+    "name": "switch"
+  },
+  {
+    "name": "switch-account"
+  },
+  {
+    "name": "switch-camera"
+  },
+  {
+    "name": "switch-video"
+  },
+  {
+    "name": "switches"
+  },
+  {
+    "name": "sword-rose"
+  },
+  {
+    "name": "synagogue"
+  },
+  {
+    "name": "sync-desktop"
+  },
+  {
+    "name": "sync-saved-locally"
+  },
+  {
+    "name": "syringe"
+  },
+  {
+    "name": "system-update"
+  },
+  {
+    "name": "tab"
+  },
+  {
+    "name": "tab-close"
+  },
+  {
+    "name": "tab-close-inactive"
+  },
+  {
+    "name": "tab-close-right"
+  },
+  {
+    "name": "tab-duplicate"
+  },
+  {
+    "name": "tab-group"
+  },
+  {
+    "name": "tab-inactive"
+  },
+  {
+    "name": "tab-new-right"
+  },
+  {
+    "name": "tab-recent"
+  },
+  {
+    "name": "table"
+  },
+  {
+    "name": "table-bar"
+  },
+  {
+    "name": "table-chart"
+  },
+  {
+    "name": "table-chart-view"
+  },
+  {
+    "name": "table-convert"
+  },
+  {
+    "name": "table-edit"
+  },
+  {
+    "name": "table-eye"
+  },
+  {
+    "name": "table-lamp"
+  },
+  {
+    "name": "table-restaurant"
+  },
+  {
+    "name": "table-rows-narrow"
+  },
+  {
+    "name": "table-view"
+  },
+  {
+    "name": "tablet"
+  },
+  {
+    "name": "tablet-android"
+  },
+  {
+    "name": "tablet-camera"
+  },
+  {
+    "name": "tablet-mac"
+  },
+  {
+    "name": "tabs"
+  },
+  {
+    "name": "tamper-detection-off"
+  },
+  {
+    "name": "tamper-detection-on"
+  },
+  {
+    "name": "tap-and-play"
+  },
+  {
+    "name": "task"
+  },
+  {
+    "name": "taxi-alert"
+  },
+  {
+    "name": "team-dashboard"
+  },
+  {
+    "name": "temple-buddhist"
+  },
+  {
+    "name": "text-ad"
+  },
+  {
+    "name": "text-compare"
+  },
+  {
+    "name": "text-snippet"
+  },
+  {
+    "name": "thermometer"
+  },
+  {
+    "name": "thermostat-carbon"
+  },
+  {
+    "name": "thumb-down"
+  },
+  {
+    "name": "thumb-up"
+  },
+  {
+    "name": "thumbnail-bar"
+  },
+  {
+    "name": "thumbs-up-down"
+  },
+  {
+    "name": "timer-10-alt-1"
+  },
+  {
+    "name": "timer-3-alt-1"
+  },
+  {
+    "name": "timer-5"
+  },
+  {
+    "name": "tire-repair"
+  },
+  {
+    "name": "toast"
+  },
+  {
+    "name": "today"
+  },
+  {
+    "name": "toolbar"
+  },
+  {
+    "name": "tools-installation-kit"
+  },
+  {
+    "name": "tools-power-drill"
+  },
+  {
+    "name": "tools-wrench"
+  },
+  {
+    "name": "tooltip"
+  },
+  {
+    "name": "tooltip-2"
+  },
+  {
+    "name": "top-panel-close"
+  },
+  {
+    "name": "top-panel-open"
+  },
+  {
+    "name": "topic"
+  },
+  {
+    "name": "touch-app"
+  },
+  {
+    "name": "touchpad-mouse"
+  },
+  {
+    "name": "touchpad-mouse-off"
+  },
+  {
+    "name": "toys"
+  },
+  {
+    "name": "toys-and-games"
+  },
+  {
+    "name": "trackpad-input"
+  },
+  {
+    "name": "trackpad-input-2"
+  },
+  {
+    "name": "trackpad-input-3"
+  },
+  {
+    "name": "traffic"
+  },
+  {
+    "name": "traffic-jam"
+  },
+  {
+    "name": "transit-ticket"
+  },
+  {
+    "name": "transition-chop"
+  },
+  {
+    "name": "transition-push"
+  },
+  {
+    "name": "transition-slide"
+  },
+  {
+    "name": "transportation"
+  },
+  {
+    "name": "travel-luggage-and-bags"
+  },
+  {
+    "name": "trip"
+  },
+  {
+    "name": "trophy"
+  },
+  {
+    "name": "tsv"
+  },
+  {
+    "name": "tty"
+  },
+  {
+    "name": "tv"
+  },
+  {
+    "name": "tv-displays"
+  },
+  {
+    "name": "tv-gen"
+  },
+  {
+    "name": "tv-guide"
+  },
+  {
+    "name": "tv-next"
+  },
+  {
+    "name": "tv-off"
+  },
+  {
+    "name": "tv-options-input-settings"
+  },
+  {
+    "name": "tv-remote"
+  },
+  {
+    "name": "tv-signin"
+  },
+  {
+    "name": "tv-with-assistant"
+  },
+  {
+    "name": "two-pager"
+  },
+  {
+    "name": "two-pager-store"
+  },
+  {
+    "name": "type-specimen"
+  },
+  {
+    "name": "unarchive"
+  },
+  {
+    "name": "unfloat-landscape"
+  },
+  {
+    "name": "unfloat-portrait"
+  },
+  {
+    "name": "universal-local"
+  },
+  {
+    "name": "unknown-document"
+  },
+  {
+    "name": "unpaved-road"
+  },
+  {
+    "name": "unsubscribe"
+  },
+  {
+    "name": "upcoming"
+  },
+  {
+    "name": "upi-pay"
+  },
+  {
+    "name": "upload-file"
+  },
+  {
+    "name": "urology"
+  },
+  {
+    "name": "vaccines"
+  },
+  {
+    "name": "ventilator"
+  },
+  {
+    "name": "vertical-split"
+  },
+  {
+    "name": "vibration"
+  },
+  {
+    "name": "video-call"
+  },
+  {
+    "name": "video-camera-back"
+  },
+  {
+    "name": "video-camera-back-add"
+  },
+  {
+    "name": "video-camera-front"
+  },
+  {
+    "name": "video-camera-front-off"
+  },
+  {
+    "name": "video-chat"
+  },
+  {
+    "name": "video-file"
+  },
+  {
+    "name": "video-library"
+  },
+  {
+    "name": "video-stable"
+  },
+  {
+    "name": "videocam"
+  },
+  {
+    "name": "videocam-off"
+  },
+  {
+    "name": "videogame-asset"
+  },
+  {
+    "name": "videogame-asset-off"
+  },
+  {
+    "name": "view-agenda"
+  },
+  {
+    "name": "view-array"
+  },
+  {
+    "name": "view-carousel"
+  },
+  {
+    "name": "view-column"
+  },
+  {
+    "name": "view-compact-alt"
+  },
+  {
+    "name": "view-cozy"
+  },
+  {
+    "name": "view-day"
+  },
+  {
+    "name": "view-in-ar"
+  },
+  {
+    "name": "view-in-ar-off"
+  },
+  {
+    "name": "view-kanban"
+  },
+  {
+    "name": "view-list"
+  },
+  {
+    "name": "view-module"
+  },
+  {
+    "name": "view-quilt"
+  },
+  {
+    "name": "view-sidebar"
+  },
+  {
+    "name": "view-timeline"
+  },
+  {
+    "name": "view-week"
+  },
+  {
+    "name": "vignette"
+  },
+  {
+    "name": "visibility-lock"
+  },
+  {
+    "name": "vo2-max"
+  },
+  {
+    "name": "voice-chat"
+  },
+  {
+    "name": "volunteer-activism"
+  },
+  {
+    "name": "vr180-create2d"
+  },
+  {
+    "name": "vr180-create2d-off"
+  },
+  {
+    "name": "vrpano"
+  },
+  {
+    "name": "wall-art"
+  },
+  {
+    "name": "wall-lamp"
+  },
+  {
+    "name": "ward"
+  },
+  {
+    "name": "wash"
+  },
+  {
+    "name": "water-bottle"
+  },
+  {
+    "name": "water-bottle-large"
+  },
+  {
+    "name": "water-full"
+  },
+  {
+    "name": "water-lock"
+  },
+  {
+    "name": "water-loss"
+  },
+  {
+    "name": "water-medium"
+  },
+  {
+    "name": "water-orp"
+  },
+  {
+    "name": "water-ph"
+  },
+  {
+    "name": "waving-hand"
+  },
+  {
+    "name": "web-stories"
+  },
+  {
+    "name": "weekend"
+  },
+  {
+    "name": "weight"
+  },
+  {
+    "name": "width-full"
+  },
+  {
+    "name": "width-normal"
+  },
+  {
+    "name": "width-wide"
+  },
+  {
+    "name": "wifi-calling"
+  },
+  {
+    "name": "wifi-calling-bar-1"
+  },
+  {
+    "name": "wifi-calling-bar-2"
+  },
+  {
+    "name": "wifi-calling-bar-3"
+  },
+  {
+    "name": "wifi-lock"
+  },
+  {
+    "name": "wifi-notification"
+  },
+  {
+    "name": "wind-power"
+  },
+  {
+    "name": "window"
+  },
+  {
+    "name": "work"
+  },
+  {
+    "name": "work-alert"
+  },
+  {
+    "name": "work-history"
+  },
+  {
+    "name": "work-update"
+  },
+  {
+    "name": "wrist"
+  },
+  {
+    "name": "yard"
+  },
+  {
+    "name": "your-trips"
+  }
+]
