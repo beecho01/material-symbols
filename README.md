@@ -12,12 +12,12 @@ There is a [Icon Finder Tool](https://beecho01.github.io/material-symbols-iconfi
 > <picture>
 >   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/warning.svg">
 >   <img alt="Warning" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/warning.svg">
-> </picture><br>
+> </picture>
 >
-> **Breaking Changes**
-> - I have moved the repository and installation from a "Lovelace" Repository in v1.X.X to an "Integration" repository in 202X.X.X+
-> - The icon prefix has now migrated from `m3s`, which contained containing all styles, to individual styles with their own icon prefix.
-> - There has been a reduction in the number of icons avialbe from ~18600 to 13460.
+> ### Breaking Changes
+> - **Repository Structure**: The repository and installation have transitioned from a "Lovelace" repository (v1.X.X) to an "Integration" repository (202X.X.X+). Users should reinstall from the new integration repository to avoid compatibility issues.
+> - **Icon Prefix Migration**: The icon prefix has transitioned from m3s, which previously contained all icon styles, to individual prefixes based on style. Each style now has its unique prefix (e.g., m3o for outlined, m3r for rounded). Refer to the documentation for the complete list of prefixes.
+> - **Reduction in Available Icons**: The number of available icons has been reduced from ~18,600 to 13,460.
 
 ---
 
@@ -212,7 +212,7 @@ Once installed, you can use the Material Symbols icons in your Lovelace UI.
   icon: 'prefix:icon_name'
   ```
 
-  Replace `prefix` with one of the prefixes above and `icon_name` with the desired icon.
+  Replace `prefix` with one of the prefixes above and `icon_name` with the desired icon. There is a [Icon Finder Tool](https://beecho01.github.io/material-symbols-iconfinder/) to help you select the correct icon for your needs.
 
 #### <a name="example"></a>Example
   ```yaml
