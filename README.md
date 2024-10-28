@@ -100,7 +100,7 @@ Make sure to delete the files from the location you placed it.
 ## <a name="installation"></a>Installation
 
 #### <a name="hacs-installation-recommended"></a>HACS Installation (Recommended)
-
+<!---
 **Note**: Material Symbols is now installable via [HACS](https://hacs.xyz) as a custom **Integration**.
 
 > <picture>
@@ -125,7 +125,7 @@ Make sure to delete the files from the location you placed it.
     - You're browser cache may need to be deleted to show the icons as desired.
 
 ##### HACS Method 2
-
+--->
 1. **Add the Custom Repository to HACS manually:**
 
    - Open Home Assistant and navigate to **HACS**.
