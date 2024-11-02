@@ -2508,6 +2508,9 @@
     "name": "mode-dual"
   },
   {
+    "name": "modeling"
+  },
+  {
     "name": "money"
   },
   {
@@ -2965,6 +2968,12 @@
   },
   {
     "name": "pin"
+  },
+  {
+    "name": "pinboard"
+  },
+  {
+    "name": "pinboard-unread"
   },
   {
     "name": "pinch"

@@ -2949,6 +2949,9 @@
     "name": "hearing-aid"
   },
   {
+    "name": "hearing-aid-disabled"
+  },
+  {
     "name": "heart-broken"
   },
   {
@@ -3819,6 +3822,9 @@
     "name": "mode-night"
   },
   {
+    "name": "modeling"
+  },
+  {
     "name": "money"
   },
   {
@@ -4639,6 +4645,12 @@
   },
   {
     "name": "pin-drop"
+  },
+  {
+    "name": "pinboard"
+  },
+  {
+    "name": "pinboard-unread"
   },
   {
     "name": "pinch"

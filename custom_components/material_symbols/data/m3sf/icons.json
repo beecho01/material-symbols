@@ -3039,6 +3039,9 @@
     "name": "mode-off-on"
   },
   {
+    "name": "modeling"
+  },
+  {
     "name": "money"
   },
   {
@@ -3646,6 +3649,12 @@
   },
   {
     "name": "pin-invoke"
+  },
+  {
+    "name": "pinboard"
+  },
+  {
+    "name": "pinboard-unread"
   },
   {
     "name": "pinch"

@@ -3948,6 +3948,9 @@
     "name": "hearing-aid"
   },
   {
+    "name": "hearing-aid-disabled"
+  },
+  {
     "name": "hearing-disabled"
   },
   {
@@ -5148,6 +5151,9 @@
     "name": "mode-of-travel"
   },
   {
+    "name": "modeling"
+  },
+  {
     "name": "monetization-on"
   },
   {
@@ -6073,6 +6079,12 @@
   },
   {
     "name": "pin-invoke"
+  },
+  {
+    "name": "pinboard"
+  },
+  {
+    "name": "pinboard-unread"
   },
   {
     "name": "pinch"

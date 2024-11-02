@@ -4542,6 +4542,9 @@
     "name": "hearing-aid"
   },
   {
+    "name": "hearing-aid-disabled"
+  },
+  {
     "name": "hearing-disabled"
   },
   {
@@ -5898,6 +5901,9 @@
     "name": "model-training"
   },
   {
+    "name": "modeling"
+  },
+  {
     "name": "money"
   },
   {
@@ -7060,6 +7066,12 @@
   },
   {
     "name": "pin-invoke"
+  },
+  {
+    "name": "pinboard"
+  },
+  {
+    "name": "pinboard-unread"
   },
   {
     "name": "pinch"

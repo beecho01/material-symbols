@@ -2601,6 +2601,9 @@
     "name": "hearing-aid"
   },
   {
+    "name": "hearing-aid-disabled"
+  },
+  {
     "name": "heart-broken"
   },
   {
@@ -3390,6 +3393,9 @@
     "name": "model-training"
   },
   {
+    "name": "modeling"
+  },
+  {
     "name": "monetization-on"
   },
   {
@@ -4066,6 +4072,12 @@
   },
   {
     "name": "pin-drop"
+  },
+  {
+    "name": "pinboard"
+  },
+  {
+    "name": "pinboard-unread"
   },
   {
     "name": "pinch"
