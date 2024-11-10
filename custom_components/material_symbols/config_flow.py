@@ -7,7 +7,7 @@ _LOGGER = logging.getLogger(__name__)
 DOMAIN = "material_symbols"
 
 @config_entries.HANDLERS.register(DOMAIN)
-class FontawesomeConfigFlow(config_entries.ConfigFlow):
+class MaterialSymbolsConfigFlow(config_entries.ConfigFlow):
 
     VERSION = 2
 
