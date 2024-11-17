@@ -1,8 +1,16 @@
 (() => {
   "use strict";
 
-  // Base path 
+  // Base path
   const a = "material_symbols";
+
+  // Determine the base URL
+  const baseUrl = (typeof hass !== 'undefined' && hass.auth && hass.auth.data && hass.auth.data.hassUrl)
+    ? hass.auth.data.hassUrl
+    : window.location.origin;
+
+  // Ensure baseUrl ends with a slash
+  const normalizedBaseUrl = baseUrl.endsWith('/') ? baseUrl.slice(0, -1) : baseUrl;
 
   // Cache for loaded icons.json files
   const iconCache = {};
@@ -13,26 +21,25 @@
   // Load icons.json for a given icon set if not already cached
   const loadIconSet = async (iconsetPrefix) => {
     if (!iconCache[iconsetPrefix]) {
-
       try {
+        // Construct the correct URL using baseUrl
+        const url = `${normalizedBaseUrl}/${a}/${iconsetPrefix}/icons.json`;
 
-        // Fetch icons.json
-        const response = await fetch(`/${a}/${iconsetPrefix}/icons.json`);
-        if (!response.ok) throw new Error(`Failed to fetch icons.json for ${iconsetPrefix}`);
-        
-        // Read as array and map to icon names
+        const response = await fetch(url);
+        if (!response.ok) {
+          const errorText = await response.text();
+          console.error(`Failed to fetch icons.json for ${iconsetPrefix}. Status: ${response.status}. Response: ${errorText}`);
+          throw new Error(`Failed to fetch icons.json for ${iconsetPrefix}`);
+        }
+
+        // Parse the JSON response
         const icons = await response.json();
         iconCache[iconsetPrefix] = icons.map(icon => icon.name);
-        // console.log(`Loaded icons for ${iconsetPrefix}:`, iconCache[iconsetPrefix]);
-
       } catch (error) {
-        
-        // Failed to load icons.json
-        // console.error(`Error loading icon set ${iconsetPrefix}:`, error);
+        console.error(`Error loading icon set ${iconsetPrefix}:`, error);
         iconCache[iconsetPrefix] = [];
       }
     }
-    // Return icon list
     return iconCache[iconsetPrefix];
   };
 
@@ -51,17 +58,19 @@
     }
 
     try {
+      // Construct the correct URL using baseUrl
+      const url = `${normalizedBaseUrl}/${a}/${iconsetPrefix}/${iconName}.svg`;
 
-      // Fetch SVG
-      const response = await fetch(`/${a}/${iconsetPrefix}/${iconName}.svg`);
+      const response = await fetch(url);
       if (!response.ok) {
-        console.error(`Failed to fetch icon "${iconName}" from icon set "${iconsetPrefix}".`);
+        const errorText = await response.text();
+        console.error(`Failed to fetch icon "${iconName}" from icon set "${iconsetPrefix}". Status: ${response.status}. Response: ${errorText}`);
         return '';
       }
 
       // Parse SVG
       const svgText = await response.text();
-      const doc = new DOMParser().parseFromString(svgText, "text/html");
+      const doc = new DOMParser().parseFromString(svgText, "image/svg+xml");
       const svgElement = doc.querySelector("svg");
       if (!svgElement) return '';
 
@@ -75,8 +84,6 @@
       return iconObject;
 
     } catch (error) {
-
-      // Console error if failed to load SVG
       console.error("Error fetching icon:", error);
       return '';
     }
@@ -93,7 +100,6 @@
 
   // Register icon sets for each prefix 
   ["m3o", "m3of", "m3r", "m3rf", "m3s", "m3sf"].forEach((prefix) => {
-
     // Register the icon set with Home Assistant's custom icon API
     window.customIconsets[prefix] = (iconName) => getIcon(prefix, iconName);
 
@@ -102,13 +108,10 @@
       getIcon: (iconName) => getIcon(prefix, iconName),
       getIconList: () => getIconList(prefix),
     };
-
-    // console.log(`Registered icon set: ${prefix}`);
-
   });
 
   console.info(
-    "%c MATERIAL SYMBOLS                    %c %c 2024.11.02  ",
+    "%c MATERIAL SYMBOLS                    %c %c 2024.11.17  ",
     '@import url("https://fonts.googleapis.com/css2?family=Roboto");background-color:#1FBEF2;color:#FFFFFF;padding:3px 43px 2px 8px;border-radius:999vh;border:5px solid #1FBEF2;font-family:"Roboto", sans-serif;margin-top:18px',
     '@import url("https://fonts.googleapis.com/css2?family=Roboto");background-color:#FFFFFF;color:#1FBEF2;padding:3px 8px 2px 0;border-radius:999vh 0 0 999vh;border:0;font-family:"Roboto", sans-serif;margin-left:-94px',
     '@import url("https://fonts.googleapis.com/css2?family=Roboto");background-color:#FFFFFF;color:#1FBEF2;padding:3px 9px 2px 0;border-radius:0 999vh 999vh 0;border:0;font-family:"Roboto", sans-serif;margin-left:-1px;margin-bottom:18px'
