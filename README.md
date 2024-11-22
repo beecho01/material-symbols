@@ -3,7 +3,7 @@
      <h1 align="center">Material Symbols for Home Assistant</h1>
 </div>
 
-**Material Symbols for Home Assistant** is a collection of 13,616 Google Material Symbols for use within Home Assistant. It uses the icon-set produced and maintained by [iconify](https://github.com/iconify/icon-sets).
+**Material Symbols for Home Assistant** is a collection of 13,693 Google Material Symbols for use within Home Assistant. It uses the icon-set produced and maintained by [iconify](https://github.com/iconify/icon-sets).
 
 There is a [Icon Finder Tool](https://beecho01.github.io/material-symbols-iconfinder/) to help you select the correct icon. Simply type in what you're looking for, click the icon of choice, and the icon entry for home assistant will be copied to your clipboard (e.g., `m3o:light`). The copied text can be pasted for use in your YAML configuration or into you UI frontend interface.
 
@@ -17,7 +17,7 @@ There is a [Icon Finder Tool](https://beecho01.github.io/material-symbols-iconfi
 > ### Breaking Changes
 > - **Repository Structure**: The repository and installation have transitioned from a "Lovelace" repository (v1.X.X) to an "Integration" repository (202X.X.X+). Users should reinstall from the new integration repository to avoid compatibility issues.
 > - **Icon Prefix Migration**: The icon prefix has transitioned from m3s, which previously contained all icon styles, to individual prefixes based on style. Each style now has its unique prefix (e.g., m3o for outlined, m3r for rounded). Refer to the documentation for the complete list of prefixes.
-> - **Reduction in Available Icons**: The number of available icons has been reduced from ~18,600 to 13,616.
+> - **Reduction in Available Icons**: The number of available icons has been reduced from ~18,600 to 13,693.
 
 ---
 

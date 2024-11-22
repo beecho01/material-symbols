@@ -2,7 +2,7 @@ import logging
 
 from homeassistant import config_entries
 
-_LOGGER = logging.getLogger(__name__)
+LOGGER = logging.getLogger(__name__)
 
 DOMAIN = "material_symbols"
 
