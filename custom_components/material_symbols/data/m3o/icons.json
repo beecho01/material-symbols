@@ -1,6905 +1,7019 @@
 [
-  {
-    "name": "10k"
-  },
-  {
-    "name": "10mp"
-  },
-  {
-    "name": "11mp"
-  },
-  {
-    "name": "12mp"
-  },
-  {
-    "name": "13mp"
-  },
-  {
-    "name": "14mp"
-  },
-  {
-    "name": "15mp"
-  },
-  {
-    "name": "16mp"
-  },
-  {
-    "name": "17mp"
-  },
-  {
-    "name": "18-up-rating"
-  },
-  {
-    "name": "18mp"
-  },
-  {
-    "name": "19mp"
-  },
-  {
-    "name": "1k"
-  },
-  {
-    "name": "1k-plus"
-  },
-  {
-    "name": "1x-mobiledata-badge"
-  },
-  {
-    "name": "20mp"
-  },
-  {
-    "name": "21mp"
-  },
-  {
-    "name": "22mp"
-  },
-  {
-    "name": "23mp"
-  },
-  {
-    "name": "24mp"
-  },
-  {
-    "name": "2d"
-  },
-  {
-    "name": "2k"
-  },
-  {
-    "name": "2k-plus"
-  },
-  {
-    "name": "2mp"
-  },
-  {
-    "name": "3g-mobiledata-badge"
-  },
-  {
-    "name": "3k"
-  },
-  {
-    "name": "3k-plus"
-  },
-  {
-    "name": "3mp"
-  },
-  {
-    "name": "3p"
-  },
-  {
-    "name": "4g-mobiledata-badge"
-  },
-  {
-    "name": "4k"
-  },
-  {
-    "name": "4k-plus"
-  },
-  {
-    "name": "4mp"
-  },
-  {
-    "name": "50mp"
-  },
-  {
-    "name": "5g-mobiledata-badge"
-  },
-  {
-    "name": "5k"
-  },
-  {
-    "name": "5k-plus"
-  },
-  {
-    "name": "5mp"
-  },
-  {
-    "name": "6k"
-  },
-  {
-    "name": "6k-plus"
-  },
-  {
-    "name": "6mp"
-  },
-  {
-    "name": "7k"
-  },
-  {
-    "name": "7k-plus"
-  },
-  {
-    "name": "7mp"
-  },
-  {
-    "name": "8k"
-  },
-  {
-    "name": "8k-plus"
-  },
-  {
-    "name": "8mp"
-  },
-  {
-    "name": "9k"
-  },
-  {
-    "name": "9k-plus"
-  },
-  {
-    "name": "9mp"
-  },
-  {
-    "name": "account-balance"
-  },
-  {
-    "name": "account-balance-wallet"
-  },
-  {
-    "name": "account-box"
-  },
-  {
-    "name": "account-child"
-  },
-  {
-    "name": "account-circle"
-  },
-  {
-    "name": "account-circle-off"
-  },
-  {
-    "name": "account-tree"
-  },
-  {
-    "name": "action-key"
-  },
-  {
-    "name": "activity-zone"
-  },
-  {
-    "name": "acute"
-  },
-  {
-    "name": "ad-group"
-  },
-  {
-    "name": "ad-group-off"
-  },
-  {
-    "name": "ad-units"
-  },
-  {
-    "name": "adaptive-audio-mic"
-  },
-  {
-    "name": "adaptive-audio-mic-off"
-  },
-  {
-    "name": "add-a-photo"
-  },
-  {
-    "name": "add-ad"
-  },
-  {
-    "name": "add-alert"
-  },
-  {
-    "name": "add-box"
-  },
-  {
-    "name": "add-business"
-  },
-  {
-    "name": "add-call"
-  },
-  {
-    "name": "add-card"
-  },
-  {
-    "name": "add-chart"
-  },
-  {
-    "name": "add-circle"
-  },
-  {
-    "name": "add-column-left"
-  },
-  {
-    "name": "add-column-right"
-  },
-  {
-    "name": "add-comment"
-  },
-  {
-    "name": "add-diamond"
-  },
-  {
-    "name": "add-home"
-  },
-  {
-    "name": "add-home-work"
-  },
-  {
-    "name": "add-location"
-  },
-  {
-    "name": "add-location-alt"
-  },
-  {
-    "name": "add-moderator"
-  },
-  {
-    "name": "add-notes"
-  },
-  {
-    "name": "add-photo-alternate"
-  },
-  {
-    "name": "add-reaction"
-  },
-  {
-    "name": "add-row-above"
-  },
-  {
-    "name": "add-row-below"
-  },
-  {
-    "name": "add-to-home-screen"
-  },
-  {
-    "name": "add-to-queue"
-  },
-  {
-    "name": "add-triangle"
-  },
-  {
-    "name": "adf-scanner"
-  },
-  {
-    "name": "adjust"
-  },
-  {
-    "name": "admin-meds"
-  },
-  {
-    "name": "admin-panel-settings"
-  },
-  {
-    "name": "agriculture"
-  },
-  {
-    "name": "air-freshener"
-  },
-  {
-    "name": "air-purifier"
-  },
-  {
-    "name": "air-purifier-gen"
-  },
-  {
-    "name": "airline-seat-flat"
-  },
-  {
-    "name": "airline-seat-flat-angled"
-  },
-  {
-    "name": "airline-seat-individual-suite"
-  },
-  {
-    "name": "airlines"
-  },
-  {
-    "name": "airplane-ticket"
-  },
-  {
-    "name": "airplay"
-  },
-  {
-    "name": "airport-shuttle"
-  },
-  {
-    "name": "alarm"
-  },
-  {
-    "name": "alarm-add"
-  },
-  {
-    "name": "alarm-off"
-  },
-  {
-    "name": "alarm-on"
-  },
-  {
-    "name": "alarm-smart-wake"
-  },
-  {
-    "name": "album"
-  },
-  {
-    "name": "all-inbox"
-  },
-  {
-    "name": "all-match"
-  },
-  {
-    "name": "all-out"
-  },
-  {
-    "name": "allergies"
-  },
-  {
-    "name": "altitude"
-  },
-  {
-    "name": "ambient-screen"
-  },
-  {
-    "name": "ambulance"
-  },
-  {
-    "name": "amend"
-  },
-  {
-    "name": "amp-stories"
-  },
-  {
-    "name": "analytics"
-  },
-  {
-    "name": "android-camera"
-  },
-  {
-    "name": "android-chat"
-  },
-  {
-    "name": "android-contacts"
-  },
-  {
-    "name": "android-emergency-location-service"
-  },
-  {
-    "name": "android-family-link"
-  },
-  {
-    "name": "android-find-my-device"
-  },
-  {
-    "name": "android-messages"
-  },
-  {
-    "name": "android-now-playing"
-  },
-  {
-    "name": "android-safety"
-  },
-  {
-    "name": "animated-images"
-  },
-  {
-    "name": "aod"
-  },
-  {
-    "name": "aod-tablet"
-  },
-  {
-    "name": "aod-watch"
-  },
-  {
-    "name": "apk-document"
-  },
-  {
-    "name": "apk-install"
-  },
-  {
-    "name": "app-badging"
-  },
-  {
-    "name": "app-blocking"
-  },
-  {
-    "name": "app-promo"
-  },
-  {
-    "name": "app-registration"
-  },
-  {
-    "name": "app-shortcut"
-  },
-  {
-    "name": "apparel"
-  },
-  {
-    "name": "approval"
-  },
-  {
-    "name": "approval-delegation"
-  },
-  {
-    "name": "aq-indoor"
-  },
-  {
-    "name": "ar-on-you"
-  },
-  {
-    "name": "ar-stickers"
-  },
-  {
-    "name": "archive"
-  },
-  {
-    "name": "area-chart"
-  },
-  {
-    "name": "arming-countdown"
-  },
-  {
-    "name": "arrow-back-2"
-  },
-  {
-    "name": "arrow-circle-down"
-  },
-  {
-    "name": "arrow-circle-left"
-  },
-  {
-    "name": "arrow-circle-right"
-  },
-  {
-    "name": "arrow-circle-up"
-  },
-  {
-    "name": "arrow-drop-down-circle"
-  },
-  {
-    "name": "arrow-selector-tool"
-  },
-  {
-    "name": "art-track"
-  },
-  {
-    "name": "article"
-  },
-  {
-    "name": "article-shortcut"
-  },
-  {
-    "name": "artist"
-  },
-  {
-    "name": "aspect-ratio"
-  },
-  {
-    "name": "assignment"
-  },
-  {
-    "name": "assignment-add"
-  },
-  {
-    "name": "assignment-ind"
-  },
-  {
-    "name": "assignment-late"
-  },
-  {
-    "name": "assignment-return"
-  },
-  {
-    "name": "assignment-returned"
-  },
-  {
-    "name": "assignment-turned-in"
-  },
-  {
-    "name": "assistant"
-  },
-  {
-    "name": "assistant-device"
-  },
-  {
-    "name": "assistant-direction"
-  },
-  {
-    "name": "assistant-navigation"
-  },
-  {
-    "name": "assistant-on-hub"
-  },
-  {
-    "name": "assured-workload"
-  },
-  {
-    "name": "astrophotography-auto"
-  },
-  {
-    "name": "attach-email"
-  },
-  {
-    "name": "attractions"
-  },
-  {
-    "name": "attribution"
-  },
-  {
-    "name": "audio-file"
-  },
-  {
-    "name": "audio-video-receiver"
-  },
-  {
-    "name": "auto-activity-zone"
-  },
-  {
-    "name": "auto-awesome"
-  },
-  {
-    "name": "auto-awesome-mosaic"
-  },
-  {
-    "name": "auto-awesome-motion"
-  },
-  {
-    "name": "auto-delete"
-  },
-  {
-    "name": "auto-detect-voice"
-  },
-  {
-    "name": "auto-fix"
-  },
-  {
-    "name": "auto-fix-normal"
-  },
-  {
-    "name": "auto-fix-off"
-  },
-  {
-    "name": "auto-label"
-  },
-  {
-    "name": "auto-meeting-room"
-  },
-  {
-    "name": "auto-read-pause"
-  },
-  {
-    "name": "auto-read-play"
-  },
-  {
-    "name": "auto-schedule"
-  },
-  {
-    "name": "auto-stories"
-  },
-  {
-    "name": "auto-timer"
-  },
-  {
-    "name": "auto-transmission"
-  },
-  {
-    "name": "auto-videocam"
-  },
-  {
-    "name": "automation"
-  },
-  {
-    "name": "av1"
-  },
-  {
-    "name": "avc"
-  },
-  {
-    "name": "avg-time"
-  },
-  {
-    "name": "award-star"
-  },
-  {
-    "name": "azm"
-  },
-  {
-    "name": "back-hand"
-  },
-  {
-    "name": "background-dot-large"
-  },
-  {
-    "name": "background-dot-small"
-  },
-  {
-    "name": "background-grid-small"
-  },
-  {
-    "name": "background-replace"
-  },
-  {
-    "name": "backpack"
-  },
-  {
-    "name": "backspace"
-  },
-  {
-    "name": "backup"
-  },
-  {
-    "name": "badge"
-  },
-  {
-    "name": "bakery-dining"
-  },
-  {
-    "name": "ballot"
-  },
-  {
-    "name": "barcode-reader"
-  },
-  {
-    "name": "barefoot"
-  },
-  {
-    "name": "bath-outdoor"
-  },
-  {
-    "name": "bath-private"
-  },
-  {
-    "name": "bathroom"
-  },
-  {
-    "name": "bathtub"
-  },
-  {
-    "name": "battery-alert"
-  },
-  {
-    "name": "battery-change"
-  },
-  {
-    "name": "battery-charging-20"
-  },
-  {
-    "name": "battery-charging-full"
-  },
-  {
-    "name": "battery-error"
-  },
-  {
-    "name": "battery-plus"
-  },
-  {
-    "name": "battery-profile"
-  },
-  {
-    "name": "battery-saver"
-  },
-  {
-    "name": "battery-status-good"
-  },
-  {
-    "name": "battery-unknown"
-  },
-  {
-    "name": "beach-access"
-  },
-  {
-    "name": "bed"
-  },
-  {
-    "name": "bedroom-baby"
-  },
-  {
-    "name": "bedroom-child"
-  },
-  {
-    "name": "bedroom-parent"
-  },
-  {
-    "name": "bedtime"
-  },
-  {
-    "name": "bedtime-off"
-  },
-  {
-    "name": "beenhere"
-  },
-  {
-    "name": "bento"
-  },
-  {
-    "name": "bia"
-  },
-  {
-    "name": "bid-landscape"
-  },
-  {
-    "name": "bid-landscape-disabled"
-  },
-  {
-    "name": "bike-scooter"
-  },
-  {
-    "name": "biotech"
-  },
-  {
-    "name": "blanket"
-  },
-  {
-    "name": "blender"
-  },
-  {
-    "name": "blind"
-  },
-  {
-    "name": "blinds"
-  },
-  {
-    "name": "blood-pressure"
-  },
-  {
-    "name": "bloodtype"
-  },
-  {
-    "name": "bluetooth-drive"
-  },
-  {
-    "name": "blur-circular"
-  },
-  {
-    "name": "blur-linear"
-  },
-  {
-    "name": "bnagent"
-  },
-  {
-    "name": "bolt"
-  },
-  {
-    "name": "bomb"
-  },
-  {
-    "name": "book"
-  },
-  {
-    "name": "book-2"
-  },
-  {
-    "name": "book-3"
-  },
-  {
-    "name": "book-4"
-  },
-  {
-    "name": "book-4-spark"
-  },
-  {
-    "name": "book-5"
-  },
-  {
-    "name": "book-6"
-  },
-  {
-    "name": "book-online"
-  },
-  {
-    "name": "book-ribbon"
-  },
-  {
-    "name": "bookmark"
-  },
-  {
-    "name": "bookmark-add"
-  },
-  {
-    "name": "bookmark-added"
-  },
-  {
-    "name": "bookmark-bag"
-  },
-  {
-    "name": "bookmark-check"
-  },
-  {
-    "name": "bookmark-flag"
-  },
-  {
-    "name": "bookmark-heart"
-  },
-  {
-    "name": "bookmark-manager"
-  },
-  {
-    "name": "bookmark-remove"
-  },
-  {
-    "name": "bookmark-star"
-  },
-  {
-    "name": "bookmarks"
-  },
-  {
-    "name": "books-movies-and-music"
-  },
-  {
-    "name": "border-all"
-  },
-  {
-    "name": "border-color"
-  },
-  {
-    "name": "borg"
-  },
-  {
-    "name": "bottom-app-bar"
-  },
-  {
-    "name": "bottom-drawer"
-  },
-  {
-    "name": "bottom-navigation"
-  },
-  {
-    "name": "bottom-panel-close"
-  },
-  {
-    "name": "bottom-panel-open"
-  },
-  {
-    "name": "bottom-sheets"
-  },
-  {
-    "name": "box"
-  },
-  {
-    "name": "box-add"
-  },
-  {
-    "name": "box-edit"
-  },
-  {
-    "name": "brand-awareness"
-  },
-  {
-    "name": "branding-watermark"
-  },
-  {
-    "name": "breakfast-dining"
-  },
-  {
-    "name": "breaking-news"
-  },
-  {
-    "name": "breaking-news-alt-1"
-  },
-  {
-    "name": "brightness-3"
-  },
-  {
-    "name": "brightness-4"
-  },
-  {
-    "name": "brightness-5"
-  },
-  {
-    "name": "brightness-6"
-  },
-  {
-    "name": "brightness-7"
-  },
-  {
-    "name": "brightness-alert"
-  },
-  {
-    "name": "brightness-auto"
-  },
-  {
-    "name": "brightness-empty"
-  },
-  {
-    "name": "broadcast-on-home"
-  },
-  {
-    "name": "broadcast-on-personal"
-  },
-  {
-    "name": "broken-image"
-  },
-  {
-    "name": "browse"
-  },
-  {
-    "name": "browse-activity"
-  },
-  {
-    "name": "browse-gallery"
-  },
-  {
-    "name": "brunch-dining"
-  },
-  {
-    "name": "brush"
-  },
-  {
-    "name": "bubble-chart"
-  },
-  {
-    "name": "bug-report"
-  },
-  {
-    "name": "build"
-  },
-  {
-    "name": "build-circle"
-  },
-  {
-    "name": "bungalow"
-  },
-  {
-    "name": "burst-mode"
-  },
-  {
-    "name": "bus-alert"
-  },
-  {
-    "name": "business-center"
-  },
-  {
-    "name": "business-chip"
-  },
-  {
-    "name": "business-messages"
-  },
-  {
-    "name": "buttons-alt"
-  },
-  {
-    "name": "cable-car"
-  },
-  {
-    "name": "cake"
-  },
-  {
-    "name": "cake-add"
-  },
-  {
-    "name": "calculate"
-  },
-  {
-    "name": "calendar-add-on"
-  },
-  {
-    "name": "calendar-apps-script"
-  },
-  {
-    "name": "calendar-clock"
-  },
-  {
-    "name": "calendar-month"
-  },
-  {
-    "name": "calendar-today"
-  },
-  {
-    "name": "calendar-view-day"
-  },
-  {
-    "name": "calendar-view-month"
-  },
-  {
-    "name": "calendar-view-week"
-  },
-  {
-    "name": "call"
-  },
-  {
-    "name": "call-end"
-  },
-  {
-    "name": "call-log"
-  },
-  {
-    "name": "call-quality"
-  },
-  {
-    "name": "call-to-action"
-  },
-  {
-    "name": "camera"
-  },
-  {
-    "name": "camera-enhance"
-  },
-  {
-    "name": "camera-front"
-  },
-  {
-    "name": "camera-indoor"
-  },
-  {
-    "name": "camera-outdoor"
-  },
-  {
-    "name": "camera-rear"
-  },
-  {
-    "name": "camera-roll"
-  },
-  {
-    "name": "camera-video"
-  },
-  {
-    "name": "cameraswitch"
-  },
-  {
-    "name": "campaign"
-  },
-  {
-    "name": "camping"
-  },
-  {
-    "name": "cancel"
-  },
-  {
-    "name": "cancel-presentation"
-  },
-  {
-    "name": "cancel-schedule-send"
-  },
-  {
-    "name": "candle"
-  },
-  {
-    "name": "candlestick-chart"
-  },
-  {
-    "name": "capture"
-  },
-  {
-    "name": "car-crash"
-  },
-  {
-    "name": "car-rental"
-  },
-  {
-    "name": "car-repair"
-  },
-  {
-    "name": "car-tag"
-  },
-  {
-    "name": "card-membership"
-  },
-  {
-    "name": "card-travel"
-  },
-  {
-    "name": "cardio-load"
-  },
-  {
-    "name": "cardiology"
-  },
-  {
-    "name": "cards"
-  },
-  {
-    "name": "carpenter"
-  },
-  {
-    "name": "carry-on-bag"
-  },
-  {
-    "name": "carry-on-bag-checked"
-  },
-  {
-    "name": "carry-on-bag-inactive"
-  },
-  {
-    "name": "carry-on-bag-question"
-  },
-  {
-    "name": "cases"
-  },
-  {
-    "name": "casino"
-  },
-  {
-    "name": "cast"
-  },
-  {
-    "name": "cast-connected"
-  },
-  {
-    "name": "cast-for-education"
-  },
-  {
-    "name": "cast-pause"
-  },
-  {
-    "name": "cast-warning"
-  },
-  {
-    "name": "castle"
-  },
-  {
-    "name": "category"
-  },
-  {
-    "name": "category-search"
-  },
-  {
-    "name": "celebration"
-  },
-  {
-    "name": "center-focus-strong"
-  },
-  {
-    "name": "center-focus-weak"
-  },
-  {
-    "name": "chair"
-  },
-  {
-    "name": "chair-alt"
-  },
-  {
-    "name": "chalet"
-  },
-  {
-    "name": "change-circle"
-  },
-  {
-    "name": "change-history"
-  },
-  {
-    "name": "charger"
-  },
-  {
-    "name": "charging-station"
-  },
-  {
-    "name": "chart-data"
-  },
-  {
-    "name": "chat"
-  },
-  {
-    "name": "chat-add-on"
-  },
-  {
-    "name": "chat-apps-script"
-  },
-  {
-    "name": "chat-bubble"
-  },
-  {
-    "name": "chat-error"
-  },
-  {
-    "name": "chat-info"
-  },
-  {
-    "name": "chat-paste-go"
-  },
-  {
-    "name": "chat-paste-go-2"
-  },
-  {
-    "name": "check-box"
-  },
-  {
-    "name": "check-circle"
-  },
-  {
-    "name": "checkbook"
-  },
-  {
-    "name": "checked-bag"
-  },
-  {
-    "name": "checked-bag-question"
-  },
-  {
-    "name": "cheer"
-  },
-  {
-    "name": "chess"
-  },
-  {
-    "name": "chess-pawn"
-  },
-  {
-    "name": "child-care"
-  },
-  {
-    "name": "child-friendly"
-  },
-  {
-    "name": "chips"
-  },
-  {
-    "name": "chrome-maximize"
-  },
-  {
-    "name": "chrome-reader-mode"
-  },
-  {
-    "name": "chrome-restore"
-  },
-  {
-    "name": "chrome-tote"
-  },
-  {
-    "name": "chromecast-device"
-  },
-  {
-    "name": "chronic"
-  },
-  {
-    "name": "church"
-  },
-  {
-    "name": "cinematic-blur"
-  },
-  {
-    "name": "circle"
-  },
-  {
-    "name": "circle-notifications"
-  },
-  {
-    "name": "circles"
-  },
-  {
-    "name": "circles-ext"
-  },
-  {
-    "name": "clarify"
-  },
-  {
-    "name": "clean-hands"
-  },
-  {
-    "name": "cleaning"
-  },
-  {
-    "name": "cleaning-bucket"
-  },
-  {
-    "name": "cleaning-services"
-  },
-  {
-    "name": "climate-mini-split"
-  },
-  {
-    "name": "clinical-notes"
-  },
-  {
-    "name": "close-small"
-  },
-  {
-    "name": "closed-caption"
-  },
-  {
-    "name": "closed-caption-add"
-  },
-  {
-    "name": "closed-caption-disabled"
-  },
-  {
-    "name": "cloud"
-  },
-  {
-    "name": "cloud-alert"
-  },
-  {
-    "name": "cloud-circle"
-  },
-  {
-    "name": "cloud-done"
-  },
-  {
-    "name": "cloud-download"
-  },
-  {
-    "name": "cloud-off"
-  },
-  {
-    "name": "cloud-sync"
-  },
-  {
-    "name": "cloudy-snowing"
-  },
-  {
-    "name": "co-present"
-  },
-  {
-    "name": "code-blocks"
-  },
-  {
-    "name": "coffee"
-  },
-  {
-    "name": "coffee-maker"
-  },
-  {
-    "name": "cognition"
-  },
-  {
-    "name": "cognition-2"
-  },
-  {
-    "name": "collections-bookmark"
-  },
-  {
-    "name": "colorize"
-  },
-  {
-    "name": "combine-columns"
-  },
-  {
-    "name": "comedy-mask"
-  },
-  {
-    "name": "comic-bubble"
-  },
-  {
-    "name": "comment"
-  },
-  {
-    "name": "comment-bank"
-  },
-  {
-    "name": "comments-disabled"
-  },
-  {
-    "name": "communities"
-  },
-  {
-    "name": "commute"
-  },
-  {
-    "name": "compass-calibration"
-  },
-  {
-    "name": "computer"
-  },
-  {
-    "name": "concierge"
-  },
-  {
-    "name": "confirmation-number"
-  },
-  {
-    "name": "congenital"
-  },
-  {
-    "name": "connected-tv"
-  },
-  {
-    "name": "contact-emergency"
-  },
-  {
-    "name": "contact-mail"
-  },
-  {
-    "name": "contact-page"
-  },
-  {
-    "name": "contact-phone"
-  },
-  {
-    "name": "contact-support"
-  },
-  {
-    "name": "contactless"
-  },
-  {
-    "name": "contactless-off"
-  },
-  {
-    "name": "contacts"
-  },
-  {
-    "name": "contacts-product"
-  },
-  {
-    "name": "content-copy"
-  },
-  {
-    "name": "contextual-token"
-  },
-  {
-    "name": "contextual-token-add"
-  },
-  {
-    "name": "contract"
-  },
-  {
-    "name": "contract-delete"
-  },
-  {
-    "name": "contract-edit"
-  },
-  {
-    "name": "control-point-duplicate"
-  },
-  {
-    "name": "controller-gen"
-  },
-  {
-    "name": "convert-to-text"
-  },
-  {
-    "name": "conveyor-belt"
-  },
-  {
-    "name": "cookie"
-  },
-  {
-    "name": "cookie-off"
-  },
-  {
-    "name": "cooking"
-  },
-  {
-    "name": "cool-to-dry"
-  },
-  {
-    "name": "copy-all"
-  },
-  {
-    "name": "copyright"
-  },
-  {
-    "name": "coronavirus"
-  },
-  {
-    "name": "cottage"
-  },
-  {
-    "name": "counter-0"
-  },
-  {
-    "name": "counter-1"
-  },
-  {
-    "name": "counter-2"
-  },
-  {
-    "name": "counter-3"
-  },
-  {
-    "name": "counter-4"
-  },
-  {
-    "name": "counter-5"
-  },
-  {
-    "name": "counter-6"
-  },
-  {
-    "name": "counter-7"
-  },
-  {
-    "name": "counter-8"
-  },
-  {
-    "name": "counter-9"
-  },
-  {
-    "name": "countertops"
-  },
-  {
-    "name": "create-new-folder"
-  },
-  {
-    "name": "credit-card"
-  },
-  {
-    "name": "credit-card-clock"
-  },
-  {
-    "name": "credit-card-gear"
-  },
-  {
-    "name": "credit-card-heart"
-  },
-  {
-    "name": "credit-card-off"
-  },
-  {
-    "name": "credit-score"
-  },
-  {
-    "name": "crib"
-  },
-  {
-    "name": "crop-16-9"
-  },
-  {
-    "name": "crop-3-2"
-  },
-  {
-    "name": "crop-5-4"
-  },
-  {
-    "name": "crop-7-5"
-  },
-  {
-    "name": "crop-9-16"
-  },
-  {
-    "name": "crop-landscape"
-  },
-  {
-    "name": "crop-portrait"
-  },
-  {
-    "name": "crop-square"
-  },
-  {
-    "name": "crossword"
-  },
-  {
-    "name": "csv"
-  },
-  {
-    "name": "currency-rupee-circle"
-  },
-  {
-    "name": "curtains"
-  },
-  {
-    "name": "curtains-closed"
-  },
-  {
-    "name": "dangerous"
-  },
-  {
-    "name": "dark-mode"
-  },
-  {
-    "name": "dashboard"
-  },
-  {
-    "name": "dashboard-2"
-  },
-  {
-    "name": "dashboard-customize"
-  },
-  {
-    "name": "data-exploration"
-  },
-  {
-    "name": "data-loss-prevention"
-  },
-  {
-    "name": "data-table"
-  },
-  {
-    "name": "data-thresholding"
-  },
-  {
-    "name": "database"
-  },
-  {
-    "name": "database-off"
-  },
-  {
-    "name": "database-upload"
-  },
-  {
-    "name": "dataset"
-  },
-  {
-    "name": "dataset-linked"
-  },
-  {
-    "name": "date-range"
-  },
-  {
-    "name": "deblur"
-  },
-  {
-    "name": "deceased"
-  },
-  {
-    "name": "deck"
-  },
-  {
-    "name": "delete"
-  },
-  {
-    "name": "delete-forever"
-  },
-  {
-    "name": "delete-sweep"
-  },
-  {
-    "name": "demography"
-  },
-  {
-    "name": "dentistry"
-  },
-  {
-    "name": "departure-board"
-  },
-  {
-    "name": "deployed-code"
-  },
-  {
-    "name": "deployed-code-account"
-  },
-  {
-    "name": "deployed-code-alert"
-  },
-  {
-    "name": "deployed-code-history"
-  },
-  {
-    "name": "deployed-code-update"
-  },
-  {
-    "name": "dermatology"
-  },
-  {
-    "name": "description"
-  },
-  {
-    "name": "design-services"
-  },
-  {
-    "name": "deskphone"
-  },
-  {
-    "name": "desktop-access-disabled"
-  },
-  {
-    "name": "desktop-cloud"
-  },
-  {
-    "name": "desktop-cloud-stack"
-  },
-  {
-    "name": "desktop-landscape"
-  },
-  {
-    "name": "desktop-landscape-add"
-  },
-  {
-    "name": "desktop-mac"
-  },
-  {
-    "name": "desktop-portrait"
-  },
-  {
-    "name": "desktop-windows"
-  },
-  {
-    "name": "destruction"
-  },
-  {
-    "name": "detector"
-  },
-  {
-    "name": "detector-alarm"
-  },
-  {
-    "name": "detector-battery"
-  },
-  {
-    "name": "detector-co"
-  },
-  {
-    "name": "detector-offline"
-  },
-  {
-    "name": "detector-smoke"
-  },
-  {
-    "name": "detector-status"
-  },
-  {
-    "name": "developer-board"
-  },
-  {
-    "name": "developer-board-off"
-  },
-  {
-    "name": "developer-guide"
-  },
-  {
-    "name": "developer-mode"
-  },
-  {
-    "name": "developer-mode-tv"
-  },
-  {
-    "name": "device-unknown"
-  },
-  {
-    "name": "devices"
-  },
-  {
-    "name": "devices-fold"
-  },
-  {
-    "name": "devices-fold-2"
-  },
-  {
-    "name": "devices-off"
-  },
-  {
-    "name": "devices-other"
-  },
-  {
-    "name": "devices-wearables"
-  },
-  {
-    "name": "dew-point"
-  },
-  {
-    "name": "diagnosis"
-  },
-  {
-    "name": "dialer-sip"
-  },
-  {
-    "name": "dialogs"
-  },
-  {
-    "name": "diamond"
-  },
-  {
-    "name": "dictionary"
-  },
-  {
-    "name": "difference"
-  },
-  {
-    "name": "digital-out-of-home"
-  },
-  {
-    "name": "digital-wellbeing"
-  },
-  {
-    "name": "dining"
-  },
-  {
-    "name": "dinner-dining"
-  },
-  {
-    "name": "directions"
-  },
-  {
-    "name": "directions-alt"
-  },
-  {
-    "name": "directions-alt-off"
-  },
-  {
-    "name": "directions-boat"
-  },
-  {
-    "name": "directions-bus"
-  },
-  {
-    "name": "directions-car"
-  },
-  {
-    "name": "directions-off"
-  },
-  {
-    "name": "directions-railway"
-  },
-  {
-    "name": "directions-railway-2"
-  },
-  {
-    "name": "directions-subway"
-  },
-  {
-    "name": "dirty-lens"
-  },
-  {
-    "name": "disabled-by-default"
-  },
-  {
-    "name": "disc-full"
-  },
-  {
-    "name": "dishwasher"
-  },
-  {
-    "name": "dishwasher-gen"
-  },
-  {
-    "name": "display-settings"
-  },
-  {
-    "name": "distance"
-  },
-  {
-    "name": "diversity-1"
-  },
-  {
-    "name": "diversity-2"
-  },
-  {
-    "name": "diversity-4"
-  },
-  {
-    "name": "dns"
-  },
-  {
-    "name": "do-not-disturb-off"
-  },
-  {
-    "name": "do-not-disturb-on"
-  },
-  {
-    "name": "do-not-disturb-on-total-silence"
-  },
-  {
-    "name": "do-not-step"
-  },
-  {
-    "name": "do-not-touch"
-  },
-  {
-    "name": "dock"
-  },
-  {
-    "name": "dock-to-bottom"
-  },
-  {
-    "name": "dock-to-left"
-  },
-  {
-    "name": "dock-to-right"
-  },
-  {
-    "name": "docs"
-  },
-  {
-    "name": "docs-apps-script"
-  },
-  {
-    "name": "document-scanner"
-  },
-  {
-    "name": "domain-verification"
-  },
-  {
-    "name": "domino-mask"
-  },
-  {
-    "name": "donut-small"
-  },
-  {
-    "name": "door-back"
-  },
-  {
-    "name": "door-front"
-  },
-  {
-    "name": "door-open"
-  },
-  {
-    "name": "door-sensor"
-  },
-  {
-    "name": "door-sliding"
-  },
-  {
-    "name": "doorbell"
-  },
-  {
-    "name": "doorbell-3p"
-  },
-  {
-    "name": "doorbell-chime"
-  },
-  {
-    "name": "download-2"
-  },
-  {
-    "name": "download-done"
-  },
-  {
-    "name": "download-for-offline"
-  },
-  {
-    "name": "draft"
-  },
-  {
-    "name": "draft-orders"
-  },
-  {
-    "name": "drafts"
-  },
-  {
-    "name": "draw"
-  },
-  {
-    "name": "draw-abstract"
-  },
-  {
-    "name": "draw-collage"
-  },
-  {
-    "name": "dresser"
-  },
-  {
-    "name": "drive-file-move"
-  },
-  {
-    "name": "drive-file-move-rtl"
-  },
-  {
-    "name": "drive-file-rename"
-  },
-  {
-    "name": "drive-folder-upload"
-  },
-  {
-    "name": "dropdown"
-  },
-  {
-    "name": "dry"
-  },
-  {
-    "name": "dual-screen"
-  },
-  {
-    "name": "duo"
-  },
-  {
-    "name": "dvr"
-  },
-  {
-    "name": "dynamic-form"
-  },
-  {
-    "name": "e-mobiledata-badge"
-  },
-  {
-    "name": "e911-avatar"
-  },
-  {
-    "name": "e911-emergency"
-  },
-  {
-    "name": "earbuds"
-  },
-  {
-    "name": "earbuds-battery"
-  },
-  {
-    "name": "early-on"
-  },
-  {
-    "name": "ecg"
-  },
-  {
-    "name": "ecg-heart"
-  },
-  {
-    "name": "eco"
-  },
-  {
-    "name": "eda"
-  },
-  {
-    "name": "edgesensor-high"
-  },
-  {
-    "name": "edgesensor-low"
-  },
-  {
-    "name": "edit"
-  },
-  {
-    "name": "edit-attributes"
-  },
-  {
-    "name": "edit-calendar"
-  },
-  {
-    "name": "edit-document"
-  },
-  {
-    "name": "edit-location"
-  },
-  {
-    "name": "edit-location-alt"
-  },
-  {
-    "name": "edit-note"
-  },
-  {
-    "name": "edit-notifications"
-  },
-  {
-    "name": "edit-off"
-  },
-  {
-    "name": "edit-road"
-  },
-  {
-    "name": "edit-square"
-  },
-  {
-    "name": "editor-choice"
-  },
-  {
-    "name": "egg"
-  },
-  {
-    "name": "egg-alt"
-  },
-  {
-    "name": "eject"
-  },
-  {
-    "name": "electric-bike"
-  },
-  {
-    "name": "electric-bolt"
-  },
-  {
-    "name": "electric-car"
-  },
-  {
-    "name": "electric-meter"
-  },
-  {
-    "name": "electric-moped"
-  },
-  {
-    "name": "electric-rickshaw"
-  },
-  {
-    "name": "electric-scooter"
-  },
-  {
-    "name": "elevation"
-  },
-  {
-    "name": "elevator"
-  },
-  {
-    "name": "emergency"
-  },
-  {
-    "name": "emergency-heat"
-  },
-  {
-    "name": "emergency-home"
-  },
-  {
-    "name": "emergency-recording"
-  },
-  {
-    "name": "emergency-share"
-  },
-  {
-    "name": "emergency-share-off"
-  },
-  {
-    "name": "emoji-food-beverage"
-  },
-  {
-    "name": "emoji-language"
-  },
-  {
-    "name": "emoji-nature"
-  },
-  {
-    "name": "emoji-objects"
-  },
-  {
-    "name": "emoji-transportation"
-  },
-  {
-    "name": "empty-dashboard"
-  },
-  {
-    "name": "encrypted"
-  },
-  {
-    "name": "encrypted-add"
-  },
-  {
-    "name": "encrypted-add-circle"
-  },
-  {
-    "name": "encrypted-minus-circle"
-  },
-  {
-    "name": "encrypted-off"
-  },
-  {
-    "name": "endocrinology"
-  },
-  {
-    "name": "energy-program-saving"
-  },
-  {
-    "name": "energy-program-time-used"
-  },
-  {
-    "name": "energy-savings-leaf"
-  },
-  {
-    "name": "engineering"
-  },
-  {
-    "name": "enhanced-encryption"
-  },
-  {
-    "name": "ent"
-  },
-  {
-    "name": "enterprise"
-  },
-  {
-    "name": "enterprise-off"
-  },
-  {
-    "name": "error"
-  },
-  {
-    "name": "error-med"
-  },
-  {
-    "name": "escalator"
-  },
-  {
-    "name": "ev-mobiledata-badge"
-  },
-  {
-    "name": "ev-shadow"
-  },
-  {
-    "name": "ev-shadow-add"
-  },
-  {
-    "name": "ev-shadow-minus"
-  },
-  {
-    "name": "ev-station"
-  },
-  {
-    "name": "event"
-  },
-  {
-    "name": "event-available"
-  },
-  {
-    "name": "event-busy"
-  },
-  {
-    "name": "event-list"
-  },
-  {
-    "name": "event-note"
-  },
-  {
-    "name": "event-repeat"
-  },
-  {
-    "name": "event-seat"
-  },
-  {
-    "name": "event-upcoming"
-  },
-  {
-    "name": "exercise"
-  },
-  {
-    "name": "expand-circle-down"
-  },
-  {
-    "name": "expand-circle-right"
-  },
-  {
-    "name": "expand-circle-up"
-  },
-  {
-    "name": "expansion-panels"
-  },
-  {
-    "name": "experiment"
-  },
-  {
-    "name": "explicit"
-  },
-  {
-    "name": "explore"
-  },
-  {
-    "name": "explore-off"
-  },
-  {
-    "name": "explosion"
-  },
-  {
-    "name": "export-notes"
-  },
-  {
-    "name": "extension"
-  },
-  {
-    "name": "extension-off"
-  },
-  {
-    "name": "eye-tracking"
-  },
-  {
-    "name": "face"
-  },
-  {
-    "name": "face-2"
-  },
-  {
-    "name": "face-3"
-  },
-  {
-    "name": "face-4"
-  },
-  {
-    "name": "face-6"
-  },
-  {
-    "name": "face-down"
-  },
-  {
-    "name": "face-left"
-  },
-  {
-    "name": "face-nod"
-  },
-  {
-    "name": "face-retouching-natural"
-  },
-  {
-    "name": "face-retouching-off"
-  },
-  {
-    "name": "face-right"
-  },
-  {
-    "name": "face-shake"
-  },
-  {
-    "name": "face-up"
-  },
-  {
-    "name": "fact-check"
-  },
-  {
-    "name": "factory"
-  },
-  {
-    "name": "familiar-face-and-zone"
-  },
-  {
-    "name": "family-history"
-  },
-  {
-    "name": "family-home"
-  },
-  {
-    "name": "family-link"
-  },
-  {
-    "name": "family-star"
-  },
-  {
-    "name": "farsight-digital"
-  },
-  {
-    "name": "fast-forward"
-  },
-  {
-    "name": "fast-rewind"
-  },
-  {
-    "name": "fastfood"
-  },
-  {
-    "name": "faucet"
-  },
-  {
-    "name": "favorite"
-  },
-  {
-    "name": "fax"
-  },
-  {
-    "name": "feature-search"
-  },
-  {
-    "name": "featured-play-list"
-  },
-  {
-    "name": "featured-video"
-  },
-  {
-    "name": "feedback"
-  },
-  {
-    "name": "femur"
-  },
-  {
-    "name": "femur-alt"
-  },
-  {
-    "name": "fertile"
-  },
-  {
-    "name": "fiber-dvr"
-  },
-  {
-    "name": "fiber-manual-record"
-  },
-  {
-    "name": "fiber-new"
-  },
-  {
-    "name": "fiber-pin"
-  },
-  {
-    "name": "fiber-smart-record"
-  },
-  {
-    "name": "file-copy"
-  },
-  {
-    "name": "file-copy-off"
-  },
-  {
-    "name": "file-export"
-  },
-  {
-    "name": "file-json"
-  },
-  {
-    "name": "file-map"
-  },
-  {
-    "name": "file-map-stack"
-  },
-  {
-    "name": "file-open"
-  },
-  {
-    "name": "file-png"
-  },
-  {
-    "name": "file-present"
-  },
-  {
-    "name": "file-save"
-  },
-  {
-    "name": "file-save-off"
-  },
-  {
-    "name": "files"
-  },
-  {
-    "name": "filter"
-  },
-  {
-    "name": "filter-1"
-  },
-  {
-    "name": "filter-2"
-  },
-  {
-    "name": "filter-3"
-  },
-  {
-    "name": "filter-4"
-  },
-  {
-    "name": "filter-5"
-  },
-  {
-    "name": "filter-6"
-  },
-  {
-    "name": "filter-7"
-  },
-  {
-    "name": "filter-8"
-  },
-  {
-    "name": "filter-9"
-  },
-  {
-    "name": "filter-9-plus"
-  },
-  {
-    "name": "filter-alt"
-  },
-  {
-    "name": "filter-alt-off"
-  },
-  {
-    "name": "filter-center-focus"
-  },
-  {
-    "name": "filter-drama"
-  },
-  {
-    "name": "filter-frames"
-  },
-  {
-    "name": "filter-none"
-  },
-  {
-    "name": "filter-retrolux"
-  },
-  {
-    "name": "filter-vintage"
-  },
-  {
-    "name": "finance-chip"
-  },
-  {
-    "name": "find-in-page"
-  },
-  {
-    "name": "fingerprint"
-  },
-  {
-    "name": "fire-hydrant"
-  },
-  {
-    "name": "fire-truck"
-  },
-  {
-    "name": "fireplace"
-  },
-  {
-    "name": "fit-screen"
-  },
-  {
-    "name": "fitbit-hourly-activity"
-  },
-  {
-    "name": "fitness-tracker"
-  },
-  {
-    "name": "flag"
-  },
-  {
-    "name": "flag-2"
-  },
-  {
-    "name": "flag-check"
-  },
-  {
-    "name": "flag-circle"
-  },
-  {
-    "name": "flash-auto"
-  },
-  {
-    "name": "flash-off"
-  },
-  {
-    "name": "flash-on"
-  },
-  {
-    "name": "flashlight-off"
-  },
-  {
-    "name": "flashlight-on"
-  },
-  {
-    "name": "flight-class"
-  },
-  {
-    "name": "flights-and-hotels"
-  },
-  {
-    "name": "flip-camera-ios"
-  },
-  {
-    "name": "float-landscape"
-  },
-  {
-    "name": "float-landscape-2"
-  },
-  {
-    "name": "float-portrait"
-  },
-  {
-    "name": "float-portrait-2"
-  },
-  {
-    "name": "flood"
-  },
-  {
-    "name": "floor-lamp"
-  },
-  {
-    "name": "flowsheet"
-  },
-  {
-    "name": "fluid"
-  },
-  {
-    "name": "fluid-balance"
-  },
-  {
-    "name": "fluid-med"
-  },
-  {
-    "name": "fluorescent"
-  },
-  {
-    "name": "flyover"
-  },
-  {
-    "name": "fmd-bad"
-  },
-  {
-    "name": "foggy"
-  },
-  {
-    "name": "folded-hands"
-  },
-  {
-    "name": "folder"
-  },
-  {
-    "name": "folder-check"
-  },
-  {
-    "name": "folder-check-2"
-  },
-  {
-    "name": "folder-code"
-  },
-  {
-    "name": "folder-copy"
-  },
-  {
-    "name": "folder-data"
-  },
-  {
-    "name": "folder-delete"
-  },
-  {
-    "name": "folder-eye"
-  },
-  {
-    "name": "folder-limited"
-  },
-  {
-    "name": "folder-managed"
-  },
-  {
-    "name": "folder-match"
-  },
-  {
-    "name": "folder-off"
-  },
-  {
-    "name": "folder-open"
-  },
-  {
-    "name": "folder-shared"
-  },
-  {
-    "name": "folder-special"
-  },
-  {
-    "name": "folder-supervised"
-  },
-  {
-    "name": "folder-zip"
-  },
-  {
-    "name": "font-download"
-  },
-  {
-    "name": "font-download-off"
-  },
-  {
-    "name": "food-bank"
-  },
-  {
-    "name": "foot-bones"
-  },
-  {
-    "name": "footprint"
-  },
-  {
-    "name": "for-you"
-  },
-  {
-    "name": "forest"
-  },
-  {
-    "name": "forklift"
-  },
-  {
-    "name": "format-color-reset"
-  },
-  {
-    "name": "format-ink-highlighter"
-  },
-  {
-    "name": "format-paint"
-  },
-  {
-    "name": "format-quote"
-  },
-  {
-    "name": "format-quote-off"
-  },
-  {
-    "name": "format-shapes"
-  },
-  {
-    "name": "format-textdirection-l-to-r"
-  },
-  {
-    "name": "format-textdirection-r-to-l"
-  },
-  {
-    "name": "format-textdirection-vertical"
-  },
-  {
-    "name": "forms-apps-script"
-  },
-  {
-    "name": "fort"
-  },
-  {
-    "name": "forum"
-  },
-  {
-    "name": "forward-circle"
-  },
-  {
-    "name": "forward-to-inbox"
-  },
-  {
-    "name": "frame-person"
-  },
-  {
-    "name": "frame-person-mic"
-  },
-  {
-    "name": "frame-person-off"
-  },
-  {
-    "name": "free-cancellation"
-  },
-  {
-    "name": "front-hand"
-  },
-  {
-    "name": "front-loader"
-  },
-  {
-    "name": "full-coverage"
-  },
-  {
-    "name": "full-hd"
-  },
-  {
-    "name": "fullscreen-portrait"
-  },
-  {
-    "name": "funicular"
-  },
-  {
-    "name": "g-mobiledata-badge"
-  },
-  {
-    "name": "gallery-thumbnail"
-  },
-  {
-    "name": "gamepad"
-  },
-  {
-    "name": "garage"
-  },
-  {
-    "name": "garage-door"
-  },
-  {
-    "name": "garage-home"
-  },
-  {
-    "name": "garden-cart"
-  },
-  {
-    "name": "gas-meter"
-  },
-  {
-    "name": "gastroenterology"
-  },
-  {
-    "name": "gate"
-  },
-  {
-    "name": "general-device"
-  },
-  {
-    "name": "generating-tokens"
-  },
-  {
-    "name": "genres"
-  },
-  {
-    "name": "gesture-select"
-  },
-  {
-    "name": "gfit-health"
-  },
-  {
-    "name": "gif-box"
-  },
-  {
-    "name": "glass-cup"
-  },
-  {
-    "name": "glucose"
-  },
-  {
-    "name": "gmail-apps-script"
-  },
-  {
-    "name": "gondola-lift"
-  },
-  {
-    "name": "google-travel"
-  },
-  {
-    "name": "google-wifi"
-  },
-  {
-    "name": "gpay"
-  },
-  {
-    "name": "gpp-bad"
-  },
-  {
-    "name": "gpp-maybe"
-  },
-  {
-    "name": "gradient"
-  },
-  {
-    "name": "grid-off"
-  },
-  {
-    "name": "grid-on"
-  },
-  {
-    "name": "grid-view"
-  },
-  {
-    "name": "group"
-  },
-  {
-    "name": "group-add"
-  },
-  {
-    "name": "group-auto"
-  },
-  {
-    "name": "group-off"
-  },
-  {
-    "name": "group-remove"
-  },
-  {
-    "name": "group-search"
-  },
-  {
-    "name": "group-work"
-  },
-  {
-    "name": "groups"
-  },
-  {
-    "name": "groups-2"
-  },
-  {
-    "name": "groups-3"
-  },
-  {
-    "name": "gynecology"
-  },
-  {
-    "name": "h-mobiledata-badge"
-  },
-  {
-    "name": "h-plus-mobiledata-badge"
-  },
-  {
-    "name": "hallway"
-  },
-  {
-    "name": "hand-bones"
-  },
-  {
-    "name": "hand-gesture"
-  },
-  {
-    "name": "hand-gesture-off"
-  },
-  {
-    "name": "handheld-controller"
-  },
-  {
-    "name": "handshake"
-  },
-  {
-    "name": "handyman"
-  },
-  {
-    "name": "hangout-meeting"
-  },
-  {
-    "name": "hangout-video"
-  },
-  {
-    "name": "hangout-video-off"
-  },
-  {
-    "name": "hard-disk"
-  },
-  {
-    "name": "hard-drive"
-  },
-  {
-    "name": "hard-drive-2"
-  },
-  {
-    "name": "hardware"
-  },
-  {
-    "name": "hd"
-  },
-  {
-    "name": "hdr-auto"
-  },
-  {
-    "name": "hdr-enhanced-select"
-  },
-  {
-    "name": "hdr-off-select"
-  },
-  {
-    "name": "hdr-on-select"
-  },
-  {
-    "name": "hdr-plus"
-  },
-  {
-    "name": "hdr-plus-off"
-  },
-  {
-    "name": "head-mounted-device"
-  },
-  {
-    "name": "headphones"
-  },
-  {
-    "name": "headphones-battery"
-  },
-  {
-    "name": "headset-mic"
-  },
-  {
-    "name": "headset-off"
-  },
-  {
-    "name": "healing"
-  },
-  {
-    "name": "health-and-beauty"
-  },
-  {
-    "name": "health-and-safety"
-  },
-  {
-    "name": "health-metrics"
-  },
-  {
-    "name": "heap-snapshot-large"
-  },
-  {
-    "name": "heap-snapshot-multiple"
-  },
-  {
-    "name": "heap-snapshot-thumbnail"
-  },
-  {
-    "name": "hearing-aid"
-  },
-  {
-    "name": "hearing-aid-disabled"
-  },
-  {
-    "name": "heart-broken"
-  },
-  {
-    "name": "heart-check"
-  },
-  {
-    "name": "heart-minus"
-  },
-  {
-    "name": "heart-plus"
-  },
-  {
-    "name": "heat-pump"
-  },
-  {
-    "name": "heat-pump-balance"
-  },
-  {
-    "name": "helicopter"
-  },
-  {
-    "name": "help"
-  },
-  {
-    "name": "help-center"
-  },
-  {
-    "name": "help-clinic"
-  },
-  {
-    "name": "hematology"
-  },
-  {
-    "name": "hexagon"
-  },
-  {
-    "name": "hide-image"
-  },
-  {
-    "name": "hide-source"
-  },
-  {
-    "name": "high-density"
-  },
-  {
-    "name": "high-quality"
-  },
-  {
-    "name": "high-res"
-  },
-  {
-    "name": "highlight"
-  },
-  {
-    "name": "highlight-keyboard-focus"
-  },
-  {
-    "name": "highlight-text-cursor"
-  },
-  {
-    "name": "history-edu"
-  },
-  {
-    "name": "hive"
-  },
-  {
-    "name": "holiday-village"
-  },
-  {
-    "name": "home"
-  },
-  {
-    "name": "home-and-garden"
-  },
-  {
-    "name": "home-health"
-  },
-  {
-    "name": "home-improvement-and-tools"
-  },
-  {
-    "name": "home-iot-device"
-  },
-  {
-    "name": "home-max"
-  },
-  {
-    "name": "home-max-dots"
-  },
-  {
-    "name": "home-mini"
-  },
-  {
-    "name": "home-pin"
-  },
-  {
-    "name": "home-repair-service"
-  },
-  {
-    "name": "home-speaker"
-  },
-  {
-    "name": "home-storage"
-  },
-  {
-    "name": "home-work"
-  },
-  {
-    "name": "horizontal-split"
-  },
-  {
-    "name": "host"
-  },
-  {
-    "name": "hot-tub"
-  },
-  {
-    "name": "hotel"
-  },
-  {
-    "name": "hotel-class"
-  },
-  {
-    "name": "hourglass"
-  },
-  {
-    "name": "house"
-  },
-  {
-    "name": "house-with-shield"
-  },
-  {
-    "name": "houseboat"
-  },
-  {
-    "name": "household-supplies"
-  },
-  {
-    "name": "hov"
-  },
-  {
-    "name": "how-to-reg"
-  },
-  {
-    "name": "how-to-vote"
-  },
-  {
-    "name": "hr-resting"
-  },
-  {
-    "name": "hub"
-  },
-  {
-    "name": "humerus"
-  },
-  {
-    "name": "humerus-alt"
-  },
-  {
-    "name": "humidity-helper"
-  },
-  {
-    "name": "humidity-high"
-  },
-  {
-    "name": "humidity-indoor"
-  },
-  {
-    "name": "humidity-low"
-  },
-  {
-    "name": "humidity-mid"
-  },
-  {
-    "name": "humidity-percentage"
-  },
-  {
-    "name": "hvac"
-  },
-  {
-    "name": "ice-skating"
-  },
-  {
-    "name": "icecream"
-  },
-  {
-    "name": "id-card"
-  },
-  {
-    "name": "identity-platform"
-  },
-  {
-    "name": "ifl"
-  },
-  {
-    "name": "iframe"
-  },
-  {
-    "name": "iframe-off"
-  },
-  {
-    "name": "image"
-  },
-  {
-    "name": "image-aspect-ratio"
-  },
-  {
-    "name": "image-not-supported"
-  },
-  {
-    "name": "image-search"
-  },
-  {
-    "name": "imagesearch-roller"
-  },
-  {
-    "name": "imagesmode"
-  },
-  {
-    "name": "immunology"
-  },
-  {
-    "name": "import-contacts"
-  },
-  {
-    "name": "important-devices"
-  },
-  {
-    "name": "in-home-mode"
-  },
-  {
-    "name": "inactive-order"
-  },
-  {
-    "name": "inbox"
-  },
-  {
-    "name": "inbox-customize"
-  },
-  {
-    "name": "indeterminate-check-box"
-  },
-  {
-    "name": "info"
-  },
-  {
-    "name": "ink-eraser"
-  },
-  {
-    "name": "ink-eraser-off"
-  },
-  {
-    "name": "ink-highlighter"
-  },
-  {
-    "name": "ink-highlighter-move"
-  },
-  {
-    "name": "ink-pen"
-  },
-  {
-    "name": "inpatient"
-  },
-  {
-    "name": "insert-chart"
-  },
-  {
-    "name": "insert-page-break"
-  },
-  {
-    "name": "insert-text"
-  },
-  {
-    "name": "install-mobile"
-  },
-  {
-    "name": "integration-instructions"
-  },
-  {
-    "name": "interactive-space"
-  },
-  {
-    "name": "interests"
-  },
-  {
-    "name": "interpreter-mode"
-  },
-  {
-    "name": "inventory-2"
-  },
-  {
-    "name": "invert-colors"
-  },
-  {
-    "name": "iron"
-  },
-  {
-    "name": "jamboard-kiosk"
-  },
-  {
-    "name": "join"
-  },
-  {
-    "name": "joystick"
-  },
-  {
-    "name": "kebab-dining"
-  },
-  {
-    "name": "keep"
-  },
-  {
-    "name": "keep-off"
-  },
-  {
-    "name": "keep-public"
-  },
-  {
-    "name": "kettle"
-  },
-  {
-    "name": "key"
-  },
-  {
-    "name": "key-off"
-  },
-  {
-    "name": "key-vertical"
-  },
-  {
-    "name": "keyboard"
-  },
-  {
-    "name": "keyboard-alt"
-  },
-  {
-    "name": "keyboard-capslock-badge"
-  },
-  {
-    "name": "keyboard-external-input"
-  },
-  {
-    "name": "keyboard-hide"
-  },
-  {
-    "name": "keyboard-lock"
-  },
-  {
-    "name": "keyboard-lock-off"
-  },
-  {
-    "name": "keyboard-off"
-  },
-  {
-    "name": "keyboard-onscreen"
-  },
-  {
-    "name": "keyboard-previous-language"
-  },
-  {
-    "name": "kid-star"
-  },
-  {
-    "name": "king-bed"
-  },
-  {
-    "name": "kitchen"
-  },
-  {
-    "name": "kitesurfing"
-  },
-  {
-    "name": "lab-panel"
-  },
-  {
-    "name": "lab-profile"
-  },
-  {
-    "name": "lab-research"
-  },
-  {
-    "name": "label"
-  },
-  {
-    "name": "label-important"
-  },
-  {
-    "name": "label-off"
-  },
-  {
-    "name": "labs"
-  },
-  {
-    "name": "lan"
-  },
-  {
-    "name": "landscape"
-  },
-  {
-    "name": "landscape-2"
-  },
-  {
-    "name": "landscape-2-off"
-  },
-  {
-    "name": "landslide"
-  },
-  {
-    "name": "laptop-car"
-  },
-  {
-    "name": "laptop-chromebook"
-  },
-  {
-    "name": "laptop-mac"
-  },
-  {
-    "name": "laptop-windows"
-  },
-  {
-    "name": "laundry"
-  },
-  {
-    "name": "layers"
-  },
-  {
-    "name": "layers-clear"
-  },
-  {
-    "name": "lda"
-  },
-  {
-    "name": "leaderboard"
-  },
-  {
-    "name": "leaf-spark"
-  },
-  {
-    "name": "left-panel-close"
-  },
-  {
-    "name": "left-panel-open"
-  },
-  {
-    "name": "library-add"
-  },
-  {
-    "name": "library-add-check"
-  },
-  {
-    "name": "library-books"
-  },
-  {
-    "name": "library-music"
-  },
-  {
-    "name": "license"
-  },
-  {
-    "name": "light"
-  },
-  {
-    "name": "light-group"
-  },
-  {
-    "name": "light-mode"
-  },
-  {
-    "name": "light-off"
-  },
-  {
-    "name": "lightbulb"
-  },
-  {
-    "name": "lightbulb-2"
-  },
-  {
-    "name": "lightbulb-circle"
-  },
-  {
-    "name": "lightning-stand"
-  },
-  {
-    "name": "line-end-arrow"
-  },
-  {
-    "name": "line-end-circle"
-  },
-  {
-    "name": "line-end-diamond"
-  },
-  {
-    "name": "line-end-square"
-  },
-  {
-    "name": "line-start-arrow"
-  },
-  {
-    "name": "line-start-circle"
-  },
-  {
-    "name": "line-start-diamond"
-  },
-  {
-    "name": "line-start-square"
-  },
-  {
-    "name": "linked-camera"
-  },
-  {
-    "name": "linked-services"
-  },
-  {
-    "name": "liquor"
-  },
-  {
-    "name": "list-alt"
-  },
-  {
-    "name": "list-alt-add"
-  },
-  {
-    "name": "list-alt-check"
-  },
-  {
-    "name": "live-help"
-  },
-  {
-    "name": "live-tv"
-  },
-  {
-    "name": "living"
-  },
-  {
-    "name": "local-activity"
-  },
-  {
-    "name": "local-atm"
-  },
-  {
-    "name": "local-bar"
-  },
-  {
-    "name": "local-cafe"
-  },
-  {
-    "name": "local-car-wash"
-  },
-  {
-    "name": "local-convenience-store"
-  },
-  {
-    "name": "local-drink"
-  },
-  {
-    "name": "local-florist"
-  },
-  {
-    "name": "local-gas-station"
-  },
-  {
-    "name": "local-hospital"
-  },
-  {
-    "name": "local-laundry-service"
-  },
-  {
-    "name": "local-library"
-  },
-  {
-    "name": "local-mall"
-  },
-  {
-    "name": "local-pharmacy"
-  },
-  {
-    "name": "local-pizza"
-  },
-  {
-    "name": "local-police"
-  },
-  {
-    "name": "local-post-office"
-  },
-  {
-    "name": "local-see"
-  },
-  {
-    "name": "local-shipping"
-  },
-  {
-    "name": "local-taxi"
-  },
-  {
-    "name": "location-automation"
-  },
-  {
-    "name": "location-away"
-  },
-  {
-    "name": "location-chip"
-  },
-  {
-    "name": "location-home"
-  },
-  {
-    "name": "location-off"
-  },
-  {
-    "name": "location-on"
-  },
-  {
-    "name": "lock"
-  },
-  {
-    "name": "lock-clock"
-  },
-  {
-    "name": "lock-open"
-  },
-  {
-    "name": "lock-open-right"
-  },
-  {
-    "name": "lock-person"
-  },
-  {
-    "name": "logo-dev"
-  },
-  {
-    "name": "looks-3"
-  },
-  {
-    "name": "looks-4"
-  },
-  {
-    "name": "looks-5"
-  },
-  {
-    "name": "looks-6"
-  },
-  {
-    "name": "looks-one"
-  },
-  {
-    "name": "looks-two"
-  },
-  {
-    "name": "loupe"
-  },
-  {
-    "name": "loyalty"
-  },
-  {
-    "name": "lte-mobiledata-badge"
-  },
-  {
-    "name": "lte-plus-mobiledata-badge"
-  },
-  {
-    "name": "luggage"
-  },
-  {
-    "name": "lunch-dining"
-  },
-  {
-    "name": "lyrics"
-  },
-  {
-    "name": "macro-auto"
-  },
-  {
-    "name": "macro-off"
-  },
-  {
-    "name": "magic-button"
-  },
-  {
-    "name": "magnification-large"
-  },
-  {
-    "name": "magnification-small"
-  },
-  {
-    "name": "magnify-fullscreen"
-  },
-  {
-    "name": "mail"
-  },
-  {
-    "name": "mail-lock"
-  },
-  {
-    "name": "mail-off"
-  },
-  {
-    "name": "manage-accounts"
-  },
-  {
-    "name": "manga"
-  },
-  {
-    "name": "map"
-  },
-  {
-    "name": "map-search"
-  },
-  {
-    "name": "maps-ugc"
-  },
-  {
-    "name": "margin"
-  },
-  {
-    "name": "mark-as-unread"
-  },
-  {
-    "name": "mark-chat-read"
-  },
-  {
-    "name": "mark-chat-unread"
-  },
-  {
-    "name": "mark-email-read"
-  },
-  {
-    "name": "mark-email-unread"
-  },
-  {
-    "name": "mark-unread-chat-alt"
-  },
-  {
-    "name": "markdown"
-  },
-  {
-    "name": "markdown-copy"
-  },
-  {
-    "name": "markunread-mailbox"
-  },
-  {
-    "name": "masks"
-  },
-  {
-    "name": "measuring-tape"
-  },
-  {
-    "name": "media-link"
-  },
-  {
-    "name": "media-output"
-  },
-  {
-    "name": "media-output-off"
-  },
-  {
-    "name": "medical-information"
-  },
-  {
-    "name": "medical-mask"
-  },
-  {
-    "name": "medical-services"
-  },
-  {
-    "name": "medication"
-  },
-  {
-    "name": "medication-liquid"
-  },
-  {
-    "name": "meeting-room"
-  },
-  {
-    "name": "memory"
-  },
-  {
-    "name": "memory-alt"
-  },
-  {
-    "name": "menstrual-health"
-  },
-  {
-    "name": "menu-book"
-  },
-  {
-    "name": "mfg-nest-yale-lock"
-  },
-  {
-    "name": "mic"
-  },
-  {
-    "name": "mic-double"
-  },
-  {
-    "name": "mic-external-off"
-  },
-  {
-    "name": "mic-external-on"
-  },
-  {
-    "name": "mic-off"
-  },
-  {
-    "name": "microbiology"
-  },
-  {
-    "name": "microwave"
-  },
-  {
-    "name": "microwave-gen"
-  },
-  {
-    "name": "military-tech"
-  },
-  {
-    "name": "mimo"
-  },
-  {
-    "name": "mimo-disconnect"
-  },
-  {
-    "name": "mindfulness"
-  },
-  {
-    "name": "minor-crash"
-  },
-  {
-    "name": "missed-video-call"
-  },
-  {
-    "name": "mitre"
-  },
-  {
-    "name": "mixture-med"
-  },
-  {
-    "name": "mms"
-  },
-  {
-    "name": "mobile-friendly"
-  },
-  {
-    "name": "mobile-off"
-  },
-  {
-    "name": "mobile-screen-share"
-  },
-  {
-    "name": "mode-comment"
-  },
-  {
-    "name": "mode-fan"
-  },
-  {
-    "name": "mode-fan-off"
-  },
-  {
-    "name": "mode-heat"
-  },
-  {
-    "name": "mode-heat-cool"
-  },
-  {
-    "name": "mode-heat-off"
-  },
-  {
-    "name": "mode-night"
-  },
-  {
-    "name": "modeling"
-  },
-  {
-    "name": "money"
-  },
-  {
-    "name": "money-bag"
-  },
-  {
-    "name": "monitor-heart"
-  },
-  {
-    "name": "monitor-weight"
-  },
-  {
-    "name": "monitor-weight-gain"
-  },
-  {
-    "name": "monitor-weight-loss"
-  },
-  {
-    "name": "monorail"
-  },
-  {
-    "name": "mood"
-  },
-  {
-    "name": "mood-bad"
-  },
-  {
-    "name": "mop"
-  },
-  {
-    "name": "moped"
-  },
-  {
-    "name": "more"
-  },
-  {
-    "name": "mosque"
-  },
-  {
-    "name": "motion-photos-auto"
-  },
-  {
-    "name": "motion-photos-on"
-  },
-  {
-    "name": "motion-photos-paused"
-  },
-  {
-    "name": "motion-play"
-  },
-  {
-    "name": "motorcycle"
-  },
-  {
-    "name": "mountain-flag"
-  },
-  {
-    "name": "mouse"
-  },
-  {
-    "name": "mouse-lock"
-  },
-  {
-    "name": "mouse-lock-off"
-  },
-  {
-    "name": "move"
-  },
-  {
-    "name": "move-location"
-  },
-  {
-    "name": "move-selection-down"
-  },
-  {
-    "name": "move-selection-left"
-  },
-  {
-    "name": "move-selection-right"
-  },
-  {
-    "name": "move-selection-up"
-  },
-  {
-    "name": "move-to-inbox"
-  },
-  {
-    "name": "movie"
-  },
-  {
-    "name": "movie-edit"
-  },
-  {
-    "name": "movie-filter"
-  },
-  {
-    "name": "movie-info"
-  },
-  {
-    "name": "movie-off"
-  },
-  {
-    "name": "moving-beds"
-  },
-  {
-    "name": "mp"
-  },
-  {
-    "name": "multicooker"
-  },
-  {
-    "name": "multimodal-hand-eye"
-  },
-  {
-    "name": "multiple-airports"
-  },
-  {
-    "name": "museum"
-  },
-  {
-    "name": "music-video"
-  },
-  {
-    "name": "my-location"
-  },
-  {
-    "name": "mystery"
-  },
-  {
-    "name": "nature"
-  },
-  {
-    "name": "nature-people"
-  },
-  {
-    "name": "navigation"
-  },
-  {
-    "name": "near-me"
-  },
-  {
-    "name": "near-me-disabled"
-  },
-  {
-    "name": "nearby-off"
-  },
-  {
-    "name": "nephrology"
-  },
-  {
-    "name": "nest-audio"
-  },
-  {
-    "name": "nest-cam-floodlight"
-  },
-  {
-    "name": "nest-cam-iq-outdoor"
-  },
-  {
-    "name": "nest-cam-magnet-mount"
-  },
-  {
-    "name": "nest-cam-outdoor"
-  },
-  {
-    "name": "nest-cam-stand"
-  },
-  {
-    "name": "nest-cam-wall-mount"
-  },
-  {
-    "name": "nest-cam-wired-stand"
-  },
-  {
-    "name": "nest-clock-farsight-analog"
-  },
-  {
-    "name": "nest-clock-farsight-digital"
-  },
-  {
-    "name": "nest-connect"
-  },
-  {
-    "name": "nest-detect"
-  },
-  {
-    "name": "nest-display"
-  },
-  {
-    "name": "nest-display-max"
-  },
-  {
-    "name": "nest-doorbell-visitor"
-  },
-  {
-    "name": "nest-eco-leaf"
-  },
-  {
-    "name": "nest-farsight-weather"
-  },
-  {
-    "name": "nest-found-savings"
-  },
-  {
-    "name": "nest-heat-link-gen-3"
-  },
-  {
-    "name": "nest-hello-doorbell"
-  },
-  {
-    "name": "nest-mini"
-  },
-  {
-    "name": "nest-multi-room"
-  },
-  {
-    "name": "nest-remote"
-  },
-  {
-    "name": "nest-remote-comfort-sensor"
-  },
-  {
-    "name": "nest-secure-alarm"
-  },
-  {
-    "name": "nest-thermostat"
-  },
-  {
-    "name": "nest-thermostat-e-eu"
-  },
-  {
-    "name": "nest-thermostat-sensor"
-  },
-  {
-    "name": "nest-thermostat-sensor-eu"
-  },
-  {
-    "name": "nest-thermostat-zirconium-eu"
-  },
-  {
-    "name": "nest-wake-on-approach"
-  },
-  {
-    "name": "nest-wake-on-press"
-  },
-  {
-    "name": "nest-wifi-point"
-  },
-  {
-    "name": "nest-wifi-point-vento"
-  },
-  {
-    "name": "nest-wifi-pro"
-  },
-  {
-    "name": "nest-wifi-pro-2"
-  },
-  {
-    "name": "nest-wifi-router"
-  },
-  {
-    "name": "network-check"
-  },
-  {
-    "name": "network-locked"
-  },
-  {
-    "name": "neurology"
-  },
-  {
-    "name": "new-label"
-  },
-  {
-    "name": "news"
-  },
-  {
-    "name": "newsmode"
-  },
-  {
-    "name": "next-plan"
-  },
-  {
-    "name": "next-week"
-  },
-  {
-    "name": "nfc"
-  },
-  {
-    "name": "night-shelter"
-  },
-  {
-    "name": "night-sight-auto"
-  },
-  {
-    "name": "night-sight-auto-off"
-  },
-  {
-    "name": "night-sight-max"
-  },
-  {
-    "name": "nightlight"
-  },
-  {
-    "name": "nightlight-badge"
-  },
-  {
-    "name": "nightlight-off"
-  },
-  {
-    "name": "nights-stay"
-  },
-  {
-    "name": "no-accounts"
-  },
-  {
-    "name": "no-backpack"
-  },
-  {
-    "name": "no-crash"
-  },
-  {
-    "name": "no-drinks"
-  },
-  {
-    "name": "no-encryption"
-  },
-  {
-    "name": "no-flash"
-  },
-  {
-    "name": "no-food"
-  },
-  {
-    "name": "no-luggage"
-  },
-  {
-    "name": "no-meals"
-  },
-  {
-    "name": "no-meeting-room"
-  },
-  {
-    "name": "no-photography"
-  },
-  {
-    "name": "no-sim"
-  },
-  {
-    "name": "no-sound"
-  },
-  {
-    "name": "no-stroller"
-  },
-  {
-    "name": "no-transfer"
-  },
-  {
-    "name": "not-listed-location"
-  },
-  {
-    "name": "not-started"
-  },
-  {
-    "name": "note-add"
-  },
-  {
-    "name": "note-alt"
-  },
-  {
-    "name": "note-stack"
-  },
-  {
-    "name": "note-stack-add"
-  },
-  {
-    "name": "notification-add"
-  },
-  {
-    "name": "notification-important"
-  },
-  {
-    "name": "notification-multiple"
-  },
-  {
-    "name": "notifications"
-  },
-  {
-    "name": "notifications-active"
-  },
-  {
-    "name": "notifications-off"
-  },
-  {
-    "name": "notifications-paused"
-  },
-  {
-    "name": "notifications-unread"
-  },
-  {
-    "name": "nutrition"
-  },
-  {
-    "name": "ods"
-  },
-  {
-    "name": "odt"
-  },
-  {
-    "name": "offline-bolt"
-  },
-  {
-    "name": "offline-pin"
-  },
-  {
-    "name": "offline-pin-off"
-  },
-  {
-    "name": "offline-share"
-  },
-  {
-    "name": "oil-barrel"
-  },
-  {
-    "name": "on-device-training"
-  },
-  {
-    "name": "on-hub-device"
-  },
-  {
-    "name": "oncology"
-  },
-  {
-    "name": "open-in-phone"
-  },
-  {
-    "name": "open-jam"
-  },
-  {
-    "name": "ophthalmology"
-  },
-  {
-    "name": "oral-disease"
-  },
-  {
-    "name": "orbit"
-  },
-  {
-    "name": "order-approve"
-  },
-  {
-    "name": "order-play"
-  },
-  {
-    "name": "orders"
-  },
-  {
-    "name": "other-admission"
-  },
-  {
-    "name": "other-houses"
-  },
-  {
-    "name": "outbound"
-  },
-  {
-    "name": "outbox"
-  },
-  {
-    "name": "outbox-alt"
-  },
-  {
-    "name": "outdoor-garden"
-  },
-  {
-    "name": "outdoor-grill"
-  },
-  {
-    "name": "outgoing-mail"
-  },
-  {
-    "name": "outlet"
-  },
-  {
-    "name": "outpatient"
-  },
-  {
-    "name": "outpatient-med"
-  },
-  {
-    "name": "oven"
-  },
-  {
-    "name": "oven-gen"
-  },
-  {
-    "name": "overview"
-  },
-  {
-    "name": "overview-key"
-  },
-  {
-    "name": "owl"
-  },
-  {
-    "name": "oxygen-saturation"
-  },
-  {
-    "name": "p2p"
-  },
-  {
-    "name": "pacemaker"
-  },
-  {
-    "name": "package"
-  },
-  {
-    "name": "package-2"
-  },
-  {
-    "name": "padding"
-  },
-  {
-    "name": "page-info"
-  },
-  {
-    "name": "pages"
-  },
-  {
-    "name": "pageview"
-  },
-  {
-    "name": "paid"
-  },
-  {
-    "name": "palette"
-  },
-  {
-    "name": "pallet"
-  },
-  {
-    "name": "pan-tool"
-  },
-  {
-    "name": "pan-tool-alt"
-  },
-  {
-    "name": "panorama"
-  },
-  {
-    "name": "panorama-horizontal"
-  },
-  {
-    "name": "panorama-photosphere"
-  },
-  {
-    "name": "panorama-vertical"
-  },
-  {
-    "name": "panorama-wide-angle"
-  },
-  {
-    "name": "paragliding"
-  },
-  {
-    "name": "park"
-  },
-  {
-    "name": "partly-cloudy-day"
-  },
-  {
-    "name": "party-mode"
-  },
-  {
-    "name": "passkey"
-  },
-  {
-    "name": "patient-list"
-  },
-  {
-    "name": "pause"
-  },
-  {
-    "name": "pause-circle"
-  },
-  {
-    "name": "pause-presentation"
-  },
-  {
-    "name": "payments"
-  },
-  {
-    "name": "pdf-off"
-  },
-  {
-    "name": "pedal-bike"
-  },
-  {
-    "name": "pediatrics"
-  },
-  {
-    "name": "pending"
-  },
-  {
-    "name": "pentagon"
-  },
-  {
-    "name": "performance-max"
-  },
-  {
-    "name": "pergola"
-  },
-  {
-    "name": "perm-camera-mic"
-  },
-  {
-    "name": "perm-contact-calendar"
-  },
-  {
-    "name": "perm-data-setting"
-  },
-  {
-    "name": "perm-device-information"
-  },
-  {
-    "name": "perm-media"
-  },
-  {
-    "name": "perm-phone-msg"
-  },
-  {
-    "name": "perm-scan-wifi"
-  },
-  {
-    "name": "person"
-  },
-  {
-    "name": "person-2"
-  },
-  {
-    "name": "person-3"
-  },
-  {
-    "name": "person-4"
-  },
-  {
-    "name": "person-add"
-  },
-  {
-    "name": "person-add-disabled"
-  },
-  {
-    "name": "person-alert"
-  },
-  {
-    "name": "person-apron"
-  },
-  {
-    "name": "person-book"
-  },
-  {
-    "name": "person-cancel"
-  },
-  {
-    "name": "person-check"
-  },
-  {
-    "name": "person-edit"
-  },
-  {
-    "name": "person-off"
-  },
-  {
-    "name": "person-pin"
-  },
-  {
-    "name": "person-pin-circle"
-  },
-  {
-    "name": "person-play"
-  },
-  {
-    "name": "person-raised-hand"
-  },
-  {
-    "name": "person-remove"
-  },
-  {
-    "name": "person-search"
-  },
-  {
-    "name": "personal-bag"
-  },
-  {
-    "name": "personal-bag-off"
-  },
-  {
-    "name": "personal-bag-question"
-  },
-  {
-    "name": "personal-injury"
-  },
-  {
-    "name": "personal-places"
-  },
-  {
-    "name": "pest-control-rodent"
-  },
-  {
-    "name": "pet-supplies"
-  },
-  {
-    "name": "phishing"
-  },
-  {
-    "name": "phone-android"
-  },
-  {
-    "name": "phone-bluetooth-speaker"
-  },
-  {
-    "name": "phone-callback"
-  },
-  {
-    "name": "phone-disabled"
-  },
-  {
-    "name": "phone-enabled"
-  },
-  {
-    "name": "phone-forwarded"
-  },
-  {
-    "name": "phone-in-talk"
-  },
-  {
-    "name": "phone-in-talk-watchface-indicator"
-  },
-  {
-    "name": "phone-iphone"
-  },
-  {
-    "name": "phone-locked"
-  },
-  {
-    "name": "phone-missed"
-  },
-  {
-    "name": "phone-paused"
-  },
-  {
-    "name": "phonelink-erase"
-  },
-  {
-    "name": "phonelink-lock"
-  },
-  {
-    "name": "phonelink-ring"
-  },
-  {
-    "name": "phonelink-ring-off"
-  },
-  {
-    "name": "phonelink-setup"
-  },
-  {
-    "name": "photo-album"
-  },
-  {
-    "name": "photo-auto-merge"
-  },
-  {
-    "name": "photo-camera"
-  },
-  {
-    "name": "photo-camera-back"
-  },
-  {
-    "name": "photo-camera-front"
-  },
-  {
-    "name": "photo-frame"
-  },
-  {
-    "name": "photo-prints"
-  },
-  {
-    "name": "physical-therapy"
-  },
-  {
-    "name": "picture-as-pdf"
-  },
-  {
-    "name": "picture-in-picture"
-  },
-  {
-    "name": "picture-in-picture-alt"
-  },
-  {
-    "name": "picture-in-picture-center"
-  },
-  {
-    "name": "picture-in-picture-mobile"
-  },
-  {
-    "name": "picture-in-picture-off"
-  },
-  {
-    "name": "pie-chart"
-  },
-  {
-    "name": "pill"
-  },
-  {
-    "name": "pill-off"
-  },
-  {
-    "name": "pin"
-  },
-  {
-    "name": "pin-drop"
-  },
-  {
-    "name": "pinboard"
-  },
-  {
-    "name": "pinboard-unread"
-  },
-  {
-    "name": "pinch"
-  },
-  {
-    "name": "pinch-zoom-in"
-  },
-  {
-    "name": "pinch-zoom-out"
-  },
-  {
-    "name": "pip-exit"
-  },
-  {
-    "name": "pixel-3-3xl-3a"
-  },
-  {
-    "name": "plagiarism"
-  },
-  {
-    "name": "planner-banner-ad-pt"
-  },
-  {
-    "name": "play-arrow"
-  },
-  {
-    "name": "play-circle"
-  },
-  {
-    "name": "play-disabled"
-  },
-  {
-    "name": "play-lesson"
-  },
-  {
-    "name": "play-pass"
-  },
-  {
-    "name": "play-shapes"
-  },
-  {
-    "name": "playing-cards"
-  },
-  {
-    "name": "playlist-add-check-circle"
-  },
-  {
-    "name": "playlist-add-circle"
-  },
-  {
-    "name": "podiatry"
-  },
-  {
-    "name": "podium"
-  },
-  {
-    "name": "policy"
-  },
-  {
-    "name": "policy-alert"
-  },
-  {
-    "name": "polyline"
-  },
-  {
-    "name": "position-bottom-left"
-  },
-  {
-    "name": "position-bottom-right"
-  },
-  {
-    "name": "position-top-right"
-  },
-  {
-    "name": "post"
-  },
-  {
-    "name": "potted-plant"
-  },
-  {
-    "name": "power-plug"
-  },
-  {
-    "name": "power-plug-off"
-  },
-  {
-    "name": "power-settings-circle"
-  },
-  {
-    "name": "power-settings-new"
-  },
-  {
-    "name": "prayer-times"
-  },
-  {
-    "name": "precision-manufacturing"
-  },
-  {
-    "name": "preliminary"
-  },
-  {
-    "name": "prescriptions"
-  },
-  {
-    "name": "present-to-all"
-  },
-  {
-    "name": "preview"
-  },
-  {
-    "name": "price-change"
-  },
-  {
-    "name": "print"
-  },
-  {
-    "name": "print-add"
-  },
-  {
-    "name": "print-connect"
-  },
-  {
-    "name": "print-disabled"
-  },
-  {
-    "name": "print-error"
-  },
-  {
-    "name": "print-lock"
-  },
-  {
-    "name": "priority"
-  },
-  {
-    "name": "privacy"
-  },
-  {
-    "name": "privacy-screen"
-  },
-  {
-    "name": "privacy-screen-off"
-  },
-  {
-    "name": "privacy-tip"
-  },
-  {
-    "name": "private-connectivity"
-  },
-  {
-    "name": "problem"
-  },
-  {
-    "name": "procedure"
-  },
-  {
-    "name": "productivity"
-  },
-  {
-    "name": "propane"
-  },
-  {
-    "name": "propane-tank"
-  },
-  {
-    "name": "psychiatry"
-  },
-  {
-    "name": "psychology"
-  },
-  {
-    "name": "psychology-alt"
-  },
-  {
-    "name": "pulmonology"
-  },
-  {
-    "name": "pulse-alert"
-  },
-  {
-    "name": "punch-clock"
-  },
-  {
-    "name": "queue-play-next"
-  },
-  {
-    "name": "quick-reference"
-  },
-  {
-    "name": "quick-reference-all"
-  },
-  {
-    "name": "quick-reorder"
-  },
-  {
-    "name": "quickreply"
-  },
-  {
-    "name": "quiet-time-active"
-  },
-  {
-    "name": "quiz"
-  },
-  {
-    "name": "radio"
-  },
-  {
-    "name": "radio-button-checked"
-  },
-  {
-    "name": "radio-button-partial"
-  },
-  {
-    "name": "radiology"
-  },
-  {
-    "name": "railway-alert"
-  },
-  {
-    "name": "railway-alert-2"
-  },
-  {
-    "name": "rainy"
-  },
-  {
-    "name": "ramen-dining"
-  },
-  {
-    "name": "range-hood"
-  },
-  {
-    "name": "rate-review"
-  },
-  {
-    "name": "raven"
-  },
-  {
-    "name": "readiness-score"
-  },
-  {
-    "name": "real-estate-agent"
-  },
-  {
-    "name": "rear-camera"
-  },
-  {
-    "name": "rebase"
-  },
-  {
-    "name": "rebase-edit"
-  },
-  {
-    "name": "receipt"
-  },
-  {
-    "name": "receipt-long"
-  },
-  {
-    "name": "receipt-long-off"
-  },
-  {
-    "name": "recent-actors"
-  },
-  {
-    "name": "recent-patient"
-  },
-  {
-    "name": "recommend"
-  },
-  {
-    "name": "record-voice-over"
-  },
-  {
-    "name": "rectangle"
-  },
-  {
-    "name": "relax"
-  },
-  {
-    "name": "release-alert"
-  },
-  {
-    "name": "remember-me"
-  },
-  {
-    "name": "reminder"
-  },
-  {
-    "name": "remote-gen"
-  },
-  {
-    "name": "remove-from-queue"
-  },
-  {
-    "name": "remove-moderator"
-  },
-  {
-    "name": "remove-shopping-cart"
-  },
-  {
-    "name": "replace-image"
-  },
-  {
-    "name": "replace-video"
-  },
-  {
-    "name": "replay-circle-filled"
-  },
-  {
-    "name": "report"
-  },
-  {
-    "name": "report-off"
-  },
-  {
-    "name": "request-page"
-  },
-  {
-    "name": "request-quote"
-  },
-  {
-    "name": "reset-tv"
-  },
-  {
-    "name": "respiratory-rate"
-  },
-  {
-    "name": "responsive-layout"
-  },
-  {
-    "name": "restore-from-trash"
-  },
-  {
-    "name": "restore-page"
-  },
-  {
-    "name": "resume"
-  },
-  {
-    "name": "reviews"
-  },
-  {
-    "name": "rewarded-ads"
-  },
-  {
-    "name": "rheumatology"
-  },
-  {
-    "name": "rice-bowl"
-  },
-  {
-    "name": "right-panel-close"
-  },
-  {
-    "name": "right-panel-open"
-  },
-  {
-    "name": "ring-volume"
-  },
-  {
-    "name": "ripples"
-  },
-  {
-    "name": "robot"
-  },
-  {
-    "name": "robot-2"
-  },
-  {
-    "name": "rocket"
-  },
-  {
-    "name": "rocket-launch"
-  },
-  {
-    "name": "roller-shades"
-  },
-  {
-    "name": "roller-shades-closed"
-  },
-  {
-    "name": "roller-skating"
-  },
-  {
-    "name": "roofing"
-  },
-  {
-    "name": "room-preferences"
-  },
-  {
-    "name": "room-service"
-  },
-  {
-    "name": "rotate-90-degrees-ccw"
-  },
-  {
-    "name": "rotate-90-degrees-cw"
-  },
-  {
-    "name": "route"
-  },
-  {
-    "name": "router"
-  },
-  {
-    "name": "routine"
-  },
-  {
-    "name": "rule-folder"
-  },
-  {
-    "name": "rv-hookup"
-  },
-  {
-    "name": "sad-tab"
-  },
-  {
-    "name": "safety-check"
-  },
-  {
-    "name": "safety-check-off"
-  },
-  {
-    "name": "sailing"
-  },
-  {
-    "name": "salinity"
-  },
-  {
-    "name": "sanitizer"
-  },
-  {
-    "name": "satellite"
-  },
-  {
-    "name": "satellite-alt"
-  },
-  {
-    "name": "sauna"
-  },
-  {
-    "name": "save"
-  },
-  {
-    "name": "save-as"
-  },
-  {
-    "name": "savings"
-  },
-  {
-    "name": "scale"
-  },
-  {
-    "name": "scan"
-  },
-  {
-    "name": "scan-delete"
-  },
-  {
-    "name": "scanner"
-  },
-  {
-    "name": "scatter-plot"
-  },
-  {
-    "name": "scene"
-  },
-  {
-    "name": "schedule"
-  },
-  {
-    "name": "schedule-send"
-  },
-  {
-    "name": "schema"
-  },
-  {
-    "name": "school"
-  },
-  {
-    "name": "science"
-  },
-  {
-    "name": "science-off"
-  },
-  {
-    "name": "score"
-  },
-  {
-    "name": "scoreboard"
-  },
-  {
-    "name": "screen-lock-landscape"
-  },
-  {
-    "name": "screen-lock-portrait"
-  },
-  {
-    "name": "screen-lock-rotation"
-  },
-  {
-    "name": "screen-rotation"
-  },
-  {
-    "name": "screen-search-desktop"
-  },
-  {
-    "name": "screen-share"
-  },
-  {
-    "name": "screenshot"
-  },
-  {
-    "name": "screenshot-keyboard"
-  },
-  {
-    "name": "screenshot-monitor"
-  },
-  {
-    "name": "screenshot-tablet"
-  },
-  {
-    "name": "script"
-  },
-  {
-    "name": "scrollable-header"
-  },
-  {
-    "name": "sd"
-  },
-  {
-    "name": "sd-card"
-  },
-  {
-    "name": "sd-card-alert"
-  },
-  {
-    "name": "sdk"
-  },
-  {
-    "name": "search-check-2"
-  },
-  {
-    "name": "security-key"
-  },
-  {
-    "name": "security-update-good"
-  },
-  {
-    "name": "select-to-speak"
-  },
-  {
-    "name": "select-window-2"
-  },
-  {
-    "name": "select-window-off"
-  },
-  {
-    "name": "sell"
-  },
-  {
-    "name": "send"
-  },
-  {
-    "name": "send-and-archive"
-  },
-  {
-    "name": "send-time-extension"
-  },
-  {
-    "name": "send-to-mobile"
-  },
-  {
-    "name": "sensor-door"
-  },
-  {
-    "name": "sensor-occupied"
-  },
-  {
-    "name": "sensor-window"
-  },
-  {
-    "name": "sensors-krx"
-  },
-  {
-    "name": "sensors-krx-off"
-  },
-  {
-    "name": "sentiment-calm"
-  },
-  {
-    "name": "sentiment-content"
-  },
-  {
-    "name": "sentiment-dissatisfied"
-  },
-  {
-    "name": "sentiment-excited"
-  },
-  {
-    "name": "sentiment-extremely-dissatisfied"
-  },
-  {
-    "name": "sentiment-frustrated"
-  },
-  {
-    "name": "sentiment-neutral"
-  },
-  {
-    "name": "sentiment-sad"
-  },
-  {
-    "name": "sentiment-satisfied"
-  },
-  {
-    "name": "sentiment-stressed"
-  },
-  {
-    "name": "sentiment-very-dissatisfied"
-  },
-  {
-    "name": "sentiment-very-satisfied"
-  },
-  {
-    "name": "sentiment-worried"
-  },
-  {
-    "name": "serif"
-  },
-  {
-    "name": "server-person"
-  },
-  {
-    "name": "service-toolbox"
-  },
-  {
-    "name": "set-meal"
-  },
-  {
-    "name": "settings"
-  },
-  {
-    "name": "settings-account-box"
-  },
-  {
-    "name": "settings-alert"
-  },
-  {
-    "name": "settings-applications"
-  },
-  {
-    "name": "settings-b-roll"
-  },
-  {
-    "name": "settings-brightness"
-  },
-  {
-    "name": "settings-cell"
-  },
-  {
-    "name": "settings-cinematic-blur"
-  },
-  {
-    "name": "settings-heart"
-  },
-  {
-    "name": "settings-input-component"
-  },
-  {
-    "name": "settings-input-hdmi"
-  },
-  {
-    "name": "settings-input-svideo"
-  },
-  {
-    "name": "settings-motion-mode"
-  },
-  {
-    "name": "settings-night-sight"
-  },
-  {
-    "name": "settings-overscan"
-  },
-  {
-    "name": "settings-panorama"
-  },
-  {
-    "name": "settings-phone"
-  },
-  {
-    "name": "settings-photo-camera"
-  },
-  {
-    "name": "settings-remote"
-  },
-  {
-    "name": "settings-slow-motion"
-  },
-  {
-    "name": "settings-suggest"
-  },
-  {
-    "name": "settings-system-daydream"
-  },
-  {
-    "name": "settings-timelapse"
-  },
-  {
-    "name": "settings-video-camera"
-  },
-  {
-    "name": "settings-voice"
-  },
-  {
-    "name": "settop-component"
-  },
-  {
-    "name": "shape-line"
-  },
-  {
-    "name": "shapes"
-  },
-  {
-    "name": "share"
-  },
-  {
-    "name": "share-off"
-  },
-  {
-    "name": "share-reviews"
-  },
-  {
-    "name": "sheets"
-  },
-  {
-    "name": "shelf-auto-hide"
-  },
-  {
-    "name": "shelf-position"
-  },
-  {
-    "name": "shelves"
-  },
-  {
-    "name": "shield"
-  },
-  {
-    "name": "shield-lock"
-  },
-  {
-    "name": "shield-locked"
-  },
-  {
-    "name": "shield-moon"
-  },
-  {
-    "name": "shield-person"
-  },
-  {
-    "name": "shield-question"
-  },
-  {
-    "name": "shield-spark"
-  },
-  {
-    "name": "shield-with-heart"
-  },
-  {
-    "name": "shield-with-house"
-  },
-  {
-    "name": "shift"
-  },
-  {
-    "name": "shift-lock"
-  },
-  {
-    "name": "shift-lock-off"
-  },
-  {
-    "name": "shop"
-  },
-  {
-    "name": "shop-two"
-  },
-  {
-    "name": "shopping-bag"
-  },
-  {
-    "name": "shopping-basket"
-  },
-  {
-    "name": "shopping-cart"
-  },
-  {
-    "name": "shopping-cart-checkout"
-  },
-  {
-    "name": "shopping-cart-off"
-  },
-  {
-    "name": "shoppingmode"
-  },
-  {
-    "name": "short-stay"
-  },
-  {
-    "name": "shower"
-  },
-  {
-    "name": "shutter-speed"
-  },
-  {
-    "name": "shutter-speed-add"
-  },
-  {
-    "name": "shutter-speed-minus"
-  },
-  {
-    "name": "sick"
-  },
-  {
-    "name": "sign-language"
-  },
-  {
-    "name": "signal-cellular-add"
-  },
-  {
-    "name": "signal-cellular-nodata"
-  },
-  {
-    "name": "signal-cellular-off"
-  },
-  {
-    "name": "signal-cellular-pause"
-  },
-  {
-    "name": "signal-wifi-bad"
-  },
-  {
-    "name": "signal-wifi-off"
-  },
-  {
-    "name": "signpost"
-  },
-  {
-    "name": "sim-card"
-  },
-  {
-    "name": "sim-card-download"
-  },
-  {
-    "name": "simulation"
-  },
-  {
-    "name": "single-bed"
-  },
-  {
-    "name": "sip"
-  },
-  {
-    "name": "skateboarding"
-  },
-  {
-    "name": "skeleton"
-  },
-  {
-    "name": "skillet"
-  },
-  {
-    "name": "skillet-cooktop"
-  },
-  {
-    "name": "skip-next"
-  },
-  {
-    "name": "skip-previous"
-  },
-  {
-    "name": "skull"
-  },
-  {
-    "name": "slab-serif"
-  },
-  {
-    "name": "sleep"
-  },
-  {
-    "name": "sleep-score"
-  },
-  {
-    "name": "slide-library"
-  },
-  {
-    "name": "slides"
-  },
-  {
-    "name": "slideshow"
-  },
-  {
-    "name": "smart-card-reader"
-  },
-  {
-    "name": "smart-card-reader-off"
-  },
-  {
-    "name": "smart-display"
-  },
-  {
-    "name": "smart-outlet"
-  },
-  {
-    "name": "smart-screen"
-  },
-  {
-    "name": "smart-toy"
-  },
-  {
-    "name": "smart-ventilation"
-  },
-  {
-    "name": "smartphone"
-  },
-  {
-    "name": "smartphone-camera"
-  },
-  {
-    "name": "smb-share"
-  },
-  {
-    "name": "sms"
-  },
-  {
-    "name": "snippet-folder"
-  },
-  {
-    "name": "snooze"
-  },
-  {
-    "name": "snowmobile"
-  },
-  {
-    "name": "soap"
-  },
-  {
-    "name": "social-leaderboard"
-  },
-  {
-    "name": "solar-power"
-  },
-  {
-    "name": "sound-detection-dog-barking"
-  },
-  {
-    "name": "sound-detection-glass-break"
-  },
-  {
-    "name": "sound-detection-loud-sound"
-  },
-  {
-    "name": "soup-kitchen"
-  },
-  {
-    "name": "source-notes"
-  },
-  {
-    "name": "spa"
-  },
-  {
-    "name": "space-dashboard"
-  },
-  {
-    "name": "spatial-audio"
-  },
-  {
-    "name": "spatial-audio-off"
-  },
-  {
-    "name": "spatial-speaker"
-  },
-  {
-    "name": "spatial-tracking"
-  },
-  {
-    "name": "speaker"
-  },
-  {
-    "name": "speaker-group"
-  },
-  {
-    "name": "speaker-notes"
-  },
-  {
-    "name": "speaker-notes-off"
-  },
-  {
-    "name": "speaker-phone"
-  },
-  {
-    "name": "specific-gravity"
-  },
-  {
-    "name": "speed"
-  },
-  {
-    "name": "speed-camera"
-  },
-  {
-    "name": "split-scene"
-  },
-  {
-    "name": "splitscreen"
-  },
-  {
-    "name": "splitscreen-add"
-  },
-  {
-    "name": "splitscreen-bottom"
-  },
-  {
-    "name": "splitscreen-landscape"
-  },
-  {
-    "name": "splitscreen-left"
-  },
-  {
-    "name": "splitscreen-portrait"
-  },
-  {
-    "name": "splitscreen-right"
-  },
-  {
-    "name": "splitscreen-top"
-  },
-  {
-    "name": "splitscreen-vertical-add"
-  },
-  {
-    "name": "spo2"
-  },
-  {
-    "name": "spoke"
-  },
-  {
-    "name": "sports"
-  },
-  {
-    "name": "sports-bar"
-  },
-  {
-    "name": "sports-baseball"
-  },
-  {
-    "name": "sports-basketball"
-  },
-  {
-    "name": "sports-cricket"
-  },
-  {
-    "name": "sports-esports"
-  },
-  {
-    "name": "sports-football"
-  },
-  {
-    "name": "sports-golf"
-  },
-  {
-    "name": "sports-mma"
-  },
-  {
-    "name": "sports-motorsports"
-  },
-  {
-    "name": "sports-rugby"
-  },
-  {
-    "name": "sports-tennis"
-  },
-  {
-    "name": "sports-volleyball"
-  },
-  {
-    "name": "square"
-  },
-  {
-    "name": "stack"
-  },
-  {
-    "name": "stack-hexagon"
-  },
-  {
-    "name": "stack-off"
-  },
-  {
-    "name": "stack-star"
-  },
-  {
-    "name": "stacked-email"
-  },
-  {
-    "name": "stacked-inbox"
-  },
-  {
-    "name": "stacks"
-  },
-  {
-    "name": "stadia-controller"
-  },
-  {
-    "name": "stadium"
-  },
-  {
-    "name": "stairs"
-  },
-  {
-    "name": "star"
-  },
-  {
-    "name": "star-half"
-  },
-  {
-    "name": "star-rate"
-  },
-  {
-    "name": "stars"
-  },
-  {
-    "name": "stat-0"
-  },
-  {
-    "name": "stay-current-landscape"
-  },
-  {
-    "name": "stay-primary-portrait"
-  },
-  {
-    "name": "steps"
-  },
-  {
-    "name": "stethoscope"
-  },
-  {
-    "name": "sticky-note"
-  },
-  {
-    "name": "sticky-note-2"
-  },
-  {
-    "name": "stock-media"
-  },
-  {
-    "name": "stockpot"
-  },
-  {
-    "name": "stop"
-  },
-  {
-    "name": "stop-circle"
-  },
-  {
-    "name": "stop-screen-share"
-  },
-  {
-    "name": "store"
-  },
-  {
-    "name": "storefront"
-  },
-  {
-    "name": "storm"
-  },
-  {
-    "name": "straighten"
-  },
-  {
-    "name": "strategy"
-  },
-  {
-    "name": "stream-apps"
-  },
-  {
-    "name": "stress-management"
-  },
-  {
-    "name": "stroller"
-  },
-  {
-    "name": "style"
-  },
-  {
-    "name": "styler"
-  },
-  {
-    "name": "stylus"
-  },
-  {
-    "name": "stylus-note"
-  },
-  {
-    "name": "subheader"
-  },
-  {
-    "name": "subscriptions"
-  },
-  {
-    "name": "subtitles"
-  },
-  {
-    "name": "subtitles-off"
-  },
-  {
-    "name": "subway"
-  },
-  {
-    "name": "summarize"
-  },
-  {
-    "name": "sunny"
-  },
-  {
-    "name": "sunny-snowing"
-  },
-  {
-    "name": "supervised-user-circle"
-  },
-  {
-    "name": "supervised-user-circle-off"
-  },
-  {
-    "name": "supervisor-account"
-  },
-  {
-    "name": "surgical"
-  },
-  {
-    "name": "surround-sound"
-  },
-  {
-    "name": "swap-driving-apps"
-  },
-  {
-    "name": "swap-driving-apps-wheel"
-  },
-  {
-    "name": "swap-horizontal-circle"
-  },
-  {
-    "name": "swap-vertical-circle"
-  },
-  {
-    "name": "sweep"
-  },
-  {
-    "name": "swipe"
-  },
-  {
-    "name": "swipe-down"
-  },
-  {
-    "name": "swipe-down-alt"
-  },
-  {
-    "name": "swipe-left"
-  },
-  {
-    "name": "swipe-left-alt"
-  },
-  {
-    "name": "swipe-right"
-  },
-  {
-    "name": "swipe-right-alt"
-  },
-  {
-    "name": "swipe-up"
-  },
-  {
-    "name": "swipe-up-alt"
-  },
-  {
-    "name": "swipe-vertical"
-  },
-  {
-    "name": "switch"
-  },
-  {
-    "name": "switch-access"
-  },
-  {
-    "name": "switch-access-2"
-  },
-  {
-    "name": "switch-account"
-  },
-  {
-    "name": "switch-camera"
-  },
-  {
-    "name": "switch-video"
-  },
-  {
-    "name": "switches"
-  },
-  {
-    "name": "sword-rose"
-  },
-  {
-    "name": "swords"
-  },
-  {
-    "name": "symptoms"
-  },
-  {
-    "name": "synagogue"
-  },
-  {
-    "name": "sync"
-  },
-  {
-    "name": "sync-desktop"
-  },
-  {
-    "name": "sync-problem"
-  },
-  {
-    "name": "sync-saved-locally"
-  },
-  {
-    "name": "syringe"
-  },
-  {
-    "name": "system-update"
-  },
-  {
-    "name": "tab"
-  },
-  {
-    "name": "tab-close"
-  },
-  {
-    "name": "tab-close-inactive"
-  },
-  {
-    "name": "tab-close-right"
-  },
-  {
-    "name": "tab-duplicate"
-  },
-  {
-    "name": "tab-group"
-  },
-  {
-    "name": "tab-inactive"
-  },
-  {
-    "name": "tab-new-right"
-  },
-  {
-    "name": "tab-recent"
-  },
-  {
-    "name": "table"
-  },
-  {
-    "name": "table-bar"
-  },
-  {
-    "name": "table-chart"
-  },
-  {
-    "name": "table-chart-view"
-  },
-  {
-    "name": "table-convert"
-  },
-  {
-    "name": "table-edit"
-  },
-  {
-    "name": "table-eye"
-  },
-  {
-    "name": "table-lamp"
-  },
-  {
-    "name": "table-restaurant"
-  },
-  {
-    "name": "table-rows"
-  },
-  {
-    "name": "table-rows-narrow"
-  },
-  {
-    "name": "table-view"
-  },
-  {
-    "name": "tablet"
-  },
-  {
-    "name": "tablet-android"
-  },
-  {
-    "name": "tablet-camera"
-  },
-  {
-    "name": "tablet-mac"
-  },
-  {
-    "name": "tabs"
-  },
-  {
-    "name": "takeout-dining"
-  },
-  {
-    "name": "tamper-detection-off"
-  },
-  {
-    "name": "tamper-detection-on"
-  },
-  {
-    "name": "tap-and-play"
-  },
-  {
-    "name": "tapas"
-  },
-  {
-    "name": "task"
-  },
-  {
-    "name": "taxi-alert"
-  },
-  {
-    "name": "team-dashboard"
-  },
-  {
-    "name": "temp-preferences-eco"
-  },
-  {
-    "name": "temple-buddhist"
-  },
-  {
-    "name": "temple-hindu"
-  },
-  {
-    "name": "tenancy"
-  },
-  {
-    "name": "text-ad"
-  },
-  {
-    "name": "text-compare"
-  },
-  {
-    "name": "text-select-move-back-word"
-  },
-  {
-    "name": "text-select-move-forward-word"
-  },
-  {
-    "name": "text-snippet"
-  },
-  {
-    "name": "theater-comedy"
-  },
-  {
-    "name": "theaters"
-  },
-  {
-    "name": "thermometer"
-  },
-  {
-    "name": "thermometer-gain"
-  },
-  {
-    "name": "thermometer-loss"
-  },
-  {
-    "name": "thermostat-carbon"
-  },
-  {
-    "name": "things-to-do"
-  },
-  {
-    "name": "thumb-down"
-  },
-  {
-    "name": "thumb-up"
-  },
-  {
-    "name": "thumbnail-bar"
-  },
-  {
-    "name": "thumbs-up-down"
-  },
-  {
-    "name": "thunderstorm"
-  },
-  {
-    "name": "tibia"
-  },
-  {
-    "name": "tibia-alt"
-  },
-  {
-    "name": "tile-large"
-  },
-  {
-    "name": "tile-medium"
-  },
-  {
-    "name": "tile-small"
-  },
-  {
-    "name": "time-auto"
-  },
-  {
-    "name": "timelapse"
-  },
-  {
-    "name": "timer"
-  },
-  {
-    "name": "timer-10-alt-1"
-  },
-  {
-    "name": "timer-3-alt-1"
-  },
-  {
-    "name": "timer-5"
-  },
-  {
-    "name": "timer-5-shutter"
-  },
-  {
-    "name": "timer-off"
-  },
-  {
-    "name": "timer-pause"
-  },
-  {
-    "name": "timer-play"
-  },
-  {
-    "name": "tips-and-updates"
-  },
-  {
-    "name": "tire-repair"
-  },
-  {
-    "name": "toast"
-  },
-  {
-    "name": "today"
-  },
-  {
-    "name": "toggle-off"
-  },
-  {
-    "name": "toggle-on"
-  },
-  {
-    "name": "token"
-  },
-  {
-    "name": "toll"
-  },
-  {
-    "name": "toolbar"
-  },
-  {
-    "name": "tools-flat-head"
-  },
-  {
-    "name": "tools-installation-kit"
-  },
-  {
-    "name": "tools-level"
-  },
-  {
-    "name": "tools-phillips"
-  },
-  {
-    "name": "tools-pliers-wire-stripper"
-  },
-  {
-    "name": "tools-power-drill"
-  },
-  {
-    "name": "tools-wrench"
-  },
-  {
-    "name": "tooltip"
-  },
-  {
-    "name": "tooltip-2"
-  },
-  {
-    "name": "top-panel-close"
-  },
-  {
-    "name": "top-panel-open"
-  },
-  {
-    "name": "topic"
-  },
-  {
-    "name": "tornado"
-  },
-  {
-    "name": "total-dissolved-solids"
-  },
-  {
-    "name": "touch-app"
-  },
-  {
-    "name": "touchpad-mouse"
-  },
-  {
-    "name": "touchpad-mouse-off"
-  },
-  {
-    "name": "tour"
-  },
-  {
-    "name": "toys"
-  },
-  {
-    "name": "toys-and-games"
-  },
-  {
-    "name": "trackpad-input"
-  },
-  {
-    "name": "trackpad-input-2"
-  },
-  {
-    "name": "trackpad-input-3"
-  },
-  {
-    "name": "traffic"
-  },
-  {
-    "name": "traffic-jam"
-  },
-  {
-    "name": "trail-length"
-  },
-  {
-    "name": "trail-length-medium"
-  },
-  {
-    "name": "trail-length-short"
-  },
-  {
-    "name": "train"
-  },
-  {
-    "name": "tram"
-  },
-  {
-    "name": "transcribe"
-  },
-  {
-    "name": "transit-ticket"
-  },
-  {
-    "name": "transition-chop"
-  },
-  {
-    "name": "transition-push"
-  },
-  {
-    "name": "transition-slide"
-  },
-  {
-    "name": "transportation"
-  },
-  {
-    "name": "travel-luggage-and-bags"
-  },
-  {
-    "name": "trip"
-  },
-  {
-    "name": "trolley"
-  },
-  {
-    "name": "trolley-cable-car"
-  },
-  {
-    "name": "trophy"
-  },
-  {
-    "name": "tsunami"
-  },
-  {
-    "name": "tsv"
-  },
-  {
-    "name": "tty"
-  },
-  {
-    "name": "tv"
-  },
-  {
-    "name": "tv-displays"
-  },
-  {
-    "name": "tv-gen"
-  },
-  {
-    "name": "tv-guide"
-  },
-  {
-    "name": "tv-next"
-  },
-  {
-    "name": "tv-off"
-  },
-  {
-    "name": "tv-options-input-settings"
-  },
-  {
-    "name": "tv-remote"
-  },
-  {
-    "name": "tv-signin"
-  },
-  {
-    "name": "tv-with-assistant"
-  },
-  {
-    "name": "two-pager"
-  },
-  {
-    "name": "two-pager-store"
-  },
-  {
-    "name": "two-wheeler"
-  },
-  {
-    "name": "type-specimen"
-  },
-  {
-    "name": "ulna-radius"
-  },
-  {
-    "name": "ulna-radius-alt"
-  },
-  {
-    "name": "unarchive"
-  },
-  {
-    "name": "unfloat-landscape"
-  },
-  {
-    "name": "unfloat-portrait"
-  },
-  {
-    "name": "universal-currency"
-  },
-  {
-    "name": "universal-currency-alt"
-  },
-  {
-    "name": "universal-local"
-  },
-  {
-    "name": "unknown-document"
-  },
-  {
-    "name": "unlicense"
-  },
-  {
-    "name": "unpaved-road"
-  },
-  {
-    "name": "unpin"
-  },
-  {
-    "name": "unpublished"
-  },
-  {
-    "name": "unsubscribe"
-  },
-  {
-    "name": "upcoming"
-  },
-  {
-    "name": "upi-pay"
-  },
-  {
-    "name": "upload-2"
-  },
-  {
-    "name": "upload-file"
-  },
-  {
-    "name": "urology"
-  },
-  {
-    "name": "user-attributes"
-  },
-  {
-    "name": "vaccines"
-  },
-  {
-    "name": "vacuum"
-  },
-  {
-    "name": "valve"
-  },
-  {
-    "name": "variable-add"
-  },
-  {
-    "name": "variable-insert"
-  },
-  {
-    "name": "variable-remove"
-  },
-  {
-    "name": "variables"
-  },
-  {
-    "name": "ventilator"
-  },
-  {
-    "name": "verified"
-  },
-  {
-    "name": "verified-user"
-  },
-  {
-    "name": "vertical-shades"
-  },
-  {
-    "name": "vertical-split"
-  },
-  {
-    "name": "vibration"
-  },
-  {
-    "name": "video-call"
-  },
-  {
-    "name": "video-camera-back"
-  },
-  {
-    "name": "video-camera-back-add"
-  },
-  {
-    "name": "video-camera-front"
-  },
-  {
-    "name": "video-camera-front-off"
-  },
-  {
-    "name": "video-chat"
-  },
-  {
-    "name": "video-file"
-  },
-  {
-    "name": "video-library"
-  },
-  {
-    "name": "video-stable"
-  },
-  {
-    "name": "videocam"
-  },
-  {
-    "name": "videocam-off"
-  },
-  {
-    "name": "videogame-asset"
-  },
-  {
-    "name": "videogame-asset-off"
-  },
-  {
-    "name": "view-agenda"
-  },
-  {
-    "name": "view-array"
-  },
-  {
-    "name": "view-carousel"
-  },
-  {
-    "name": "view-column"
-  },
-  {
-    "name": "view-column-2"
-  },
-  {
-    "name": "view-comfy"
-  },
-  {
-    "name": "view-comfy-alt"
-  },
-  {
-    "name": "view-compact"
-  },
-  {
-    "name": "view-compact-alt"
-  },
-  {
-    "name": "view-cozy"
-  },
-  {
-    "name": "view-day"
-  },
-  {
-    "name": "view-in-ar"
-  },
-  {
-    "name": "view-in-ar-off"
-  },
-  {
-    "name": "view-kanban"
-  },
-  {
-    "name": "view-list"
-  },
-  {
-    "name": "view-module"
-  },
-  {
-    "name": "view-object-track"
-  },
-  {
-    "name": "view-quilt"
-  },
-  {
-    "name": "view-sidebar"
-  },
-  {
-    "name": "view-stream"
-  },
-  {
-    "name": "view-timeline"
-  },
-  {
-    "name": "view-week"
-  },
-  {
-    "name": "vignette"
-  },
-  {
-    "name": "villa"
-  },
-  {
-    "name": "visibility"
-  },
-  {
-    "name": "visibility-lock"
-  },
-  {
-    "name": "visibility-off"
-  },
-  {
-    "name": "vo2-max"
-  },
-  {
-    "name": "voice-chat"
-  },
-  {
-    "name": "voice-over-off"
-  },
-  {
-    "name": "voicemail"
-  },
-  {
-    "name": "volcano"
-  },
-  {
-    "name": "volume-down"
-  },
-  {
-    "name": "volume-mute"
-  },
-  {
-    "name": "volume-off"
-  },
-  {
-    "name": "volume-up"
-  },
-  {
-    "name": "volunteer-activism"
-  },
-  {
-    "name": "voting-chip"
-  },
-  {
-    "name": "vpn-key"
-  },
-  {
-    "name": "vpn-key-alert"
-  },
-  {
-    "name": "vpn-key-off"
-  },
-  {
-    "name": "vr180-create2d"
-  },
-  {
-    "name": "vr180-create2d-off"
-  },
-  {
-    "name": "vrpano"
-  },
-  {
-    "name": "wall-art"
-  },
-  {
-    "name": "wall-lamp"
-  },
-  {
-    "name": "ward"
-  },
-  {
-    "name": "warehouse"
-  },
-  {
-    "name": "warning"
-  },
-  {
-    "name": "warning-off"
-  },
-  {
-    "name": "wash"
-  },
-  {
-    "name": "watch"
-  },
-  {
-    "name": "watch-button-press"
-  },
-  {
-    "name": "watch-check"
-  },
-  {
-    "name": "watch-off"
-  },
-  {
-    "name": "watch-screentime"
-  },
-  {
-    "name": "watch-vibration"
-  },
-  {
-    "name": "watch-wake"
-  },
-  {
-    "name": "water-bottle"
-  },
-  {
-    "name": "water-bottle-large"
-  },
-  {
-    "name": "water-damage"
-  },
-  {
-    "name": "water-do"
-  },
-  {
-    "name": "water-drop"
-  },
-  {
-    "name": "water-ec"
-  },
-  {
-    "name": "water-full"
-  },
-  {
-    "name": "water-heater"
-  },
-  {
-    "name": "water-lock"
-  },
-  {
-    "name": "water-loss"
-  },
-  {
-    "name": "water-lux"
-  },
-  {
-    "name": "water-medium"
-  },
-  {
-    "name": "water-orp"
-  },
-  {
-    "name": "water-ph"
-  },
-  {
-    "name": "water-pump"
-  },
-  {
-    "name": "water-voc"
-  },
-  {
-    "name": "waving-hand"
-  },
-  {
-    "name": "wb-auto"
-  },
-  {
-    "name": "wb-incandescent"
-  },
-  {
-    "name": "wb-sunny"
-  },
-  {
-    "name": "wb-twilight"
-  },
-  {
-    "name": "weather-hail"
-  },
-  {
-    "name": "weather-mix"
-  },
-  {
-    "name": "weather-snowy"
-  },
-  {
-    "name": "web-stories"
-  },
-  {
-    "name": "weekend"
-  },
-  {
-    "name": "weight"
-  },
-  {
-    "name": "whatshot"
-  },
-  {
-    "name": "where-to-vote"
-  },
-  {
-    "name": "widget-medium"
-  },
-  {
-    "name": "widget-small"
-  },
-  {
-    "name": "widget-width"
-  },
-  {
-    "name": "widgets"
-  },
-  {
-    "name": "width-full"
-  },
-  {
-    "name": "width-normal"
-  },
-  {
-    "name": "width-wide"
-  },
-  {
-    "name": "wifi-add"
-  },
-  {
-    "name": "wifi-calling"
-  },
-  {
-    "name": "wifi-calling-bar-1"
-  },
-  {
-    "name": "wifi-calling-bar-2"
-  },
-  {
-    "name": "wifi-calling-bar-3"
-  },
-  {
-    "name": "wifi-channel"
-  },
-  {
-    "name": "wifi-find"
-  },
-  {
-    "name": "wifi-home"
-  },
-  {
-    "name": "wifi-lock"
-  },
-  {
-    "name": "wifi-notification"
-  },
-  {
-    "name": "wifi-proxy"
-  },
-  {
-    "name": "wind-power"
-  },
-  {
-    "name": "window"
-  },
-  {
-    "name": "window-closed"
-  },
-  {
-    "name": "window-open"
-  },
-  {
-    "name": "window-sensor"
-  },
-  {
-    "name": "wine-bar"
-  },
-  {
-    "name": "work"
-  },
-  {
-    "name": "work-alert"
-  },
-  {
-    "name": "work-history"
-  },
-  {
-    "name": "work-update"
-  },
-  {
-    "name": "workbench"
-  },
-  {
-    "name": "workspace-premium"
-  },
-  {
-    "name": "workspaces"
-  },
-  {
-    "name": "wrist"
-  },
-  {
-    "name": "wrong-location"
-  },
-  {
-    "name": "yard"
-  },
-  {
-    "name": "your-trips"
-  },
-  {
-    "name": "youtube-tv"
-  }
+    {
+        "name": "10k"
+    },
+    {
+        "name": "10mp"
+    },
+    {
+        "name": "11mp"
+    },
+    {
+        "name": "12mp"
+    },
+    {
+        "name": "13mp"
+    },
+    {
+        "name": "14mp"
+    },
+    {
+        "name": "15mp"
+    },
+    {
+        "name": "16mp"
+    },
+    {
+        "name": "17mp"
+    },
+    {
+        "name": "18-up-rating"
+    },
+    {
+        "name": "18mp"
+    },
+    {
+        "name": "19mp"
+    },
+    {
+        "name": "1k"
+    },
+    {
+        "name": "1k-plus"
+    },
+    {
+        "name": "1x-mobiledata-badge"
+    },
+    {
+        "name": "20mp"
+    },
+    {
+        "name": "21mp"
+    },
+    {
+        "name": "22mp"
+    },
+    {
+        "name": "23mp"
+    },
+    {
+        "name": "24mp"
+    },
+    {
+        "name": "2d"
+    },
+    {
+        "name": "2k"
+    },
+    {
+        "name": "2k-plus"
+    },
+    {
+        "name": "2mp"
+    },
+    {
+        "name": "3g-mobiledata-badge"
+    },
+    {
+        "name": "3k"
+    },
+    {
+        "name": "3k-plus"
+    },
+    {
+        "name": "3mp"
+    },
+    {
+        "name": "3p"
+    },
+    {
+        "name": "4g-mobiledata-badge"
+    },
+    {
+        "name": "4k"
+    },
+    {
+        "name": "4k-plus"
+    },
+    {
+        "name": "4mp"
+    },
+    {
+        "name": "50mp"
+    },
+    {
+        "name": "5g-mobiledata-badge"
+    },
+    {
+        "name": "5k"
+    },
+    {
+        "name": "5k-plus"
+    },
+    {
+        "name": "5mp"
+    },
+    {
+        "name": "6k"
+    },
+    {
+        "name": "6k-plus"
+    },
+    {
+        "name": "6mp"
+    },
+    {
+        "name": "7k"
+    },
+    {
+        "name": "7k-plus"
+    },
+    {
+        "name": "7mp"
+    },
+    {
+        "name": "8k"
+    },
+    {
+        "name": "8k-plus"
+    },
+    {
+        "name": "8mp"
+    },
+    {
+        "name": "9k"
+    },
+    {
+        "name": "9k-plus"
+    },
+    {
+        "name": "9mp"
+    },
+    {
+        "name": "account-balance"
+    },
+    {
+        "name": "account-balance-wallet"
+    },
+    {
+        "name": "account-box"
+    },
+    {
+        "name": "account-child"
+    },
+    {
+        "name": "account-circle"
+    },
+    {
+        "name": "account-circle-off"
+    },
+    {
+        "name": "account-tree"
+    },
+    {
+        "name": "action-key"
+    },
+    {
+        "name": "activity-zone"
+    },
+    {
+        "name": "acute"
+    },
+    {
+        "name": "ad-group"
+    },
+    {
+        "name": "ad-group-off"
+    },
+    {
+        "name": "ad-units"
+    },
+    {
+        "name": "adaptive-audio-mic"
+    },
+    {
+        "name": "adaptive-audio-mic-off"
+    },
+    {
+        "name": "add-a-photo"
+    },
+    {
+        "name": "add-ad"
+    },
+    {
+        "name": "add-alert"
+    },
+    {
+        "name": "add-box"
+    },
+    {
+        "name": "add-business"
+    },
+    {
+        "name": "add-call"
+    },
+    {
+        "name": "add-card"
+    },
+    {
+        "name": "add-chart"
+    },
+    {
+        "name": "add-circle"
+    },
+    {
+        "name": "add-column-left"
+    },
+    {
+        "name": "add-column-right"
+    },
+    {
+        "name": "add-comment"
+    },
+    {
+        "name": "add-diamond"
+    },
+    {
+        "name": "add-home"
+    },
+    {
+        "name": "add-home-work"
+    },
+    {
+        "name": "add-location"
+    },
+    {
+        "name": "add-location-alt"
+    },
+    {
+        "name": "add-moderator"
+    },
+    {
+        "name": "add-notes"
+    },
+    {
+        "name": "add-photo-alternate"
+    },
+    {
+        "name": "add-reaction"
+    },
+    {
+        "name": "add-row-above"
+    },
+    {
+        "name": "add-row-below"
+    },
+    {
+        "name": "add-to-home-screen"
+    },
+    {
+        "name": "add-to-queue"
+    },
+    {
+        "name": "add-triangle"
+    },
+    {
+        "name": "adf-scanner"
+    },
+    {
+        "name": "adjust"
+    },
+    {
+        "name": "admin-meds"
+    },
+    {
+        "name": "admin-panel-settings"
+    },
+    {
+        "name": "agriculture"
+    },
+    {
+        "name": "air-freshener"
+    },
+    {
+        "name": "air-purifier"
+    },
+    {
+        "name": "air-purifier-gen"
+    },
+    {
+        "name": "airline-seat-flat"
+    },
+    {
+        "name": "airline-seat-flat-angled"
+    },
+    {
+        "name": "airline-seat-individual-suite"
+    },
+    {
+        "name": "airlines"
+    },
+    {
+        "name": "airplane-ticket"
+    },
+    {
+        "name": "airplay"
+    },
+    {
+        "name": "airport-shuttle"
+    },
+    {
+        "name": "alarm"
+    },
+    {
+        "name": "alarm-add"
+    },
+    {
+        "name": "alarm-off"
+    },
+    {
+        "name": "alarm-on"
+    },
+    {
+        "name": "alarm-smart-wake"
+    },
+    {
+        "name": "album"
+    },
+    {
+        "name": "all-inbox"
+    },
+    {
+        "name": "all-match"
+    },
+    {
+        "name": "all-out"
+    },
+    {
+        "name": "allergies"
+    },
+    {
+        "name": "altitude"
+    },
+    {
+        "name": "ambient-screen"
+    },
+    {
+        "name": "ambulance"
+    },
+    {
+        "name": "amend"
+    },
+    {
+        "name": "amp-stories"
+    },
+    {
+        "name": "analytics"
+    },
+    {
+        "name": "android-camera"
+    },
+    {
+        "name": "android-chat"
+    },
+    {
+        "name": "android-contacts"
+    },
+    {
+        "name": "android-emergency-location-service"
+    },
+    {
+        "name": "android-family-link"
+    },
+    {
+        "name": "android-find-my-device"
+    },
+    {
+        "name": "android-messages"
+    },
+    {
+        "name": "android-now-playing"
+    },
+    {
+        "name": "android-safety"
+    },
+    {
+        "name": "animated-images"
+    },
+    {
+        "name": "aod"
+    },
+    {
+        "name": "aod-tablet"
+    },
+    {
+        "name": "aod-watch"
+    },
+    {
+        "name": "apk-document"
+    },
+    {
+        "name": "apk-install"
+    },
+    {
+        "name": "app-badging"
+    },
+    {
+        "name": "app-blocking"
+    },
+    {
+        "name": "app-promo"
+    },
+    {
+        "name": "app-registration"
+    },
+    {
+        "name": "app-shortcut"
+    },
+    {
+        "name": "apparel"
+    },
+    {
+        "name": "approval"
+    },
+    {
+        "name": "approval-delegation"
+    },
+    {
+        "name": "aq-indoor"
+    },
+    {
+        "name": "ar-on-you"
+    },
+    {
+        "name": "ar-stickers"
+    },
+    {
+        "name": "archive"
+    },
+    {
+        "name": "area-chart"
+    },
+    {
+        "name": "arming-countdown"
+    },
+    {
+        "name": "arrow-back-2"
+    },
+    {
+        "name": "arrow-circle-down"
+    },
+    {
+        "name": "arrow-circle-left"
+    },
+    {
+        "name": "arrow-circle-right"
+    },
+    {
+        "name": "arrow-circle-up"
+    },
+    {
+        "name": "arrow-drop-down-circle"
+    },
+    {
+        "name": "arrow-selector-tool"
+    },
+    {
+        "name": "art-track"
+    },
+    {
+        "name": "article"
+    },
+    {
+        "name": "article-shortcut"
+    },
+    {
+        "name": "artist"
+    },
+    {
+        "name": "aspect-ratio"
+    },
+    {
+        "name": "assignment"
+    },
+    {
+        "name": "assignment-add"
+    },
+    {
+        "name": "assignment-ind"
+    },
+    {
+        "name": "assignment-late"
+    },
+    {
+        "name": "assignment-return"
+    },
+    {
+        "name": "assignment-returned"
+    },
+    {
+        "name": "assignment-turned-in"
+    },
+    {
+        "name": "assistant"
+    },
+    {
+        "name": "assistant-device"
+    },
+    {
+        "name": "assistant-direction"
+    },
+    {
+        "name": "assistant-navigation"
+    },
+    {
+        "name": "assistant-on-hub"
+    },
+    {
+        "name": "assured-workload"
+    },
+    {
+        "name": "astrophotography-auto"
+    },
+    {
+        "name": "attach-email"
+    },
+    {
+        "name": "attractions"
+    },
+    {
+        "name": "attribution"
+    },
+    {
+        "name": "audio-file"
+    },
+    {
+        "name": "audio-video-receiver"
+    },
+    {
+        "name": "auto-activity-zone"
+    },
+    {
+        "name": "auto-awesome"
+    },
+    {
+        "name": "auto-awesome-mosaic"
+    },
+    {
+        "name": "auto-awesome-motion"
+    },
+    {
+        "name": "auto-delete"
+    },
+    {
+        "name": "auto-detect-voice"
+    },
+    {
+        "name": "auto-fix"
+    },
+    {
+        "name": "auto-fix-normal"
+    },
+    {
+        "name": "auto-fix-off"
+    },
+    {
+        "name": "auto-label"
+    },
+    {
+        "name": "auto-meeting-room"
+    },
+    {
+        "name": "auto-read-pause"
+    },
+    {
+        "name": "auto-read-play"
+    },
+    {
+        "name": "auto-schedule"
+    },
+    {
+        "name": "auto-stories"
+    },
+    {
+        "name": "auto-timer"
+    },
+    {
+        "name": "auto-transmission"
+    },
+    {
+        "name": "auto-videocam"
+    },
+    {
+        "name": "automation"
+    },
+    {
+        "name": "av1"
+    },
+    {
+        "name": "avc"
+    },
+    {
+        "name": "avg-time"
+    },
+    {
+        "name": "award-star"
+    },
+    {
+        "name": "azm"
+    },
+    {
+        "name": "back-hand"
+    },
+    {
+        "name": "background-dot-large"
+    },
+    {
+        "name": "background-dot-small"
+    },
+    {
+        "name": "background-grid-small"
+    },
+    {
+        "name": "background-replace"
+    },
+    {
+        "name": "backpack"
+    },
+    {
+        "name": "backspace"
+    },
+    {
+        "name": "backup"
+    },
+    {
+        "name": "badge"
+    },
+    {
+        "name": "bakery-dining"
+    },
+    {
+        "name": "ballot"
+    },
+    {
+        "name": "barcode-reader"
+    },
+    {
+        "name": "barefoot"
+    },
+    {
+        "name": "bath-outdoor"
+    },
+    {
+        "name": "bath-private"
+    },
+    {
+        "name": "bathroom"
+    },
+    {
+        "name": "bathtub"
+    },
+    {
+        "name": "battery-alert"
+    },
+    {
+        "name": "battery-change"
+    },
+    {
+        "name": "battery-charging-20"
+    },
+    {
+        "name": "battery-charging-full"
+    },
+    {
+        "name": "battery-error"
+    },
+    {
+        "name": "battery-plus"
+    },
+    {
+        "name": "battery-profile"
+    },
+    {
+        "name": "battery-saver"
+    },
+    {
+        "name": "battery-status-good"
+    },
+    {
+        "name": "battery-unknown"
+    },
+    {
+        "name": "beach-access"
+    },
+    {
+        "name": "bed"
+    },
+    {
+        "name": "bedroom-baby"
+    },
+    {
+        "name": "bedroom-child"
+    },
+    {
+        "name": "bedroom-parent"
+    },
+    {
+        "name": "bedtime"
+    },
+    {
+        "name": "bedtime-off"
+    },
+    {
+        "name": "beenhere"
+    },
+    {
+        "name": "bento"
+    },
+    {
+        "name": "bia"
+    },
+    {
+        "name": "bid-landscape"
+    },
+    {
+        "name": "bid-landscape-disabled"
+    },
+    {
+        "name": "bike-scooter"
+    },
+    {
+        "name": "biotech"
+    },
+    {
+        "name": "blanket"
+    },
+    {
+        "name": "blender"
+    },
+    {
+        "name": "blind"
+    },
+    {
+        "name": "blinds"
+    },
+    {
+        "name": "blood-pressure"
+    },
+    {
+        "name": "bloodtype"
+    },
+    {
+        "name": "bluetooth-drive"
+    },
+    {
+        "name": "blur-circular"
+    },
+    {
+        "name": "blur-linear"
+    },
+    {
+        "name": "bnagent"
+    },
+    {
+        "name": "bolt"
+    },
+    {
+        "name": "bomb"
+    },
+    {
+        "name": "book"
+    },
+    {
+        "name": "book-2"
+    },
+    {
+        "name": "book-3"
+    },
+    {
+        "name": "book-4"
+    },
+    {
+        "name": "book-4-spark"
+    },
+    {
+        "name": "book-5"
+    },
+    {
+        "name": "book-6"
+    },
+    {
+        "name": "book-online"
+    },
+    {
+        "name": "book-ribbon"
+    },
+    {
+        "name": "bookmark"
+    },
+    {
+        "name": "bookmark-add"
+    },
+    {
+        "name": "bookmark-added"
+    },
+    {
+        "name": "bookmark-bag"
+    },
+    {
+        "name": "bookmark-check"
+    },
+    {
+        "name": "bookmark-flag"
+    },
+    {
+        "name": "bookmark-heart"
+    },
+    {
+        "name": "bookmark-manager"
+    },
+    {
+        "name": "bookmark-remove"
+    },
+    {
+        "name": "bookmark-star"
+    },
+    {
+        "name": "bookmarks"
+    },
+    {
+        "name": "books-movies-and-music"
+    },
+    {
+        "name": "border-all"
+    },
+    {
+        "name": "border-color"
+    },
+    {
+        "name": "borg"
+    },
+    {
+        "name": "bottom-app-bar"
+    },
+    {
+        "name": "bottom-drawer"
+    },
+    {
+        "name": "bottom-navigation"
+    },
+    {
+        "name": "bottom-panel-close"
+    },
+    {
+        "name": "bottom-panel-open"
+    },
+    {
+        "name": "bottom-sheets"
+    },
+    {
+        "name": "box"
+    },
+    {
+        "name": "box-add"
+    },
+    {
+        "name": "box-edit"
+    },
+    {
+        "name": "brand-awareness"
+    },
+    {
+        "name": "branding-watermark"
+    },
+    {
+        "name": "breakfast-dining"
+    },
+    {
+        "name": "breaking-news"
+    },
+    {
+        "name": "breaking-news-alt-1"
+    },
+    {
+        "name": "brick"
+    },
+    {
+        "name": "brightness-3"
+    },
+    {
+        "name": "brightness-4"
+    },
+    {
+        "name": "brightness-5"
+    },
+    {
+        "name": "brightness-6"
+    },
+    {
+        "name": "brightness-7"
+    },
+    {
+        "name": "brightness-alert"
+    },
+    {
+        "name": "brightness-auto"
+    },
+    {
+        "name": "brightness-empty"
+    },
+    {
+        "name": "broadcast-on-home"
+    },
+    {
+        "name": "broadcast-on-personal"
+    },
+    {
+        "name": "broken-image"
+    },
+    {
+        "name": "browse"
+    },
+    {
+        "name": "browse-activity"
+    },
+    {
+        "name": "browse-gallery"
+    },
+    {
+        "name": "brunch-dining"
+    },
+    {
+        "name": "brush"
+    },
+    {
+        "name": "bubble-chart"
+    },
+    {
+        "name": "bug-report"
+    },
+    {
+        "name": "build"
+    },
+    {
+        "name": "build-circle"
+    },
+    {
+        "name": "bungalow"
+    },
+    {
+        "name": "burst-mode"
+    },
+    {
+        "name": "bus-alert"
+    },
+    {
+        "name": "business-center"
+    },
+    {
+        "name": "business-chip"
+    },
+    {
+        "name": "business-messages"
+    },
+    {
+        "name": "buttons-alt"
+    },
+    {
+        "name": "cable-car"
+    },
+    {
+        "name": "cake"
+    },
+    {
+        "name": "cake-add"
+    },
+    {
+        "name": "calculate"
+    },
+    {
+        "name": "calendar-add-on"
+    },
+    {
+        "name": "calendar-apps-script"
+    },
+    {
+        "name": "calendar-clock"
+    },
+    {
+        "name": "calendar-month"
+    },
+    {
+        "name": "calendar-today"
+    },
+    {
+        "name": "calendar-view-day"
+    },
+    {
+        "name": "calendar-view-month"
+    },
+    {
+        "name": "calendar-view-week"
+    },
+    {
+        "name": "call"
+    },
+    {
+        "name": "call-end"
+    },
+    {
+        "name": "call-log"
+    },
+    {
+        "name": "call-quality"
+    },
+    {
+        "name": "call-to-action"
+    },
+    {
+        "name": "camera"
+    },
+    {
+        "name": "camera-enhance"
+    },
+    {
+        "name": "camera-front"
+    },
+    {
+        "name": "camera-indoor"
+    },
+    {
+        "name": "camera-outdoor"
+    },
+    {
+        "name": "camera-rear"
+    },
+    {
+        "name": "camera-roll"
+    },
+    {
+        "name": "camera-video"
+    },
+    {
+        "name": "cameraswitch"
+    },
+    {
+        "name": "campaign"
+    },
+    {
+        "name": "camping"
+    },
+    {
+        "name": "cancel"
+    },
+    {
+        "name": "cancel-presentation"
+    },
+    {
+        "name": "cancel-schedule-send"
+    },
+    {
+        "name": "candle"
+    },
+    {
+        "name": "candlestick-chart"
+    },
+    {
+        "name": "capture"
+    },
+    {
+        "name": "car-crash"
+    },
+    {
+        "name": "car-rental"
+    },
+    {
+        "name": "car-repair"
+    },
+    {
+        "name": "car-tag"
+    },
+    {
+        "name": "card-membership"
+    },
+    {
+        "name": "card-travel"
+    },
+    {
+        "name": "cardio-load"
+    },
+    {
+        "name": "cardiology"
+    },
+    {
+        "name": "cards"
+    },
+    {
+        "name": "cards-star"
+    },
+    {
+        "name": "carpenter"
+    },
+    {
+        "name": "carry-on-bag"
+    },
+    {
+        "name": "carry-on-bag-checked"
+    },
+    {
+        "name": "carry-on-bag-inactive"
+    },
+    {
+        "name": "carry-on-bag-question"
+    },
+    {
+        "name": "cases"
+    },
+    {
+        "name": "casino"
+    },
+    {
+        "name": "cast"
+    },
+    {
+        "name": "cast-connected"
+    },
+    {
+        "name": "cast-for-education"
+    },
+    {
+        "name": "cast-pause"
+    },
+    {
+        "name": "cast-warning"
+    },
+    {
+        "name": "castle"
+    },
+    {
+        "name": "category"
+    },
+    {
+        "name": "category-search"
+    },
+    {
+        "name": "celebration"
+    },
+    {
+        "name": "center-focus-strong"
+    },
+    {
+        "name": "center-focus-weak"
+    },
+    {
+        "name": "chair"
+    },
+    {
+        "name": "chair-alt"
+    },
+    {
+        "name": "chalet"
+    },
+    {
+        "name": "change-circle"
+    },
+    {
+        "name": "change-history"
+    },
+    {
+        "name": "charger"
+    },
+    {
+        "name": "charging-station"
+    },
+    {
+        "name": "chart-data"
+    },
+    {
+        "name": "chat"
+    },
+    {
+        "name": "chat-add-on"
+    },
+    {
+        "name": "chat-apps-script"
+    },
+    {
+        "name": "chat-bubble"
+    },
+    {
+        "name": "chat-error"
+    },
+    {
+        "name": "chat-info"
+    },
+    {
+        "name": "chat-paste-go"
+    },
+    {
+        "name": "chat-paste-go-2"
+    },
+    {
+        "name": "check-box"
+    },
+    {
+        "name": "check-circle"
+    },
+    {
+        "name": "checkbook"
+    },
+    {
+        "name": "checked-bag"
+    },
+    {
+        "name": "checked-bag-question"
+    },
+    {
+        "name": "cheer"
+    },
+    {
+        "name": "chess"
+    },
+    {
+        "name": "chess-pawn"
+    },
+    {
+        "name": "child-care"
+    },
+    {
+        "name": "child-friendly"
+    },
+    {
+        "name": "chips"
+    },
+    {
+        "name": "chrome-maximize"
+    },
+    {
+        "name": "chrome-reader-mode"
+    },
+    {
+        "name": "chrome-restore"
+    },
+    {
+        "name": "chrome-tote"
+    },
+    {
+        "name": "chromecast-device"
+    },
+    {
+        "name": "chronic"
+    },
+    {
+        "name": "church"
+    },
+    {
+        "name": "cinematic-blur"
+    },
+    {
+        "name": "circle"
+    },
+    {
+        "name": "circle-notifications"
+    },
+    {
+        "name": "circles"
+    },
+    {
+        "name": "circles-ext"
+    },
+    {
+        "name": "clarify"
+    },
+    {
+        "name": "clean-hands"
+    },
+    {
+        "name": "cleaning"
+    },
+    {
+        "name": "cleaning-bucket"
+    },
+    {
+        "name": "cleaning-services"
+    },
+    {
+        "name": "climate-mini-split"
+    },
+    {
+        "name": "clinical-notes"
+    },
+    {
+        "name": "clock-arrow-down"
+    },
+    {
+        "name": "clock-arrow-up"
+    },
+    {
+        "name": "close-small"
+    },
+    {
+        "name": "closed-caption"
+    },
+    {
+        "name": "closed-caption-add"
+    },
+    {
+        "name": "closed-caption-disabled"
+    },
+    {
+        "name": "cloud"
+    },
+    {
+        "name": "cloud-alert"
+    },
+    {
+        "name": "cloud-circle"
+    },
+    {
+        "name": "cloud-done"
+    },
+    {
+        "name": "cloud-download"
+    },
+    {
+        "name": "cloud-lock"
+    },
+    {
+        "name": "cloud-off"
+    },
+    {
+        "name": "cloud-sync"
+    },
+    {
+        "name": "cloudy-snowing"
+    },
+    {
+        "name": "co-present"
+    },
+    {
+        "name": "code-blocks"
+    },
+    {
+        "name": "coffee"
+    },
+    {
+        "name": "coffee-maker"
+    },
+    {
+        "name": "cognition"
+    },
+    {
+        "name": "cognition-2"
+    },
+    {
+        "name": "collections-bookmark"
+    },
+    {
+        "name": "colorize"
+    },
+    {
+        "name": "combine-columns"
+    },
+    {
+        "name": "comedy-mask"
+    },
+    {
+        "name": "comic-bubble"
+    },
+    {
+        "name": "comment"
+    },
+    {
+        "name": "comment-bank"
+    },
+    {
+        "name": "comments-disabled"
+    },
+    {
+        "name": "communities"
+    },
+    {
+        "name": "commute"
+    },
+    {
+        "name": "compass-calibration"
+    },
+    {
+        "name": "computer"
+    },
+    {
+        "name": "concierge"
+    },
+    {
+        "name": "confirmation-number"
+    },
+    {
+        "name": "congenital"
+    },
+    {
+        "name": "connected-tv"
+    },
+    {
+        "name": "contact-emergency"
+    },
+    {
+        "name": "contact-mail"
+    },
+    {
+        "name": "contact-page"
+    },
+    {
+        "name": "contact-phone"
+    },
+    {
+        "name": "contact-support"
+    },
+    {
+        "name": "contactless"
+    },
+    {
+        "name": "contactless-off"
+    },
+    {
+        "name": "contacts"
+    },
+    {
+        "name": "contacts-product"
+    },
+    {
+        "name": "content-copy"
+    },
+    {
+        "name": "contextual-token"
+    },
+    {
+        "name": "contextual-token-add"
+    },
+    {
+        "name": "contract"
+    },
+    {
+        "name": "contract-delete"
+    },
+    {
+        "name": "contract-edit"
+    },
+    {
+        "name": "control-point-duplicate"
+    },
+    {
+        "name": "controller-gen"
+    },
+    {
+        "name": "convert-to-text"
+    },
+    {
+        "name": "conveyor-belt"
+    },
+    {
+        "name": "cookie"
+    },
+    {
+        "name": "cookie-off"
+    },
+    {
+        "name": "cooking"
+    },
+    {
+        "name": "cool-to-dry"
+    },
+    {
+        "name": "copy-all"
+    },
+    {
+        "name": "copyright"
+    },
+    {
+        "name": "coronavirus"
+    },
+    {
+        "name": "cottage"
+    },
+    {
+        "name": "counter-0"
+    },
+    {
+        "name": "counter-1"
+    },
+    {
+        "name": "counter-2"
+    },
+    {
+        "name": "counter-3"
+    },
+    {
+        "name": "counter-4"
+    },
+    {
+        "name": "counter-5"
+    },
+    {
+        "name": "counter-6"
+    },
+    {
+        "name": "counter-7"
+    },
+    {
+        "name": "counter-8"
+    },
+    {
+        "name": "counter-9"
+    },
+    {
+        "name": "countertops"
+    },
+    {
+        "name": "create-new-folder"
+    },
+    {
+        "name": "credit-card"
+    },
+    {
+        "name": "credit-card-clock"
+    },
+    {
+        "name": "credit-card-gear"
+    },
+    {
+        "name": "credit-card-heart"
+    },
+    {
+        "name": "credit-card-off"
+    },
+    {
+        "name": "credit-score"
+    },
+    {
+        "name": "crib"
+    },
+    {
+        "name": "crop-16-9"
+    },
+    {
+        "name": "crop-3-2"
+    },
+    {
+        "name": "crop-5-4"
+    },
+    {
+        "name": "crop-7-5"
+    },
+    {
+        "name": "crop-9-16"
+    },
+    {
+        "name": "crop-landscape"
+    },
+    {
+        "name": "crop-portrait"
+    },
+    {
+        "name": "crop-square"
+    },
+    {
+        "name": "crossword"
+    },
+    {
+        "name": "csv"
+    },
+    {
+        "name": "currency-rupee-circle"
+    },
+    {
+        "name": "curtains"
+    },
+    {
+        "name": "curtains-closed"
+    },
+    {
+        "name": "dangerous"
+    },
+    {
+        "name": "dark-mode"
+    },
+    {
+        "name": "dashboard"
+    },
+    {
+        "name": "dashboard-2"
+    },
+    {
+        "name": "dashboard-customize"
+    },
+    {
+        "name": "data-exploration"
+    },
+    {
+        "name": "data-loss-prevention"
+    },
+    {
+        "name": "data-table"
+    },
+    {
+        "name": "data-thresholding"
+    },
+    {
+        "name": "database"
+    },
+    {
+        "name": "database-off"
+    },
+    {
+        "name": "database-search"
+    },
+    {
+        "name": "database-upload"
+    },
+    {
+        "name": "dataset"
+    },
+    {
+        "name": "dataset-linked"
+    },
+    {
+        "name": "date-range"
+    },
+    {
+        "name": "deblur"
+    },
+    {
+        "name": "deceased"
+    },
+    {
+        "name": "deck"
+    },
+    {
+        "name": "delete"
+    },
+    {
+        "name": "delete-forever"
+    },
+    {
+        "name": "delete-sweep"
+    },
+    {
+        "name": "delivery-truck-bolt"
+    },
+    {
+        "name": "delivery-truck-speed"
+    },
+    {
+        "name": "demography"
+    },
+    {
+        "name": "dentistry"
+    },
+    {
+        "name": "departure-board"
+    },
+    {
+        "name": "deployed-code"
+    },
+    {
+        "name": "deployed-code-account"
+    },
+    {
+        "name": "deployed-code-alert"
+    },
+    {
+        "name": "deployed-code-history"
+    },
+    {
+        "name": "deployed-code-update"
+    },
+    {
+        "name": "dermatology"
+    },
+    {
+        "name": "description"
+    },
+    {
+        "name": "design-services"
+    },
+    {
+        "name": "deskphone"
+    },
+    {
+        "name": "desktop-access-disabled"
+    },
+    {
+        "name": "desktop-cloud"
+    },
+    {
+        "name": "desktop-cloud-stack"
+    },
+    {
+        "name": "desktop-landscape"
+    },
+    {
+        "name": "desktop-landscape-add"
+    },
+    {
+        "name": "desktop-mac"
+    },
+    {
+        "name": "desktop-portrait"
+    },
+    {
+        "name": "desktop-windows"
+    },
+    {
+        "name": "destruction"
+    },
+    {
+        "name": "detector"
+    },
+    {
+        "name": "detector-alarm"
+    },
+    {
+        "name": "detector-battery"
+    },
+    {
+        "name": "detector-co"
+    },
+    {
+        "name": "detector-offline"
+    },
+    {
+        "name": "detector-smoke"
+    },
+    {
+        "name": "detector-status"
+    },
+    {
+        "name": "developer-board"
+    },
+    {
+        "name": "developer-board-off"
+    },
+    {
+        "name": "developer-guide"
+    },
+    {
+        "name": "developer-mode"
+    },
+    {
+        "name": "developer-mode-tv"
+    },
+    {
+        "name": "device-unknown"
+    },
+    {
+        "name": "devices"
+    },
+    {
+        "name": "devices-fold"
+    },
+    {
+        "name": "devices-fold-2"
+    },
+    {
+        "name": "devices-off"
+    },
+    {
+        "name": "devices-other"
+    },
+    {
+        "name": "devices-wearables"
+    },
+    {
+        "name": "dew-point"
+    },
+    {
+        "name": "diagnosis"
+    },
+    {
+        "name": "dialer-sip"
+    },
+    {
+        "name": "dialogs"
+    },
+    {
+        "name": "diamond"
+    },
+    {
+        "name": "dictionary"
+    },
+    {
+        "name": "difference"
+    },
+    {
+        "name": "digital-out-of-home"
+    },
+    {
+        "name": "digital-wellbeing"
+    },
+    {
+        "name": "dining"
+    },
+    {
+        "name": "dinner-dining"
+    },
+    {
+        "name": "directions"
+    },
+    {
+        "name": "directions-alt"
+    },
+    {
+        "name": "directions-alt-off"
+    },
+    {
+        "name": "directions-boat"
+    },
+    {
+        "name": "directions-bus"
+    },
+    {
+        "name": "directions-car"
+    },
+    {
+        "name": "directions-off"
+    },
+    {
+        "name": "directions-railway"
+    },
+    {
+        "name": "directions-railway-2"
+    },
+    {
+        "name": "directions-subway"
+    },
+    {
+        "name": "dirty-lens"
+    },
+    {
+        "name": "disabled-by-default"
+    },
+    {
+        "name": "disc-full"
+    },
+    {
+        "name": "dishwasher"
+    },
+    {
+        "name": "dishwasher-gen"
+    },
+    {
+        "name": "display-settings"
+    },
+    {
+        "name": "distance"
+    },
+    {
+        "name": "diversity-1"
+    },
+    {
+        "name": "diversity-2"
+    },
+    {
+        "name": "diversity-4"
+    },
+    {
+        "name": "dns"
+    },
+    {
+        "name": "do-not-disturb-off"
+    },
+    {
+        "name": "do-not-disturb-on"
+    },
+    {
+        "name": "do-not-disturb-on-total-silence"
+    },
+    {
+        "name": "do-not-step"
+    },
+    {
+        "name": "do-not-touch"
+    },
+    {
+        "name": "dock"
+    },
+    {
+        "name": "dock-to-bottom"
+    },
+    {
+        "name": "dock-to-left"
+    },
+    {
+        "name": "dock-to-right"
+    },
+    {
+        "name": "docs"
+    },
+    {
+        "name": "docs-apps-script"
+    },
+    {
+        "name": "document-scanner"
+    },
+    {
+        "name": "document-search"
+    },
+    {
+        "name": "domain-verification"
+    },
+    {
+        "name": "domino-mask"
+    },
+    {
+        "name": "donut-small"
+    },
+    {
+        "name": "door-back"
+    },
+    {
+        "name": "door-front"
+    },
+    {
+        "name": "door-open"
+    },
+    {
+        "name": "door-sensor"
+    },
+    {
+        "name": "door-sliding"
+    },
+    {
+        "name": "doorbell"
+    },
+    {
+        "name": "doorbell-3p"
+    },
+    {
+        "name": "doorbell-chime"
+    },
+    {
+        "name": "download-2"
+    },
+    {
+        "name": "download-done"
+    },
+    {
+        "name": "download-for-offline"
+    },
+    {
+        "name": "draft"
+    },
+    {
+        "name": "draft-orders"
+    },
+    {
+        "name": "drafts"
+    },
+    {
+        "name": "draw"
+    },
+    {
+        "name": "draw-abstract"
+    },
+    {
+        "name": "draw-collage"
+    },
+    {
+        "name": "dresser"
+    },
+    {
+        "name": "drive-file-move"
+    },
+    {
+        "name": "drive-file-move-rtl"
+    },
+    {
+        "name": "drive-file-rename"
+    },
+    {
+        "name": "drive-file-rename-outline"
+    },
+    {
+        "name": "drive-folder-upload"
+    },
+    {
+        "name": "dropdown"
+    },
+    {
+        "name": "dry"
+    },
+    {
+        "name": "dual-screen"
+    },
+    {
+        "name": "duo"
+    },
+    {
+        "name": "dvr"
+    },
+    {
+        "name": "dynamic-form"
+    },
+    {
+        "name": "e-mobiledata-badge"
+    },
+    {
+        "name": "e911-avatar"
+    },
+    {
+        "name": "e911-emergency"
+    },
+    {
+        "name": "earbuds"
+    },
+    {
+        "name": "earbuds-battery"
+    },
+    {
+        "name": "early-on"
+    },
+    {
+        "name": "ecg"
+    },
+    {
+        "name": "ecg-heart"
+    },
+    {
+        "name": "eco"
+    },
+    {
+        "name": "eda"
+    },
+    {
+        "name": "edgesensor-high"
+    },
+    {
+        "name": "edgesensor-low"
+    },
+    {
+        "name": "edit"
+    },
+    {
+        "name": "edit-arrow-down"
+    },
+    {
+        "name": "edit-arrow-up"
+    },
+    {
+        "name": "edit-attributes"
+    },
+    {
+        "name": "edit-calendar"
+    },
+    {
+        "name": "edit-document"
+    },
+    {
+        "name": "edit-location"
+    },
+    {
+        "name": "edit-location-alt"
+    },
+    {
+        "name": "edit-note"
+    },
+    {
+        "name": "edit-notifications"
+    },
+    {
+        "name": "edit-off"
+    },
+    {
+        "name": "edit-road"
+    },
+    {
+        "name": "edit-square"
+    },
+    {
+        "name": "editor-choice"
+    },
+    {
+        "name": "egg"
+    },
+    {
+        "name": "egg-alt"
+    },
+    {
+        "name": "eject"
+    },
+    {
+        "name": "electric-bike"
+    },
+    {
+        "name": "electric-bolt"
+    },
+    {
+        "name": "electric-car"
+    },
+    {
+        "name": "electric-meter"
+    },
+    {
+        "name": "electric-moped"
+    },
+    {
+        "name": "electric-rickshaw"
+    },
+    {
+        "name": "electric-scooter"
+    },
+    {
+        "name": "elevation"
+    },
+    {
+        "name": "elevator"
+    },
+    {
+        "name": "emergency"
+    },
+    {
+        "name": "emergency-heat"
+    },
+    {
+        "name": "emergency-home"
+    },
+    {
+        "name": "emergency-recording"
+    },
+    {
+        "name": "emergency-share"
+    },
+    {
+        "name": "emergency-share-off"
+    },
+    {
+        "name": "emoji-food-beverage"
+    },
+    {
+        "name": "emoji-language"
+    },
+    {
+        "name": "emoji-nature"
+    },
+    {
+        "name": "emoji-objects"
+    },
+    {
+        "name": "emoji-transportation"
+    },
+    {
+        "name": "empty-dashboard"
+    },
+    {
+        "name": "encrypted"
+    },
+    {
+        "name": "encrypted-add"
+    },
+    {
+        "name": "encrypted-add-circle"
+    },
+    {
+        "name": "encrypted-minus-circle"
+    },
+    {
+        "name": "encrypted-off"
+    },
+    {
+        "name": "endocrinology"
+    },
+    {
+        "name": "energy-program-saving"
+    },
+    {
+        "name": "energy-program-time-used"
+    },
+    {
+        "name": "energy-savings-leaf"
+    },
+    {
+        "name": "engineering"
+    },
+    {
+        "name": "enhanced-encryption"
+    },
+    {
+        "name": "ent"
+    },
+    {
+        "name": "enterprise"
+    },
+    {
+        "name": "enterprise-off"
+    },
+    {
+        "name": "error"
+    },
+    {
+        "name": "error-med"
+    },
+    {
+        "name": "escalator"
+    },
+    {
+        "name": "ev-mobiledata-badge"
+    },
+    {
+        "name": "ev-shadow"
+    },
+    {
+        "name": "ev-shadow-add"
+    },
+    {
+        "name": "ev-shadow-minus"
+    },
+    {
+        "name": "ev-station"
+    },
+    {
+        "name": "event"
+    },
+    {
+        "name": "event-available"
+    },
+    {
+        "name": "event-busy"
+    },
+    {
+        "name": "event-list"
+    },
+    {
+        "name": "event-note"
+    },
+    {
+        "name": "event-repeat"
+    },
+    {
+        "name": "event-seat"
+    },
+    {
+        "name": "event-upcoming"
+    },
+    {
+        "name": "exercise"
+    },
+    {
+        "name": "expand-circle-down"
+    },
+    {
+        "name": "expand-circle-right"
+    },
+    {
+        "name": "expand-circle-up"
+    },
+    {
+        "name": "expansion-panels"
+    },
+    {
+        "name": "experiment"
+    },
+    {
+        "name": "explicit"
+    },
+    {
+        "name": "explore"
+    },
+    {
+        "name": "explore-off"
+    },
+    {
+        "name": "explosion"
+    },
+    {
+        "name": "export-notes"
+    },
+    {
+        "name": "extension"
+    },
+    {
+        "name": "extension-off"
+    },
+    {
+        "name": "eye-tracking"
+    },
+    {
+        "name": "face"
+    },
+    {
+        "name": "face-2"
+    },
+    {
+        "name": "face-3"
+    },
+    {
+        "name": "face-4"
+    },
+    {
+        "name": "face-6"
+    },
+    {
+        "name": "face-down"
+    },
+    {
+        "name": "face-left"
+    },
+    {
+        "name": "face-nod"
+    },
+    {
+        "name": "face-retouching-natural"
+    },
+    {
+        "name": "face-retouching-off"
+    },
+    {
+        "name": "face-right"
+    },
+    {
+        "name": "face-shake"
+    },
+    {
+        "name": "face-up"
+    },
+    {
+        "name": "fact-check"
+    },
+    {
+        "name": "factory"
+    },
+    {
+        "name": "familiar-face-and-zone"
+    },
+    {
+        "name": "family-history"
+    },
+    {
+        "name": "family-home"
+    },
+    {
+        "name": "family-link"
+    },
+    {
+        "name": "family-star"
+    },
+    {
+        "name": "farsight-digital"
+    },
+    {
+        "name": "fast-forward"
+    },
+    {
+        "name": "fast-rewind"
+    },
+    {
+        "name": "fastfood"
+    },
+    {
+        "name": "faucet"
+    },
+    {
+        "name": "favorite"
+    },
+    {
+        "name": "fax"
+    },
+    {
+        "name": "feature-search"
+    },
+    {
+        "name": "featured-play-list"
+    },
+    {
+        "name": "featured-video"
+    },
+    {
+        "name": "feedback"
+    },
+    {
+        "name": "femur"
+    },
+    {
+        "name": "femur-alt"
+    },
+    {
+        "name": "fertile"
+    },
+    {
+        "name": "fiber-dvr"
+    },
+    {
+        "name": "fiber-manual-record"
+    },
+    {
+        "name": "fiber-new"
+    },
+    {
+        "name": "fiber-pin"
+    },
+    {
+        "name": "fiber-smart-record"
+    },
+    {
+        "name": "file-copy"
+    },
+    {
+        "name": "file-copy-off"
+    },
+    {
+        "name": "file-export"
+    },
+    {
+        "name": "file-json"
+    },
+    {
+        "name": "file-map"
+    },
+    {
+        "name": "file-map-stack"
+    },
+    {
+        "name": "file-open"
+    },
+    {
+        "name": "file-png"
+    },
+    {
+        "name": "file-present"
+    },
+    {
+        "name": "file-save"
+    },
+    {
+        "name": "file-save-off"
+    },
+    {
+        "name": "files"
+    },
+    {
+        "name": "filter"
+    },
+    {
+        "name": "filter-1"
+    },
+    {
+        "name": "filter-2"
+    },
+    {
+        "name": "filter-3"
+    },
+    {
+        "name": "filter-4"
+    },
+    {
+        "name": "filter-5"
+    },
+    {
+        "name": "filter-6"
+    },
+    {
+        "name": "filter-7"
+    },
+    {
+        "name": "filter-8"
+    },
+    {
+        "name": "filter-9"
+    },
+    {
+        "name": "filter-9-plus"
+    },
+    {
+        "name": "filter-alt"
+    },
+    {
+        "name": "filter-alt-off"
+    },
+    {
+        "name": "filter-center-focus"
+    },
+    {
+        "name": "filter-drama"
+    },
+    {
+        "name": "filter-frames"
+    },
+    {
+        "name": "filter-none"
+    },
+    {
+        "name": "filter-retrolux"
+    },
+    {
+        "name": "filter-vintage"
+    },
+    {
+        "name": "finance-chip"
+    },
+    {
+        "name": "find-in-page"
+    },
+    {
+        "name": "fingerprint"
+    },
+    {
+        "name": "fire-hydrant"
+    },
+    {
+        "name": "fire-truck"
+    },
+    {
+        "name": "fireplace"
+    },
+    {
+        "name": "fit-page-height"
+    },
+    {
+        "name": "fit-page-width"
+    },
+    {
+        "name": "fit-screen"
+    },
+    {
+        "name": "fitbit-hourly-activity"
+    },
+    {
+        "name": "fitness-tracker"
+    },
+    {
+        "name": "flag"
+    },
+    {
+        "name": "flag-2"
+    },
+    {
+        "name": "flag-check"
+    },
+    {
+        "name": "flag-circle"
+    },
+    {
+        "name": "flash-auto"
+    },
+    {
+        "name": "flash-off"
+    },
+    {
+        "name": "flash-on"
+    },
+    {
+        "name": "flashlight-off"
+    },
+    {
+        "name": "flashlight-on"
+    },
+    {
+        "name": "flight-class"
+    },
+    {
+        "name": "flights-and-hotels"
+    },
+    {
+        "name": "flip-camera-ios"
+    },
+    {
+        "name": "float-landscape"
+    },
+    {
+        "name": "float-landscape-2"
+    },
+    {
+        "name": "float-portrait"
+    },
+    {
+        "name": "float-portrait-2"
+    },
+    {
+        "name": "flood"
+    },
+    {
+        "name": "floor-lamp"
+    },
+    {
+        "name": "flowchart"
+    },
+    {
+        "name": "flowsheet"
+    },
+    {
+        "name": "fluid"
+    },
+    {
+        "name": "fluid-balance"
+    },
+    {
+        "name": "fluid-med"
+    },
+    {
+        "name": "fluorescent"
+    },
+    {
+        "name": "flyover"
+    },
+    {
+        "name": "fmd-bad"
+    },
+    {
+        "name": "foggy"
+    },
+    {
+        "name": "folded-hands"
+    },
+    {
+        "name": "folder"
+    },
+    {
+        "name": "folder-check"
+    },
+    {
+        "name": "folder-check-2"
+    },
+    {
+        "name": "folder-code"
+    },
+    {
+        "name": "folder-copy"
+    },
+    {
+        "name": "folder-data"
+    },
+    {
+        "name": "folder-delete"
+    },
+    {
+        "name": "folder-eye"
+    },
+    {
+        "name": "folder-info"
+    },
+    {
+        "name": "folder-limited"
+    },
+    {
+        "name": "folder-managed"
+    },
+    {
+        "name": "folder-match"
+    },
+    {
+        "name": "folder-off"
+    },
+    {
+        "name": "folder-open"
+    },
+    {
+        "name": "folder-shared"
+    },
+    {
+        "name": "folder-special"
+    },
+    {
+        "name": "folder-supervised"
+    },
+    {
+        "name": "folder-zip"
+    },
+    {
+        "name": "font-download"
+    },
+    {
+        "name": "font-download-off"
+    },
+    {
+        "name": "food-bank"
+    },
+    {
+        "name": "foot-bones"
+    },
+    {
+        "name": "footprint"
+    },
+    {
+        "name": "for-you"
+    },
+    {
+        "name": "forest"
+    },
+    {
+        "name": "forklift"
+    },
+    {
+        "name": "format-color-reset"
+    },
+    {
+        "name": "format-ink-highlighter"
+    },
+    {
+        "name": "format-paint"
+    },
+    {
+        "name": "format-quote"
+    },
+    {
+        "name": "format-quote-off"
+    },
+    {
+        "name": "format-shapes"
+    },
+    {
+        "name": "format-textdirection-l-to-r"
+    },
+    {
+        "name": "format-textdirection-r-to-l"
+    },
+    {
+        "name": "format-textdirection-vertical"
+    },
+    {
+        "name": "forms-apps-script"
+    },
+    {
+        "name": "fort"
+    },
+    {
+        "name": "forum"
+    },
+    {
+        "name": "forward-circle"
+    },
+    {
+        "name": "forward-to-inbox"
+    },
+    {
+        "name": "frame-person"
+    },
+    {
+        "name": "frame-person-mic"
+    },
+    {
+        "name": "frame-person-off"
+    },
+    {
+        "name": "free-cancellation"
+    },
+    {
+        "name": "front-hand"
+    },
+    {
+        "name": "front-loader"
+    },
+    {
+        "name": "full-coverage"
+    },
+    {
+        "name": "full-hd"
+    },
+    {
+        "name": "fullscreen-portrait"
+    },
+    {
+        "name": "funicular"
+    },
+    {
+        "name": "g-mobiledata-badge"
+    },
+    {
+        "name": "gallery-thumbnail"
+    },
+    {
+        "name": "gamepad"
+    },
+    {
+        "name": "garage"
+    },
+    {
+        "name": "garage-door"
+    },
+    {
+        "name": "garage-home"
+    },
+    {
+        "name": "garden-cart"
+    },
+    {
+        "name": "gas-meter"
+    },
+    {
+        "name": "gastroenterology"
+    },
+    {
+        "name": "gate"
+    },
+    {
+        "name": "general-device"
+    },
+    {
+        "name": "generating-tokens"
+    },
+    {
+        "name": "genres"
+    },
+    {
+        "name": "gesture-select"
+    },
+    {
+        "name": "gfit-health"
+    },
+    {
+        "name": "gif-box"
+    },
+    {
+        "name": "glass-cup"
+    },
+    {
+        "name": "glucose"
+    },
+    {
+        "name": "gmail-apps-script"
+    },
+    {
+        "name": "gondola-lift"
+    },
+    {
+        "name": "google-travel"
+    },
+    {
+        "name": "google-wifi"
+    },
+    {
+        "name": "gpay"
+    },
+    {
+        "name": "gpp-bad"
+    },
+    {
+        "name": "gpp-maybe"
+    },
+    {
+        "name": "gradient"
+    },
+    {
+        "name": "grid-off"
+    },
+    {
+        "name": "grid-on"
+    },
+    {
+        "name": "grid-view"
+    },
+    {
+        "name": "group"
+    },
+    {
+        "name": "group-add"
+    },
+    {
+        "name": "group-auto"
+    },
+    {
+        "name": "group-off"
+    },
+    {
+        "name": "group-remove"
+    },
+    {
+        "name": "group-search"
+    },
+    {
+        "name": "group-work"
+    },
+    {
+        "name": "groups"
+    },
+    {
+        "name": "groups-2"
+    },
+    {
+        "name": "groups-3"
+    },
+    {
+        "name": "gynecology"
+    },
+    {
+        "name": "h-mobiledata-badge"
+    },
+    {
+        "name": "h-plus-mobiledata-badge"
+    },
+    {
+        "name": "hallway"
+    },
+    {
+        "name": "hand-bones"
+    },
+    {
+        "name": "hand-gesture"
+    },
+    {
+        "name": "hand-gesture-off"
+    },
+    {
+        "name": "handheld-controller"
+    },
+    {
+        "name": "handshake"
+    },
+    {
+        "name": "handyman"
+    },
+    {
+        "name": "hangout-meeting"
+    },
+    {
+        "name": "hangout-video"
+    },
+    {
+        "name": "hangout-video-off"
+    },
+    {
+        "name": "hard-disk"
+    },
+    {
+        "name": "hard-drive"
+    },
+    {
+        "name": "hard-drive-2"
+    },
+    {
+        "name": "hardware"
+    },
+    {
+        "name": "hd"
+    },
+    {
+        "name": "hdr-auto"
+    },
+    {
+        "name": "hdr-enhanced-select"
+    },
+    {
+        "name": "hdr-off-select"
+    },
+    {
+        "name": "hdr-on-select"
+    },
+    {
+        "name": "hdr-plus"
+    },
+    {
+        "name": "hdr-plus-off"
+    },
+    {
+        "name": "head-mounted-device"
+    },
+    {
+        "name": "headphones"
+    },
+    {
+        "name": "headphones-battery"
+    },
+    {
+        "name": "headset-mic"
+    },
+    {
+        "name": "headset-off"
+    },
+    {
+        "name": "healing"
+    },
+    {
+        "name": "health-and-beauty"
+    },
+    {
+        "name": "health-and-safety"
+    },
+    {
+        "name": "health-metrics"
+    },
+    {
+        "name": "heap-snapshot-large"
+    },
+    {
+        "name": "heap-snapshot-multiple"
+    },
+    {
+        "name": "heap-snapshot-thumbnail"
+    },
+    {
+        "name": "hearing-aid"
+    },
+    {
+        "name": "hearing-aid-disabled"
+    },
+    {
+        "name": "heart-broken"
+    },
+    {
+        "name": "heart-check"
+    },
+    {
+        "name": "heart-minus"
+    },
+    {
+        "name": "heart-plus"
+    },
+    {
+        "name": "heat-pump"
+    },
+    {
+        "name": "heat-pump-balance"
+    },
+    {
+        "name": "helicopter"
+    },
+    {
+        "name": "help"
+    },
+    {
+        "name": "help-center"
+    },
+    {
+        "name": "help-clinic"
+    },
+    {
+        "name": "hematology"
+    },
+    {
+        "name": "hexagon"
+    },
+    {
+        "name": "hide-image"
+    },
+    {
+        "name": "hide-source"
+    },
+    {
+        "name": "high-density"
+    },
+    {
+        "name": "high-quality"
+    },
+    {
+        "name": "high-res"
+    },
+    {
+        "name": "highlight"
+    },
+    {
+        "name": "highlight-keyboard-focus"
+    },
+    {
+        "name": "highlight-text-cursor"
+    },
+    {
+        "name": "history-edu"
+    },
+    {
+        "name": "hive"
+    },
+    {
+        "name": "holiday-village"
+    },
+    {
+        "name": "home"
+    },
+    {
+        "name": "home-and-garden"
+    },
+    {
+        "name": "home-health"
+    },
+    {
+        "name": "home-improvement-and-tools"
+    },
+    {
+        "name": "home-iot-device"
+    },
+    {
+        "name": "home-max"
+    },
+    {
+        "name": "home-max-dots"
+    },
+    {
+        "name": "home-mini"
+    },
+    {
+        "name": "home-pin"
+    },
+    {
+        "name": "home-repair-service"
+    },
+    {
+        "name": "home-speaker"
+    },
+    {
+        "name": "home-storage"
+    },
+    {
+        "name": "home-work"
+    },
+    {
+        "name": "horizontal-split"
+    },
+    {
+        "name": "host"
+    },
+    {
+        "name": "hot-tub"
+    },
+    {
+        "name": "hotel"
+    },
+    {
+        "name": "hotel-class"
+    },
+    {
+        "name": "hourglass"
+    },
+    {
+        "name": "hourglass-arrow-down"
+    },
+    {
+        "name": "hourglass-arrow-up"
+    },
+    {
+        "name": "hourglass-pause"
+    },
+    {
+        "name": "house"
+    },
+    {
+        "name": "house-with-shield"
+    },
+    {
+        "name": "houseboat"
+    },
+    {
+        "name": "household-supplies"
+    },
+    {
+        "name": "hov"
+    },
+    {
+        "name": "how-to-reg"
+    },
+    {
+        "name": "how-to-vote"
+    },
+    {
+        "name": "hr-resting"
+    },
+    {
+        "name": "hub"
+    },
+    {
+        "name": "humerus"
+    },
+    {
+        "name": "humerus-alt"
+    },
+    {
+        "name": "humidity-helper"
+    },
+    {
+        "name": "humidity-high"
+    },
+    {
+        "name": "humidity-indoor"
+    },
+    {
+        "name": "humidity-low"
+    },
+    {
+        "name": "humidity-mid"
+    },
+    {
+        "name": "humidity-percentage"
+    },
+    {
+        "name": "hvac"
+    },
+    {
+        "name": "ice-skating"
+    },
+    {
+        "name": "icecream"
+    },
+    {
+        "name": "id-card"
+    },
+    {
+        "name": "identity-platform"
+    },
+    {
+        "name": "ifl"
+    },
+    {
+        "name": "iframe"
+    },
+    {
+        "name": "iframe-off"
+    },
+    {
+        "name": "image"
+    },
+    {
+        "name": "image-aspect-ratio"
+    },
+    {
+        "name": "image-not-supported"
+    },
+    {
+        "name": "image-search"
+    },
+    {
+        "name": "imagesearch-roller"
+    },
+    {
+        "name": "imagesmode"
+    },
+    {
+        "name": "immunology"
+    },
+    {
+        "name": "import-contacts"
+    },
+    {
+        "name": "important-devices"
+    },
+    {
+        "name": "in-home-mode"
+    },
+    {
+        "name": "inactive-order"
+    },
+    {
+        "name": "inbox"
+    },
+    {
+        "name": "inbox-customize"
+    },
+    {
+        "name": "inbox-text"
+    },
+    {
+        "name": "indeterminate-check-box"
+    },
+    {
+        "name": "info"
+    },
+    {
+        "name": "ink-eraser"
+    },
+    {
+        "name": "ink-eraser-off"
+    },
+    {
+        "name": "ink-highlighter"
+    },
+    {
+        "name": "ink-highlighter-move"
+    },
+    {
+        "name": "ink-pen"
+    },
+    {
+        "name": "inpatient"
+    },
+    {
+        "name": "insert-chart"
+    },
+    {
+        "name": "insert-page-break"
+    },
+    {
+        "name": "insert-text"
+    },
+    {
+        "name": "install-mobile"
+    },
+    {
+        "name": "integration-instructions"
+    },
+    {
+        "name": "interactive-space"
+    },
+    {
+        "name": "interests"
+    },
+    {
+        "name": "interpreter-mode"
+    },
+    {
+        "name": "inventory-2"
+    },
+    {
+        "name": "invert-colors"
+    },
+    {
+        "name": "iron"
+    },
+    {
+        "name": "jamboard-kiosk"
+    },
+    {
+        "name": "join"
+    },
+    {
+        "name": "joystick"
+    },
+    {
+        "name": "kebab-dining"
+    },
+    {
+        "name": "keep"
+    },
+    {
+        "name": "keep-off"
+    },
+    {
+        "name": "keep-public"
+    },
+    {
+        "name": "kettle"
+    },
+    {
+        "name": "key"
+    },
+    {
+        "name": "key-off"
+    },
+    {
+        "name": "key-vertical"
+    },
+    {
+        "name": "keyboard"
+    },
+    {
+        "name": "keyboard-alt"
+    },
+    {
+        "name": "keyboard-capslock-badge"
+    },
+    {
+        "name": "keyboard-external-input"
+    },
+    {
+        "name": "keyboard-hide"
+    },
+    {
+        "name": "keyboard-lock"
+    },
+    {
+        "name": "keyboard-lock-off"
+    },
+    {
+        "name": "keyboard-off"
+    },
+    {
+        "name": "keyboard-onscreen"
+    },
+    {
+        "name": "keyboard-previous-language"
+    },
+    {
+        "name": "kid-star"
+    },
+    {
+        "name": "king-bed"
+    },
+    {
+        "name": "kitchen"
+    },
+    {
+        "name": "kitesurfing"
+    },
+    {
+        "name": "lab-panel"
+    },
+    {
+        "name": "lab-profile"
+    },
+    {
+        "name": "lab-research"
+    },
+    {
+        "name": "label"
+    },
+    {
+        "name": "label-important"
+    },
+    {
+        "name": "label-off"
+    },
+    {
+        "name": "labs"
+    },
+    {
+        "name": "lan"
+    },
+    {
+        "name": "landscape"
+    },
+    {
+        "name": "landscape-2"
+    },
+    {
+        "name": "landscape-2-off"
+    },
+    {
+        "name": "landslide"
+    },
+    {
+        "name": "laptop-car"
+    },
+    {
+        "name": "laptop-chromebook"
+    },
+    {
+        "name": "laptop-mac"
+    },
+    {
+        "name": "laptop-windows"
+    },
+    {
+        "name": "laundry"
+    },
+    {
+        "name": "layers"
+    },
+    {
+        "name": "layers-clear"
+    },
+    {
+        "name": "lda"
+    },
+    {
+        "name": "leaderboard"
+    },
+    {
+        "name": "leaf-spark"
+    },
+    {
+        "name": "left-panel-close"
+    },
+    {
+        "name": "left-panel-open"
+    },
+    {
+        "name": "library-add"
+    },
+    {
+        "name": "library-add-check"
+    },
+    {
+        "name": "library-books"
+    },
+    {
+        "name": "library-music"
+    },
+    {
+        "name": "license"
+    },
+    {
+        "name": "light"
+    },
+    {
+        "name": "light-group"
+    },
+    {
+        "name": "light-mode"
+    },
+    {
+        "name": "light-off"
+    },
+    {
+        "name": "lightbulb"
+    },
+    {
+        "name": "lightbulb-2"
+    },
+    {
+        "name": "lightbulb-circle"
+    },
+    {
+        "name": "lightning-stand"
+    },
+    {
+        "name": "line-end-arrow"
+    },
+    {
+        "name": "line-end-circle"
+    },
+    {
+        "name": "line-end-diamond"
+    },
+    {
+        "name": "line-end-square"
+    },
+    {
+        "name": "line-start-arrow"
+    },
+    {
+        "name": "line-start-circle"
+    },
+    {
+        "name": "line-start-diamond"
+    },
+    {
+        "name": "line-start-square"
+    },
+    {
+        "name": "linked-camera"
+    },
+    {
+        "name": "linked-services"
+    },
+    {
+        "name": "liquor"
+    },
+    {
+        "name": "list-alt"
+    },
+    {
+        "name": "list-alt-add"
+    },
+    {
+        "name": "list-alt-check"
+    },
+    {
+        "name": "live-help"
+    },
+    {
+        "name": "live-tv"
+    },
+    {
+        "name": "living"
+    },
+    {
+        "name": "local-activity"
+    },
+    {
+        "name": "local-atm"
+    },
+    {
+        "name": "local-bar"
+    },
+    {
+        "name": "local-cafe"
+    },
+    {
+        "name": "local-car-wash"
+    },
+    {
+        "name": "local-convenience-store"
+    },
+    {
+        "name": "local-drink"
+    },
+    {
+        "name": "local-florist"
+    },
+    {
+        "name": "local-gas-station"
+    },
+    {
+        "name": "local-hospital"
+    },
+    {
+        "name": "local-laundry-service"
+    },
+    {
+        "name": "local-library"
+    },
+    {
+        "name": "local-mall"
+    },
+    {
+        "name": "local-pharmacy"
+    },
+    {
+        "name": "local-pizza"
+    },
+    {
+        "name": "local-police"
+    },
+    {
+        "name": "local-post-office"
+    },
+    {
+        "name": "local-see"
+    },
+    {
+        "name": "local-shipping"
+    },
+    {
+        "name": "local-taxi"
+    },
+    {
+        "name": "location-automation"
+    },
+    {
+        "name": "location-away"
+    },
+    {
+        "name": "location-chip"
+    },
+    {
+        "name": "location-home"
+    },
+    {
+        "name": "location-off"
+    },
+    {
+        "name": "location-on"
+    },
+    {
+        "name": "lock"
+    },
+    {
+        "name": "lock-clock"
+    },
+    {
+        "name": "lock-open"
+    },
+    {
+        "name": "lock-open-right"
+    },
+    {
+        "name": "lock-person"
+    },
+    {
+        "name": "logo-dev"
+    },
+    {
+        "name": "looks-3"
+    },
+    {
+        "name": "looks-4"
+    },
+    {
+        "name": "looks-5"
+    },
+    {
+        "name": "looks-6"
+    },
+    {
+        "name": "looks-one"
+    },
+    {
+        "name": "looks-two"
+    },
+    {
+        "name": "loupe"
+    },
+    {
+        "name": "loyalty"
+    },
+    {
+        "name": "lte-mobiledata-badge"
+    },
+    {
+        "name": "lte-plus-mobiledata-badge"
+    },
+    {
+        "name": "luggage"
+    },
+    {
+        "name": "lunch-dining"
+    },
+    {
+        "name": "lyrics"
+    },
+    {
+        "name": "macro-auto"
+    },
+    {
+        "name": "macro-off"
+    },
+    {
+        "name": "magic-button"
+    },
+    {
+        "name": "magnification-large"
+    },
+    {
+        "name": "magnification-small"
+    },
+    {
+        "name": "magnify-fullscreen"
+    },
+    {
+        "name": "mail"
+    },
+    {
+        "name": "mail-lock"
+    },
+    {
+        "name": "mail-off"
+    },
+    {
+        "name": "manage-accounts"
+    },
+    {
+        "name": "manga"
+    },
+    {
+        "name": "map"
+    },
+    {
+        "name": "map-search"
+    },
+    {
+        "name": "maps-ugc"
+    },
+    {
+        "name": "margin"
+    },
+    {
+        "name": "mark-as-unread"
+    },
+    {
+        "name": "mark-chat-read"
+    },
+    {
+        "name": "mark-chat-unread"
+    },
+    {
+        "name": "mark-email-read"
+    },
+    {
+        "name": "mark-email-unread"
+    },
+    {
+        "name": "mark-unread-chat-alt"
+    },
+    {
+        "name": "markdown"
+    },
+    {
+        "name": "markdown-copy"
+    },
+    {
+        "name": "markunread-mailbox"
+    },
+    {
+        "name": "masks"
+    },
+    {
+        "name": "measuring-tape"
+    },
+    {
+        "name": "media-link"
+    },
+    {
+        "name": "media-output"
+    },
+    {
+        "name": "media-output-off"
+    },
+    {
+        "name": "medical-information"
+    },
+    {
+        "name": "medical-mask"
+    },
+    {
+        "name": "medical-services"
+    },
+    {
+        "name": "medication"
+    },
+    {
+        "name": "medication-liquid"
+    },
+    {
+        "name": "meeting-room"
+    },
+    {
+        "name": "memory"
+    },
+    {
+        "name": "memory-alt"
+    },
+    {
+        "name": "menstrual-health"
+    },
+    {
+        "name": "menu-book"
+    },
+    {
+        "name": "mfg-nest-yale-lock"
+    },
+    {
+        "name": "mic"
+    },
+    {
+        "name": "mic-alert"
+    },
+    {
+        "name": "mic-double"
+    },
+    {
+        "name": "mic-external-off"
+    },
+    {
+        "name": "mic-external-on"
+    },
+    {
+        "name": "mic-off"
+    },
+    {
+        "name": "microbiology"
+    },
+    {
+        "name": "microwave"
+    },
+    {
+        "name": "microwave-gen"
+    },
+    {
+        "name": "military-tech"
+    },
+    {
+        "name": "mimo"
+    },
+    {
+        "name": "mimo-disconnect"
+    },
+    {
+        "name": "mindfulness"
+    },
+    {
+        "name": "minor-crash"
+    },
+    {
+        "name": "missed-video-call"
+    },
+    {
+        "name": "mitre"
+    },
+    {
+        "name": "mixture-med"
+    },
+    {
+        "name": "mms"
+    },
+    {
+        "name": "mobile-friendly"
+    },
+    {
+        "name": "mobile-off"
+    },
+    {
+        "name": "mobile-screen-share"
+    },
+    {
+        "name": "mode-comment"
+    },
+    {
+        "name": "mode-fan"
+    },
+    {
+        "name": "mode-fan-off"
+    },
+    {
+        "name": "mode-heat"
+    },
+    {
+        "name": "mode-heat-cool"
+    },
+    {
+        "name": "mode-heat-off"
+    },
+    {
+        "name": "mode-night"
+    },
+    {
+        "name": "modeling"
+    },
+    {
+        "name": "money"
+    },
+    {
+        "name": "money-bag"
+    },
+    {
+        "name": "monitor-heart"
+    },
+    {
+        "name": "monitor-weight"
+    },
+    {
+        "name": "monitor-weight-gain"
+    },
+    {
+        "name": "monitor-weight-loss"
+    },
+    {
+        "name": "monorail"
+    },
+    {
+        "name": "mood"
+    },
+    {
+        "name": "mood-bad"
+    },
+    {
+        "name": "mop"
+    },
+    {
+        "name": "moped"
+    },
+    {
+        "name": "more"
+    },
+    {
+        "name": "mosque"
+    },
+    {
+        "name": "motion-photos-auto"
+    },
+    {
+        "name": "motion-photos-on"
+    },
+    {
+        "name": "motion-photos-paused"
+    },
+    {
+        "name": "motion-play"
+    },
+    {
+        "name": "motorcycle"
+    },
+    {
+        "name": "mountain-flag"
+    },
+    {
+        "name": "mouse"
+    },
+    {
+        "name": "mouse-lock"
+    },
+    {
+        "name": "mouse-lock-off"
+    },
+    {
+        "name": "move"
+    },
+    {
+        "name": "move-location"
+    },
+    {
+        "name": "move-selection-down"
+    },
+    {
+        "name": "move-selection-left"
+    },
+    {
+        "name": "move-selection-right"
+    },
+    {
+        "name": "move-selection-up"
+    },
+    {
+        "name": "move-to-inbox"
+    },
+    {
+        "name": "movie"
+    },
+    {
+        "name": "movie-edit"
+    },
+    {
+        "name": "movie-filter"
+    },
+    {
+        "name": "movie-info"
+    },
+    {
+        "name": "movie-off"
+    },
+    {
+        "name": "moving-beds"
+    },
+    {
+        "name": "mp"
+    },
+    {
+        "name": "multicooker"
+    },
+    {
+        "name": "multimodal-hand-eye"
+    },
+    {
+        "name": "multiple-airports"
+    },
+    {
+        "name": "museum"
+    },
+    {
+        "name": "music-video"
+    },
+    {
+        "name": "my-location"
+    },
+    {
+        "name": "mystery"
+    },
+    {
+        "name": "nature"
+    },
+    {
+        "name": "nature-people"
+    },
+    {
+        "name": "navigation"
+    },
+    {
+        "name": "near-me"
+    },
+    {
+        "name": "near-me-disabled"
+    },
+    {
+        "name": "nearby-off"
+    },
+    {
+        "name": "nephrology"
+    },
+    {
+        "name": "nest-audio"
+    },
+    {
+        "name": "nest-cam-floodlight"
+    },
+    {
+        "name": "nest-cam-iq-outdoor"
+    },
+    {
+        "name": "nest-cam-magnet-mount"
+    },
+    {
+        "name": "nest-cam-outdoor"
+    },
+    {
+        "name": "nest-cam-stand"
+    },
+    {
+        "name": "nest-cam-wall-mount"
+    },
+    {
+        "name": "nest-cam-wired-stand"
+    },
+    {
+        "name": "nest-clock-farsight-analog"
+    },
+    {
+        "name": "nest-clock-farsight-digital"
+    },
+    {
+        "name": "nest-connect"
+    },
+    {
+        "name": "nest-detect"
+    },
+    {
+        "name": "nest-display"
+    },
+    {
+        "name": "nest-display-max"
+    },
+    {
+        "name": "nest-doorbell-visitor"
+    },
+    {
+        "name": "nest-eco-leaf"
+    },
+    {
+        "name": "nest-farsight-weather"
+    },
+    {
+        "name": "nest-found-savings"
+    },
+    {
+        "name": "nest-heat-link-gen-3"
+    },
+    {
+        "name": "nest-hello-doorbell"
+    },
+    {
+        "name": "nest-mini"
+    },
+    {
+        "name": "nest-multi-room"
+    },
+    {
+        "name": "nest-remote"
+    },
+    {
+        "name": "nest-remote-comfort-sensor"
+    },
+    {
+        "name": "nest-secure-alarm"
+    },
+    {
+        "name": "nest-thermostat"
+    },
+    {
+        "name": "nest-thermostat-e-eu"
+    },
+    {
+        "name": "nest-thermostat-sensor"
+    },
+    {
+        "name": "nest-thermostat-sensor-eu"
+    },
+    {
+        "name": "nest-thermostat-zirconium-eu"
+    },
+    {
+        "name": "nest-wake-on-approach"
+    },
+    {
+        "name": "nest-wake-on-press"
+    },
+    {
+        "name": "nest-wifi-point"
+    },
+    {
+        "name": "nest-wifi-point-vento"
+    },
+    {
+        "name": "nest-wifi-pro"
+    },
+    {
+        "name": "nest-wifi-pro-2"
+    },
+    {
+        "name": "nest-wifi-router"
+    },
+    {
+        "name": "network-check"
+    },
+    {
+        "name": "network-locked"
+    },
+    {
+        "name": "neurology"
+    },
+    {
+        "name": "new-label"
+    },
+    {
+        "name": "news"
+    },
+    {
+        "name": "newsmode"
+    },
+    {
+        "name": "next-plan"
+    },
+    {
+        "name": "next-week"
+    },
+    {
+        "name": "nfc"
+    },
+    {
+        "name": "night-shelter"
+    },
+    {
+        "name": "night-sight-auto"
+    },
+    {
+        "name": "night-sight-auto-off"
+    },
+    {
+        "name": "night-sight-max"
+    },
+    {
+        "name": "nightlight"
+    },
+    {
+        "name": "nightlight-badge"
+    },
+    {
+        "name": "nightlight-off"
+    },
+    {
+        "name": "nights-stay"
+    },
+    {
+        "name": "no-accounts"
+    },
+    {
+        "name": "no-backpack"
+    },
+    {
+        "name": "no-crash"
+    },
+    {
+        "name": "no-drinks"
+    },
+    {
+        "name": "no-encryption"
+    },
+    {
+        "name": "no-flash"
+    },
+    {
+        "name": "no-food"
+    },
+    {
+        "name": "no-luggage"
+    },
+    {
+        "name": "no-meals"
+    },
+    {
+        "name": "no-meeting-room"
+    },
+    {
+        "name": "no-photography"
+    },
+    {
+        "name": "no-sim"
+    },
+    {
+        "name": "no-sound"
+    },
+    {
+        "name": "no-stroller"
+    },
+    {
+        "name": "no-transfer"
+    },
+    {
+        "name": "not-listed-location"
+    },
+    {
+        "name": "not-started"
+    },
+    {
+        "name": "note-add"
+    },
+    {
+        "name": "note-alt"
+    },
+    {
+        "name": "note-stack"
+    },
+    {
+        "name": "note-stack-add"
+    },
+    {
+        "name": "notification-add"
+    },
+    {
+        "name": "notification-important"
+    },
+    {
+        "name": "notification-multiple"
+    },
+    {
+        "name": "notifications"
+    },
+    {
+        "name": "notifications-active"
+    },
+    {
+        "name": "notifications-off"
+    },
+    {
+        "name": "notifications-paused"
+    },
+    {
+        "name": "notifications-unread"
+    },
+    {
+        "name": "nutrition"
+    },
+    {
+        "name": "ods"
+    },
+    {
+        "name": "odt"
+    },
+    {
+        "name": "offline-bolt"
+    },
+    {
+        "name": "offline-pin"
+    },
+    {
+        "name": "offline-pin-off"
+    },
+    {
+        "name": "offline-share"
+    },
+    {
+        "name": "oil-barrel"
+    },
+    {
+        "name": "on-device-training"
+    },
+    {
+        "name": "on-hub-device"
+    },
+    {
+        "name": "oncology"
+    },
+    {
+        "name": "open-in-phone"
+    },
+    {
+        "name": "open-jam"
+    },
+    {
+        "name": "ophthalmology"
+    },
+    {
+        "name": "oral-disease"
+    },
+    {
+        "name": "orbit"
+    },
+    {
+        "name": "order-approve"
+    },
+    {
+        "name": "order-play"
+    },
+    {
+        "name": "orders"
+    },
+    {
+        "name": "other-admission"
+    },
+    {
+        "name": "other-houses"
+    },
+    {
+        "name": "outbound"
+    },
+    {
+        "name": "outbox"
+    },
+    {
+        "name": "outbox-alt"
+    },
+    {
+        "name": "outdoor-garden"
+    },
+    {
+        "name": "outdoor-grill"
+    },
+    {
+        "name": "outgoing-mail"
+    },
+    {
+        "name": "outlet"
+    },
+    {
+        "name": "outpatient"
+    },
+    {
+        "name": "outpatient-med"
+    },
+    {
+        "name": "oven"
+    },
+    {
+        "name": "oven-gen"
+    },
+    {
+        "name": "overview"
+    },
+    {
+        "name": "overview-key"
+    },
+    {
+        "name": "owl"
+    },
+    {
+        "name": "oxygen-saturation"
+    },
+    {
+        "name": "p2p"
+    },
+    {
+        "name": "pacemaker"
+    },
+    {
+        "name": "package"
+    },
+    {
+        "name": "package-2"
+    },
+    {
+        "name": "padding"
+    },
+    {
+        "name": "page-footer"
+    },
+    {
+        "name": "page-header"
+    },
+    {
+        "name": "page-info"
+    },
+    {
+        "name": "pages"
+    },
+    {
+        "name": "pageview"
+    },
+    {
+        "name": "paid"
+    },
+    {
+        "name": "palette"
+    },
+    {
+        "name": "pallet"
+    },
+    {
+        "name": "pan-tool"
+    },
+    {
+        "name": "pan-tool-alt"
+    },
+    {
+        "name": "panorama"
+    },
+    {
+        "name": "panorama-horizontal"
+    },
+    {
+        "name": "panorama-photosphere"
+    },
+    {
+        "name": "panorama-vertical"
+    },
+    {
+        "name": "panorama-wide-angle"
+    },
+    {
+        "name": "paragliding"
+    },
+    {
+        "name": "park"
+    },
+    {
+        "name": "partly-cloudy-day"
+    },
+    {
+        "name": "party-mode"
+    },
+    {
+        "name": "passkey"
+    },
+    {
+        "name": "patient-list"
+    },
+    {
+        "name": "pause"
+    },
+    {
+        "name": "pause-circle"
+    },
+    {
+        "name": "pause-presentation"
+    },
+    {
+        "name": "payments"
+    },
+    {
+        "name": "pdf-off"
+    },
+    {
+        "name": "pedal-bike"
+    },
+    {
+        "name": "pediatrics"
+    },
+    {
+        "name": "pending"
+    },
+    {
+        "name": "pentagon"
+    },
+    {
+        "name": "performance-max"
+    },
+    {
+        "name": "pergola"
+    },
+    {
+        "name": "perm-camera-mic"
+    },
+    {
+        "name": "perm-contact-calendar"
+    },
+    {
+        "name": "perm-data-setting"
+    },
+    {
+        "name": "perm-device-information"
+    },
+    {
+        "name": "perm-media"
+    },
+    {
+        "name": "perm-phone-msg"
+    },
+    {
+        "name": "perm-scan-wifi"
+    },
+    {
+        "name": "person"
+    },
+    {
+        "name": "person-2"
+    },
+    {
+        "name": "person-3"
+    },
+    {
+        "name": "person-4"
+    },
+    {
+        "name": "person-add"
+    },
+    {
+        "name": "person-add-disabled"
+    },
+    {
+        "name": "person-alert"
+    },
+    {
+        "name": "person-apron"
+    },
+    {
+        "name": "person-book"
+    },
+    {
+        "name": "person-cancel"
+    },
+    {
+        "name": "person-check"
+    },
+    {
+        "name": "person-edit"
+    },
+    {
+        "name": "person-off"
+    },
+    {
+        "name": "person-pin"
+    },
+    {
+        "name": "person-pin-circle"
+    },
+    {
+        "name": "person-play"
+    },
+    {
+        "name": "person-raised-hand"
+    },
+    {
+        "name": "person-remove"
+    },
+    {
+        "name": "person-search"
+    },
+    {
+        "name": "personal-bag"
+    },
+    {
+        "name": "personal-bag-off"
+    },
+    {
+        "name": "personal-bag-question"
+    },
+    {
+        "name": "personal-injury"
+    },
+    {
+        "name": "personal-places"
+    },
+    {
+        "name": "pest-control-rodent"
+    },
+    {
+        "name": "pet-supplies"
+    },
+    {
+        "name": "phishing"
+    },
+    {
+        "name": "phone-android"
+    },
+    {
+        "name": "phone-bluetooth-speaker"
+    },
+    {
+        "name": "phone-callback"
+    },
+    {
+        "name": "phone-disabled"
+    },
+    {
+        "name": "phone-enabled"
+    },
+    {
+        "name": "phone-forwarded"
+    },
+    {
+        "name": "phone-in-talk"
+    },
+    {
+        "name": "phone-in-talk-watchface-indicator"
+    },
+    {
+        "name": "phone-iphone"
+    },
+    {
+        "name": "phone-locked"
+    },
+    {
+        "name": "phone-missed"
+    },
+    {
+        "name": "phone-paused"
+    },
+    {
+        "name": "phonelink-erase"
+    },
+    {
+        "name": "phonelink-lock"
+    },
+    {
+        "name": "phonelink-ring"
+    },
+    {
+        "name": "phonelink-ring-off"
+    },
+    {
+        "name": "phonelink-setup"
+    },
+    {
+        "name": "photo-album"
+    },
+    {
+        "name": "photo-auto-merge"
+    },
+    {
+        "name": "photo-camera"
+    },
+    {
+        "name": "photo-camera-back"
+    },
+    {
+        "name": "photo-camera-front"
+    },
+    {
+        "name": "photo-frame"
+    },
+    {
+        "name": "photo-prints"
+    },
+    {
+        "name": "physical-therapy"
+    },
+    {
+        "name": "picture-as-pdf"
+    },
+    {
+        "name": "picture-in-picture"
+    },
+    {
+        "name": "picture-in-picture-alt"
+    },
+    {
+        "name": "picture-in-picture-center"
+    },
+    {
+        "name": "picture-in-picture-mobile"
+    },
+    {
+        "name": "picture-in-picture-off"
+    },
+    {
+        "name": "pie-chart"
+    },
+    {
+        "name": "pill"
+    },
+    {
+        "name": "pill-off"
+    },
+    {
+        "name": "pin"
+    },
+    {
+        "name": "pin-drop"
+    },
+    {
+        "name": "pinboard"
+    },
+    {
+        "name": "pinboard-unread"
+    },
+    {
+        "name": "pinch"
+    },
+    {
+        "name": "pinch-zoom-in"
+    },
+    {
+        "name": "pinch-zoom-out"
+    },
+    {
+        "name": "pip-exit"
+    },
+    {
+        "name": "pixel-3-3xl-3a"
+    },
+    {
+        "name": "plagiarism"
+    },
+    {
+        "name": "planet"
+    },
+    {
+        "name": "planner-banner-ad-pt"
+    },
+    {
+        "name": "play-arrow"
+    },
+    {
+        "name": "play-circle"
+    },
+    {
+        "name": "play-disabled"
+    },
+    {
+        "name": "play-lesson"
+    },
+    {
+        "name": "play-pass"
+    },
+    {
+        "name": "play-shapes"
+    },
+    {
+        "name": "playing-cards"
+    },
+    {
+        "name": "playlist-add-check-circle"
+    },
+    {
+        "name": "playlist-add-circle"
+    },
+    {
+        "name": "podiatry"
+    },
+    {
+        "name": "podium"
+    },
+    {
+        "name": "policy"
+    },
+    {
+        "name": "policy-alert"
+    },
+    {
+        "name": "polyline"
+    },
+    {
+        "name": "position-bottom-left"
+    },
+    {
+        "name": "position-bottom-right"
+    },
+    {
+        "name": "position-top-right"
+    },
+    {
+        "name": "post"
+    },
+    {
+        "name": "potted-plant"
+    },
+    {
+        "name": "power-plug"
+    },
+    {
+        "name": "power-plug-off"
+    },
+    {
+        "name": "power-settings-circle"
+    },
+    {
+        "name": "power-settings-new"
+    },
+    {
+        "name": "prayer-times"
+    },
+    {
+        "name": "precision-manufacturing"
+    },
+    {
+        "name": "preliminary"
+    },
+    {
+        "name": "prescriptions"
+    },
+    {
+        "name": "present-to-all"
+    },
+    {
+        "name": "preview"
+    },
+    {
+        "name": "price-change"
+    },
+    {
+        "name": "print"
+    },
+    {
+        "name": "print-add"
+    },
+    {
+        "name": "print-connect"
+    },
+    {
+        "name": "print-disabled"
+    },
+    {
+        "name": "print-error"
+    },
+    {
+        "name": "print-lock"
+    },
+    {
+        "name": "priority"
+    },
+    {
+        "name": "privacy"
+    },
+    {
+        "name": "privacy-screen"
+    },
+    {
+        "name": "privacy-screen-off"
+    },
+    {
+        "name": "privacy-tip"
+    },
+    {
+        "name": "private-connectivity"
+    },
+    {
+        "name": "problem"
+    },
+    {
+        "name": "procedure"
+    },
+    {
+        "name": "productivity"
+    },
+    {
+        "name": "propane"
+    },
+    {
+        "name": "propane-tank"
+    },
+    {
+        "name": "psychiatry"
+    },
+    {
+        "name": "psychology"
+    },
+    {
+        "name": "psychology-alt"
+    },
+    {
+        "name": "pulmonology"
+    },
+    {
+        "name": "pulse-alert"
+    },
+    {
+        "name": "punch-clock"
+    },
+    {
+        "name": "queue-play-next"
+    },
+    {
+        "name": "quick-reference"
+    },
+    {
+        "name": "quick-reference-all"
+    },
+    {
+        "name": "quick-reorder"
+    },
+    {
+        "name": "quickreply"
+    },
+    {
+        "name": "quiet-time-active"
+    },
+    {
+        "name": "quiz"
+    },
+    {
+        "name": "radio"
+    },
+    {
+        "name": "radio-button-checked"
+    },
+    {
+        "name": "radio-button-partial"
+    },
+    {
+        "name": "radiology"
+    },
+    {
+        "name": "railway-alert"
+    },
+    {
+        "name": "railway-alert-2"
+    },
+    {
+        "name": "rainy"
+    },
+    {
+        "name": "ramen-dining"
+    },
+    {
+        "name": "range-hood"
+    },
+    {
+        "name": "rate-review"
+    },
+    {
+        "name": "raven"
+    },
+    {
+        "name": "readiness-score"
+    },
+    {
+        "name": "real-estate-agent"
+    },
+    {
+        "name": "rear-camera"
+    },
+    {
+        "name": "rebase"
+    },
+    {
+        "name": "rebase-edit"
+    },
+    {
+        "name": "receipt"
+    },
+    {
+        "name": "receipt-long"
+    },
+    {
+        "name": "receipt-long-off"
+    },
+    {
+        "name": "recent-actors"
+    },
+    {
+        "name": "recent-patient"
+    },
+    {
+        "name": "recommend"
+    },
+    {
+        "name": "record-voice-over"
+    },
+    {
+        "name": "rectangle"
+    },
+    {
+        "name": "relax"
+    },
+    {
+        "name": "release-alert"
+    },
+    {
+        "name": "remember-me"
+    },
+    {
+        "name": "reminder"
+    },
+    {
+        "name": "remote-gen"
+    },
+    {
+        "name": "remove-from-queue"
+    },
+    {
+        "name": "remove-moderator"
+    },
+    {
+        "name": "remove-shopping-cart"
+    },
+    {
+        "name": "replace-image"
+    },
+    {
+        "name": "replace-video"
+    },
+    {
+        "name": "replay-circle-filled"
+    },
+    {
+        "name": "report"
+    },
+    {
+        "name": "report-off"
+    },
+    {
+        "name": "request-page"
+    },
+    {
+        "name": "request-quote"
+    },
+    {
+        "name": "reset-tv"
+    },
+    {
+        "name": "respiratory-rate"
+    },
+    {
+        "name": "responsive-layout"
+    },
+    {
+        "name": "restore-from-trash"
+    },
+    {
+        "name": "restore-page"
+    },
+    {
+        "name": "resume"
+    },
+    {
+        "name": "reviews"
+    },
+    {
+        "name": "rewarded-ads"
+    },
+    {
+        "name": "rheumatology"
+    },
+    {
+        "name": "rice-bowl"
+    },
+    {
+        "name": "right-panel-close"
+    },
+    {
+        "name": "right-panel-open"
+    },
+    {
+        "name": "ring-volume"
+    },
+    {
+        "name": "ripples"
+    },
+    {
+        "name": "robot"
+    },
+    {
+        "name": "robot-2"
+    },
+    {
+        "name": "rocket"
+    },
+    {
+        "name": "rocket-launch"
+    },
+    {
+        "name": "roller-shades"
+    },
+    {
+        "name": "roller-shades-closed"
+    },
+    {
+        "name": "roller-skating"
+    },
+    {
+        "name": "roofing"
+    },
+    {
+        "name": "room-preferences"
+    },
+    {
+        "name": "room-service"
+    },
+    {
+        "name": "rotate-90-degrees-ccw"
+    },
+    {
+        "name": "rotate-90-degrees-cw"
+    },
+    {
+        "name": "route"
+    },
+    {
+        "name": "router"
+    },
+    {
+        "name": "routine"
+    },
+    {
+        "name": "rule-folder"
+    },
+    {
+        "name": "rv-hookup"
+    },
+    {
+        "name": "sad-tab"
+    },
+    {
+        "name": "safety-check"
+    },
+    {
+        "name": "safety-check-off"
+    },
+    {
+        "name": "sailing"
+    },
+    {
+        "name": "salinity"
+    },
+    {
+        "name": "sanitizer"
+    },
+    {
+        "name": "satellite"
+    },
+    {
+        "name": "satellite-alt"
+    },
+    {
+        "name": "sauna"
+    },
+    {
+        "name": "save"
+    },
+    {
+        "name": "save-as"
+    },
+    {
+        "name": "save-clock"
+    },
+    {
+        "name": "savings"
+    },
+    {
+        "name": "scale"
+    },
+    {
+        "name": "scan"
+    },
+    {
+        "name": "scan-delete"
+    },
+    {
+        "name": "scanner"
+    },
+    {
+        "name": "scatter-plot"
+    },
+    {
+        "name": "scene"
+    },
+    {
+        "name": "schedule"
+    },
+    {
+        "name": "schedule-send"
+    },
+    {
+        "name": "schema"
+    },
+    {
+        "name": "school"
+    },
+    {
+        "name": "science"
+    },
+    {
+        "name": "science-off"
+    },
+    {
+        "name": "score"
+    },
+    {
+        "name": "scoreboard"
+    },
+    {
+        "name": "screen-lock-landscape"
+    },
+    {
+        "name": "screen-lock-portrait"
+    },
+    {
+        "name": "screen-lock-rotation"
+    },
+    {
+        "name": "screen-rotation"
+    },
+    {
+        "name": "screen-search-desktop"
+    },
+    {
+        "name": "screen-share"
+    },
+    {
+        "name": "screenshot"
+    },
+    {
+        "name": "screenshot-keyboard"
+    },
+    {
+        "name": "screenshot-monitor"
+    },
+    {
+        "name": "screenshot-tablet"
+    },
+    {
+        "name": "script"
+    },
+    {
+        "name": "scrollable-header"
+    },
+    {
+        "name": "sd"
+    },
+    {
+        "name": "sd-card"
+    },
+    {
+        "name": "sd-card-alert"
+    },
+    {
+        "name": "sdk"
+    },
+    {
+        "name": "search-check-2"
+    },
+    {
+        "name": "security-key"
+    },
+    {
+        "name": "security-update-good"
+    },
+    {
+        "name": "select-to-speak"
+    },
+    {
+        "name": "select-window-2"
+    },
+    {
+        "name": "select-window-off"
+    },
+    {
+        "name": "sell"
+    },
+    {
+        "name": "send"
+    },
+    {
+        "name": "send-and-archive"
+    },
+    {
+        "name": "send-time-extension"
+    },
+    {
+        "name": "send-to-mobile"
+    },
+    {
+        "name": "sensor-door"
+    },
+    {
+        "name": "sensor-occupied"
+    },
+    {
+        "name": "sensor-window"
+    },
+    {
+        "name": "sensors-krx"
+    },
+    {
+        "name": "sensors-krx-off"
+    },
+    {
+        "name": "sentiment-calm"
+    },
+    {
+        "name": "sentiment-content"
+    },
+    {
+        "name": "sentiment-dissatisfied"
+    },
+    {
+        "name": "sentiment-excited"
+    },
+    {
+        "name": "sentiment-extremely-dissatisfied"
+    },
+    {
+        "name": "sentiment-frustrated"
+    },
+    {
+        "name": "sentiment-neutral"
+    },
+    {
+        "name": "sentiment-sad"
+    },
+    {
+        "name": "sentiment-satisfied"
+    },
+    {
+        "name": "sentiment-stressed"
+    },
+    {
+        "name": "sentiment-very-dissatisfied"
+    },
+    {
+        "name": "sentiment-very-satisfied"
+    },
+    {
+        "name": "sentiment-worried"
+    },
+    {
+        "name": "serif"
+    },
+    {
+        "name": "server-person"
+    },
+    {
+        "name": "service-toolbox"
+    },
+    {
+        "name": "set-meal"
+    },
+    {
+        "name": "settings"
+    },
+    {
+        "name": "settings-account-box"
+    },
+    {
+        "name": "settings-alert"
+    },
+    {
+        "name": "settings-applications"
+    },
+    {
+        "name": "settings-b-roll"
+    },
+    {
+        "name": "settings-brightness"
+    },
+    {
+        "name": "settings-cell"
+    },
+    {
+        "name": "settings-cinematic-blur"
+    },
+    {
+        "name": "settings-heart"
+    },
+    {
+        "name": "settings-input-component"
+    },
+    {
+        "name": "settings-input-hdmi"
+    },
+    {
+        "name": "settings-input-svideo"
+    },
+    {
+        "name": "settings-motion-mode"
+    },
+    {
+        "name": "settings-night-sight"
+    },
+    {
+        "name": "settings-overscan"
+    },
+    {
+        "name": "settings-panorama"
+    },
+    {
+        "name": "settings-phone"
+    },
+    {
+        "name": "settings-photo-camera"
+    },
+    {
+        "name": "settings-remote"
+    },
+    {
+        "name": "settings-slow-motion"
+    },
+    {
+        "name": "settings-suggest"
+    },
+    {
+        "name": "settings-system-daydream"
+    },
+    {
+        "name": "settings-timelapse"
+    },
+    {
+        "name": "settings-video-camera"
+    },
+    {
+        "name": "settings-voice"
+    },
+    {
+        "name": "settop-component"
+    },
+    {
+        "name": "shape-line"
+    },
+    {
+        "name": "shapes"
+    },
+    {
+        "name": "share"
+    },
+    {
+        "name": "share-off"
+    },
+    {
+        "name": "share-reviews"
+    },
+    {
+        "name": "sheets"
+    },
+    {
+        "name": "shelf-auto-hide"
+    },
+    {
+        "name": "shelf-position"
+    },
+    {
+        "name": "shelves"
+    },
+    {
+        "name": "shield"
+    },
+    {
+        "name": "shield-lock"
+    },
+    {
+        "name": "shield-locked"
+    },
+    {
+        "name": "shield-moon"
+    },
+    {
+        "name": "shield-person"
+    },
+    {
+        "name": "shield-question"
+    },
+    {
+        "name": "shield-spark"
+    },
+    {
+        "name": "shield-with-heart"
+    },
+    {
+        "name": "shield-with-house"
+    },
+    {
+        "name": "shift"
+    },
+    {
+        "name": "shift-lock"
+    },
+    {
+        "name": "shift-lock-off"
+    },
+    {
+        "name": "shop"
+    },
+    {
+        "name": "shop-two"
+    },
+    {
+        "name": "shopping-bag"
+    },
+    {
+        "name": "shopping-bag-speed"
+    },
+    {
+        "name": "shopping-basket"
+    },
+    {
+        "name": "shopping-cart"
+    },
+    {
+        "name": "shopping-cart-checkout"
+    },
+    {
+        "name": "shopping-cart-off"
+    },
+    {
+        "name": "shoppingmode"
+    },
+    {
+        "name": "short-stay"
+    },
+    {
+        "name": "shower"
+    },
+    {
+        "name": "shutter-speed"
+    },
+    {
+        "name": "shutter-speed-add"
+    },
+    {
+        "name": "shutter-speed-minus"
+    },
+    {
+        "name": "sick"
+    },
+    {
+        "name": "sign-language"
+    },
+    {
+        "name": "signal-cellular-add"
+    },
+    {
+        "name": "signal-cellular-nodata"
+    },
+    {
+        "name": "signal-cellular-off"
+    },
+    {
+        "name": "signal-cellular-pause"
+    },
+    {
+        "name": "signal-wifi-bad"
+    },
+    {
+        "name": "signal-wifi-off"
+    },
+    {
+        "name": "signpost"
+    },
+    {
+        "name": "sim-card"
+    },
+    {
+        "name": "sim-card-download"
+    },
+    {
+        "name": "simulation"
+    },
+    {
+        "name": "single-bed"
+    },
+    {
+        "name": "sip"
+    },
+    {
+        "name": "siren"
+    },
+    {
+        "name": "siren-check"
+    },
+    {
+        "name": "siren-open"
+    },
+    {
+        "name": "siren-question"
+    },
+    {
+        "name": "skateboarding"
+    },
+    {
+        "name": "skeleton"
+    },
+    {
+        "name": "skillet"
+    },
+    {
+        "name": "skillet-cooktop"
+    },
+    {
+        "name": "skip-next"
+    },
+    {
+        "name": "skip-previous"
+    },
+    {
+        "name": "skull"
+    },
+    {
+        "name": "skull-list"
+    },
+    {
+        "name": "slab-serif"
+    },
+    {
+        "name": "sleep"
+    },
+    {
+        "name": "sleep-score"
+    },
+    {
+        "name": "slide-library"
+    },
+    {
+        "name": "slides"
+    },
+    {
+        "name": "slideshow"
+    },
+    {
+        "name": "smart-card-reader"
+    },
+    {
+        "name": "smart-card-reader-off"
+    },
+    {
+        "name": "smart-display"
+    },
+    {
+        "name": "smart-outlet"
+    },
+    {
+        "name": "smart-screen"
+    },
+    {
+        "name": "smart-toy"
+    },
+    {
+        "name": "smart-ventilation"
+    },
+    {
+        "name": "smartphone"
+    },
+    {
+        "name": "smartphone-camera"
+    },
+    {
+        "name": "smb-share"
+    },
+    {
+        "name": "sms"
+    },
+    {
+        "name": "snippet-folder"
+    },
+    {
+        "name": "snooze"
+    },
+    {
+        "name": "snowmobile"
+    },
+    {
+        "name": "soap"
+    },
+    {
+        "name": "social-leaderboard"
+    },
+    {
+        "name": "solar-power"
+    },
+    {
+        "name": "sound-detection-dog-barking"
+    },
+    {
+        "name": "sound-detection-glass-break"
+    },
+    {
+        "name": "sound-detection-loud-sound"
+    },
+    {
+        "name": "soup-kitchen"
+    },
+    {
+        "name": "source-notes"
+    },
+    {
+        "name": "spa"
+    },
+    {
+        "name": "space-dashboard"
+    },
+    {
+        "name": "spatial-audio"
+    },
+    {
+        "name": "spatial-audio-off"
+    },
+    {
+        "name": "spatial-speaker"
+    },
+    {
+        "name": "spatial-tracking"
+    },
+    {
+        "name": "speaker"
+    },
+    {
+        "name": "speaker-group"
+    },
+    {
+        "name": "speaker-notes"
+    },
+    {
+        "name": "speaker-notes-off"
+    },
+    {
+        "name": "speaker-phone"
+    },
+    {
+        "name": "specific-gravity"
+    },
+    {
+        "name": "speed"
+    },
+    {
+        "name": "speed-camera"
+    },
+    {
+        "name": "split-scene"
+    },
+    {
+        "name": "splitscreen"
+    },
+    {
+        "name": "splitscreen-add"
+    },
+    {
+        "name": "splitscreen-bottom"
+    },
+    {
+        "name": "splitscreen-landscape"
+    },
+    {
+        "name": "splitscreen-left"
+    },
+    {
+        "name": "splitscreen-portrait"
+    },
+    {
+        "name": "splitscreen-right"
+    },
+    {
+        "name": "splitscreen-top"
+    },
+    {
+        "name": "splitscreen-vertical-add"
+    },
+    {
+        "name": "spo2"
+    },
+    {
+        "name": "spoke"
+    },
+    {
+        "name": "sports"
+    },
+    {
+        "name": "sports-bar"
+    },
+    {
+        "name": "sports-baseball"
+    },
+    {
+        "name": "sports-basketball"
+    },
+    {
+        "name": "sports-cricket"
+    },
+    {
+        "name": "sports-esports"
+    },
+    {
+        "name": "sports-football"
+    },
+    {
+        "name": "sports-golf"
+    },
+    {
+        "name": "sports-mma"
+    },
+    {
+        "name": "sports-motorsports"
+    },
+    {
+        "name": "sports-rugby"
+    },
+    {
+        "name": "sports-tennis"
+    },
+    {
+        "name": "sports-volleyball"
+    },
+    {
+        "name": "square"
+    },
+    {
+        "name": "stack"
+    },
+    {
+        "name": "stack-hexagon"
+    },
+    {
+        "name": "stack-off"
+    },
+    {
+        "name": "stack-star"
+    },
+    {
+        "name": "stacked-email"
+    },
+    {
+        "name": "stacked-inbox"
+    },
+    {
+        "name": "stacks"
+    },
+    {
+        "name": "stadia-controller"
+    },
+    {
+        "name": "stadium"
+    },
+    {
+        "name": "stairs"
+    },
+    {
+        "name": "star"
+    },
+    {
+        "name": "star-half"
+    },
+    {
+        "name": "star-rate"
+    },
+    {
+        "name": "stars"
+    },
+    {
+        "name": "stat-0"
+    },
+    {
+        "name": "stay-current-landscape"
+    },
+    {
+        "name": "stay-primary-portrait"
+    },
+    {
+        "name": "steps"
+    },
+    {
+        "name": "stethoscope"
+    },
+    {
+        "name": "sticky-note"
+    },
+    {
+        "name": "sticky-note-2"
+    },
+    {
+        "name": "stock-media"
+    },
+    {
+        "name": "stockpot"
+    },
+    {
+        "name": "stop"
+    },
+    {
+        "name": "stop-circle"
+    },
+    {
+        "name": "stop-screen-share"
+    },
+    {
+        "name": "store"
+    },
+    {
+        "name": "storefront"
+    },
+    {
+        "name": "storm"
+    },
+    {
+        "name": "straighten"
+    },
+    {
+        "name": "strategy"
+    },
+    {
+        "name": "stream-apps"
+    },
+    {
+        "name": "stress-management"
+    },
+    {
+        "name": "stroller"
+    },
+    {
+        "name": "style"
+    },
+    {
+        "name": "styler"
+    },
+    {
+        "name": "stylus"
+    },
+    {
+        "name": "stylus-note"
+    },
+    {
+        "name": "subheader"
+    },
+    {
+        "name": "subscriptions"
+    },
+    {
+        "name": "subtitles"
+    },
+    {
+        "name": "subtitles-off"
+    },
+    {
+        "name": "subway"
+    },
+    {
+        "name": "summarize"
+    },
+    {
+        "name": "sunny"
+    },
+    {
+        "name": "sunny-snowing"
+    },
+    {
+        "name": "supervised-user-circle"
+    },
+    {
+        "name": "supervised-user-circle-off"
+    },
+    {
+        "name": "supervisor-account"
+    },
+    {
+        "name": "surgical"
+    },
+    {
+        "name": "surround-sound"
+    },
+    {
+        "name": "swap-driving-apps"
+    },
+    {
+        "name": "swap-driving-apps-wheel"
+    },
+    {
+        "name": "swap-horizontal-circle"
+    },
+    {
+        "name": "swap-vertical-circle"
+    },
+    {
+        "name": "sweep"
+    },
+    {
+        "name": "swipe"
+    },
+    {
+        "name": "swipe-down"
+    },
+    {
+        "name": "swipe-down-alt"
+    },
+    {
+        "name": "swipe-left"
+    },
+    {
+        "name": "swipe-left-alt"
+    },
+    {
+        "name": "swipe-right"
+    },
+    {
+        "name": "swipe-right-alt"
+    },
+    {
+        "name": "swipe-up"
+    },
+    {
+        "name": "swipe-up-alt"
+    },
+    {
+        "name": "swipe-vertical"
+    },
+    {
+        "name": "switch"
+    },
+    {
+        "name": "switch-access"
+    },
+    {
+        "name": "switch-access-2"
+    },
+    {
+        "name": "switch-account"
+    },
+    {
+        "name": "switch-camera"
+    },
+    {
+        "name": "switch-video"
+    },
+    {
+        "name": "switches"
+    },
+    {
+        "name": "sword-rose"
+    },
+    {
+        "name": "swords"
+    },
+    {
+        "name": "symptoms"
+    },
+    {
+        "name": "synagogue"
+    },
+    {
+        "name": "sync"
+    },
+    {
+        "name": "sync-desktop"
+    },
+    {
+        "name": "sync-problem"
+    },
+    {
+        "name": "sync-saved-locally"
+    },
+    {
+        "name": "syringe"
+    },
+    {
+        "name": "system-update"
+    },
+    {
+        "name": "tab"
+    },
+    {
+        "name": "tab-close"
+    },
+    {
+        "name": "tab-close-inactive"
+    },
+    {
+        "name": "tab-close-right"
+    },
+    {
+        "name": "tab-duplicate"
+    },
+    {
+        "name": "tab-group"
+    },
+    {
+        "name": "tab-inactive"
+    },
+    {
+        "name": "tab-new-right"
+    },
+    {
+        "name": "tab-recent"
+    },
+    {
+        "name": "table"
+    },
+    {
+        "name": "table-bar"
+    },
+    {
+        "name": "table-chart"
+    },
+    {
+        "name": "table-chart-view"
+    },
+    {
+        "name": "table-convert"
+    },
+    {
+        "name": "table-edit"
+    },
+    {
+        "name": "table-eye"
+    },
+    {
+        "name": "table-lamp"
+    },
+    {
+        "name": "table-restaurant"
+    },
+    {
+        "name": "table-rows"
+    },
+    {
+        "name": "table-rows-narrow"
+    },
+    {
+        "name": "table-view"
+    },
+    {
+        "name": "tablet"
+    },
+    {
+        "name": "tablet-android"
+    },
+    {
+        "name": "tablet-camera"
+    },
+    {
+        "name": "tablet-mac"
+    },
+    {
+        "name": "tabs"
+    },
+    {
+        "name": "takeout-dining"
+    },
+    {
+        "name": "tamper-detection-off"
+    },
+    {
+        "name": "tamper-detection-on"
+    },
+    {
+        "name": "tap-and-play"
+    },
+    {
+        "name": "tapas"
+    },
+    {
+        "name": "task"
+    },
+    {
+        "name": "taxi-alert"
+    },
+    {
+        "name": "team-dashboard"
+    },
+    {
+        "name": "temp-preferences-eco"
+    },
+    {
+        "name": "temple-buddhist"
+    },
+    {
+        "name": "temple-hindu"
+    },
+    {
+        "name": "tenancy"
+    },
+    {
+        "name": "text-ad"
+    },
+    {
+        "name": "text-compare"
+    },
+    {
+        "name": "text-select-move-back-word"
+    },
+    {
+        "name": "text-select-move-forward-word"
+    },
+    {
+        "name": "text-snippet"
+    },
+    {
+        "name": "theater-comedy"
+    },
+    {
+        "name": "theaters"
+    },
+    {
+        "name": "thermometer"
+    },
+    {
+        "name": "thermometer-gain"
+    },
+    {
+        "name": "thermometer-loss"
+    },
+    {
+        "name": "thermostat-carbon"
+    },
+    {
+        "name": "things-to-do"
+    },
+    {
+        "name": "thumb-down"
+    },
+    {
+        "name": "thumb-up"
+    },
+    {
+        "name": "thumbnail-bar"
+    },
+    {
+        "name": "thumbs-up-down"
+    },
+    {
+        "name": "thunderstorm"
+    },
+    {
+        "name": "tibia"
+    },
+    {
+        "name": "tibia-alt"
+    },
+    {
+        "name": "tile-large"
+    },
+    {
+        "name": "tile-medium"
+    },
+    {
+        "name": "tile-small"
+    },
+    {
+        "name": "time-auto"
+    },
+    {
+        "name": "timelapse"
+    },
+    {
+        "name": "timer"
+    },
+    {
+        "name": "timer-10-alt-1"
+    },
+    {
+        "name": "timer-3-alt-1"
+    },
+    {
+        "name": "timer-5"
+    },
+    {
+        "name": "timer-5-shutter"
+    },
+    {
+        "name": "timer-arrow-down"
+    },
+    {
+        "name": "timer-arrow-up"
+    },
+    {
+        "name": "timer-off"
+    },
+    {
+        "name": "timer-pause"
+    },
+    {
+        "name": "timer-play"
+    },
+    {
+        "name": "tips-and-updates"
+    },
+    {
+        "name": "tire-repair"
+    },
+    {
+        "name": "toast"
+    },
+    {
+        "name": "today"
+    },
+    {
+        "name": "toggle-off"
+    },
+    {
+        "name": "toggle-on"
+    },
+    {
+        "name": "token"
+    },
+    {
+        "name": "toll"
+    },
+    {
+        "name": "toolbar"
+    },
+    {
+        "name": "tools-flat-head"
+    },
+    {
+        "name": "tools-installation-kit"
+    },
+    {
+        "name": "tools-level"
+    },
+    {
+        "name": "tools-phillips"
+    },
+    {
+        "name": "tools-pliers-wire-stripper"
+    },
+    {
+        "name": "tools-power-drill"
+    },
+    {
+        "name": "tools-wrench"
+    },
+    {
+        "name": "tooltip"
+    },
+    {
+        "name": "tooltip-2"
+    },
+    {
+        "name": "top-panel-close"
+    },
+    {
+        "name": "top-panel-open"
+    },
+    {
+        "name": "topic"
+    },
+    {
+        "name": "tornado"
+    },
+    {
+        "name": "total-dissolved-solids"
+    },
+    {
+        "name": "touch-app"
+    },
+    {
+        "name": "touch-double"
+    },
+    {
+        "name": "touch-long"
+    },
+    {
+        "name": "touch-triple"
+    },
+    {
+        "name": "touchpad-mouse"
+    },
+    {
+        "name": "touchpad-mouse-off"
+    },
+    {
+        "name": "tour"
+    },
+    {
+        "name": "toys"
+    },
+    {
+        "name": "toys-and-games"
+    },
+    {
+        "name": "trackpad-input"
+    },
+    {
+        "name": "trackpad-input-2"
+    },
+    {
+        "name": "trackpad-input-3"
+    },
+    {
+        "name": "traffic"
+    },
+    {
+        "name": "traffic-jam"
+    },
+    {
+        "name": "trail-length"
+    },
+    {
+        "name": "trail-length-medium"
+    },
+    {
+        "name": "trail-length-short"
+    },
+    {
+        "name": "train"
+    },
+    {
+        "name": "tram"
+    },
+    {
+        "name": "transcribe"
+    },
+    {
+        "name": "transit-ticket"
+    },
+    {
+        "name": "transition-chop"
+    },
+    {
+        "name": "transition-push"
+    },
+    {
+        "name": "transition-slide"
+    },
+    {
+        "name": "transportation"
+    },
+    {
+        "name": "travel-luggage-and-bags"
+    },
+    {
+        "name": "trip"
+    },
+    {
+        "name": "trolley"
+    },
+    {
+        "name": "trolley-cable-car"
+    },
+    {
+        "name": "trophy"
+    },
+    {
+        "name": "tsunami"
+    },
+    {
+        "name": "tsv"
+    },
+    {
+        "name": "tty"
+    },
+    {
+        "name": "tv"
+    },
+    {
+        "name": "tv-displays"
+    },
+    {
+        "name": "tv-gen"
+    },
+    {
+        "name": "tv-guide"
+    },
+    {
+        "name": "tv-next"
+    },
+    {
+        "name": "tv-off"
+    },
+    {
+        "name": "tv-options-input-settings"
+    },
+    {
+        "name": "tv-remote"
+    },
+    {
+        "name": "tv-signin"
+    },
+    {
+        "name": "tv-with-assistant"
+    },
+    {
+        "name": "two-pager"
+    },
+    {
+        "name": "two-pager-store"
+    },
+    {
+        "name": "two-wheeler"
+    },
+    {
+        "name": "type-specimen"
+    },
+    {
+        "name": "ulna-radius"
+    },
+    {
+        "name": "ulna-radius-alt"
+    },
+    {
+        "name": "unarchive"
+    },
+    {
+        "name": "unfloat-landscape"
+    },
+    {
+        "name": "unfloat-portrait"
+    },
+    {
+        "name": "universal-currency"
+    },
+    {
+        "name": "universal-currency-alt"
+    },
+    {
+        "name": "universal-local"
+    },
+    {
+        "name": "unknown-document"
+    },
+    {
+        "name": "unlicense"
+    },
+    {
+        "name": "unpaved-road"
+    },
+    {
+        "name": "unpin"
+    },
+    {
+        "name": "unpublished"
+    },
+    {
+        "name": "unsubscribe"
+    },
+    {
+        "name": "upcoming"
+    },
+    {
+        "name": "upi-pay"
+    },
+    {
+        "name": "upload-2"
+    },
+    {
+        "name": "upload-file"
+    },
+    {
+        "name": "urology"
+    },
+    {
+        "name": "user-attributes"
+    },
+    {
+        "name": "vaccines"
+    },
+    {
+        "name": "vacuum"
+    },
+    {
+        "name": "valve"
+    },
+    {
+        "name": "variable-add"
+    },
+    {
+        "name": "variable-insert"
+    },
+    {
+        "name": "variable-remove"
+    },
+    {
+        "name": "variables"
+    },
+    {
+        "name": "ventilator"
+    },
+    {
+        "name": "verified"
+    },
+    {
+        "name": "verified-user"
+    },
+    {
+        "name": "vertical-shades"
+    },
+    {
+        "name": "vertical-split"
+    },
+    {
+        "name": "vibration"
+    },
+    {
+        "name": "video-call"
+    },
+    {
+        "name": "video-camera-back"
+    },
+    {
+        "name": "video-camera-back-add"
+    },
+    {
+        "name": "video-camera-front"
+    },
+    {
+        "name": "video-camera-front-off"
+    },
+    {
+        "name": "video-chat"
+    },
+    {
+        "name": "video-file"
+    },
+    {
+        "name": "video-library"
+    },
+    {
+        "name": "video-stable"
+    },
+    {
+        "name": "videocam"
+    },
+    {
+        "name": "videocam-alert"
+    },
+    {
+        "name": "videocam-off"
+    },
+    {
+        "name": "videogame-asset"
+    },
+    {
+        "name": "videogame-asset-off"
+    },
+    {
+        "name": "view-agenda"
+    },
+    {
+        "name": "view-apps"
+    },
+    {
+        "name": "view-array"
+    },
+    {
+        "name": "view-carousel"
+    },
+    {
+        "name": "view-column"
+    },
+    {
+        "name": "view-column-2"
+    },
+    {
+        "name": "view-comfy"
+    },
+    {
+        "name": "view-comfy-alt"
+    },
+    {
+        "name": "view-compact"
+    },
+    {
+        "name": "view-compact-alt"
+    },
+    {
+        "name": "view-cozy"
+    },
+    {
+        "name": "view-day"
+    },
+    {
+        "name": "view-in-ar"
+    },
+    {
+        "name": "view-in-ar-off"
+    },
+    {
+        "name": "view-kanban"
+    },
+    {
+        "name": "view-list"
+    },
+    {
+        "name": "view-module"
+    },
+    {
+        "name": "view-object-track"
+    },
+    {
+        "name": "view-quilt"
+    },
+    {
+        "name": "view-sidebar"
+    },
+    {
+        "name": "view-stream"
+    },
+    {
+        "name": "view-timeline"
+    },
+    {
+        "name": "view-week"
+    },
+    {
+        "name": "vignette"
+    },
+    {
+        "name": "villa"
+    },
+    {
+        "name": "visibility"
+    },
+    {
+        "name": "visibility-lock"
+    },
+    {
+        "name": "visibility-off"
+    },
+    {
+        "name": "vo2-max"
+    },
+    {
+        "name": "voice-chat"
+    },
+    {
+        "name": "voice-over-off"
+    },
+    {
+        "name": "voicemail"
+    },
+    {
+        "name": "volcano"
+    },
+    {
+        "name": "volume-down"
+    },
+    {
+        "name": "volume-mute"
+    },
+    {
+        "name": "volume-off"
+    },
+    {
+        "name": "volume-up"
+    },
+    {
+        "name": "volunteer-activism"
+    },
+    {
+        "name": "voting-chip"
+    },
+    {
+        "name": "vpn-key"
+    },
+    {
+        "name": "vpn-key-alert"
+    },
+    {
+        "name": "vpn-key-off"
+    },
+    {
+        "name": "vr180-create2d"
+    },
+    {
+        "name": "vr180-create2d-off"
+    },
+    {
+        "name": "vrpano"
+    },
+    {
+        "name": "wall-art"
+    },
+    {
+        "name": "wall-lamp"
+    },
+    {
+        "name": "ward"
+    },
+    {
+        "name": "warehouse"
+    },
+    {
+        "name": "warning"
+    },
+    {
+        "name": "warning-off"
+    },
+    {
+        "name": "wash"
+    },
+    {
+        "name": "watch"
+    },
+    {
+        "name": "watch-button-press"
+    },
+    {
+        "name": "watch-check"
+    },
+    {
+        "name": "watch-off"
+    },
+    {
+        "name": "watch-screentime"
+    },
+    {
+        "name": "watch-vibration"
+    },
+    {
+        "name": "watch-wake"
+    },
+    {
+        "name": "water-bottle"
+    },
+    {
+        "name": "water-bottle-large"
+    },
+    {
+        "name": "water-damage"
+    },
+    {
+        "name": "water-do"
+    },
+    {
+        "name": "water-drop"
+    },
+    {
+        "name": "water-ec"
+    },
+    {
+        "name": "water-full"
+    },
+    {
+        "name": "water-heater"
+    },
+    {
+        "name": "water-lock"
+    },
+    {
+        "name": "water-loss"
+    },
+    {
+        "name": "water-lux"
+    },
+    {
+        "name": "water-medium"
+    },
+    {
+        "name": "water-orp"
+    },
+    {
+        "name": "water-ph"
+    },
+    {
+        "name": "water-pump"
+    },
+    {
+        "name": "water-voc"
+    },
+    {
+        "name": "waving-hand"
+    },
+    {
+        "name": "wb-auto"
+    },
+    {
+        "name": "wb-incandescent"
+    },
+    {
+        "name": "wb-sunny"
+    },
+    {
+        "name": "wb-twilight"
+    },
+    {
+        "name": "weather-hail"
+    },
+    {
+        "name": "weather-mix"
+    },
+    {
+        "name": "weather-snowy"
+    },
+    {
+        "name": "web-stories"
+    },
+    {
+        "name": "weekend"
+    },
+    {
+        "name": "weight"
+    },
+    {
+        "name": "whatshot"
+    },
+    {
+        "name": "where-to-vote"
+    },
+    {
+        "name": "widget-medium"
+    },
+    {
+        "name": "widget-small"
+    },
+    {
+        "name": "widget-width"
+    },
+    {
+        "name": "widgets"
+    },
+    {
+        "name": "width-full"
+    },
+    {
+        "name": "width-normal"
+    },
+    {
+        "name": "width-wide"
+    },
+    {
+        "name": "wifi-add"
+    },
+    {
+        "name": "wifi-calling"
+    },
+    {
+        "name": "wifi-calling-bar-1"
+    },
+    {
+        "name": "wifi-calling-bar-2"
+    },
+    {
+        "name": "wifi-calling-bar-3"
+    },
+    {
+        "name": "wifi-channel"
+    },
+    {
+        "name": "wifi-find"
+    },
+    {
+        "name": "wifi-home"
+    },
+    {
+        "name": "wifi-lock"
+    },
+    {
+        "name": "wifi-notification"
+    },
+    {
+        "name": "wifi-proxy"
+    },
+    {
+        "name": "wind-power"
+    },
+    {
+        "name": "window"
+    },
+    {
+        "name": "window-closed"
+    },
+    {
+        "name": "window-open"
+    },
+    {
+        "name": "window-sensor"
+    },
+    {
+        "name": "wine-bar"
+    },
+    {
+        "name": "work"
+    },
+    {
+        "name": "work-alert"
+    },
+    {
+        "name": "work-history"
+    },
+    {
+        "name": "work-update"
+    },
+    {
+        "name": "workbench"
+    },
+    {
+        "name": "workspace-premium"
+    },
+    {
+        "name": "workspaces"
+    },
+    {
+        "name": "wrist"
+    },
+    {
+        "name": "wrong-location"
+    },
+    {
+        "name": "yard"
+    },
+    {
+        "name": "your-trips"
+    },
+    {
+        "name": "youtube-tv"
+    }
 ]
