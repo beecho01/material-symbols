@@ -1,0 +1,9 @@
+{
+  "title": "Material Symbols",
+  "config": {
+    "abort": {
+      "single_instance_allowed": "Csak egyetlen konfiguráció engedélyezett a Material Symbols számára."
+    },
+    "step": {}
+  }
+}

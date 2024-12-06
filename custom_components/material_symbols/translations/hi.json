@@ -1,0 +1,9 @@
+{
+  "title": "Material Symbols",
+  "config": {
+    "abort": {
+      "single_instance_allowed": "Material Symbols का केवल एक ही विन्यास अनुमत है।"
+    },
+    "step": {}
+  }
+}

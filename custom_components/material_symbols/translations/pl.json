@@ -3,6 +3,7 @@
   "config": {
     "abort": {
       "single_instance_allowed": "Dozwolona jest tylko jedna konfiguracja Material Symbols."
-    }
+    },
+    "step": {}
   }
 }

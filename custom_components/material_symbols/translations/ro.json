@@ -1,0 +1,9 @@
+{
+  "title": "Material Symbols",
+  "config": {
+    "abort": {
+      "single_instance_allowed": "Este permisă o singură configurare pentru Material Symbols."
+    },
+    "step": {}
+  }
+}

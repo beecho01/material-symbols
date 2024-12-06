@@ -1365,6 +1365,12 @@
         "name": "bnagent"
     },
     {
+        "name": "boat-bus"
+    },
+    {
+        "name": "boat-railway"
+    },
+    {
         "name": "body-fat"
     },
     {
@@ -1615,6 +1621,9 @@
     },
     {
         "name": "bus-alert"
+    },
+    {
+        "name": "bus-railway"
     },
     {
         "name": "business-center"
@@ -2434,6 +2443,9 @@
     },
     {
         "name": "crowdsource"
+    },
+    {
+        "name": "crown"
     },
     {
         "name": "cruelty-free"

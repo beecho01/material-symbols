@@ -1,0 +1,9 @@
+{
+  "title": "Material Symbols",
+  "config": {
+    "abort": {
+      "single_instance_allowed": "Nëmmen eng eenzeg Konfiguratioun vu Material Symbols ass erlaabt."
+    },
+    "step": {}
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "title": "Material Symbols",
+  "config": {
+    "abort": {
+      "single_instance_allowed": "Επιτρέπεται μόνο μία διαμόρφωση των Material Symbols."
+    },
+    "step": {}
+  }
+}

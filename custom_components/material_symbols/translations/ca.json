@@ -1,0 +1,9 @@
+{
+  "title": "Material Symbols",
+  "config": {
+    "abort": {
+      "single_instance_allowed": "Només es permet una configuració de Material Symbols."
+    },
+    "step": {}
+  }
+}

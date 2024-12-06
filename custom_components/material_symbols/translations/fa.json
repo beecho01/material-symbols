@@ -1,0 +1,9 @@
+{
+  "title": "Material Symbols",
+  "config": {
+    "abort": {
+      "single_instance_allowed": "تنها یک پیکربندی برای Material Symbols مجاز است."
+    },
+    "step": {}
+  }
+}

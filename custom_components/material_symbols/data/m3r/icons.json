@@ -678,6 +678,12 @@
         "name": "bnagent"
     },
     {
+        "name": "boat-bus"
+    },
+    {
+        "name": "boat-railway"
+    },
+    {
         "name": "bolt"
     },
     {
@@ -850,6 +856,9 @@
     },
     {
         "name": "bus-alert"
+    },
+    {
+        "name": "bus-railway"
     },
     {
         "name": "business-center"
@@ -1375,6 +1384,9 @@
     },
     {
         "name": "crossword"
+    },
+    {
+        "name": "crown"
     },
     {
         "name": "csv"

@@ -1,0 +1,9 @@
+{
+  "title": "Material Symbols",
+  "config": {
+    "abort": {
+      "single_instance_allowed": "Material Symbols için yalnızca bir yapılandırmaya izin verilir."
+    },
+    "step": {}
+  }
+}

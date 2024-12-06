@@ -1,0 +1,9 @@
+{
+  "title": "Material Symbols",
+  "config": {
+    "abort": {
+      "single_instance_allowed": "Material Symbols의 단일 구성만 허용됩니다."
+    },
+    "step": {}
+  }
+}

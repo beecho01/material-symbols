@@ -504,6 +504,12 @@
         "name": "bnagent"
     },
     {
+        "name": "boat-bus"
+    },
+    {
+        "name": "boat-railway"
+    },
+    {
         "name": "bomb"
     },
     {
@@ -625,6 +631,9 @@
     },
     {
         "name": "bus-alert"
+    },
+    {
+        "name": "bus-railway"
     },
     {
         "name": "business-center"
