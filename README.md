@@ -266,6 +266,16 @@ Contributions are welcome! Feel free to submit pull requests.
 - Thanks to OpenAI and ChatGPT their LLM `01-preview` for assistance in resolving issues during development.
 
 ### Stargazers
+<div align="left">
+    <a href="https://star-history.com/#beecho01/material-symbols&Date">
+     <picture>
+       <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=beecho01/material-symbols&type=Date&theme=dark" />
+       <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=beecho01/material-symbols&type=Date" />
+       <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=beecho01/material-symbols&type=Date" />
+     </picture>
+    </a>
+</div>
+
 [![Stargazers repo roster for @beecho01/material-symbols](https://reporoster.com/stars/beecho01/material-symbols)](https://github.com/beecho01/material-symbols/stargazers)
 
 ---
