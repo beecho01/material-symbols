@@ -843,6 +843,9 @@
         "name": "article"
     },
     {
+        "name": "article-person"
+    },
+    {
         "name": "article-shortcut"
     },
     {
@@ -4332,6 +4335,9 @@
         "name": "globe-book"
     },
     {
+        "name": "globe-location-pin"
+    },
+    {
         "name": "globe-uk"
     },
     {
@@ -4965,6 +4971,15 @@
         "name": "inbox-text"
     },
     {
+        "name": "inbox-text-asterisk"
+    },
+    {
+        "name": "inbox-text-person"
+    },
+    {
+        "name": "inbox-text-share"
+    },
+    {
         "name": "incomplete-circle"
     },
     {
@@ -5593,6 +5608,9 @@
     },
     {
         "name": "lock-open"
+    },
+    {
+        "name": "lock-open-circle"
     },
     {
         "name": "lock-open-right"
@@ -6468,6 +6486,9 @@
         "name": "nfc"
     },
     {
+        "name": "nfc-off"
+    },
+    {
         "name": "night-shelter"
     },
     {
@@ -6595,6 +6616,9 @@
     },
     {
         "name": "notification-multiple"
+    },
+    {
+        "name": "notification-settings"
     },
     {
         "name": "notifications"
@@ -9201,10 +9225,25 @@
         "name": "stylus"
     },
     {
+        "name": "stylus-brush"
+    },
+    {
+        "name": "stylus-fountain-pen"
+    },
+    {
+        "name": "stylus-highlighter"
+    },
+    {
         "name": "stylus-laser-pointer"
     },
     {
         "name": "stylus-note"
+    },
+    {
+        "name": "stylus-pen"
+    },
+    {
+        "name": "stylus-pencil"
     },
     {
         "name": "subdirectory-arrow-left"

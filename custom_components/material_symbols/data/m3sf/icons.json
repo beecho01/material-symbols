@@ -378,6 +378,9 @@
         "name": "article"
     },
     {
+        "name": "article-person"
+    },
+    {
         "name": "article-shortcut"
     },
     {
@@ -2268,6 +2271,9 @@
         "name": "globe-asia"
     },
     {
+        "name": "globe-location-pin"
+    },
+    {
         "name": "globe-uk"
     },
     {
@@ -2533,6 +2539,15 @@
     },
     {
         "name": "inbox-text"
+    },
+    {
+        "name": "inbox-text-asterisk"
+    },
+    {
+        "name": "inbox-text-person"
+    },
+    {
+        "name": "inbox-text-share"
     },
     {
         "name": "ink-eraser"
@@ -2821,6 +2836,9 @@
     },
     {
         "name": "lock-open"
+    },
+    {
+        "name": "lock-open-circle"
     },
     {
         "name": "lock-open-right"
@@ -3286,6 +3304,9 @@
     },
     {
         "name": "nfc"
+    },
+    {
+        "name": "nfc-off"
     },
     {
         "name": "night-sight-auto"
@@ -4632,7 +4653,22 @@
         "name": "stylus"
     },
     {
+        "name": "stylus-brush"
+    },
+    {
+        "name": "stylus-fountain-pen"
+    },
+    {
+        "name": "stylus-highlighter"
+    },
+    {
         "name": "stylus-note"
+    },
+    {
+        "name": "stylus-pen"
+    },
+    {
+        "name": "stylus-pencil"
     },
     {
         "name": "subheader"

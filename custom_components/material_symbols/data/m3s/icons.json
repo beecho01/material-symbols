@@ -303,6 +303,9 @@
         "name": "article"
     },
     {
+        "name": "article-person"
+    },
+    {
         "name": "article-shortcut"
     },
     {
@@ -2121,6 +2124,15 @@
         "name": "inbox-text"
     },
     {
+        "name": "inbox-text-asterisk"
+    },
+    {
+        "name": "inbox-text-person"
+    },
+    {
+        "name": "inbox-text-share"
+    },
+    {
         "name": "ink-eraser"
     },
     {
@@ -2346,6 +2358,9 @@
         "name": "lock-open"
     },
     {
+        "name": "lock-open-circle"
+    },
+    {
         "name": "lock-open-right"
     },
     {
@@ -2398,6 +2413,9 @@
     },
     {
         "name": "magnification-small"
+    },
+    {
+        "name": "magnify-docked"
     },
     {
         "name": "magnify-fullscreen"
@@ -2671,6 +2689,9 @@
     },
     {
         "name": "nfc"
+    },
+    {
+        "name": "nfc-off"
     },
     {
         "name": "nightlight-badge"
@@ -3726,7 +3747,22 @@
         "name": "stylus"
     },
     {
+        "name": "stylus-brush"
+    },
+    {
+        "name": "stylus-fountain-pen"
+    },
+    {
+        "name": "stylus-highlighter"
+    },
+    {
         "name": "stylus-note"
+    },
+    {
+        "name": "stylus-pen"
+    },
+    {
+        "name": "stylus-pencil"
     },
     {
         "name": "subheader"
