@@ -324,6 +324,9 @@
         "name": "alarm-on"
     },
     {
+        "name": "alarm-pause"
+    },
+    {
         "name": "alarm-smart-wake"
     },
     {
@@ -4224,6 +4227,9 @@
         "name": "playlist-add-circle"
     },
     {
+        "name": "plug-connect"
+    },
+    {
         "name": "podiatry"
     },
     {
@@ -5152,6 +5158,9 @@
     },
     {
         "name": "stack"
+    },
+    {
+        "name": "stack-group"
     },
     {
         "name": "stack-hexagon"

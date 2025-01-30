@@ -3753,6 +3753,9 @@
         "name": "playing-cards"
     },
     {
+        "name": "plug-connect"
+    },
+    {
         "name": "podiatry"
     },
     {
@@ -4585,6 +4588,9 @@
     },
     {
         "name": "stack"
+    },
+    {
+        "name": "stack-group"
     },
     {
         "name": "stack-hexagon"

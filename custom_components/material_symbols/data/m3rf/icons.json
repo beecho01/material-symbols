@@ -429,6 +429,9 @@
         "name": "alarm-on"
     },
     {
+        "name": "alarm-pause"
+    },
+    {
         "name": "alarm-smart-wake"
     },
     {
@@ -6274,6 +6277,9 @@
     },
     {
         "name": "playlist-remove"
+    },
+    {
+        "name": "plug-connect"
     },
     {
         "name": "podcasts"
