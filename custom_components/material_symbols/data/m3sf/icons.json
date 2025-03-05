@@ -192,6 +192,9 @@
         "name": "accessible-forward"
     },
     {
+        "name": "accessible-menu"
+    },
+    {
         "name": "account-balance-wallet"
     },
     {
@@ -933,6 +936,51 @@
         "name": "car-crash"
     },
     {
+        "name": "car-defrost-left"
+    },
+    {
+        "name": "car-defrost-low-left"
+    },
+    {
+        "name": "car-defrost-low-right"
+    },
+    {
+        "name": "car-defrost-mid-low-left"
+    },
+    {
+        "name": "car-defrost-mid-right"
+    },
+    {
+        "name": "car-defrost-right"
+    },
+    {
+        "name": "car-fan-low-left"
+    },
+    {
+        "name": "car-fan-low-mid-left"
+    },
+    {
+        "name": "car-fan-low-right"
+    },
+    {
+        "name": "car-fan-mid-left"
+    },
+    {
+        "name": "car-fan-mid-low-right"
+    },
+    {
+        "name": "car-fan-mid-right"
+    },
+    {
+        "name": "car-gear"
+    },
+    {
+        "name": "car-lock"
+    },
+    {
+        "name": "car-mirror-heat"
+    },
+    {
         "name": "car-rental"
     },
     {
@@ -1635,6 +1683,9 @@
         "name": "dropdown"
     },
     {
+        "name": "dropper-eye"
+    },
+    {
         "name": "dry"
     },
     {
@@ -1879,6 +1930,12 @@
     },
     {
         "name": "family-star"
+    },
+    {
+        "name": "fan-focus"
+    },
+    {
+        "name": "fan-indirect"
     },
     {
         "name": "fastfood"
@@ -2188,6 +2245,9 @@
     },
     {
         "name": "forward-to-inbox"
+    },
+    {
+        "name": "fragrance"
     },
     {
         "name": "frame-inspect"
@@ -3369,6 +3429,9 @@
         "name": "notification-multiple"
     },
     {
+        "name": "notification-sound"
+    },
+    {
         "name": "notifications"
     },
     {
@@ -4176,6 +4239,24 @@
         "name": "sdk"
     },
     {
+        "name": "seat-cool-left"
+    },
+    {
+        "name": "seat-cool-right"
+    },
+    {
+        "name": "seat-heat-left"
+    },
+    {
+        "name": "seat-heat-right"
+    },
+    {
+        "name": "seat-vent-left"
+    },
+    {
+        "name": "seat-vent-right"
+    },
+    {
         "name": "security-key"
     },
     {
@@ -4689,6 +4770,9 @@
         "name": "subtitles"
     },
     {
+        "name": "subtitles-gear"
+    },
+    {
         "name": "subtitles-off"
     },
     {
@@ -4738,6 +4822,9 @@
     },
     {
         "name": "switch"
+    },
+    {
+        "name": "switch-access-3"
     },
     {
         "name": "switch-account"
@@ -5283,10 +5370,16 @@
         "name": "voice-selection-off"
     },
     {
+        "name": "voicemail-2"
+    },
+    {
         "name": "volunteer-activism"
     },
     {
         "name": "vpn-lock"
+    },
+    {
+        "name": "vpn-lock-2"
     },
     {
         "name": "vr180-create2d"
@@ -5416,6 +5509,9 @@
     },
     {
         "name": "window"
+    },
+    {
+        "name": "windshield-defrost-rear"
     },
     {
         "name": "woman"

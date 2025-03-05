@@ -972,6 +972,15 @@
         "name": "car-crash"
     },
     {
+        "name": "car-fan-mid-low-right"
+    },
+    {
+        "name": "car-gear"
+    },
+    {
+        "name": "car-lock"
+    },
+    {
         "name": "car-rental"
     },
     {
@@ -1108,6 +1117,9 @@
     },
     {
         "name": "cheer"
+    },
+    {
+        "name": "chef-hat"
     },
     {
         "name": "chess"
@@ -1771,6 +1783,9 @@
     },
     {
         "name": "dropdown"
+    },
+    {
+        "name": "dropper-eye"
     },
     {
         "name": "dry"
@@ -2440,6 +2455,9 @@
     },
     {
         "name": "forward-to-inbox"
+    },
+    {
+        "name": "fragrance"
     },
     {
         "name": "frame-person"
@@ -3513,6 +3531,9 @@
         "name": "mood-bad"
     },
     {
+        "name": "moon-stars"
+    },
+    {
         "name": "moped"
     },
     {
@@ -3778,6 +3799,9 @@
     },
     {
         "name": "notification-settings"
+    },
+    {
+        "name": "notification-sound"
     },
     {
         "name": "notifications"
@@ -5277,6 +5301,9 @@
         "name": "subtitles"
     },
     {
+        "name": "subtitles-gear"
+    },
+    {
         "name": "subtitles-off"
     },
     {
@@ -5353,6 +5380,9 @@
     },
     {
         "name": "switch-access-2"
+    },
+    {
+        "name": "switch-access-3"
     },
     {
         "name": "switch-account"

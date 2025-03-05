@@ -1569,6 +1569,54 @@
         "name": "car-crash"
     },
     {
+        "name": "car-defrost-left"
+    },
+    {
+        "name": "car-defrost-low-left"
+    },
+    {
+        "name": "car-defrost-low-right"
+    },
+    {
+        "name": "car-defrost-mid-low-left"
+    },
+    {
+        "name": "car-defrost-mid-right"
+    },
+    {
+        "name": "car-defrost-right"
+    },
+    {
+        "name": "car-fan-low-left"
+    },
+    {
+        "name": "car-fan-low-mid-left"
+    },
+    {
+        "name": "car-fan-low-right"
+    },
+    {
+        "name": "car-fan-mid-left"
+    },
+    {
+        "name": "car-fan-mid-low-right"
+    },
+    {
+        "name": "car-fan-mid-right"
+    },
+    {
+        "name": "car-fan-recirculate"
+    },
+    {
+        "name": "car-gear"
+    },
+    {
+        "name": "car-lock"
+    },
+    {
+        "name": "car-mirror-heat"
+    },
+    {
         "name": "car-rental"
     },
     {
@@ -1738,6 +1786,9 @@
     },
     {
         "name": "cheer"
+    },
+    {
+        "name": "chef-hat"
     },
     {
         "name": "chess"
@@ -2673,6 +2724,9 @@
         "name": "dropdown"
     },
     {
+        "name": "dropper-eye"
+    },
+    {
         "name": "dry"
     },
     {
@@ -2698,6 +2752,9 @@
     },
     {
         "name": "e911-emergency"
+    },
+    {
+        "name": "ear-sound"
     },
     {
         "name": "earbuds-battery"
@@ -3076,6 +3133,12 @@
     },
     {
         "name": "family-restroom"
+    },
+    {
+        "name": "fan-focus"
+    },
+    {
+        "name": "fan-indirect"
     },
     {
         "name": "farsight-digital"
@@ -3684,6 +3747,9 @@
         "name": "foundation"
     },
     {
+        "name": "fragrance"
+    },
+    {
         "name": "frame-inspect"
     },
     {
@@ -4243,6 +4309,9 @@
     },
     {
         "name": "humidity-percentage"
+    },
+    {
+        "name": "hvac-max-defrost"
     },
     {
         "name": "ice-skating"
@@ -5286,6 +5355,9 @@
         "name": "mood-bad"
     },
     {
+        "name": "moon-stars"
+    },
+    {
         "name": "moped"
     },
     {
@@ -5707,6 +5779,9 @@
     },
     {
         "name": "notification-settings"
+    },
+    {
+        "name": "notification-sound"
     },
     {
         "name": "notifications"
@@ -7035,6 +7110,18 @@
         "name": "search-off"
     },
     {
+        "name": "seat-cool-left"
+    },
+    {
+        "name": "seat-cool-right"
+    },
+    {
+        "name": "seat-heat-left"
+    },
+    {
+        "name": "seat-heat-right"
+    },
+    {
         "name": "security"
     },
     {
@@ -7830,6 +7917,9 @@
         "name": "stay-primary-portrait"
     },
     {
+        "name": "steering-wheel-heat"
+    },
+    {
         "name": "step"
     },
     {
@@ -7947,6 +8037,9 @@
         "name": "subtitles"
     },
     {
+        "name": "subtitles-gear"
+    },
+    {
         "name": "subtitles-off"
     },
     {
@@ -8041,6 +8134,9 @@
     },
     {
         "name": "switch-access-2"
+    },
+    {
+        "name": "switch-access-3"
     },
     {
         "name": "switch-access-shortcut"
@@ -9003,6 +9099,9 @@
         "name": "vpn-lock"
     },
     {
+        "name": "vpn-lock-2"
+    },
+    {
         "name": "vr180-create2d"
     },
     {
@@ -9244,6 +9343,15 @@
     },
     {
         "name": "window-sensor"
+    },
+    {
+        "name": "windshield-defrost-front"
+    },
+    {
+        "name": "windshield-defrost-rear"
+    },
+    {
+        "name": "windshield-heat-front"
     },
     {
         "name": "wine-bar"

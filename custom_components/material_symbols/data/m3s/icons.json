@@ -735,6 +735,12 @@
         "name": "car-crash"
     },
     {
+        "name": "car-gear"
+    },
+    {
+        "name": "car-lock"
+    },
+    {
         "name": "car-rental"
     },
     {
@@ -1383,6 +1389,9 @@
         "name": "dropdown"
     },
     {
+        "name": "dropper-eye"
+    },
+    {
         "name": "dry"
     },
     {
@@ -1849,6 +1858,9 @@
     },
     {
         "name": "forward-to-inbox"
+    },
+    {
+        "name": "fragrance"
     },
     {
         "name": "frame-person"
@@ -2746,6 +2758,9 @@
     },
     {
         "name": "notification-multiple"
+    },
+    {
+        "name": "notification-sound"
     },
     {
         "name": "notifications"
@@ -3780,6 +3795,9 @@
         "name": "subtitles"
     },
     {
+        "name": "subtitles-gear"
+    },
+    {
         "name": "subtitles-off"
     },
     {
@@ -3820,6 +3838,9 @@
     },
     {
         "name": "switch"
+    },
+    {
+        "name": "switch-access-3"
     },
     {
         "name": "switch-account"
@@ -4273,6 +4294,9 @@
     },
     {
         "name": "voice-chat"
+    },
+    {
+        "name": "voicemail-2"
     },
     {
         "name": "volunteer-activism"
