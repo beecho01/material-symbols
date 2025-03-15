@@ -11,7 +11,7 @@ LOGGER = logging.getLogger(__name__)
 
 NAME = "Material Symbols"
 DOMAIN = "material_symbols"
-VERSION = "2025.03.15-debug"
+VERSION = "2025.03.15-b1"
 
 ICONS_URL = f"/{DOMAIN}"
 LOADER_URL = f"/{DOMAIN}/material_symbols.js"
