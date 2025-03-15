@@ -2052,7 +2052,19 @@
         "name": "ear-sound"
     },
     {
+        "name": "earbud-case"
+    },
+    {
+        "name": "earbud-left"
+    },
+    {
+        "name": "earbud-right"
+    },
+    {
         "name": "earbuds"
+    },
+    {
+        "name": "earbuds-2"
     },
     {
         "name": "earbuds-battery"
@@ -3909,10 +3921,22 @@
         "name": "mobile-friendly"
     },
     {
+        "name": "mobile-hand"
+    },
+    {
+        "name": "mobile-loupe"
+    },
+    {
         "name": "mobile-off"
     },
     {
         "name": "mobile-screen-share"
+    },
+    {
+        "name": "mobile-screensaver"
+    },
+    {
+        "name": "mobile-speaker"
     },
     {
         "name": "mode-comment"
@@ -5937,7 +5961,13 @@
         "name": "star-rate"
     },
     {
+        "name": "star-shine"
+    },
+    {
         "name": "stars"
+    },
+    {
+        "name": "stars-2"
     },
     {
         "name": "stat-0"
@@ -6877,6 +6907,12 @@
     },
     {
         "name": "wall-lamp"
+    },
+    {
+        "name": "wand-shine"
+    },
+    {
+        "name": "wand-stars"
     },
     {
         "name": "ward"

@@ -1713,7 +1713,19 @@
         "name": "e911-emergency"
     },
     {
+        "name": "earbud-case"
+    },
+    {
+        "name": "earbud-left"
+    },
+    {
+        "name": "earbud-right"
+    },
+    {
         "name": "earbuds"
+    },
+    {
+        "name": "earbuds-2"
     },
     {
         "name": "earbuds-battery"
@@ -3129,10 +3141,22 @@
         "name": "mobile-friendly"
     },
     {
+        "name": "mobile-hand"
+    },
+    {
+        "name": "mobile-loupe"
+    },
+    {
         "name": "mobile-off"
     },
     {
         "name": "mobile-screen-share"
+    },
+    {
+        "name": "mobile-screensaver"
+    },
+    {
+        "name": "mobile-speaker"
     },
     {
         "name": "mode-comment"
@@ -5404,6 +5428,9 @@
     },
     {
         "name": "wallpaper-slideshow"
+    },
+    {
+        "name": "wand-shine"
     },
     {
         "name": "ward"
