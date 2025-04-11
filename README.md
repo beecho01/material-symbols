@@ -3,23 +3,12 @@
      <h1 align="center">Material Symbols for Home Assistant</h1>
 </div>
 
-**Material Symbols for Home Assistant** is a collection of 13,941 Google Material Symbols for use within Home Assistant. It uses the icon-set produced and maintained by [iconify](https://github.com/iconify/icon-sets).
+**Material Symbols for Home Assistant** is a collection of 14,028 Google Material Symbols for use within Home Assistant. It uses the icon-set produced and maintained by [iconify](https://github.com/iconify/icon-sets).
 
 There is a [Icon Finder Tool](https://beecho01.github.io/material-symbols-iconfinder/) to help you select the correct icon. Simply type in what you're looking for, click the icon of choice, and the icon entry for home assistant will be copied to your clipboard (e.g., `m3o:light`). The copied text can be pasted for use in your YAML configuration or into you UI frontend interface.
 
----
+<img src="https://raw.githubusercontent.com/beecho01/material-symbols/refs/heads/main/docs/assets/images/Line.svg" alt="line break" width="100%" height="3px">
 
-> <picture>
->   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/warning.svg">
->   <img alt="Warning" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/warning.svg">
-> </picture>
->
-> ### Breaking Changes
-> - **Repository Structure**: The repository and installation have transitioned from a "Lovelace" repository (v1.X.X) to an "Integration" repository (202X.X.X+). Users should reinstall from the new integration repository to avoid compatibility issues.
-> - **Icon Prefix Migration**: The icon prefix has transitioned from m3s, which previously contained all icon styles, to individual prefixes based on style. Each style now has its unique prefix (e.g., m3o for outlined, m3r for rounded). Refer to the documentation for the complete list of prefixes.
-> - **Reduction in Available Icons**: The number of available icons has been reduced from ~18,600 to 13,941.
-
----
 
 <div align="left">
   <br>
@@ -34,10 +23,20 @@ There is a [Icon Finder Tool](https://beecho01.github.io/material-symbols-iconfi
   <br>
 </div>
 
+<img src="https://raw.githubusercontent.com/beecho01/material-symbols/refs/heads/main/docs/assets/images/Line.svg" alt="line break" width="100%" height="3px">
+
+> <picture>
+>   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/warning.svg">
+>   <img alt="Warning" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/warning.svg">
+> </picture>
+>
+> To see how to complete the migration from repository (v1.X.X) to an "Integration" repository (202X.X.X+), please visit the [Migration documentation](https://github.com/beecho01/material-symbols/refs/heads/main/docs/Migration.md).
+
+<img src="https://raw.githubusercontent.com/beecho01/material-symbols/refs/heads/main/docs/assets/images/Line.svg" alt="line break" width="100%" height="3px">
+
 ## <a name="table-of-contents"></a>Table of Contents
 
 - [Table of Contents](#table-of-contents)
-- [Migrating from v1.X.X to 202X.X.X](#migrating-from-v1xx-to-202xxx)
 - [Installation](#installation)
     - [HACS Installation (Recommended)](#hacs-installation-recommended)
     - [Manual Installation](#manual-installation)
@@ -52,50 +51,7 @@ There is a [Icon Finder Tool](https://beecho01.github.io/material-symbols-iconfi
 - [Copyright and License](#copyright-and-license)
     - [License Summary](#license-summary)
 
----
-
-
-## <a name="Migrating from v1.X.X to 202X.X.X"></a>Migrating from v1.X.X to 202X.X.X
-
-My recommendation here is to fully uninstall the existing v1.X.X repository and remove all traces of it from the system. Please do the following to complete this:
-
-**If you originally installed the icons via HACS:**
-1.  Go to `HACS` and in the search bar search `Material Symbols`.
-2.  Find the repository in the list and click on it.
-3.  Click the `Menu Icon` (3 vertical dots) for the repository
-4.  Click `Remove`
-5.  On the Remove pop-up/modal, select `Remove`
-6.  Wait for this to complete
-7.  Go to your dashboard of choice and via the `Menu Icon` (3 vertical dots), select the `Resources` option.
-8.  Identify if a javascript module ending `material-symbols.js` is present. If so remove it.
-9.  After removing the resource and references, restart Home Assistant to apply the changes.
-10. Once Home Assistant restarts, clear your browser’s cache to ensure it no longer tries to load the removed icon pack resources.
-11. Continue to the [Installation](#installation) steps to install the 202X.X.X integration.
-
-**If you originally installed the icons via configuration.yaml:**
-
-If your resources are managed by configuration.yaml:
-1. Remove the `material-symbols.js` from
-
-    ```
-    frontend:
-      extra_module_url:
-        - /local/community/material-symbols/material-symbols.js
-    ```
-    or the location you placed it.
-
-If your resources are managed in the resources section of the dashboard UI:
-
-1.  Go to your dashboard of choice and via the `Menu Icon` (3 vertical dots), select the `Resources` option.
-2.  Identify if a javascript module ending `material-symbols.js` is present. If so remove it.
-
-Make sure to delete the files from the location you placed it.
-
-1.  After removing the resource and files, restart Home Assistant to apply the changes.
-2.  Once Home Assistant restarts, clear your browser’s cache to ensure it no longer tries to load the removed icon pack resources.
-3.  Continue to the [Installation](#installation) steps to install the 202X.X.X integration.
-
----
+<img src="https://raw.githubusercontent.com/beecho01/material-symbols/refs/heads/main/docs/assets/images/Line.svg" alt="line break" width="100%" height="3px">
 
 ## <a name="installation"></a>Installation
 
@@ -188,7 +144,7 @@ If you prefer to install the integration manually:
 
    - Restart Home Assistant to complete the setup.
 
----
+<img src="https://raw.githubusercontent.com/beecho01/material-symbols/refs/heads/main/docs/assets/images/Line.svg" alt="line break" width="100%" height="3px">
 
 ## <a name="usage"></a>Usage
 
@@ -239,12 +195,12 @@ Once installed, you can use the Material Symbols icons in your Lovelace UI.
       icon: 'm3sf:light'
   ```
 
----
+<img src="https://raw.githubusercontent.com/beecho01/material-symbols/refs/heads/main/docs/assets/images/Line.svg" alt="line break" width="100%" height="3px">
 
 ## <a name="community"></a>Community
 Join the discussion on the [home assistant community forum](https://community.home-assistant.io/t/material-symbols-for-home-assistant/599573).
 
----
+<img src="https://raw.githubusercontent.com/beecho01/material-symbols/refs/heads/main/docs/assets/images/Line.svg" alt="line break" width="100%" height="3px">
 
 ## <a name="troubleshooting"></a>Troubleshooting
 #### <a name="icons-not-showing"></a>Icons Not Showing?
@@ -253,13 +209,13 @@ Join the discussion on the [home assistant community forum](https://community.ho
  - **Check Installation**: Verify that the integration is installed correctly and that the icons are in the right directories.
  - **Mobile Application**: Unfortunately, clearing the application cache isnt a sure-fire way to remove the existing cached icons. It has been suggested on the Community Forum thread [here](https://community.home-assistant.io/t/icons-doesnt-display-on-app/251852/15), that uninstalling the application and re-installing is the most likely way to get them to show correctly.  
 
----
+<img src="https://raw.githubusercontent.com/beecho01/material-symbols/refs/heads/main/docs/assets/images/Line.svg" alt="line break" width="100%" height="3px">
 
 ## <a name="feedback-and-contributions"></a>Feedback and Contributions
 If you encounter issues or have suggestions, please open an issue on GitHub.
 Contributions are welcome! Feel free to submit pull requests.
 
----
+<img src="https://raw.githubusercontent.com/beecho01/material-symbols/refs/heads/main/docs/assets/images/Line.svg" alt="line break" width="100%" height="3px">
 
 ## <a name="thanks"></a>Thanks
 - Big thanks to [@vigonotion](https://github.com/vigonotion) and his repository [hass-simpleicons](https://github.com/vigonotion/hass-simpleicons) and [@thomasloven](https://github.com/thomasloven) for his repository [hass-fontawesome](https://github.com/thomasloven/hass-fontawesome), of which this integration and github repository is based.
@@ -278,7 +234,7 @@ Contributions are welcome! Feel free to submit pull requests.
 
 [![Stargazers repo roster for @beecho01/material-symbols](https://reporoster.com/stars/beecho01/material-symbols)](https://github.com/beecho01/material-symbols/stargazers)
 
----
+<img src="https://raw.githubusercontent.com/beecho01/material-symbols/refs/heads/main/docs/assets/images/Line.svg" alt="line break" width="100%" height="3px">
 
 ## <a name="copyright-and-license"></a>Copyright and License
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).

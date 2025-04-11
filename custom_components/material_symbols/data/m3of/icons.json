@@ -5022,6 +5022,9 @@
         "name": "image"
     },
     {
+        "name": "image-arrow-up"
+    },
+    {
         "name": "image-aspect-ratio"
     },
     {
@@ -6076,6 +6079,9 @@
     },
     {
         "name": "mobile-screensaver"
+    },
+    {
+        "name": "mobile-sound-2"
     },
     {
         "name": "mobile-speaker"
@@ -7135,6 +7141,9 @@
     },
     {
         "name": "person-search"
+    },
+    {
+        "name": "person-shield"
     },
     {
         "name": "personal-bag"

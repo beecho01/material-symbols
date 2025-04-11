@@ -429,6 +429,9 @@
         "name": "barcode-reader"
     },
     {
+        "name": "batch-prediction"
+    },
+    {
         "name": "bath-private"
     },
     {
@@ -1740,6 +1743,9 @@
         "name": "fingerprint"
     },
     {
+        "name": "fire-extinguisher"
+    },
+    {
         "name": "fire-hydrant"
     },
     {
@@ -2113,6 +2119,9 @@
     },
     {
         "name": "image"
+    },
+    {
+        "name": "image-arrow-up"
     },
     {
         "name": "image-aspect-ratio"
@@ -2581,6 +2590,9 @@
     },
     {
         "name": "mobile-screensaver"
+    },
+    {
+        "name": "mobile-sound-2"
     },
     {
         "name": "mobile-speaker"
