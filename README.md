@@ -30,7 +30,7 @@ There is a [Icon Finder Tool](https://beecho01.github.io/material-symbols-iconfi
 >   <img alt="Warning" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/warning.svg">
 > </picture>
 >
-> To see how to complete the migration from repository (v1.X.X) to an "Integration" repository (202X.X.X+), please visit the [Migration documentation](https://github.com/beecho01/material-symbols/refs/heads/main/docs/Migration.md).
+> To see how to complete the migration from repository (v1.X.X) to an "Integration" repository (202X.X.X+), please visit the [Migration documentation](https://github.com/beecho01/material-symbols/blob/main/docs/Migration.md).
 
 <img src="https://raw.githubusercontent.com/beecho01/material-symbols/refs/heads/main/docs/assets/images/Line.svg" alt="line break" width="100%" height="3px">
 
