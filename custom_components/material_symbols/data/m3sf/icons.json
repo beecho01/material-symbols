@@ -81,6 +81,9 @@
         "name": "30fps-select"
     },
     {
+        "name": "3d"
+    },
+    {
         "name": "3d-rotation"
     },
     {
@@ -574,6 +577,30 @@
     },
     {
         "name": "battery-alert"
+    },
+    {
+        "name": "battery-android-0"
+    },
+    {
+        "name": "battery-android-1"
+    },
+    {
+        "name": "battery-android-2"
+    },
+    {
+        "name": "battery-android-3"
+    },
+    {
+        "name": "battery-android-4"
+    },
+    {
+        "name": "battery-android-5"
+    },
+    {
+        "name": "battery-android-6"
+    },
+    {
+        "name": "battery-android-full"
     },
     {
         "name": "battery-change"
@@ -1224,6 +1251,12 @@
         "name": "computer"
     },
     {
+        "name": "computer-arrow-up"
+    },
+    {
+        "name": "computer-cancel"
+    },
+    {
         "name": "concierge"
     },
     {
@@ -1507,6 +1540,9 @@
     },
     {
         "name": "developer-mode-tv"
+    },
+    {
+        "name": "device-band"
     },
     {
         "name": "device-unknown"
@@ -3147,6 +3183,15 @@
         "name": "mobile-hand"
     },
     {
+        "name": "mobile-hand-left"
+    },
+    {
+        "name": "mobile-hand-left-off"
+    },
+    {
+        "name": "mobile-hand-off"
+    },
+    {
         "name": "mobile-loupe"
     },
     {
@@ -4152,6 +4197,9 @@
         "name": "router"
     },
     {
+        "name": "router-off"
+    },
+    {
         "name": "rsvp"
     },
     {
@@ -4291,6 +4339,9 @@
     },
     {
         "name": "security-update-good"
+    },
+    {
+        "name": "security-update-warning"
     },
     {
         "name": "select"
@@ -4641,6 +4692,15 @@
         "name": "split-scene"
     },
     {
+        "name": "split-scene-down"
+    },
+    {
+        "name": "split-scene-left"
+    },
+    {
+        "name": "split-scene-up"
+    },
+    {
         "name": "splitscreen"
     },
     {
@@ -4729,9 +4789,6 @@
     },
     {
         "name": "stay-primary-landscape"
-    },
-    {
-        "name": "stay-primary-portrait"
     },
     {
         "name": "steps"
@@ -4921,6 +4978,9 @@
     },
     {
         "name": "tab-recent"
+    },
+    {
+        "name": "tab-search"
     },
     {
         "name": "tab-unselected"

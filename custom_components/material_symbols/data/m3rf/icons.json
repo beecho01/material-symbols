@@ -90,6 +90,9 @@
         "name": "360"
     },
     {
+        "name": "3d"
+    },
+    {
         "name": "3d-rotation"
     },
     {
@@ -1560,6 +1563,9 @@
         "name": "candlestick-chart"
     },
     {
+        "name": "cannabis"
+    },
+    {
         "name": "captive-portal"
     },
     {
@@ -1996,6 +2002,12 @@
     },
     {
         "name": "computer"
+    },
+    {
+        "name": "computer-arrow-up"
+    },
+    {
+        "name": "computer-cancel"
     },
     {
         "name": "concierge"
@@ -4641,6 +4653,9 @@
         "name": "landscape-2"
     },
     {
+        "name": "landscape-2-edit"
+    },
+    {
         "name": "landscape-2-off"
     },
     {
@@ -5296,6 +5311,15 @@
     },
     {
         "name": "mobile-hand"
+    },
+    {
+        "name": "mobile-hand-left"
+    },
+    {
+        "name": "mobile-hand-left-off"
+    },
+    {
+        "name": "mobile-hand-off"
     },
     {
         "name": "mobile-loupe"
@@ -6945,6 +6969,9 @@
         "name": "router"
     },
     {
+        "name": "router-off"
+    },
+    {
         "name": "routine"
     },
     {
@@ -7156,6 +7183,9 @@
     },
     {
         "name": "security-update-good"
+    },
+    {
+        "name": "security-update-warning"
     },
     {
         "name": "segment"
@@ -7402,6 +7432,9 @@
     },
     {
         "name": "shield-spark"
+    },
+    {
+        "name": "shield-watch"
     },
     {
         "name": "shield-with-heart"
@@ -7794,6 +7827,15 @@
         "name": "split-scene"
     },
     {
+        "name": "split-scene-down"
+    },
+    {
+        "name": "split-scene-left"
+    },
+    {
+        "name": "split-scene-up"
+    },
+    {
         "name": "splitscreen-add"
     },
     {
@@ -7948,9 +7990,6 @@
     },
     {
         "name": "stat-minus-3"
-    },
-    {
-        "name": "stay-primary-portrait"
     },
     {
         "name": "steering-wheel-heat"
@@ -8272,6 +8311,9 @@
     },
     {
         "name": "tab-recent"
+    },
+    {
+        "name": "tab-search"
     },
     {
         "name": "tab-unselected"
@@ -8935,6 +8977,9 @@
     },
     {
         "name": "verified"
+    },
+    {
+        "name": "verified-off"
     },
     {
         "name": "verified-user"

@@ -72,6 +72,9 @@
         "name": "2mp"
     },
     {
+        "name": "3d"
+    },
+    {
         "name": "3g-mobiledata-badge"
     },
     {
@@ -442,6 +445,24 @@
     },
     {
         "name": "battery-alert"
+    },
+    {
+        "name": "battery-android-alert"
+    },
+    {
+        "name": "battery-android-bolt"
+    },
+    {
+        "name": "battery-android-plus"
+    },
+    {
+        "name": "battery-android-question"
+    },
+    {
+        "name": "battery-android-share"
+    },
+    {
+        "name": "battery-android-shield"
     },
     {
         "name": "battery-change"
@@ -969,6 +990,12 @@
         "name": "computer"
     },
     {
+        "name": "computer-arrow-up"
+    },
+    {
+        "name": "computer-cancel"
+    },
+    {
         "name": "concierge"
     },
     {
@@ -1219,6 +1246,9 @@
     },
     {
         "name": "developer-mode-tv"
+    },
+    {
+        "name": "device-band"
     },
     {
         "name": "device-unknown"
@@ -2580,6 +2610,15 @@
         "name": "mobile-hand"
     },
     {
+        "name": "mobile-hand-left"
+    },
+    {
+        "name": "mobile-hand-left-off"
+    },
+    {
+        "name": "mobile-hand-off"
+    },
+    {
         "name": "mobile-loupe"
     },
     {
@@ -3327,6 +3366,9 @@
         "name": "router"
     },
     {
+        "name": "router-off"
+    },
+    {
         "name": "rule-folder"
     },
     {
@@ -3433,6 +3475,9 @@
     },
     {
         "name": "security-update-good"
+    },
+    {
+        "name": "security-update-warning"
     },
     {
         "name": "select-window-2"
@@ -3690,6 +3735,18 @@
         "name": "split-scene"
     },
     {
+        "name": "split-scene-down"
+    },
+    {
+        "name": "split-scene-left"
+    },
+    {
+        "name": "split-scene-right"
+    },
+    {
+        "name": "split-scene-up"
+    },
+    {
         "name": "splitscreen"
     },
     {
@@ -3763,9 +3820,6 @@
     },
     {
         "name": "stay-current-portrait"
-    },
-    {
-        "name": "stay-primary-portrait"
     },
     {
         "name": "steps"
@@ -3934,6 +3988,9 @@
     },
     {
         "name": "tab-recent"
+    },
+    {
+        "name": "tab-search"
     },
     {
         "name": "table"

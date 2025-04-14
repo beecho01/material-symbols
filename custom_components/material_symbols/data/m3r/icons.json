@@ -72,6 +72,9 @@
         "name": "2mp"
     },
     {
+        "name": "3d"
+    },
+    {
         "name": "3d-rotation"
     },
     {
@@ -603,6 +606,24 @@
         "name": "battery-alert"
     },
     {
+        "name": "battery-android-alert"
+    },
+    {
+        "name": "battery-android-bolt"
+    },
+    {
+        "name": "battery-android-plus"
+    },
+    {
+        "name": "battery-android-question"
+    },
+    {
+        "name": "battery-android-share"
+    },
+    {
+        "name": "battery-android-shield"
+    },
+    {
         "name": "battery-change"
     },
     {
@@ -969,6 +990,9 @@
         "name": "candlestick-chart"
     },
     {
+        "name": "cannabis"
+    },
+    {
         "name": "capture"
     },
     {
@@ -1267,6 +1291,12 @@
     },
     {
         "name": "computer"
+    },
+    {
+        "name": "computer-arrow-up"
+    },
+    {
+        "name": "computer-cancel"
     },
     {
         "name": "concierge"
@@ -3069,6 +3099,9 @@
         "name": "landscape-2"
     },
     {
+        "name": "landscape-2-edit"
+    },
+    {
         "name": "landscape-2-off"
     },
     {
@@ -3490,6 +3523,15 @@
     },
     {
         "name": "mobile-hand"
+    },
+    {
+        "name": "mobile-hand-left"
+    },
+    {
+        "name": "mobile-hand-left-off"
+    },
+    {
+        "name": "mobile-hand-off"
     },
     {
         "name": "mobile-loupe"
@@ -4632,6 +4674,9 @@
         "name": "router"
     },
     {
+        "name": "router-off"
+    },
+    {
         "name": "routine"
     },
     {
@@ -4750,6 +4795,9 @@
     },
     {
         "name": "security-update-good"
+    },
+    {
+        "name": "security-update-warning"
     },
     {
         "name": "select-to-speak"
@@ -4933,6 +4981,9 @@
     },
     {
         "name": "shield-spark"
+    },
+    {
+        "name": "shield-watch"
     },
     {
         "name": "shield-with-heart"
@@ -5175,6 +5226,18 @@
         "name": "split-scene"
     },
     {
+        "name": "split-scene-down"
+    },
+    {
+        "name": "split-scene-left"
+    },
+    {
+        "name": "split-scene-right"
+    },
+    {
+        "name": "split-scene-up"
+    },
+    {
         "name": "splitscreen-add"
     },
     {
@@ -5263,9 +5326,6 @@
     },
     {
         "name": "stat-0"
-    },
-    {
-        "name": "stay-primary-portrait"
     },
     {
         "name": "stethoscope"
@@ -5488,6 +5548,9 @@
     },
     {
         "name": "tab-recent"
+    },
+    {
+        "name": "tab-search"
     },
     {
         "name": "table-bar"
@@ -5896,6 +5959,9 @@
     },
     {
         "name": "verified"
+    },
+    {
+        "name": "verified-off"
     },
     {
         "name": "verified-user"

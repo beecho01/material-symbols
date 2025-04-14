@@ -13,7 +13,7 @@ My recommendation here is to fully uninstall the existing v1.X.X repository and 
 8.  Identify if a javascript module ending `material-symbols.js` is present. If so remove it.
 9.  After removing the resource and references, restart Home Assistant to apply the changes.
 10. Once Home Assistant restarts, clear your browser’s cache to ensure it no longer tries to load the removed icon pack resources.
-11. Continue to the [Installation](#installation) steps to install the 202X.X.X integration.
+11. Continue to the [Installation](https://github.com/beecho01/material-symbols/blob/main/README.md#installation) steps to install the 202X.X.X integration.
 
 **If you originally installed the icons via configuration.yaml:**
 
@@ -36,4 +36,4 @@ Make sure to delete the files from the location you placed it.
 
 1.  After removing the resource and files, restart Home Assistant to apply the changes.
 2.  Once Home Assistant restarts, clear your browser’s cache to ensure it no longer tries to load the removed icon pack resources.
-3.  Continue to the [Installation](#installation) steps to install the 202X.X.X integration.
+3.  Continue to the [Installation](https://github.com/beecho01/material-symbols/blob/main/README.md#installation) steps to install the 202X.X.X integration.
