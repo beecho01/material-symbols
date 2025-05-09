@@ -2727,6 +2727,12 @@
         "name": "hearing-aid-disabled"
     },
     {
+        "name": "hearing-aid-disabled-left"
+    },
+    {
+        "name": "hearing-aid-left"
+    },
+    {
         "name": "heart-broken"
     },
     {
@@ -6157,6 +6163,9 @@
     },
     {
         "name": "watch"
+    },
+    {
+        "name": "watch-arrow"
     },
     {
         "name": "watch-button-press"

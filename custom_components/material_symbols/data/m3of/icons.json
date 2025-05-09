@@ -3594,6 +3594,9 @@
         "name": "eyeglasses"
     },
     {
+        "name": "eyeglasses-2"
+    },
+    {
         "name": "face"
     },
     {
@@ -4774,6 +4777,12 @@
     },
     {
         "name": "hearing-aid-disabled"
+    },
+    {
+        "name": "hearing-aid-disabled-left"
+    },
+    {
+        "name": "hearing-aid-left"
     },
     {
         "name": "hearing-disabled"
@@ -10762,6 +10771,9 @@
     },
     {
         "name": "watch"
+    },
+    {
+        "name": "watch-arrow"
     },
     {
         "name": "watch-button-press"

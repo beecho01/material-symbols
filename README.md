@@ -3,7 +3,7 @@
      <h1 align="center">Material Symbols for Home Assistant</h1>
 </div>
 
-**Material Symbols for Home Assistant** is a collection of 14,115 Google Material Symbols for use within Home Assistant. It uses the icon-set produced and maintained by [iconify](https://github.com/iconify/icon-sets).
+**Material Symbols for Home Assistant** is a collection of 14,129 Google Material Symbols for use within Home Assistant. It uses the icon-set produced and maintained by [iconify](https://github.com/iconify/icon-sets).
 
 There is a [Icon Finder Tool](https://beecho01.github.io/material-symbols-iconfinder/) to help you select the correct icon. Simply type in what you're looking for, click the icon of choice, and the icon entry for home assistant will be copied to your clipboard (e.g., `m3o:light`). The copied text can be pasted for use in your YAML configuration or into you UI frontend interface.
 
@@ -39,6 +39,7 @@ There is a [Icon Finder Tool](https://beecho01.github.io/material-symbols-iconfi
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
     - [HACS Installation (Recommended)](#hacs-installation-recommended)
+- [](#)
     - [Manual Installation](#manual-installation)
 - [Usage](#usage)
     - [Example](#example)
@@ -115,6 +116,7 @@ There is a [Icon Finder Tool](https://beecho01.github.io/material-symbols-iconfi
    - After the installation completes, restart Home Assistant to load the new integration.
    - You're browser cache may need to be deleted to show the icons as desired.
 <br>
+---
 
 #### <a name="manual-installation"></a>Manual Installation
 
@@ -132,7 +134,7 @@ If you prefer to install the integration manually:
 
    - Restart Home Assistant to load the new integration.
   
-4. ** Add Integration to Devices & Services:**
+4. **Add Integration to Devices & Services:**
 
    - In the Home Assistant Settings menu, select **Devices & Services**.
    - Tap the **+ Add Integration** button.
@@ -149,8 +151,6 @@ If you prefer to install the integration manually:
 ## <a name="usage"></a>Usage
 
 Once installed, you can use the Material Symbols icons in your Lovelace UI.
-
-**Icon Prefixes and Styles:**
 
   The icons come in six distinct styles, each with its own prefix:
 - Outlined: `m3o`
