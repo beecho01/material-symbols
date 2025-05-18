@@ -3,7 +3,7 @@
      <h1 align="center">Material Symbols for Home Assistant</h1>
 </div>
 
-**Material Symbols for Home Assistant** is a collection of 14,129 Google Material Symbols for use within Home Assistant. It uses the icon-set produced and maintained by [iconify](https://github.com/iconify/icon-sets).
+**Material Symbols for Home Assistant** is a collection of 14,376 Google Material Symbols for use within Home Assistant. It uses the icon-set produced and maintained by [iconify](https://github.com/iconify/icon-sets).
 
 There is a [Icon Finder Tool](https://beecho01.github.io/material-symbols-iconfinder/) to help you select the correct icon. Simply type in what you're looking for, click the icon of choice, and the icon entry for home assistant will be copied to your clipboard (e.g., `m3o:light`). The copied text can be pasted for use in your YAML configuration or into you UI frontend interface.
 
@@ -39,7 +39,6 @@ There is a [Icon Finder Tool](https://beecho01.github.io/material-symbols-iconfi
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
     - [HACS Installation (Recommended)](#hacs-installation-recommended)
-- [](#)
     - [Manual Installation](#manual-installation)
 - [Usage](#usage)
     - [Example](#example)
@@ -57,18 +56,14 @@ There is a [Icon Finder Tool](https://beecho01.github.io/material-symbols-iconfi
 ## <a name="installation"></a>Installation
 
 #### <a name="hacs-installation-recommended"></a>HACS Installation (Recommended)
-<!---
-**Note**: Material Symbols is now installable via [HACS](https://hacs.xyz) as a custom **Integration**.
 
 > <picture>
 >   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/light-theme/info.svg">
 >   <img alt="Info" src="https://raw.githubusercontent.com/Mqxx/GitHub-Markdown/main/blockquotes/badge/dark-theme/info.svg">
 > </picture><br>
 >
-> There are 2 methods to install via HACS below. First is by the my.home-assistant.io quick links and the second, by typing the custom repository.
+> **Note**: Material Symbols is now installable via [HACS](https://hacs.xyz) as a **Default Integration** 🥳.
 
-
-##### HACS Method 1
 
 1. First, tap on the integration repository quick-link below and install:
 
@@ -81,41 +76,8 @@ There is a [Icon Finder Tool](https://beecho01.github.io/material-symbols-iconfi
 3. After the installation completes, restart Home Assistant to load the new integration.
     - You're browser cache may need to be deleted to show the icons as desired.
 
-##### HACS Method 2
---->
-1. **Add the Custom Repository to HACS manually:**
-
-   - Open Home Assistant and navigate to **HACS**.
-   - Click on **Integrations**.
-   - Click on the three dots in the top-right corner and select **Custom repositories**.
-   - In the dialog that appears:
-     - **Repository URL**: `https://github.com/beecho01/material-symbols`
-     - **Category**: **Integration**
-   - Click **Add**.
-   - You should see a confirmation that the repository was added successfully.
-
-2. **Install the Integration:**
-
-   - In HACS, go back to **Integrations**.
-   - Click on the **Explore & Add Repositories** button.
-   - Search for **Material Symbols**.
-   - Click on the **Material Symbols** integration.
-   - Click **Download** in the bottom right corner.
-   - Confirm the installation by clicking **Download** again.
-  
-3. ** Add Integration to Devices & Services:**
-
-   - In the Home Assistant Settings menu, select **Devices & Services**.
-   - Tap the **+ Add Integration** button.
-   - Search for **Material Symbols** and select it.
-   - This should now show as successfully configured.
-   - Tap **Finish**.
-
-4. **Restart Home Assistant:**
-
-   - After the installation completes, restart Home Assistant to load the new integration.
-   - You're browser cache may need to be deleted to show the icons as desired.
 <br>
+
 ---
 
 #### <a name="manual-installation"></a>Manual Installation
@@ -198,7 +160,7 @@ Once installed, you can use the Material Symbols icons in your Lovelace UI.
 <img src="https://raw.githubusercontent.com/beecho01/material-symbols/refs/heads/main/docs/assets/images/Line.svg" alt="line break" width="100%" height="3px">
 
 ## <a name="community"></a>Community
-Join the discussion on the [home assistant community forum](https://community.home-assistant.io/t/material-symbols-for-home-assistant/599573).
+Join the discussion on the [Home Assistant Community Forum](https://community.home-assistant.io/t/material-symbols-for-home-assistant/599573).
 
 <img src="https://raw.githubusercontent.com/beecho01/material-symbols/refs/heads/main/docs/assets/images/Line.svg" alt="line break" width="100%" height="3px">
 

@@ -3084,6 +3084,9 @@
         "name": "markunread-mailbox"
     },
     {
+        "name": "massage"
+    },
+    {
         "name": "media-link"
     },
     {
@@ -3177,7 +3180,64 @@
         "name": "mms"
     },
     {
+        "name": "mobile"
+    },
+    {
+        "name": "mobile-2"
+    },
+    {
+        "name": "mobile-3"
+    },
+    {
+        "name": "mobile-alert"
+    },
+    {
+        "name": "mobile-arrow-down"
+    },
+    {
+        "name": "mobile-arrow-right"
+    },
+    {
+        "name": "mobile-arrow-up-right"
+    },
+    {
+        "name": "mobile-block"
+    },
+    {
+        "name": "mobile-camera"
+    },
+    {
+        "name": "mobile-camera-front"
+    },
+    {
+        "name": "mobile-camera-rear"
+    },
+    {
+        "name": "mobile-cancel"
+    },
+    {
+        "name": "mobile-cast"
+    },
+    {
+        "name": "mobile-charge"
+    },
+    {
+        "name": "mobile-chat"
+    },
+    {
+        "name": "mobile-check"
+    },
+    {
+        "name": "mobile-code"
+    },
+    {
+        "name": "mobile-dots"
+    },
+    {
         "name": "mobile-friendly"
+    },
+    {
+        "name": "mobile-gear"
     },
     {
         "name": "mobile-hand"
@@ -3192,10 +3252,37 @@
         "name": "mobile-hand-off"
     },
     {
+        "name": "mobile-info"
+    },
+    {
+        "name": "mobile-landscape"
+    },
+    {
+        "name": "mobile-layout"
+    },
+    {
+        "name": "mobile-lock-landscape"
+    },
+    {
+        "name": "mobile-lock-portrait"
+    },
+    {
         "name": "mobile-loupe"
     },
     {
+        "name": "mobile-menu"
+    },
+    {
         "name": "mobile-off"
+    },
+    {
+        "name": "mobile-question"
+    },
+    {
+        "name": "mobile-rotate"
+    },
+    {
+        "name": "mobile-rotate-lock"
     },
     {
         "name": "mobile-screen-share"
@@ -3204,10 +3291,40 @@
         "name": "mobile-screensaver"
     },
     {
+        "name": "mobile-sensor-hi"
+    },
+    {
+        "name": "mobile-sensor-lo"
+    },
+    {
+        "name": "mobile-share"
+    },
+    {
+        "name": "mobile-share-stack"
+    },
+    {
+        "name": "mobile-sound"
+    },
+    {
         "name": "mobile-sound-2"
     },
     {
+        "name": "mobile-sound-off"
+    },
+    {
         "name": "mobile-speaker"
+    },
+    {
+        "name": "mobile-text"
+    },
+    {
+        "name": "mobile-text-2"
+    },
+    {
+        "name": "mobile-ticket"
+    },
+    {
+        "name": "mobile-vibrate"
     },
     {
         "name": "mode-comment"
@@ -3658,6 +3775,9 @@
     },
     {
         "name": "pause-presentation"
+    },
+    {
+        "name": "payment-arrow-down"
     },
     {
         "name": "payments"
@@ -5440,6 +5560,9 @@
     },
     {
         "name": "vignette"
+    },
+    {
+        "name": "vignette-2"
     },
     {
         "name": "visibility-lock"
