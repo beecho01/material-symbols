@@ -1119,6 +1119,9 @@
         "name": "badge"
     },
     {
+        "name": "badminton"
+    },
+    {
         "name": "bakery-dining"
     },
     {
@@ -1992,9 +1995,6 @@
         "name": "charger"
     },
     {
-        "name": "charging-station"
-    },
-    {
         "name": "chart-data"
     },
     {
@@ -2032,6 +2032,9 @@
     },
     {
         "name": "check-circle"
+    },
+    {
+        "name": "check-circle-unread"
     },
     {
         "name": "check-in-out"
@@ -2839,9 +2842,6 @@
     },
     {
         "name": "developer-guide"
-    },
-    {
-        "name": "developer-mode"
     },
     {
         "name": "developer-mode-tv"
@@ -6159,25 +6159,7 @@
         "name": "mobile-alert"
     },
     {
-        "name": "mobile-arrow-down"
-    },
-    {
-        "name": "mobile-arrow-right"
-    },
-    {
-        "name": "mobile-arrow-up-right"
-    },
-    {
-        "name": "mobile-block"
-    },
-    {
         "name": "mobile-camera"
-    },
-    {
-        "name": "mobile-camera-front"
-    },
-    {
-        "name": "mobile-camera-rear"
     },
     {
         "name": "mobile-cancel"
@@ -6243,31 +6225,16 @@
         "name": "mobile-off"
     },
     {
-        "name": "mobile-question"
-    },
-    {
         "name": "mobile-rotate"
     },
     {
         "name": "mobile-rotate-lock"
     },
     {
-        "name": "mobile-screen-share"
-    },
-    {
         "name": "mobile-screensaver"
     },
     {
-        "name": "mobile-sensor-hi"
-    },
-    {
-        "name": "mobile-sensor-lo"
-    },
-    {
         "name": "mobile-share"
-    },
-    {
-        "name": "mobile-share-stack"
     },
     {
         "name": "mobile-sound"
@@ -6282,16 +6249,7 @@
         "name": "mobile-speaker"
     },
     {
-        "name": "mobile-text"
-    },
-    {
-        "name": "mobile-text-2"
-    },
-    {
-        "name": "mobile-ticket"
-    },
-    {
-        "name": "mobile-vibrate"
+        "name": "mobile-wrench"
     },
     {
         "name": "mobiledata-off"
@@ -6499,6 +6457,9 @@
     },
     {
         "name": "movie-off"
+    },
+    {
+        "name": "movie-speaker"
     },
     {
         "name": "moving"
@@ -7128,6 +7089,9 @@
         "name": "padding"
     },
     {
+        "name": "padel"
+    },
+    {
         "name": "page-control"
     },
     {
@@ -7284,9 +7248,6 @@
         "name": "perm-data-setting"
     },
     {
-        "name": "perm-device-information"
-    },
-    {
         "name": "perm-media"
     },
     {
@@ -7392,9 +7353,6 @@
         "name": "phishing"
     },
     {
-        "name": "phone-android"
-    },
-    {
         "name": "phone-bluetooth-speaker"
     },
     {
@@ -7416,9 +7374,6 @@
         "name": "phone-in-talk-watchface-indicator"
     },
     {
-        "name": "phone-iphone"
-    },
-    {
         "name": "phone-locked"
     },
     {
@@ -7428,19 +7383,7 @@
         "name": "phone-paused"
     },
     {
-        "name": "phonelink-erase"
-    },
-    {
         "name": "phonelink-lock"
-    },
-    {
-        "name": "phonelink-ring"
-    },
-    {
-        "name": "phonelink-ring-off"
-    },
-    {
-        "name": "phonelink-setup"
     },
     {
         "name": "photo-album"
@@ -7483,6 +7426,9 @@
     },
     {
         "name": "piano-off"
+    },
+    {
+        "name": "pickleball"
     },
     {
         "name": "picture-as-pdf"
@@ -7567,6 +7513,9 @@
     },
     {
         "name": "plagiarism"
+    },
+    {
+        "name": "plane-contrails"
     },
     {
         "name": "planet"
@@ -8394,19 +8343,7 @@
         "name": "screen-attention-off"
     },
     {
-        "name": "screen-lock-landscape"
-    },
-    {
-        "name": "screen-lock-portrait"
-    },
-    {
-        "name": "screen-lock-rotation"
-    },
-    {
         "name": "screen-record"
-    },
-    {
-        "name": "screen-rotation"
     },
     {
         "name": "screen-rotation-alt"
@@ -8512,12 +8449,6 @@
     },
     {
         "name": "security-pro-monitoring"
-    },
-    {
-        "name": "security-update-good"
-    },
-    {
-        "name": "security-update-warning"
     },
     {
         "name": "segment"
@@ -8670,9 +8601,6 @@
         "name": "settings-brightness"
     },
     {
-        "name": "settings-cell"
-    },
-    {
         "name": "settings-cinematic-blur"
     },
     {
@@ -8815,6 +8743,9 @@
     },
     {
         "name": "shield-spark"
+    },
+    {
+        "name": "shield-toggle"
     },
     {
         "name": "shield-watch"
@@ -9063,19 +8994,10 @@
         "name": "smart-outlet"
     },
     {
-        "name": "smart-screen"
-    },
-    {
         "name": "smart-toy"
     },
     {
         "name": "smart-ventilation"
-    },
-    {
-        "name": "smartphone"
-    },
-    {
-        "name": "smartphone-camera"
     },
     {
         "name": "smb-share"
@@ -9271,6 +9193,9 @@
     },
     {
         "name": "split-scene-left"
+    },
+    {
+        "name": "split-scene-right"
     },
     {
         "name": "split-scene-up"
@@ -9495,9 +9420,6 @@
         "name": "stateful"
     },
     {
-        "name": "stay-current-landscape"
-    },
-    {
         "name": "steering-wheel-heat"
     },
     {
@@ -9571,9 +9493,6 @@
     },
     {
         "name": "stream"
-    },
-    {
-        "name": "stream-apps"
     },
     {
         "name": "streetview"
@@ -9930,9 +9849,6 @@
         "name": "tamper-detection-on"
     },
     {
-        "name": "tap-and-play"
-    },
-    {
         "name": "tapas"
     },
     {
@@ -10140,6 +10056,9 @@
         "name": "timer"
     },
     {
+        "name": "timer-1"
+    },
+    {
         "name": "timer-10"
     },
     {
@@ -10147,6 +10066,9 @@
     },
     {
         "name": "timer-10-select"
+    },
+    {
+        "name": "timer-2"
     },
     {
         "name": "timer-3"

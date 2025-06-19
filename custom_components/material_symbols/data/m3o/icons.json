@@ -660,6 +660,9 @@
         "name": "badge"
     },
     {
+        "name": "badminton"
+    },
+    {
         "name": "bakery-dining"
     },
     {
@@ -1267,6 +1270,9 @@
     },
     {
         "name": "check-circle"
+    },
+    {
+        "name": "check-circle-unread"
     },
     {
         "name": "checkbook"
@@ -3996,25 +4002,7 @@
         "name": "mobile-alert"
     },
     {
-        "name": "mobile-arrow-down"
-    },
-    {
-        "name": "mobile-arrow-right"
-    },
-    {
-        "name": "mobile-arrow-up-right"
-    },
-    {
-        "name": "mobile-block"
-    },
-    {
         "name": "mobile-camera"
-    },
-    {
-        "name": "mobile-camera-front"
-    },
-    {
-        "name": "mobile-camera-rear"
     },
     {
         "name": "mobile-cancel"
@@ -4080,9 +4068,6 @@
         "name": "mobile-off"
     },
     {
-        "name": "mobile-question"
-    },
-    {
         "name": "mobile-rotate"
     },
     {
@@ -4095,16 +4080,7 @@
         "name": "mobile-screensaver"
     },
     {
-        "name": "mobile-sensor-hi"
-    },
-    {
-        "name": "mobile-sensor-lo"
-    },
-    {
         "name": "mobile-share"
-    },
-    {
-        "name": "mobile-share-stack"
     },
     {
         "name": "mobile-sound"
@@ -4119,16 +4095,7 @@
         "name": "mobile-speaker"
     },
     {
-        "name": "mobile-text"
-    },
-    {
-        "name": "mobile-text-2"
-    },
-    {
-        "name": "mobile-ticket"
-    },
-    {
-        "name": "mobile-vibrate"
+        "name": "mobile-wrench"
     },
     {
         "name": "mode-comment"
@@ -4258,6 +4225,9 @@
     },
     {
         "name": "movie-off"
+    },
+    {
+        "name": "movie-speaker"
     },
     {
         "name": "moving-beds"
@@ -4689,6 +4659,9 @@
         "name": "padding"
     },
     {
+        "name": "padel"
+    },
+    {
         "name": "page-footer"
     },
     {
@@ -4966,6 +4939,9 @@
     },
     {
         "name": "physical-therapy"
+    },
+    {
+        "name": "pickleball"
     },
     {
         "name": "picture-as-pdf"
@@ -5782,6 +5758,9 @@
     },
     {
         "name": "shield-spark"
+    },
+    {
+        "name": "shield-toggle"
     },
     {
         "name": "shield-watch"
@@ -6655,6 +6634,9 @@
     },
     {
         "name": "toll"
+    },
+    {
+        "name": "tonality"
     },
     {
         "name": "tonality-2"

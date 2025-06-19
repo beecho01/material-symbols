@@ -966,6 +966,9 @@
         "name": "badge"
     },
     {
+        "name": "badminton"
+    },
+    {
         "name": "balance"
     },
     {
@@ -1768,6 +1771,9 @@
     },
     {
         "name": "check-circle"
+    },
+    {
+        "name": "check-circle-unread"
     },
     {
         "name": "check-in-out"
@@ -5334,22 +5340,7 @@
         "name": "mobile-alert"
     },
     {
-        "name": "mobile-arrow-down"
-    },
-    {
-        "name": "mobile-arrow-right"
-    },
-    {
-        "name": "mobile-arrow-up-right"
-    },
-    {
         "name": "mobile-camera"
-    },
-    {
-        "name": "mobile-camera-front"
-    },
-    {
-        "name": "mobile-camera-rear"
     },
     {
         "name": "mobile-cancel"
@@ -5400,9 +5391,6 @@
         "name": "mobile-off"
     },
     {
-        "name": "mobile-question"
-    },
-    {
         "name": "mobile-rotate"
     },
     {
@@ -5415,16 +5403,7 @@
         "name": "mobile-screensaver"
     },
     {
-        "name": "mobile-sensor-hi"
-    },
-    {
-        "name": "mobile-sensor-lo"
-    },
-    {
         "name": "mobile-share"
-    },
-    {
-        "name": "mobile-share-stack"
     },
     {
         "name": "mobile-sound"
@@ -5439,16 +5418,7 @@
         "name": "mobile-speaker"
     },
     {
-        "name": "mobile-text"
-    },
-    {
-        "name": "mobile-text-2"
-    },
-    {
-        "name": "mobile-ticket"
-    },
-    {
-        "name": "mobile-vibrate"
+        "name": "mobile-wrench"
     },
     {
         "name": "mobiledata-off"
@@ -5620,6 +5590,9 @@
     },
     {
         "name": "movie-off"
+    },
+    {
+        "name": "movie-speaker"
     },
     {
         "name": "moving"
@@ -6099,10 +6072,16 @@
         "name": "oxygen-saturation"
     },
     {
+        "name": "p2p"
+    },
+    {
         "name": "pace"
     },
     {
         "name": "package"
+    },
+    {
+        "name": "padel"
     },
     {
         "name": "page-footer"
@@ -6399,6 +6378,9 @@
         "name": "piano-off"
     },
     {
+        "name": "pickleball"
+    },
+    {
         "name": "picture-as-pdf"
     },
     {
@@ -6469,6 +6451,9 @@
     },
     {
         "name": "plagiarism"
+    },
+    {
+        "name": "plane-contrails"
     },
     {
         "name": "planet"
@@ -7551,6 +7536,9 @@
         "name": "shield-spark"
     },
     {
+        "name": "shield-toggle"
+    },
+    {
         "name": "shield-watch"
     },
     {
@@ -7948,6 +7936,9 @@
     },
     {
         "name": "split-scene-left"
+    },
+    {
+        "name": "split-scene-right"
     },
     {
         "name": "split-scene-up"
@@ -8670,6 +8661,9 @@
         "name": "timer"
     },
     {
+        "name": "timer-1"
+    },
+    {
         "name": "timer-10"
     },
     {
@@ -8677,6 +8671,9 @@
     },
     {
         "name": "timer-10-select"
+    },
+    {
+        "name": "timer-2"
     },
     {
         "name": "timer-3"
