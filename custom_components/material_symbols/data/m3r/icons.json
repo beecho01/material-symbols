@@ -600,10 +600,16 @@
         "name": "batch-prediction"
     },
     {
+        "name": "bath-bedrock"
+    },
+    {
         "name": "bath-outdoor"
     },
     {
         "name": "bath-private"
+    },
+    {
+        "name": "bath-soak"
     },
     {
         "name": "bathroom"
@@ -676,6 +682,9 @@
     },
     {
         "name": "beenhere"
+    },
+    {
+        "name": "beer-meal"
     },
     {
         "name": "bia"
@@ -930,6 +939,9 @@
         "name": "calendar-clock"
     },
     {
+        "name": "calendar-meal"
+    },
+    {
         "name": "calendar-month"
     },
     {
@@ -1093,6 +1105,15 @@
     },
     {
         "name": "chair-alt"
+    },
+    {
+        "name": "chair-counter"
+    },
+    {
+        "name": "chair-fireplace"
+    },
+    {
+        "name": "chair-umbrella"
     },
     {
         "name": "chalet"
@@ -1669,6 +1690,12 @@
     },
     {
         "name": "digital-wellbeing"
+    },
+    {
+        "name": "dine-heart"
+    },
+    {
+        "name": "dine-lamp"
     },
     {
         "name": "dining"
@@ -2562,10 +2589,16 @@
         "name": "garage"
     },
     {
+        "name": "garage-check"
+    },
+    {
         "name": "garage-door"
     },
     {
         "name": "garage-home"
+    },
+    {
+        "name": "garage-money"
     },
     {
         "name": "garden-cart"
@@ -2662,6 +2695,12 @@
     },
     {
         "name": "hand-gesture-off"
+    },
+    {
+        "name": "hand-meal"
+    },
+    {
+        "name": "hand-package"
     },
     {
         "name": "handheld-controller"
@@ -2763,6 +2802,9 @@
         "name": "heart-plus"
     },
     {
+        "name": "heart-smile"
+    },
+    {
         "name": "heat-pump-balance"
     },
     {
@@ -2788,6 +2830,9 @@
     },
     {
         "name": "hide-source"
+    },
+    {
+        "name": "high-chair"
     },
     {
         "name": "high-density"
@@ -3031,6 +3076,12 @@
     },
     {
         "name": "jamboard-kiosk"
+    },
+    {
+        "name": "japanese-curry"
+    },
+    {
+        "name": "japanese-flag"
     },
     {
         "name": "kebab-dining"
@@ -3414,6 +3465,12 @@
         "name": "map"
     },
     {
+        "name": "map-pin-heart"
+    },
+    {
+        "name": "map-pin-review"
+    },
+    {
         "name": "map-search"
     },
     {
@@ -3490,6 +3547,9 @@
     },
     {
         "name": "menu-book"
+    },
+    {
+        "name": "menu-book-2"
     },
     {
         "name": "mic"
@@ -3690,6 +3750,9 @@
         "name": "moped"
     },
     {
+        "name": "moped-package"
+    },
+    {
         "name": "more"
     },
     {
@@ -3712,6 +3775,9 @@
     },
     {
         "name": "mountain-flag"
+    },
+    {
+        "name": "mountain-steam"
     },
     {
         "name": "mouse-lock-off"
@@ -3999,6 +4065,9 @@
         "name": "oil-barrel"
     },
     {
+        "name": "okonomiyaki"
+    },
+    {
         "name": "on-device-training"
     },
     {
@@ -4125,6 +4194,15 @@
         "name": "park"
     },
     {
+        "name": "parking-meter"
+    },
+    {
+        "name": "parking-sign"
+    },
+    {
+        "name": "parking-valet"
+    },
+    {
         "name": "partly-cloudy-day"
     },
     {
@@ -4150,6 +4228,9 @@
     },
     {
         "name": "payment-arrow-down"
+    },
+    {
+        "name": "payment-card"
     },
     {
         "name": "payments"
@@ -4222,6 +4303,9 @@
     },
     {
         "name": "person-edit"
+    },
+    {
+        "name": "person-heart"
     },
     {
         "name": "person-off"
@@ -4414,6 +4498,12 @@
     },
     {
         "name": "play-shapes"
+    },
+    {
+        "name": "playground"
+    },
+    {
+        "name": "playground-2"
     },
     {
         "name": "playing-cards"
@@ -5511,6 +5601,9 @@
         "name": "subway"
     },
     {
+        "name": "subway-walk"
+    },
+    {
         "name": "summarize"
     },
     {
@@ -5668,6 +5761,9 @@
     },
     {
         "name": "table-lamp"
+    },
+    {
+        "name": "table-large"
     },
     {
         "name": "table-restaurant"
@@ -6255,6 +6351,9 @@
         "name": "wash"
     },
     {
+        "name": "washoku"
+    },
+    {
         "name": "watch"
     },
     {
@@ -6427,6 +6526,9 @@
     },
     {
         "name": "yard"
+    },
+    {
+        "name": "yoshoku"
     },
     {
         "name": "your-trips"

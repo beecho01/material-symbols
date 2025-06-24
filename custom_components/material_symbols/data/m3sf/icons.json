@@ -543,10 +543,16 @@
         "name": "batch-prediction"
     },
     {
+        "name": "bath-bedrock"
+    },
+    {
         "name": "bath-private"
     },
     {
         "name": "bath-public-large"
+    },
+    {
+        "name": "bath-soak"
     },
     {
         "name": "bathroom"
@@ -691,6 +697,9 @@
     },
     {
         "name": "beenhere"
+    },
+    {
+        "name": "beer-meal"
     },
     {
         "name": "bento"
@@ -897,6 +906,9 @@
         "name": "calendar-clock"
     },
     {
+        "name": "calendar-meal"
+    },
+    {
         "name": "calendar-month"
     },
     {
@@ -1081,6 +1093,15 @@
     },
     {
         "name": "chair-alt"
+    },
+    {
+        "name": "chair-counter"
+    },
+    {
+        "name": "chair-fireplace"
+    },
+    {
+        "name": "chair-umbrella"
     },
     {
         "name": "charging-station"
@@ -1582,6 +1603,15 @@
     },
     {
         "name": "digital-out-of-home"
+    },
+    {
+        "name": "dine-heart"
+    },
+    {
+        "name": "dine-in"
+    },
+    {
+        "name": "dine-lamp"
     },
     {
         "name": "dining"
@@ -2352,6 +2382,12 @@
         "name": "garage"
     },
     {
+        "name": "garage-check"
+    },
+    {
+        "name": "garage-money"
+    },
+    {
         "name": "garden-cart"
     },
     {
@@ -2431,6 +2467,12 @@
     },
     {
         "name": "hand-gesture-off"
+    },
+    {
+        "name": "hand-meal"
+    },
+    {
+        "name": "hand-package"
     },
     {
         "name": "handshake"
@@ -2533,6 +2575,9 @@
     },
     {
         "name": "hide-image"
+    },
+    {
+        "name": "high-chair"
     },
     {
         "name": "high-quality"
@@ -3051,6 +3096,12 @@
         "name": "map"
     },
     {
+        "name": "map-pin-heart"
+    },
+    {
+        "name": "map-pin-review"
+    },
+    {
         "name": "map-search"
     },
     {
@@ -3121,6 +3172,9 @@
     },
     {
         "name": "menu-book"
+    },
+    {
+        "name": "menu-book-2"
     },
     {
         "name": "merge"
@@ -3328,6 +3382,9 @@
     },
     {
         "name": "moped"
+    },
+    {
+        "name": "moped-package"
     },
     {
         "name": "more"
@@ -3735,6 +3792,15 @@
         "name": "panorama-vertical"
     },
     {
+        "name": "parking-meter"
+    },
+    {
+        "name": "parking-sign"
+    },
+    {
+        "name": "parking-valet"
+    },
+    {
         "name": "partner-reports"
     },
     {
@@ -3973,6 +4039,12 @@
     },
     {
         "name": "play-pass"
+    },
+    {
+        "name": "playground"
+    },
+    {
+        "name": "playground-2"
     },
     {
         "name": "playing-cards"
@@ -5728,6 +5800,9 @@
     },
     {
         "name": "yard"
+    },
+    {
+        "name": "yoshoku"
     },
     {
         "name": "your-trips"
