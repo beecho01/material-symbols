@@ -165,11 +165,22 @@ Join the discussion on the [Home Assistant Community Forum](https://community.ho
 <img src="https://raw.githubusercontent.com/beecho01/material-symbols/refs/heads/main/docs/assets/images/Line.svg" alt="line break" width="100%" height="3px">
 
 ## <a name="troubleshooting"></a>Troubleshooting
-#### <a name="icons-not-showing"></a>Icons Not Showing?
- - **Clear Browser Cache**: If icons are not displaying, clear your browser cache and reload the Home Assistant interface.
- - **Restart Home Assistant**: Ensure you've restarted Home Assistant after installing the integration.
- - **Check Installation**: Verify that the integration is installed correctly and that the icons are in the right directories.
- - **Mobile Application**: Unfortunately, clearing the application cache isnt a sure-fire way to remove the existing cached icons. It has been suggested on the Community Forum thread [here](https://community.home-assistant.io/t/icons-doesnt-display-on-app/251852/15), that uninstalling the application and re-installing is the most likely way to get them to show correctly.  
+### <a name="icons-not-showing"></a>Icons Not Showing?
+
+#### <ins>If you're seeing this issue in the desktop browser:</ins>
+- **Try clearing browser cache using developer tools** - With developer tools open (`F12`/`CTRL` + `SHIFT` + `I`/`CMD` `SHIFT` `I`), right click on the browser reload button and click `Empty Cache and Hard Reload`. If this option isn't available, you can also try `SHIFT` clicking on the reload button, `CTRL` + `F5`, or `CTRL` + `SHIFT` + `R`.
+- **Try clearing browser cache using browser history** - This can vary by browser but [this page](https://servicenow.iu.edu/kb?id=kb_article_view&sysparm_article=KB0025251) has good instructions for various browsers. Generally speaking, you have to navigate to your browser history , click `Delete browsing data`, and then clear `Cached images and files` (Do not clear cookies and other site data, it will log you out of everything).
+
+#### <ins>If you're seeing this issue in the Android companion app:</ins>
+As of [2025.4.3](https://github.com/home-assistant/android/releases/tag/2025.4.3), the Home Assistant Android companion app has a new internal option to clear app cache. 
+
+Within the app navigate to `Settings`, `Companion app`, scroll all the way down to the `Need help?` section near the bottom, click `Troubleshooting`, and then click `Reset frontend cache`. Then stop the app, optionally clear app cache via Android settings, and then re-open the app.
+
+#### <ins>If you're seeing this issue in the iPhone companion app:</ins>
+Within the app navigate to `Settings`, `Companion app`, `Debugging`, and then click `Reset frontend cache`. Then stop and re-open the app.
+
+#### <ins>If you're seeing this issue in the Fully Kiosk Browser app:</ins>
+Within the app swipe from the left edge to open the Fully Kiosk Browser sidebar menu, click `Privacy Check`, toggle on `Cache`, click `Delete`, and then click `Goto Start URL`.
 
 <img src="https://raw.githubusercontent.com/beecho01/material-symbols/refs/heads/main/docs/assets/images/Line.svg" alt="line break" width="100%" height="3px">
 
@@ -182,6 +193,7 @@ Contributions are welcome! Feel free to submit pull requests.
 ## <a name="thanks"></a>Thanks
 - Big thanks to [@vigonotion](https://github.com/vigonotion) and his repository [hass-simpleicons](https://github.com/vigonotion/hass-simpleicons) and [@thomasloven](https://github.com/thomasloven) for his repository [hass-fontawesome](https://github.com/thomasloven/hass-fontawesome), of which this integration and github repository is based.
 - Thanks to OpenAI and ChatGPT their LLM `01-preview` for assistance in resolving issues during development.
+- Thanks to [@Nerwyn](https://github.com/Nerwyn) for his inclusion of this repository in his repository, giving this project exposure. Furthermore, I have based the [Troubleshooting](#troubleshooting) cache clearing section based on his work in [Common Stuck Update Issues #12](https://github.com/Nerwyn/material-you-utilities/discussions/12).
 
 ### Stargazers
 <div align="left">
