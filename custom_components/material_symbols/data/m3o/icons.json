@@ -192,9 +192,6 @@
         "name": "ad-group-off"
     },
     {
-        "name": "ad-units"
-    },
-    {
         "name": "adaptive-audio-mic"
     },
     {
@@ -268,9 +265,6 @@
     },
     {
         "name": "add-row-below"
-    },
-    {
-        "name": "add-to-home-screen"
     },
     {
         "name": "add-to-queue"
@@ -405,9 +399,6 @@
         "name": "animated-images"
     },
     {
-        "name": "aod"
-    },
-    {
         "name": "aod-tablet"
     },
     {
@@ -421,9 +412,6 @@
     },
     {
         "name": "app-badging"
-    },
-    {
-        "name": "app-blocking"
     },
     {
         "name": "app-promo"
@@ -852,9 +840,6 @@
         "name": "book-6"
     },
     {
-        "name": "book-online"
-    },
-    {
         "name": "book-ribbon"
     },
     {
@@ -1092,16 +1077,10 @@
         "name": "camera-enhance"
     },
     {
-        "name": "camera-front"
-    },
-    {
         "name": "camera-indoor"
     },
     {
         "name": "camera-outdoor"
-    },
-    {
-        "name": "camera-rear"
     },
     {
         "name": "camera-roll"
@@ -1854,9 +1833,6 @@
         "name": "device-band"
     },
     {
-        "name": "device-unknown"
-    },
-    {
         "name": "devices"
     },
     {
@@ -2161,12 +2137,6 @@
     },
     {
         "name": "eda"
-    },
-    {
-        "name": "edgesensor-high"
-    },
-    {
-        "name": "edgesensor-low"
     },
     {
         "name": "edit"
@@ -2965,6 +2935,9 @@
     },
     {
         "name": "google-travel"
+    },
+    {
+        "name": "google-tv-remote"
     },
     {
         "name": "google-wifi"
@@ -4062,7 +4035,25 @@
         "name": "mobile-alert"
     },
     {
+        "name": "mobile-arrow-down"
+    },
+    {
+        "name": "mobile-arrow-right"
+    },
+    {
+        "name": "mobile-arrow-up-right"
+    },
+    {
+        "name": "mobile-block"
+    },
+    {
         "name": "mobile-camera"
+    },
+    {
+        "name": "mobile-camera-front"
+    },
+    {
+        "name": "mobile-camera-rear"
     },
     {
         "name": "mobile-cancel"
@@ -4128,6 +4119,9 @@
         "name": "mobile-off"
     },
     {
+        "name": "mobile-question"
+    },
+    {
         "name": "mobile-rotate"
     },
     {
@@ -4140,7 +4134,16 @@
         "name": "mobile-screensaver"
     },
     {
+        "name": "mobile-sensor-hi"
+    },
+    {
+        "name": "mobile-sensor-lo"
+    },
+    {
         "name": "mobile-share"
+    },
+    {
+        "name": "mobile-share-stack"
     },
     {
         "name": "mobile-sound"
@@ -4153,6 +4156,18 @@
     },
     {
         "name": "mobile-speaker"
+    },
+    {
+        "name": "mobile-text"
+    },
+    {
+        "name": "mobile-text-2"
+    },
+    {
+        "name": "mobile-ticket"
+    },
+    {
+        "name": "mobile-vibrate"
     },
     {
         "name": "mobile-wrench"
@@ -4392,6 +4407,21 @@
         "name": "nest-eco-leaf"
     },
     {
+        "name": "nest-farsight-cool"
+    },
+    {
+        "name": "nest-farsight-dual"
+    },
+    {
+        "name": "nest-farsight-eco"
+    },
+    {
+        "name": "nest-farsight-heat"
+    },
+    {
+        "name": "nest-farsight-seasonal"
+    },
+    {
         "name": "nest-farsight-weather"
     },
     {
@@ -4408,9 +4438,6 @@
     },
     {
         "name": "nest-multi-room"
-    },
-    {
-        "name": "nest-remote"
     },
     {
         "name": "nest-remote-comfort-sensor"
@@ -4618,9 +4645,6 @@
     },
     {
         "name": "offline-pin-off"
-    },
-    {
-        "name": "offline-share"
     },
     {
         "name": "oil-barrel"
@@ -5655,9 +5679,6 @@
         "name": "send-time-extension"
     },
     {
-        "name": "send-to-mobile"
-    },
-    {
         "name": "sensor-door"
     },
     {
@@ -6483,9 +6504,6 @@
         "name": "syringe"
     },
     {
-        "name": "system-update"
-    },
-    {
         "name": "tab"
     },
     {
@@ -7021,9 +7039,6 @@
     },
     {
         "name": "vertical-split"
-    },
-    {
-        "name": "vibration"
     },
     {
         "name": "video-call"

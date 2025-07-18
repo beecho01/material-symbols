@@ -3,7 +3,7 @@
      <h1 align="center">Material Symbols for Home Assistant</h1>
 </div>
 
-**Material Symbols for Home Assistant** is a collection of 14,404 Google Material Symbols for use within Home Assistant. It uses the icon-set produced and maintained by [iconify](https://github.com/iconify/icon-sets).
+**Material Symbols for Home Assistant** is a collection of 15,185 Google Material Symbols for use within Home Assistant. It uses the icon-set produced and maintained by [iconify](https://github.com/iconify/icon-sets).
 
 There is a [Icon Finder Tool](https://beecho01.github.io/material-symbols-iconfinder/) to help you select the correct icon. Simply type in what you're looking for, click the icon of choice, and the icon entry for home assistant will be copied to your clipboard (e.g., `m3o:light`). The copied text can be pasted for use in your YAML configuration or into you UI frontend interface.
 
@@ -44,7 +44,11 @@ There is a [Icon Finder Tool](https://beecho01.github.io/material-symbols-iconfi
     - [Example](#example)
 - [Community](#community)
 - [Troubleshooting](#troubleshooting)
-    - [Icons Not Showing?](#icons-not-showing)
+  - [Icons Not Showing?](#icons-not-showing)
+    - [If you're seeing this issue in the desktop browser:](#if-youre-seeing-this-issue-in-the-desktop-browser)
+    - [If you're seeing this issue in the Android companion app:](#if-youre-seeing-this-issue-in-the-android-companion-app)
+    - [If you're seeing this issue in the iPhone companion app:](#if-youre-seeing-this-issue-in-the-iphone-companion-app)
+    - [If you're seeing this issue in the Fully Kiosk Browser app:](#if-youre-seeing-this-issue-in-the-fully-kiosk-browser-app)
 - [Feedback and Contributions](#feedback-and-contributions)
 - [Thanks](#thanks)
   - [Stargazers](#stargazers)

@@ -57,24 +57,29 @@ def get_folder(name):
 # Export SVG files and collect icon names by folder
 def export_svgs(base_path, icons):
     icon_names_by_folder = {folder: set() for folder in set(FOLDERS.values())}
+    total_icon_count = 0
     for name, data in icons.items():
         svg_body = data["body"].replace('\"', '"')
         svg_content = f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">{svg_body}</svg>'
-        
+
         folder = get_folder(name)
         base_name = strip_suffix(name)
         file_path = os.path.join(base_path, folder, f"{base_name}.svg")
-        
+
         with open(file_path, "w") as svg_file:
             svg_file.write(svg_content)
         print(f"Exported {base_name}.svg to {folder}")
-    
+
         # Add the icon name to the set for JSON generation
-        icon_names_by_folder[folder].add(base_name)
-    
+        if base_name not in icon_names_by_folder[folder]:
+            total_icon_count += 1
+            icon_names_by_folder[folder].add(base_name)
+
     # Generate icons.json files for each folder
     for folder, icons in icon_names_by_folder.items():
         create_icon_json(base_path, folder, icons)
+
+    print(f"\nTotal unique icons exported: {total_icon_count}")
 
 # Create a JSON file listing all icons in a folder
 def create_icon_json(base_path, folder, icons):

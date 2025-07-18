@@ -165,9 +165,6 @@
         "name": "ad-group-off"
     },
     {
-        "name": "ad-units"
-    },
-    {
         "name": "add-a-photo"
     },
     {
@@ -199,9 +196,6 @@
     },
     {
         "name": "add-photo-alternate"
-    },
-    {
-        "name": "add-to-home-screen"
     },
     {
         "name": "add-to-queue"
@@ -258,9 +252,6 @@
         "name": "animated-images"
     },
     {
-        "name": "aod"
-    },
-    {
         "name": "aod-tablet"
     },
     {
@@ -268,9 +259,6 @@
     },
     {
         "name": "apk-install"
-    },
-    {
-        "name": "app-blocking"
     },
     {
         "name": "app-promo"
@@ -552,9 +540,6 @@
         "name": "book"
     },
     {
-        "name": "book-online"
-    },
-    {
         "name": "book-ribbon"
     },
     {
@@ -738,16 +723,10 @@
         "name": "camera-enhance"
     },
     {
-        "name": "camera-front"
-    },
-    {
         "name": "camera-indoor"
     },
     {
         "name": "camera-outdoor"
-    },
-    {
-        "name": "camera-rear"
     },
     {
         "name": "camera-roll"
@@ -1272,9 +1251,6 @@
         "name": "device-band"
     },
     {
-        "name": "device-unknown"
-    },
-    {
         "name": "devices"
     },
     {
@@ -1507,12 +1483,6 @@
     },
     {
         "name": "eda"
-    },
-    {
-        "name": "edgesensor-high"
-    },
-    {
-        "name": "edgesensor-low"
     },
     {
         "name": "edit"
@@ -2673,7 +2643,25 @@
         "name": "mobile-alert"
     },
     {
+        "name": "mobile-arrow-down"
+    },
+    {
+        "name": "mobile-arrow-right"
+    },
+    {
+        "name": "mobile-arrow-up-right"
+    },
+    {
+        "name": "mobile-block"
+    },
+    {
         "name": "mobile-camera"
+    },
+    {
+        "name": "mobile-camera-front"
+    },
+    {
+        "name": "mobile-camera-rear"
     },
     {
         "name": "mobile-cancel"
@@ -2739,6 +2727,9 @@
         "name": "mobile-off"
     },
     {
+        "name": "mobile-question"
+    },
+    {
         "name": "mobile-rotate"
     },
     {
@@ -2751,7 +2742,16 @@
         "name": "mobile-screensaver"
     },
     {
+        "name": "mobile-sensor-hi"
+    },
+    {
+        "name": "mobile-sensor-lo"
+    },
+    {
         "name": "mobile-share"
+    },
+    {
+        "name": "mobile-share-stack"
     },
     {
         "name": "mobile-sound"
@@ -2764,6 +2764,18 @@
     },
     {
         "name": "mobile-speaker"
+    },
+    {
+        "name": "mobile-text"
+    },
+    {
+        "name": "mobile-text-2"
+    },
+    {
+        "name": "mobile-ticket"
+    },
+    {
+        "name": "mobile-vibrate"
     },
     {
         "name": "mobile-wrench"
@@ -2998,9 +3010,6 @@
     },
     {
         "name": "odt"
-    },
-    {
-        "name": "offline-share"
     },
     {
         "name": "oil-barrel"
@@ -3651,9 +3660,6 @@
         "name": "send-time-extension"
     },
     {
-        "name": "send-to-mobile"
-    },
-    {
         "name": "sensor-door"
     },
     {
@@ -4119,9 +4125,6 @@
         "name": "syringe"
     },
     {
-        "name": "system-update"
-    },
-    {
         "name": "tab"
     },
     {
@@ -4441,9 +4444,6 @@
     },
     {
         "name": "vertical-split"
-    },
-    {
-        "name": "vibration"
     },
     {
         "name": "video-call"
