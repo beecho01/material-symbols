@@ -435,6 +435,15 @@
         "name": "arrow-selector-tool"
     },
     {
+        "name": "arrow-shape-up"
+    },
+    {
+        "name": "arrow-shape-up-stack"
+    },
+    {
+        "name": "arrow-shape-up-stack-2"
+    },
+    {
         "name": "art-track"
     },
     {
@@ -537,6 +546,9 @@
         "name": "auto-stories"
     },
     {
+        "name": "auto-stories-off"
+    },
+    {
         "name": "auto-timer"
     },
     {
@@ -553,6 +565,9 @@
     },
     {
         "name": "avg-time"
+    },
+    {
+        "name": "award-meal"
     },
     {
         "name": "award-star"
@@ -616,6 +631,9 @@
     },
     {
         "name": "battery-android-bolt"
+    },
+    {
+        "name": "battery-android-frame-shield"
     },
     {
         "name": "battery-android-plus"
@@ -828,6 +846,9 @@
         "name": "brick"
     },
     {
+        "name": "briefcase-meal"
+    },
+    {
         "name": "brightness-3"
     },
     {
@@ -874,6 +895,9 @@
     },
     {
         "name": "bubble-chart"
+    },
+    {
+        "name": "bucket-check"
     },
     {
         "name": "bug-report"
@@ -924,10 +948,19 @@
         "name": "calendar-apps-script"
     },
     {
+        "name": "calendar-check"
+    },
+    {
         "name": "calendar-clock"
     },
     {
+        "name": "calendar-lock"
+    },
+    {
         "name": "calendar-meal"
+    },
+    {
+        "name": "calendar-meal-2"
     },
     {
         "name": "calendar-month"
@@ -1167,10 +1200,37 @@
         "name": "chess"
     },
     {
+        "name": "chess-bishop"
+    },
+    {
+        "name": "chess-bishop-2"
+    },
+    {
+        "name": "chess-king"
+    },
+    {
+        "name": "chess-king-2"
+    },
+    {
+        "name": "chess-knight"
+    },
+    {
         "name": "chess-pawn"
     },
     {
+        "name": "chess-pawn-2"
+    },
+    {
+        "name": "chess-queen"
+    },
+    {
+        "name": "chess-rook"
+    },
+    {
         "name": "child-friendly"
+    },
+    {
+        "name": "child-hat"
     },
     {
         "name": "chrome-reader-mode"
@@ -1372,6 +1432,9 @@
     },
     {
         "name": "control-point-duplicate"
+    },
+    {
+        "name": "conversation"
     },
     {
         "name": "convert-to-text"
@@ -1834,6 +1897,9 @@
     },
     {
         "name": "drive-folder-upload"
+    },
+    {
+        "name": "drone"
     },
     {
         "name": "dropdown"
@@ -2664,6 +2730,9 @@
         "name": "hallway"
     },
     {
+        "name": "hanami-dango"
+    },
+    {
         "name": "hand-gesture"
     },
     {
@@ -2953,6 +3022,9 @@
     },
     {
         "name": "image-aspect-ratio"
+    },
+    {
+        "name": "image-inset"
     },
     {
         "name": "image-not-supported"
@@ -3429,6 +3501,9 @@
         "name": "mail-off"
     },
     {
+        "name": "mail-shield"
+    },
+    {
         "name": "manage-accounts"
     },
     {
@@ -3481,6 +3556,12 @@
     },
     {
         "name": "massage"
+    },
+    {
+        "name": "meal-dinner"
+    },
+    {
+        "name": "meal-lunch"
     },
     {
         "name": "measuring-tape"
@@ -3735,6 +3816,9 @@
         "name": "money-bag"
     },
     {
+        "name": "money-range"
+    },
+    {
         "name": "monitor-heart"
     },
     {
@@ -3978,9 +4062,6 @@
         "name": "nightlight-off"
     },
     {
-        "name": "nights-stay"
-    },
-    {
         "name": "no-backpack"
     },
     {
@@ -4188,6 +4269,9 @@
         "name": "page-info"
     },
     {
+        "name": "page-menu-ios"
+    },
+    {
         "name": "pages"
     },
     {
@@ -4212,6 +4296,9 @@
         "name": "paragliding"
     },
     {
+        "name": "parent-child-dining"
+    },
+    {
         "name": "park"
     },
     {
@@ -4227,7 +4314,13 @@
         "name": "partly-cloudy-day"
     },
     {
+        "name": "partly-cloudy-night"
+    },
+    {
         "name": "partner-exchange"
+    },
+    {
+        "name": "partner-heart"
     },
     {
         "name": "party-mode"
@@ -4264,6 +4357,9 @@
     },
     {
         "name": "pentagon"
+    },
+    {
+        "name": "percent-discount"
     },
     {
         "name": "performance-max"
@@ -4779,6 +4875,9 @@
         "name": "reset-brightness"
     },
     {
+        "name": "reset-exposure"
+    },
+    {
         "name": "reset-focus"
     },
     {
@@ -4810,6 +4909,9 @@
     },
     {
         "name": "responsive-layout"
+    },
+    {
+        "name": "rest-area"
     },
     {
         "name": "restore-from-trash"
@@ -5001,6 +5103,9 @@
         "name": "search-check-2"
     },
     {
+        "name": "search-gear"
+    },
+    {
         "name": "security-update-good"
     },
     {
@@ -5136,6 +5241,9 @@
         "name": "settings-remote"
     },
     {
+        "name": "settings-seating"
+    },
+    {
         "name": "settings-slow-motion"
     },
     {
@@ -5161,6 +5269,9 @@
     },
     {
         "name": "share-reviews"
+    },
+    {
+        "name": "shaved-ice"
     },
     {
         "name": "shelves"
@@ -5370,10 +5481,16 @@
         "name": "soap"
     },
     {
+        "name": "soba"
+    },
+    {
         "name": "social-leaderboard"
     },
     {
         "name": "solar-power"
+    },
+    {
+        "name": "solo-dining"
     },
     {
         "name": "sort-by-alpha"
@@ -5727,6 +5844,9 @@
         "name": "sync-saved-locally"
     },
     {
+        "name": "sync-saved-locally-off"
+    },
+    {
         "name": "syringe"
     },
     {
@@ -5784,6 +5904,9 @@
         "name": "table-restaurant"
     },
     {
+        "name": "table-sign"
+    },
+    {
         "name": "table-view"
     },
     {
@@ -5794,6 +5917,9 @@
     },
     {
         "name": "takeout-dining"
+    },
+    {
+        "name": "takeout-dining-2"
     },
     {
         "name": "tamper-detection-off"
@@ -5809,6 +5935,9 @@
     },
     {
         "name": "task"
+    },
+    {
+        "name": "tatami-seat"
     },
     {
         "name": "taxi-alert"
@@ -5860,6 +5989,9 @@
     },
     {
         "name": "thumb-up"
+    },
+    {
+        "name": "thumbs-up-double"
     },
     {
         "name": "thumbs-up-down"
@@ -6088,6 +6220,9 @@
     },
     {
         "name": "type-specimen"
+    },
+    {
+        "name": "udon"
     },
     {
         "name": "ulna-radius-alt"
@@ -6535,6 +6670,9 @@
     },
     {
         "name": "wrong-location"
+    },
+    {
+        "name": "yakitori"
     },
     {
         "name": "yard"

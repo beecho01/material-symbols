@@ -321,6 +321,42 @@
         "name": "analytics"
     },
     {
+        "name": "android-wifi-3-bar"
+    },
+    {
+        "name": "android-wifi-3-bar-alert"
+    },
+    {
+        "name": "android-wifi-3-bar-lock"
+    },
+    {
+        "name": "android-wifi-3-bar-off"
+    },
+    {
+        "name": "android-wifi-3-bar-plus"
+    },
+    {
+        "name": "android-wifi-3-bar-question"
+    },
+    {
+        "name": "android-wifi-4-bar"
+    },
+    {
+        "name": "android-wifi-4-bar-alert"
+    },
+    {
+        "name": "android-wifi-4-bar-lock"
+    },
+    {
+        "name": "android-wifi-4-bar-off"
+    },
+    {
+        "name": "android-wifi-4-bar-plus"
+    },
+    {
+        "name": "android-wifi-4-bar-question"
+    },
+    {
         "name": "animated-images"
     },
     {
@@ -465,6 +501,9 @@
         "name": "auto-stories"
     },
     {
+        "name": "auto-stories-off"
+    },
+    {
         "name": "auto-transmission"
     },
     {
@@ -594,7 +633,64 @@
         "name": "battery-android-6"
     },
     {
+        "name": "battery-android-alert"
+    },
+    {
+        "name": "battery-android-bolt"
+    },
+    {
+        "name": "battery-android-frame-1"
+    },
+    {
+        "name": "battery-android-frame-2"
+    },
+    {
+        "name": "battery-android-frame-3"
+    },
+    {
+        "name": "battery-android-frame-4"
+    },
+    {
+        "name": "battery-android-frame-5"
+    },
+    {
+        "name": "battery-android-frame-6"
+    },
+    {
+        "name": "battery-android-frame-alert"
+    },
+    {
+        "name": "battery-android-frame-bolt"
+    },
+    {
+        "name": "battery-android-frame-full"
+    },
+    {
+        "name": "battery-android-frame-plus"
+    },
+    {
+        "name": "battery-android-frame-question"
+    },
+    {
+        "name": "battery-android-frame-share"
+    },
+    {
+        "name": "battery-android-frame-shield"
+    },
+    {
         "name": "battery-android-full"
+    },
+    {
+        "name": "battery-android-plus"
+    },
+    {
+        "name": "battery-android-question"
+    },
+    {
+        "name": "battery-android-share"
+    },
+    {
+        "name": "battery-android-shield"
     },
     {
         "name": "battery-change"
@@ -819,6 +915,9 @@
         "name": "breaking-news-alt-1"
     },
     {
+        "name": "briefcase-meal"
+    },
+    {
         "name": "broadcast-on-home"
     },
     {
@@ -841,6 +940,9 @@
     },
     {
         "name": "bubbles"
+    },
+    {
+        "name": "bucket-check"
     },
     {
         "name": "build"
@@ -888,10 +990,19 @@
         "name": "calendar-apps-script"
     },
     {
+        "name": "calendar-check"
+    },
+    {
         "name": "calendar-clock"
     },
     {
+        "name": "calendar-lock"
+    },
+    {
         "name": "calendar-meal"
+    },
+    {
+        "name": "calendar-meal-2"
     },
     {
         "name": "calendar-month"
@@ -1134,6 +1245,24 @@
         "name": "chess"
     },
     {
+        "name": "chess-bishop"
+    },
+    {
+        "name": "chess-bishop-2"
+    },
+    {
+        "name": "chess-king"
+    },
+    {
+        "name": "chess-king-2"
+    },
+    {
+        "name": "chess-knight"
+    },
+    {
+        "name": "chess-rook"
+    },
+    {
         "name": "child-friendly"
     },
     {
@@ -1312,6 +1441,9 @@
     },
     {
         "name": "controller-gen"
+    },
+    {
+        "name": "conversation"
     },
     {
         "name": "convert-to-text"
@@ -1726,6 +1858,9 @@
     },
     {
         "name": "drive-folder-upload"
+    },
+    {
+        "name": "drone-2"
     },
     {
         "name": "dropdown"
@@ -2640,6 +2775,9 @@
         "name": "image-aspect-ratio"
     },
     {
+        "name": "image-inset"
+    },
+    {
         "name": "image-not-supported"
     },
     {
@@ -3051,6 +3189,9 @@
         "name": "mail-off"
     },
     {
+        "name": "mail-shield"
+    },
+    {
         "name": "man"
     },
     {
@@ -3112,6 +3253,12 @@
     },
     {
         "name": "massage"
+    },
+    {
+        "name": "meal-dinner"
+    },
+    {
+        "name": "meal-lunch"
     },
     {
         "name": "media-link"
@@ -3376,6 +3523,9 @@
     },
     {
         "name": "money"
+    },
+    {
+        "name": "money-range"
     },
     {
         "name": "monitor-heart"
@@ -3774,6 +3924,9 @@
         "name": "page-header"
     },
     {
+        "name": "page-menu-ios"
+    },
+    {
         "name": "pageless"
     },
     {
@@ -3802,6 +3955,9 @@
     },
     {
         "name": "panorama-vertical"
+    },
+    {
+        "name": "parent-child-dining"
     },
     {
         "name": "parking-meter"
@@ -4299,6 +4455,9 @@
         "name": "request-quote"
     },
     {
+        "name": "reset-exposure"
+    },
+    {
         "name": "reset-focus"
     },
     {
@@ -4312,6 +4471,9 @@
     },
     {
         "name": "respiratory-rate"
+    },
+    {
+        "name": "rest-area"
     },
     {
         "name": "restore-from-trash"
@@ -4626,6 +4788,9 @@
         "name": "share-windows"
     },
     {
+        "name": "shaved-ice"
+    },
+    {
         "name": "sheets-rtl"
     },
     {
@@ -4678,6 +4843,9 @@
     },
     {
         "name": "sign-language"
+    },
+    {
+        "name": "sign-language-2"
     },
     {
         "name": "signal-cellular-connected-no-internet-0-bar"
@@ -4771,6 +4939,12 @@
     },
     {
         "name": "soap"
+    },
+    {
+        "name": "soba"
+    },
+    {
+        "name": "solo-dining"
     },
     {
         "name": "sos"
@@ -5112,6 +5286,9 @@
         "name": "sync-saved-locally"
     },
     {
+        "name": "sync-saved-locally-off"
+    },
+    {
         "name": "syringe"
     },
     {
@@ -5184,6 +5361,9 @@
         "name": "table-rows-narrow"
     },
     {
+        "name": "table-sign"
+    },
+    {
         "name": "table-view"
     },
     {
@@ -5200,6 +5380,9 @@
     },
     {
         "name": "tabs"
+    },
+    {
+        "name": "takeout-dining-2"
     },
     {
         "name": "tamper-detection-off"
@@ -5257,6 +5440,9 @@
     },
     {
         "name": "thumbnail-bar"
+    },
+    {
+        "name": "thumbs-up-double"
     },
     {
         "name": "thumbs-up-down"
@@ -5775,6 +5961,9 @@
         "name": "window"
     },
     {
+        "name": "windshield-defrost-auto"
+    },
+    {
         "name": "windshield-defrost-rear"
     },
     {
@@ -5800,6 +5989,9 @@
     },
     {
         "name": "wysiwyg"
+    },
+    {
+        "name": "yakitori"
     },
     {
         "name": "yard"
