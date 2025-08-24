@@ -216,9 +216,6 @@
         "name": "ad-off"
     },
     {
-        "name": "ad-units"
-    },
-    {
         "name": "add-a-photo"
     },
     {
@@ -253,9 +250,6 @@
     },
     {
         "name": "add-shopping-cart"
-    },
-    {
-        "name": "add-to-home-screen"
     },
     {
         "name": "add-to-queue"
@@ -327,10 +321,43 @@
         "name": "analytics"
     },
     {
-        "name": "animated-images"
+        "name": "android-wifi-3-bar"
     },
     {
-        "name": "aod"
+        "name": "android-wifi-3-bar-alert"
+    },
+    {
+        "name": "android-wifi-3-bar-lock"
+    },
+    {
+        "name": "android-wifi-3-bar-off"
+    },
+    {
+        "name": "android-wifi-3-bar-plus"
+    },
+    {
+        "name": "android-wifi-3-bar-question"
+    },
+    {
+        "name": "android-wifi-4-bar"
+    },
+    {
+        "name": "android-wifi-4-bar-alert"
+    },
+    {
+        "name": "android-wifi-4-bar-lock"
+    },
+    {
+        "name": "android-wifi-4-bar-off"
+    },
+    {
+        "name": "android-wifi-4-bar-plus"
+    },
+    {
+        "name": "android-wifi-4-bar-question"
+    },
+    {
+        "name": "animated-images"
     },
     {
         "name": "aod-tablet"
@@ -340,9 +367,6 @@
     },
     {
         "name": "apk-install"
-    },
-    {
-        "name": "app-blocking"
     },
     {
         "name": "app-promo"
@@ -477,6 +501,9 @@
         "name": "auto-stories"
     },
     {
+        "name": "auto-stories-off"
+    },
+    {
         "name": "auto-transmission"
     },
     {
@@ -543,10 +570,16 @@
         "name": "batch-prediction"
     },
     {
+        "name": "bath-bedrock"
+    },
+    {
         "name": "bath-private"
     },
     {
         "name": "bath-public-large"
+    },
+    {
+        "name": "bath-soak"
     },
     {
         "name": "bathroom"
@@ -600,7 +633,64 @@
         "name": "battery-android-6"
     },
     {
+        "name": "battery-android-alert"
+    },
+    {
+        "name": "battery-android-bolt"
+    },
+    {
+        "name": "battery-android-frame-1"
+    },
+    {
+        "name": "battery-android-frame-2"
+    },
+    {
+        "name": "battery-android-frame-3"
+    },
+    {
+        "name": "battery-android-frame-4"
+    },
+    {
+        "name": "battery-android-frame-5"
+    },
+    {
+        "name": "battery-android-frame-6"
+    },
+    {
+        "name": "battery-android-frame-alert"
+    },
+    {
+        "name": "battery-android-frame-bolt"
+    },
+    {
+        "name": "battery-android-frame-full"
+    },
+    {
+        "name": "battery-android-frame-plus"
+    },
+    {
+        "name": "battery-android-frame-question"
+    },
+    {
+        "name": "battery-android-frame-share"
+    },
+    {
+        "name": "battery-android-frame-shield"
+    },
+    {
         "name": "battery-android-full"
+    },
+    {
+        "name": "battery-android-plus"
+    },
+    {
+        "name": "battery-android-question"
+    },
+    {
+        "name": "battery-android-share"
+    },
+    {
+        "name": "battery-android-shield"
     },
     {
         "name": "battery-change"
@@ -693,6 +783,9 @@
         "name": "beenhere"
     },
     {
+        "name": "beer-meal"
+    },
+    {
         "name": "bento"
     },
     {
@@ -733,9 +826,6 @@
     },
     {
         "name": "book"
-    },
-    {
-        "name": "book-online"
     },
     {
         "name": "book-ribbon"
@@ -825,6 +915,9 @@
         "name": "breaking-news-alt-1"
     },
     {
+        "name": "briefcase-meal"
+    },
+    {
         "name": "broadcast-on-home"
     },
     {
@@ -847,6 +940,9 @@
     },
     {
         "name": "bubbles"
+    },
+    {
+        "name": "bucket-check"
     },
     {
         "name": "build"
@@ -894,7 +990,19 @@
         "name": "calendar-apps-script"
     },
     {
+        "name": "calendar-check"
+    },
+    {
         "name": "calendar-clock"
+    },
+    {
+        "name": "calendar-lock"
+    },
+    {
+        "name": "calendar-meal"
+    },
+    {
+        "name": "calendar-meal-2"
     },
     {
         "name": "calendar-month"
@@ -930,16 +1038,10 @@
         "name": "camera-enhance"
     },
     {
-        "name": "camera-front"
-    },
-    {
         "name": "camera-indoor"
     },
     {
         "name": "camera-outdoor"
-    },
-    {
-        "name": "camera-rear"
     },
     {
         "name": "camera-roll"
@@ -972,7 +1074,10 @@
         "name": "car-defrost-low-right"
     },
     {
-        "name": "car-defrost-mid-low-left"
+        "name": "car-defrost-mid-left"
+    },
+    {
+        "name": "car-defrost-mid-low-right"
     },
     {
         "name": "car-defrost-mid-right"
@@ -1083,6 +1188,15 @@
         "name": "chair-alt"
     },
     {
+        "name": "chair-counter"
+    },
+    {
+        "name": "chair-fireplace"
+    },
+    {
+        "name": "chair-umbrella"
+    },
+    {
         "name": "charging-station"
     },
     {
@@ -1129,6 +1243,24 @@
     },
     {
         "name": "chess"
+    },
+    {
+        "name": "chess-bishop"
+    },
+    {
+        "name": "chess-bishop-2"
+    },
+    {
+        "name": "chess-king"
+    },
+    {
+        "name": "chess-king-2"
+    },
+    {
+        "name": "chess-knight"
+    },
+    {
+        "name": "chess-rook"
     },
     {
         "name": "child-friendly"
@@ -1309,6 +1441,9 @@
     },
     {
         "name": "controller-gen"
+    },
+    {
+        "name": "conversation"
     },
     {
         "name": "convert-to-text"
@@ -1545,9 +1680,6 @@
         "name": "device-band"
     },
     {
-        "name": "device-unknown"
-    },
-    {
         "name": "devices"
     },
     {
@@ -1582,6 +1714,15 @@
     },
     {
         "name": "digital-out-of-home"
+    },
+    {
+        "name": "dine-heart"
+    },
+    {
+        "name": "dine-in"
+    },
+    {
+        "name": "dine-lamp"
     },
     {
         "name": "dining"
@@ -1719,6 +1860,9 @@
         "name": "drive-folder-upload"
     },
     {
+        "name": "drone-2"
+    },
+    {
         "name": "dropdown"
     },
     {
@@ -1783,12 +1927,6 @@
     },
     {
         "name": "eda"
-    },
-    {
-        "name": "edgesensor-high"
-    },
-    {
-        "name": "edgesensor-low"
     },
     {
         "name": "edit"
@@ -2352,6 +2490,12 @@
         "name": "garage"
     },
     {
+        "name": "garage-check"
+    },
+    {
+        "name": "garage-money"
+    },
+    {
         "name": "garden-cart"
     },
     {
@@ -2431,6 +2575,12 @@
     },
     {
         "name": "hand-gesture-off"
+    },
+    {
+        "name": "hand-meal"
+    },
+    {
+        "name": "hand-package"
     },
     {
         "name": "handshake"
@@ -2535,6 +2685,9 @@
         "name": "hide-image"
     },
     {
+        "name": "high-chair"
+    },
+    {
         "name": "high-quality"
     },
     {
@@ -2620,6 +2773,9 @@
     },
     {
         "name": "image-aspect-ratio"
+    },
+    {
+        "name": "image-inset"
     },
     {
         "name": "image-not-supported"
@@ -3033,6 +3189,9 @@
         "name": "mail-off"
     },
     {
+        "name": "mail-shield"
+    },
+    {
         "name": "man"
     },
     {
@@ -3049,6 +3208,12 @@
     },
     {
         "name": "map"
+    },
+    {
+        "name": "map-pin-heart"
+    },
+    {
+        "name": "map-pin-review"
     },
     {
         "name": "map-search"
@@ -3090,6 +3255,12 @@
         "name": "massage"
     },
     {
+        "name": "meal-dinner"
+    },
+    {
+        "name": "meal-lunch"
+    },
+    {
         "name": "media-link"
     },
     {
@@ -3121,6 +3292,9 @@
     },
     {
         "name": "menu-book"
+    },
+    {
+        "name": "menu-book-2"
     },
     {
         "name": "merge"
@@ -3195,7 +3369,25 @@
         "name": "mobile-alert"
     },
     {
+        "name": "mobile-arrow-down"
+    },
+    {
+        "name": "mobile-arrow-right"
+    },
+    {
+        "name": "mobile-arrow-up-right"
+    },
+    {
+        "name": "mobile-block"
+    },
+    {
         "name": "mobile-camera"
+    },
+    {
+        "name": "mobile-camera-front"
+    },
+    {
+        "name": "mobile-camera-rear"
     },
     {
         "name": "mobile-cancel"
@@ -3261,6 +3453,9 @@
         "name": "mobile-off"
     },
     {
+        "name": "mobile-question"
+    },
+    {
         "name": "mobile-rotate"
     },
     {
@@ -3273,7 +3468,16 @@
         "name": "mobile-screensaver"
     },
     {
+        "name": "mobile-sensor-hi"
+    },
+    {
+        "name": "mobile-sensor-lo"
+    },
+    {
         "name": "mobile-share"
+    },
+    {
+        "name": "mobile-share-stack"
     },
     {
         "name": "mobile-sound"
@@ -3286,6 +3490,18 @@
     },
     {
         "name": "mobile-speaker"
+    },
+    {
+        "name": "mobile-text"
+    },
+    {
+        "name": "mobile-text-2"
+    },
+    {
+        "name": "mobile-ticket"
+    },
+    {
+        "name": "mobile-vibrate"
     },
     {
         "name": "mobile-wrench"
@@ -3309,6 +3525,9 @@
         "name": "money"
     },
     {
+        "name": "money-range"
+    },
+    {
         "name": "monitor-heart"
     },
     {
@@ -3328,6 +3547,9 @@
     },
     {
         "name": "moped"
+    },
+    {
+        "name": "moped-package"
     },
     {
         "name": "more"
@@ -3615,9 +3837,6 @@
         "name": "odt"
     },
     {
-        "name": "offline-share"
-    },
-    {
         "name": "oil-barrel"
     },
     {
@@ -3705,6 +3924,9 @@
         "name": "page-header"
     },
     {
+        "name": "page-menu-ios"
+    },
+    {
         "name": "pageless"
     },
     {
@@ -3733,6 +3955,18 @@
     },
     {
         "name": "panorama-vertical"
+    },
+    {
+        "name": "parent-child-dining"
+    },
+    {
+        "name": "parking-meter"
+    },
+    {
+        "name": "parking-sign"
+    },
+    {
+        "name": "parking-valet"
     },
     {
         "name": "partner-reports"
@@ -3975,6 +4209,12 @@
         "name": "play-pass"
     },
     {
+        "name": "playground"
+    },
+    {
+        "name": "playground-2"
+    },
+    {
         "name": "playing-cards"
     },
     {
@@ -4215,6 +4455,9 @@
         "name": "request-quote"
     },
     {
+        "name": "reset-exposure"
+    },
+    {
         "name": "reset-focus"
     },
     {
@@ -4228,6 +4471,9 @@
     },
     {
         "name": "respiratory-rate"
+    },
+    {
+        "name": "rest-area"
     },
     {
         "name": "restore-from-trash"
@@ -4455,9 +4701,6 @@
         "name": "send-time-extension"
     },
     {
-        "name": "send-to-mobile"
-    },
-    {
         "name": "sensor-door"
     },
     {
@@ -4545,6 +4788,9 @@
         "name": "share-windows"
     },
     {
+        "name": "shaved-ice"
+    },
+    {
         "name": "sheets-rtl"
     },
     {
@@ -4597,6 +4843,9 @@
     },
     {
         "name": "sign-language"
+    },
+    {
+        "name": "sign-language-2"
     },
     {
         "name": "signal-cellular-connected-no-internet-0-bar"
@@ -4690,6 +4939,12 @@
     },
     {
         "name": "soap"
+    },
+    {
+        "name": "soba"
+    },
+    {
+        "name": "solo-dining"
     },
     {
         "name": "sos"
@@ -5031,10 +5286,10 @@
         "name": "sync-saved-locally"
     },
     {
-        "name": "syringe"
+        "name": "sync-saved-locally-off"
     },
     {
-        "name": "system-update"
+        "name": "syringe"
     },
     {
         "name": "system-update-alt"
@@ -5106,6 +5361,9 @@
         "name": "table-rows-narrow"
     },
     {
+        "name": "table-sign"
+    },
+    {
         "name": "table-view"
     },
     {
@@ -5122,6 +5380,9 @@
     },
     {
         "name": "tabs"
+    },
+    {
+        "name": "takeout-dining-2"
     },
     {
         "name": "tamper-detection-off"
@@ -5179,6 +5440,9 @@
     },
     {
         "name": "thumbnail-bar"
+    },
+    {
+        "name": "thumbs-up-double"
     },
     {
         "name": "thumbs-up-down"
@@ -5431,9 +5695,6 @@
     },
     {
         "name": "vertical-split"
-    },
-    {
-        "name": "vibration"
     },
     {
         "name": "video-call"
@@ -5700,6 +5961,9 @@
         "name": "window"
     },
     {
+        "name": "windshield-defrost-auto"
+    },
+    {
         "name": "windshield-defrost-rear"
     },
     {
@@ -5727,7 +5991,13 @@
         "name": "wysiwyg"
     },
     {
+        "name": "yakitori"
+    },
+    {
         "name": "yard"
+    },
+    {
+        "name": "yoshoku"
     },
     {
         "name": "your-trips"

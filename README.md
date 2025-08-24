@@ -3,7 +3,7 @@
      <h1 align="center">Material Symbols for Home Assistant</h1>
 </div>
 
-**Material Symbols for Home Assistant** is a collection of 14,217 Google Material Symbols for use within Home Assistant. It uses the icon-set produced and maintained by [iconify](https://github.com/iconify/icon-sets).
+**Material Symbols for Home Assistant** is a collection of 15,556 Google Material Symbols for use within Home Assistant. It uses the icon-set produced and maintained by [iconify](https://github.com/iconify/icon-sets).
 
 There is a [Icon Finder Tool](https://beecho01.github.io/material-symbols-iconfinder/) to help you select the correct icon. Simply type in what you're looking for, click the icon of choice, and the icon entry for home assistant will be copied to your clipboard (e.g., `m3o:light`). The copied text can be pasted for use in your YAML configuration or into you UI frontend interface.
 
@@ -44,12 +44,11 @@ There is a [Icon Finder Tool](https://beecho01.github.io/material-symbols-iconfi
     - [Example](#example)
 - [Community](#community)
 - [Troubleshooting](#troubleshooting)
-    - [Icons Not Showing?](#icons-not-showing)
 - [Feedback and Contributions](#feedback-and-contributions)
 - [Thanks](#thanks)
   - [Stargazers](#stargazers)
-- [Copyright and License](#copyright-and-license)
-    - [License Summary](#license-summary)
+- [Copyright and Licence](#copyright-and-licence)
+    - [Licence Summary](#licence-summary)
 
 <img src="https://raw.githubusercontent.com/beecho01/material-symbols/refs/heads/main/docs/assets/images/Line.svg" alt="line break" width="100%" height="3px">
 
@@ -165,11 +164,20 @@ Join the discussion on the [Home Assistant Community Forum](https://community.ho
 <img src="https://raw.githubusercontent.com/beecho01/material-symbols/refs/heads/main/docs/assets/images/Line.svg" alt="line break" width="100%" height="3px">
 
 ## <a name="troubleshooting"></a>Troubleshooting
-#### <a name="icons-not-showing"></a>Icons Not Showing?
- - **Clear Browser Cache**: If icons are not displaying, clear your browser cache and reload the Home Assistant interface.
- - **Restart Home Assistant**: Ensure you've restarted Home Assistant after installing the integration.
- - **Check Installation**: Verify that the integration is installed correctly and that the icons are in the right directories.
- - **Mobile Application**: Unfortunately, clearing the application cache isnt a sure-fire way to remove the existing cached icons. It has been suggested on the Community Forum thread [here](https://community.home-assistant.io/t/icons-doesnt-display-on-app/251852/15), that uninstalling the application and re-installing is the most likely way to get them to show correctly.  
+
+If you're experiencing issues with icons not loading or displaying correctly, please refer to our comprehensive **[Troubleshooting Guide](TROUBLESHOOTING.md)**.
+
+The troubleshooting guide covers:
+- Icons not loading after page refresh
+- Mobile app compatibility issues  
+- Browser console debugging
+- Performance optimisation
+- Step-by-step debugging instructions
+
+For quick fixes:
+- **Clear browser cache** and hard refresh (Ctrl+Shift+R)
+- **Restart Home Assistant** after installation
+- Check that the integration shows as "Configured" in **Settings** → **Devices & Services**
 
 <img src="https://raw.githubusercontent.com/beecho01/material-symbols/refs/heads/main/docs/assets/images/Line.svg" alt="line break" width="100%" height="3px">
 
@@ -198,10 +206,10 @@ Contributions are welcome! Feel free to submit pull requests.
 
 <img src="https://raw.githubusercontent.com/beecho01/material-symbols/refs/heads/main/docs/assets/images/Line.svg" alt="line break" width="100%" height="3px">
 
-## <a name="copyright-and-license"></a>Copyright and License
-This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+## <a name="copyright-and-licence"></a>Copyright and Licence
+This work is licenced under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-#### <a name="license-summary"></a>License Summary
- - **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+#### <a name="licence-summary"></a>Licence Summary
+ - **Attribution**: You must give appropriate credit, provide a link to the licence, and indicate if changes were made.
  - **NonCommercial**: You may not use the material for commercial purposes.
- - **ShareAlike**: If you remix, transform, or build upon the material, you must distribute your contributions under the same license.
+ - **ShareAlike**: If you remix, transform, or build upon the material, you must distribute your contributions under the same licence.
