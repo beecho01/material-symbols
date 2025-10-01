@@ -852,6 +852,9 @@
         "name": "assignment-add"
     },
     {
+        "name": "assignment-globe"
+    },
+    {
         "name": "assignment-late"
     },
     {
@@ -1425,6 +1428,9 @@
         "name": "bookmark-remove"
     },
     {
+        "name": "bookmark-stacks"
+    },
+    {
         "name": "bookmark-star"
     },
     {
@@ -1921,6 +1927,9 @@
     },
     {
         "name": "chat-bubble"
+    },
+    {
+        "name": "chat-dashed"
     },
     {
         "name": "chat-error"
@@ -3369,6 +3378,9 @@
         "name": "familiar-face-and-zone"
     },
     {
+        "name": "family-group"
+    },
+    {
         "name": "family-history"
     },
     {
@@ -3613,6 +3625,9 @@
     },
     {
         "name": "fitness-tracker"
+    },
+    {
+        "name": "fitness-trackers"
     },
     {
         "name": "flag"
@@ -3996,6 +4011,12 @@
         "name": "fragrance"
     },
     {
+        "name": "frame-bug"
+    },
+    {
+        "name": "frame-exclamation"
+    },
+    {
         "name": "frame-inspect"
     },
     {
@@ -4357,6 +4378,9 @@
     },
     {
         "name": "hearing-disabled"
+    },
+    {
+        "name": "heart-arrow"
     },
     {
         "name": "heart-broken"
@@ -5352,6 +5376,9 @@
         "name": "mail"
     },
     {
+        "name": "mail-asterisk"
+    },
+    {
         "name": "mail-lock"
     },
     {
@@ -5709,7 +5736,13 @@
         "name": "mobile-text-2"
     },
     {
+        "name": "mobile-theft"
+    },
+    {
         "name": "mobile-ticket"
+    },
+    {
+        "name": "mobile-unlock"
     },
     {
         "name": "mobile-vibrate"
@@ -9739,6 +9772,9 @@
     },
     {
         "name": "watch-check"
+    },
+    {
+        "name": "watch-lock"
     },
     {
         "name": "watch-off"

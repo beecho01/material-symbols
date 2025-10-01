@@ -423,6 +423,9 @@
         "name": "assignment-add"
     },
     {
+        "name": "assignment-globe"
+    },
+    {
         "name": "assignment-ind"
     },
     {
@@ -1213,6 +1216,9 @@
     },
     {
         "name": "chat-bubble"
+    },
+    {
+        "name": "chat-dashed"
     },
     {
         "name": "chat-error"
@@ -2295,6 +2301,9 @@
         "name": "fitbit-hourly-activity"
     },
     {
+        "name": "fitness-trackers"
+    },
+    {
         "name": "flight-class"
     },
     {
@@ -2437,6 +2446,12 @@
     },
     {
         "name": "fragrance"
+    },
+    {
+        "name": "frame-bug"
+    },
+    {
+        "name": "frame-exclamation"
     },
     {
         "name": "frame-inspect"
@@ -3183,6 +3198,9 @@
         "name": "mail"
     },
     {
+        "name": "mail-asterisk"
+    },
+    {
         "name": "mail-lock"
     },
     {
@@ -3498,7 +3516,13 @@
         "name": "mobile-text-2"
     },
     {
+        "name": "mobile-theft"
+    },
+    {
         "name": "mobile-ticket"
+    },
+    {
+        "name": "mobile-unlock"
     },
     {
         "name": "mobile-vibrate"
@@ -5860,6 +5884,9 @@
     },
     {
         "name": "wash"
+    },
+    {
+        "name": "watch-lock"
     },
     {
         "name": "water-bottle"
