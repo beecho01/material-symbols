@@ -2022,6 +2022,9 @@
         "name": "chevron-left"
     },
     {
+        "name": "chevron-line-up"
+    },
+    {
         "name": "chevron-right"
     },
     {
@@ -6508,6 +6511,9 @@
     },
     {
         "name": "passkey"
+    },
+    {
+        "name": "passport"
     },
     {
         "name": "password"
