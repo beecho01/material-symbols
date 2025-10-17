@@ -444,6 +444,12 @@
         "name": "arrow-shape-up-stack-2"
     },
     {
+        "name": "arrows-left-right-circle"
+    },
+    {
+        "name": "arrows-up-down-circle"
+    },
+    {
         "name": "art-track"
     },
     {
@@ -577,6 +583,9 @@
     },
     {
         "name": "azm"
+    },
+    {
+        "name": "b-circle"
     },
     {
         "name": "back-hand"
@@ -2632,6 +2641,42 @@
     },
     {
         "name": "gallery-thumbnail"
+    },
+    {
+        "name": "game-bumper-left"
+    },
+    {
+        "name": "game-bumper-right"
+    },
+    {
+        "name": "game-button-l"
+    },
+    {
+        "name": "game-button-l1"
+    },
+    {
+        "name": "game-button-l2"
+    },
+    {
+        "name": "game-button-r"
+    },
+    {
+        "name": "game-button-r1"
+    },
+    {
+        "name": "game-button-r2"
+    },
+    {
+        "name": "game-button-zl"
+    },
+    {
+        "name": "game-button-zr"
+    },
+    {
+        "name": "game-trigger-left"
+    },
+    {
+        "name": "game-trigger-right"
     },
     {
         "name": "gamepad"
@@ -4860,6 +4905,9 @@
         "name": "rectangle"
     },
     {
+        "name": "rectangle-add"
+    },
+    {
         "name": "relax"
     },
     {
@@ -5628,6 +5676,9 @@
         "name": "square"
     },
     {
+        "name": "square-circle"
+    },
+    {
         "name": "stack"
     },
     {
@@ -6189,6 +6240,9 @@
         "name": "travel-luggage-and-bags"
     },
     {
+        "name": "triangle-circle"
+    },
+    {
         "name": "trolley"
     },
     {
@@ -6697,6 +6751,12 @@
     },
     {
         "name": "wrong-location"
+    },
+    {
+        "name": "x-circle"
+    },
+    {
+        "name": "y-circle"
     },
     {
         "name": "yakitori"

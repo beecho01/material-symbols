@@ -915,6 +915,9 @@
         "name": "arrows-input"
     },
     {
+        "name": "arrows-left-right-circle"
+    },
+    {
         "name": "arrows-more-down"
     },
     {
@@ -925,6 +928,9 @@
     },
     {
         "name": "arrows-outward"
+    },
+    {
+        "name": "arrows-up-down-circle"
     },
     {
         "name": "art-track"
@@ -1150,6 +1156,9 @@
     },
     {
         "name": "azm"
+    },
+    {
+        "name": "b-circle"
     },
     {
         "name": "baby-changing-station"
@@ -2311,6 +2320,9 @@
     },
     {
         "name": "circle"
+    },
+    {
+        "name": "circle-circle"
     },
     {
         "name": "circle-notifications"
@@ -4614,7 +4626,67 @@
         "name": "gallery-thumbnail"
     },
     {
+        "name": "game-bumper-left"
+    },
+    {
+        "name": "game-bumper-right"
+    },
+    {
+        "name": "game-button-l"
+    },
+    {
+        "name": "game-button-l1"
+    },
+    {
+        "name": "game-button-l2"
+    },
+    {
+        "name": "game-button-r"
+    },
+    {
+        "name": "game-button-r1"
+    },
+    {
+        "name": "game-button-r2"
+    },
+    {
+        "name": "game-button-zl"
+    },
+    {
+        "name": "game-button-zr"
+    },
+    {
+        "name": "game-trigger-left"
+    },
+    {
+        "name": "game-trigger-right"
+    },
+    {
         "name": "gamepad"
+    },
+    {
+        "name": "gamepad-circle-down"
+    },
+    {
+        "name": "gamepad-circle-left"
+    },
+    {
+        "name": "gamepad-circle-right"
+    },
+    {
+        "name": "gamepad-circle-up"
+    },
+    {
+        "name": "gamepad-down"
+    },
+    {
+        "name": "gamepad-left"
+    },
+    {
+        "name": "gamepad-right"
+    },
+    {
+        "name": "gamepad-up"
     },
     {
         "name": "garage"
@@ -8313,6 +8385,9 @@
         "name": "rectangle"
     },
     {
+        "name": "rectangle-add"
+    },
+    {
         "name": "recycling"
     },
     {
@@ -9705,6 +9780,9 @@
         "name": "square"
     },
     {
+        "name": "square-circle"
+    },
+    {
         "name": "square-dot"
     },
     {
@@ -10725,6 +10803,9 @@
         "name": "trending-up"
     },
     {
+        "name": "triangle-circle"
+    },
+    {
         "name": "trip"
     },
     {
@@ -11557,6 +11638,12 @@
     },
     {
         "name": "wysiwyg"
+    },
+    {
+        "name": "x-circle"
+    },
+    {
+        "name": "y-circle"
     },
     {
         "name": "yakitori"
