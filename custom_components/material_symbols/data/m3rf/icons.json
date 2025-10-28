@@ -1770,6 +1770,9 @@
         "name": "car-defrost-mid-left"
     },
     {
+        "name": "car-defrost-mid-low-left"
+    },
+    {
         "name": "car-defrost-mid-low-right"
     },
     {
@@ -8401,9 +8404,6 @@
     },
     {
         "name": "split-scene-left"
-    },
-    {
-        "name": "split-scene-right"
     },
     {
         "name": "split-scene-up"
