@@ -1389,6 +1389,9 @@
         "name": "computer-cancel"
     },
     {
+        "name": "computer-sound"
+    },
+    {
         "name": "concierge"
     },
     {
@@ -2673,6 +2676,18 @@
         "name": "game-button-zr"
     },
     {
+        "name": "game-stick-l3"
+    },
+    {
+        "name": "game-stick-left"
+    },
+    {
+        "name": "game-stick-r3"
+    },
+    {
+        "name": "game-stick-right"
+    },
+    {
         "name": "game-trigger-left"
     },
     {
@@ -3387,6 +3402,9 @@
         "name": "linked-camera"
     },
     {
+        "name": "lips"
+    },
+    {
         "name": "liquor"
     },
     {
@@ -3679,6 +3697,9 @@
     },
     {
         "name": "mic-external-on"
+    },
+    {
+        "name": "mic-gear"
     },
     {
         "name": "mic-noise-cancel-off"
@@ -4188,6 +4209,12 @@
         "name": "notification-add"
     },
     {
+        "name": "notification-audio"
+    },
+    {
+        "name": "notification-audio-off"
+    },
+    {
         "name": "notification-important"
     },
     {
@@ -4516,6 +4543,9 @@
     },
     {
         "name": "person-shield"
+    },
+    {
+        "name": "person-text"
     },
     {
         "name": "personal-bag"
@@ -5730,6 +5760,12 @@
         "name": "stethoscope"
     },
     {
+        "name": "sticker"
+    },
+    {
+        "name": "sticker-add"
+    },
+    {
         "name": "sticky-note"
     },
     {
@@ -6309,6 +6345,9 @@
         "name": "unarchive"
     },
     {
+        "name": "undereye"
+    },
+    {
         "name": "unfloat-landscape"
     },
     {
@@ -6502,6 +6541,9 @@
     },
     {
         "name": "voice-chat"
+    },
+    {
+        "name": "voice-chat-off"
     },
     {
         "name": "voice-over-off"

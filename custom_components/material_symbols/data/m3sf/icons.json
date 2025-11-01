@@ -1398,6 +1398,9 @@
         "name": "computer-cancel"
     },
     {
+        "name": "computer-sound"
+    },
+    {
         "name": "concierge"
     },
     {
@@ -1648,6 +1651,9 @@
     },
     {
         "name": "detection-and-zone"
+    },
+    {
+        "name": "detection-and-zone-off"
     },
     {
         "name": "detector"
@@ -2109,6 +2115,9 @@
         "name": "eye-tracking"
     },
     {
+        "name": "eyebrow"
+    },
+    {
         "name": "face-3"
     },
     {
@@ -2503,6 +2512,18 @@
     },
     {
         "name": "gallery-thumbnail"
+    },
+    {
+        "name": "game-stick-l3"
+    },
+    {
+        "name": "game-stick-left"
+    },
+    {
+        "name": "game-stick-r3"
+    },
+    {
+        "name": "game-stick-right"
     },
     {
         "name": "garage"
@@ -3829,6 +3850,12 @@
     },
     {
         "name": "notification-add"
+    },
+    {
+        "name": "notification-audio"
+    },
+    {
+        "name": "notification-audio-off"
     },
     {
         "name": "notification-important"
@@ -5169,6 +5196,12 @@
         "name": "steps"
     },
     {
+        "name": "sticker"
+    },
+    {
+        "name": "sticker-add"
+    },
+    {
         "name": "sticky-note"
     },
     {
@@ -5841,6 +5874,9 @@
         "name": "voice-chat"
     },
     {
+        "name": "voice-chat-off"
+    },
+    {
         "name": "voice-selection"
     },
     {
@@ -5944,6 +5980,9 @@
     },
     {
         "name": "wheelchair-pickup"
+    },
+    {
+        "name": "widget-menu"
     },
     {
         "name": "width-full"
