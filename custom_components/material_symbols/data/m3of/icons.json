@@ -4425,6 +4425,24 @@
         "name": "format-h6"
     },
     {
+        "name": "format-image-back"
+    },
+    {
+        "name": "format-image-break-left"
+    },
+    {
+        "name": "format-image-break-right"
+    },
+    {
+        "name": "format-image-front"
+    },
+    {
+        "name": "format-image-inline-left"
+    },
+    {
+        "name": "format-image-inline-right"
+    },
+    {
         "name": "format-image-left"
     },
     {
@@ -10507,6 +10525,9 @@
     },
     {
         "name": "thermometer-add"
+    },
+    {
+        "name": "thermometer-alert"
     },
     {
         "name": "thermometer-loss"

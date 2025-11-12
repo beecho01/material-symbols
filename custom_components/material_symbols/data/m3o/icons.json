@@ -2898,6 +2898,24 @@
         "name": "format-color-reset"
     },
     {
+        "name": "format-image-back"
+    },
+    {
+        "name": "format-image-break-left"
+    },
+    {
+        "name": "format-image-break-right"
+    },
+    {
+        "name": "format-image-front"
+    },
+    {
+        "name": "format-image-inline-left"
+    },
+    {
+        "name": "format-image-inline-right"
+    },
+    {
         "name": "format-ink-highlighter"
     },
     {
@@ -6901,6 +6919,9 @@
     },
     {
         "name": "thermometer"
+    },
+    {
+        "name": "thermometer-alert"
     },
     {
         "name": "thermometer-gain"
