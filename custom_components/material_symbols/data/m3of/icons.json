@@ -2061,6 +2061,9 @@
         "name": "cards"
     },
     {
+        "name": "cards-stack"
+    },
+    {
         "name": "cards-star"
     },
     {
@@ -4903,6 +4906,9 @@
     },
     {
         "name": "graph-7"
+    },
+    {
+        "name": "graph-8"
     },
     {
         "name": "graphic-eq"

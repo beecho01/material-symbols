@@ -1209,6 +1209,9 @@
         "name": "cards"
     },
     {
+        "name": "cards-stack"
+    },
+    {
         "name": "cards-star"
     },
     {
@@ -3124,6 +3127,9 @@
     },
     {
         "name": "gradient"
+    },
+    {
+        "name": "graph-8"
     },
     {
         "name": "grid-off"
