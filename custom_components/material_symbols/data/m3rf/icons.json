@@ -2505,6 +2505,12 @@
         "name": "dashboard-2"
     },
     {
+        "name": "dashboard-2-edit"
+    },
+    {
+        "name": "dashboard-2-gear"
+    },
+    {
         "name": "dashboard-customize"
     },
     {
@@ -6076,6 +6082,9 @@
     },
     {
         "name": "music-note"
+    },
+    {
+        "name": "music-note-2"
     },
     {
         "name": "music-note-add"
