@@ -402,6 +402,9 @@
         "name": "animation"
     },
     {
+        "name": "antigravity"
+    },
+    {
         "name": "aod-tablet"
     },
     {
@@ -7369,6 +7372,9 @@
     },
     {
         "name": "video-stable"
+    },
+    {
+        "name": "video-template"
     },
     {
         "name": "videocam"

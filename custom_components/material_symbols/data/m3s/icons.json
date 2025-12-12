@@ -4626,6 +4626,9 @@
         "name": "video-stable"
     },
     {
+        "name": "video-template"
+    },
+    {
         "name": "videocam"
     },
     {
