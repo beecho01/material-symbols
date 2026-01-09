@@ -888,6 +888,9 @@
         "name": "chat-bubble"
     },
     {
+        "name": "chat-bubble-off"
+    },
+    {
         "name": "chat-error"
     },
     {
@@ -1693,6 +1696,9 @@
     },
     {
         "name": "eyebrow"
+    },
+    {
+        "name": "eyeglasses-2-sound"
     },
     {
         "name": "face-3"
@@ -4059,6 +4065,9 @@
         "name": "splitscreen-landscape"
     },
     {
+        "name": "splitscreen-landscape-add"
+    },
+    {
         "name": "splitscreen-left"
     },
     {
@@ -4738,6 +4747,9 @@
     },
     {
         "name": "wash"
+    },
+    {
+        "name": "watch-alert"
     },
     {
         "name": "watch-lock"

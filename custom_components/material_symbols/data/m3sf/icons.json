@@ -1224,6 +1224,9 @@
         "name": "chat-bubble"
     },
     {
+        "name": "chat-bubble-off"
+    },
+    {
         "name": "chat-dashed"
     },
     {
@@ -2124,6 +2127,9 @@
         "name": "eyebrow"
     },
     {
+        "name": "eyeglasses-2-sound"
+    },
+    {
         "name": "face-3"
     },
     {
@@ -2317,6 +2323,9 @@
     },
     {
         "name": "fitbit-hourly-activity"
+    },
+    {
+        "name": "fitbit-raquetball"
     },
     {
         "name": "fitness-trackers"
@@ -5121,6 +5130,9 @@
         "name": "splitscreen-landscape"
     },
     {
+        "name": "splitscreen-landscape-add"
+    },
+    {
         "name": "splitscreen-left"
     },
     {
@@ -5935,6 +5947,9 @@
     },
     {
         "name": "wash"
+    },
+    {
+        "name": "watch-alert"
     },
     {
         "name": "watch-lock"

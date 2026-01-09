@@ -1317,6 +1317,9 @@
         "name": "chat-bubble"
     },
     {
+        "name": "chat-bubble-off"
+    },
+    {
         "name": "chat-error"
     },
     {
@@ -4401,6 +4404,9 @@
         "name": "mode-fan"
     },
     {
+        "name": "mode-fan-2"
+    },
+    {
         "name": "mode-fan-off"
     },
     {
@@ -6435,6 +6441,9 @@
         "name": "splitscreen-landscape"
     },
     {
+        "name": "splitscreen-landscape-add"
+    },
+    {
         "name": "splitscreen-left"
     },
     {
@@ -7569,7 +7578,13 @@
         "name": "watch"
     },
     {
+        "name": "watch-alert"
+    },
+    {
         "name": "watch-arrow"
+    },
+    {
+        "name": "watch-arrow-down"
     },
     {
         "name": "watch-button-press"
