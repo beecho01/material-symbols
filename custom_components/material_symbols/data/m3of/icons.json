@@ -4824,6 +4824,12 @@
         "name": "globe"
     },
     {
+        "name": "globe-2-cancel"
+    },
+    {
+        "name": "globe-2-question"
+    },
+    {
         "name": "globe-asia"
     },
     {
@@ -6027,6 +6033,9 @@
         "name": "link"
     },
     {
+        "name": "link-2"
+    },
+    {
         "name": "link-off"
     },
     {
@@ -6790,6 +6799,9 @@
     },
     {
         "name": "mood-bad"
+    },
+    {
+        "name": "mood-heart"
     },
     {
         "name": "moon-stars"
