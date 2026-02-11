@@ -960,6 +960,9 @@
         "name": "bus-alert"
     },
     {
+        "name": "bus-map-pin"
+    },
+    {
         "name": "bus-railway"
     },
     {

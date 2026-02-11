@@ -1152,6 +1152,9 @@
         "name": "avg-time"
     },
     {
+        "name": "avocado-bean"
+    },
+    {
         "name": "award-meal"
     },
     {
@@ -1831,6 +1834,9 @@
     },
     {
         "name": "bus-alert"
+    },
+    {
+        "name": "bus-map-pin"
     },
     {
         "name": "bus-railway"
@@ -6717,6 +6723,9 @@
         "name": "mobile-wrench"
     },
     {
+        "name": "mobiledata-arrows"
+    },
+    {
         "name": "mobiledata-off"
     },
     {
@@ -11596,6 +11605,9 @@
     },
     {
         "name": "whatshot"
+    },
+    {
+        "name": "wheat"
     },
     {
         "name": "wheelchair-pickup"
