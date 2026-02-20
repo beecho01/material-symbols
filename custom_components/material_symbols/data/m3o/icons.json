@@ -5247,6 +5247,9 @@
         "name": "phone-callback"
     },
     {
+        "name": "phone-cancel"
+    },
+    {
         "name": "phone-disabled"
     },
     {

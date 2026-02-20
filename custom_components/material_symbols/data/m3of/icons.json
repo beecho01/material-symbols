@@ -5340,6 +5340,15 @@
         "name": "home-work"
     },
     {
+        "name": "horizontal-align-center"
+    },
+    {
+        "name": "horizontal-align-left"
+    },
+    {
+        "name": "horizontal-align-right"
+    },
+    {
         "name": "horizontal-distribute"
     },
     {
@@ -7902,6 +7911,9 @@
         "name": "phone-callback"
     },
     {
+        "name": "phone-cancel"
+    },
+    {
         "name": "phone-disabled"
     },
     {
@@ -8644,6 +8656,9 @@
     },
     {
         "name": "resize"
+    },
+    {
+        "name": "resize-window"
     },
     {
         "name": "respiratory-rate"
