@@ -1971,6 +1971,9 @@
         "name": "format-paint"
     },
     {
+        "name": "format-paint-off"
+    },
+    {
         "name": "fort"
     },
     {
@@ -4242,7 +4245,13 @@
         "name": "swipe-left"
     },
     {
+        "name": "swipe-left-2"
+    },
+    {
         "name": "swipe-right"
+    },
+    {
+        "name": "swipe-right-2"
     },
     {
         "name": "swipe-up"
@@ -4393,6 +4402,9 @@
     },
     {
         "name": "text-ad"
+    },
+    {
+        "name": "text-ad-off"
     },
     {
         "name": "text-compare"

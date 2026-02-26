@@ -2457,6 +2457,9 @@
         "name": "format-paint"
     },
     {
+        "name": "format-paint-off"
+    },
+    {
         "name": "fort"
     },
     {
@@ -5184,6 +5187,9 @@
         "name": "sports-motorsports"
     },
     {
+        "name": "sql"
+    },
+    {
         "name": "square-foot"
     },
     {
@@ -5332,6 +5338,9 @@
     },
     {
         "name": "swipe-left"
+    },
+    {
+        "name": "swipe-left-2"
     },
     {
         "name": "swipe-right"
@@ -5500,6 +5509,9 @@
     },
     {
         "name": "text-ad"
+    },
+    {
+        "name": "text-ad-off"
     },
     {
         "name": "text-compare"

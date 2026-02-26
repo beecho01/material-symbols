@@ -3987,6 +3987,9 @@
         "name": "format-paint"
     },
     {
+        "name": "format-paint-off"
+    },
+    {
         "name": "format-paragraph"
     },
     {
@@ -4309,6 +4312,9 @@
     },
     {
         "name": "graphic-eq"
+    },
+    {
+        "name": "graphic-eq-off"
     },
     {
         "name": "grass"
@@ -8583,6 +8589,9 @@
         "name": "sprint"
     },
     {
+        "name": "sql"
+    },
+    {
         "name": "square"
     },
     {
@@ -8877,10 +8886,16 @@
         "name": "swipe-left"
     },
     {
+        "name": "swipe-left-2"
+    },
+    {
         "name": "swipe-left-alt"
     },
     {
         "name": "swipe-right"
+    },
+    {
+        "name": "swipe-right-2"
     },
     {
         "name": "swipe-right-alt"
@@ -9106,6 +9121,9 @@
     },
     {
         "name": "text-ad"
+    },
+    {
+        "name": "text-ad-off"
     },
     {
         "name": "text-compare"

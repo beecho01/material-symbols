@@ -2937,10 +2937,19 @@
         "name": "format-image-inline-right"
     },
     {
+        "name": "format-image-left"
+    },
+    {
+        "name": "format-image-right"
+    },
+    {
         "name": "format-ink-highlighter"
     },
     {
         "name": "format-paint"
+    },
+    {
+        "name": "format-paint-off"
     },
     {
         "name": "format-quote"
@@ -6738,10 +6747,16 @@
         "name": "swipe-left"
     },
     {
+        "name": "swipe-left-2"
+    },
+    {
         "name": "swipe-left-alt"
     },
     {
         "name": "swipe-right"
+    },
+    {
+        "name": "swipe-right-2"
     },
     {
         "name": "swipe-right-alt"
@@ -6940,6 +6955,9 @@
     },
     {
         "name": "text-ad"
+    },
+    {
+        "name": "text-ad-off"
     },
     {
         "name": "text-compare"
