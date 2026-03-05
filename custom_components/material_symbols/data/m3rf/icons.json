@@ -1614,6 +1614,9 @@
         "name": "bus-map-pin"
     },
     {
+        "name": "bus-map-pin-2"
+    },
+    {
         "name": "bus-railway"
     },
     {
@@ -2173,6 +2176,9 @@
     },
     {
         "name": "code-off"
+    },
+    {
+        "name": "code-xml"
     },
     {
         "name": "coffee"
@@ -3615,6 +3621,9 @@
         "name": "fingerprint-off"
     },
     {
+        "name": "fire-check"
+    },
+    {
         "name": "fire-extinguisher"
     },
     {
@@ -4330,6 +4339,9 @@
     },
     {
         "name": "grid-goldenratio"
+    },
+    {
+        "name": "grid-layout-side"
     },
     {
         "name": "grid-off"
@@ -8355,6 +8367,9 @@
         "name": "snowboarding"
     },
     {
+        "name": "snowflake"
+    },
+    {
         "name": "snowmobile"
     },
     {
@@ -8422,6 +8437,9 @@
     },
     {
         "name": "space-dashboard"
+    },
+    {
+        "name": "space-dashboard-2"
     },
     {
         "name": "spatial-audio"
@@ -9118,6 +9136,9 @@
     },
     {
         "name": "terminal"
+    },
+    {
+        "name": "terminal-2"
     },
     {
         "name": "text-ad"
@@ -10024,6 +10045,9 @@
     },
     {
         "name": "water-drop"
+    },
+    {
+        "name": "water-drops"
     },
     {
         "name": "water-ec"

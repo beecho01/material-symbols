@@ -1059,6 +1059,9 @@
         "name": "bus-map-pin"
     },
     {
+        "name": "bus-map-pin-2"
+    },
+    {
         "name": "bus-railway"
     },
     {
@@ -2724,6 +2727,9 @@
         "name": "fingerprint"
     },
     {
+        "name": "fire-check"
+    },
+    {
         "name": "fire-extinguisher"
     },
     {
@@ -2911,6 +2917,9 @@
     },
     {
         "name": "forest"
+    },
+    {
+        "name": "fork-chart"
     },
     {
         "name": "forklift"
@@ -3157,6 +3166,9 @@
     },
     {
         "name": "graph-8"
+    },
+    {
+        "name": "grid-layout-side"
     },
     {
         "name": "grid-off"
@@ -6402,6 +6414,9 @@
         "name": "space-dashboard"
     },
     {
+        "name": "space-dashboard-2"
+    },
+    {
         "name": "spatial-audio"
     },
     {
@@ -7656,6 +7671,9 @@
         "name": "water-drop"
     },
     {
+        "name": "water-drops"
+    },
+    {
         "name": "water-ec"
     },
     {
@@ -7849,6 +7867,9 @@
     },
     {
         "name": "your-trips"
+    },
+    {
+        "name": "youtube-activity"
     },
     {
         "name": "youtube-tv"

@@ -939,6 +939,9 @@
         "name": "bus-map-pin"
     },
     {
+        "name": "bus-map-pin-2"
+    },
+    {
         "name": "bus-railway"
     },
     {
@@ -2392,6 +2395,9 @@
     },
     {
         "name": "find-in-page"
+    },
+    {
+        "name": "fire-check"
     },
     {
         "name": "fire-extinguisher"
@@ -6738,6 +6744,9 @@
         "name": "water-drop"
     },
     {
+        "name": "water-drops"
+    },
+    {
         "name": "water-ec"
     },
     {
@@ -6889,5 +6898,8 @@
     },
     {
         "name": "your-trips"
+    },
+    {
+        "name": "youtube-activity"
     }
 ]

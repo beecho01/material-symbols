@@ -675,6 +675,9 @@
         "name": "bus-map-pin"
     },
     {
+        "name": "bus-map-pin-2"
+    },
+    {
         "name": "bus-railway"
     },
     {
@@ -1965,6 +1968,9 @@
         "name": "font-download-off"
     },
     {
+        "name": "fork-chart"
+    },
+    {
         "name": "format-ink-highlighter"
     },
     {
@@ -2074,6 +2080,9 @@
     },
     {
         "name": "gradient"
+    },
+    {
+        "name": "grid-layout-side"
     },
     {
         "name": "grid-off"
@@ -4021,6 +4030,9 @@
     },
     {
         "name": "space-dashboard"
+    },
+    {
+        "name": "space-dashboard-2"
     },
     {
         "name": "spatial-speaker"
