@@ -2205,6 +2205,9 @@
         "name": "check"
     },
     {
+        "name": "check-alert"
+    },
+    {
         "name": "check-box"
     },
     {
@@ -9459,6 +9462,9 @@
         "name": "signal-cellular-alt-2-bar"
     },
     {
+        "name": "signal-cellular-alt-off"
+    },
+    {
         "name": "signal-cellular-connected-no-internet-0-bar"
     },
     {
@@ -11850,7 +11856,7 @@
         "name": "your-trips"
     },
     {
-        "name": "youtube-activity"
+        "name": "youtube-activity-2"
     },
     {
         "name": "youtube-music"
@@ -11860,6 +11866,9 @@
     },
     {
         "name": "youtube-tv"
+    },
+    {
+        "name": "youtube-video"
     },
     {
         "name": "zone-person-alert"
