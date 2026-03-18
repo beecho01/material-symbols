@@ -2511,6 +2511,9 @@
         "name": "frame-source"
     },
     {
+        "name": "frame-spark"
+    },
+    {
         "name": "free-cancellation"
     },
     {
@@ -2779,6 +2782,9 @@
     },
     {
         "name": "home-storage"
+    },
+    {
+        "name": "home-storage-gear"
     },
     {
         "name": "host"
@@ -5680,6 +5686,12 @@
     },
     {
         "name": "transition-slide"
+    },
+    {
+        "name": "translate-cc"
+    },
+    {
+        "name": "translate-subtitles"
     },
     {
         "name": "transportation"

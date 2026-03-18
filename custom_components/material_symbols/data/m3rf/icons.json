@@ -663,6 +663,9 @@
         "name": "app-shortcut"
     },
     {
+        "name": "app-spark"
+    },
+    {
         "name": "approval"
     },
     {
@@ -4107,6 +4110,9 @@
         "name": "frame-source"
     },
     {
+        "name": "frame-spark"
+    },
+    {
         "name": "free-cancellation"
     },
     {
@@ -4660,6 +4666,9 @@
     },
     {
         "name": "home-storage"
+    },
+    {
+        "name": "home-storage-gear"
     },
     {
         "name": "home-work"
@@ -9495,7 +9504,13 @@
         "name": "translate"
     },
     {
+        "name": "translate-cc"
+    },
+    {
         "name": "translate-indic"
+    },
+    {
+        "name": "translate-subtitles"
     },
     {
         "name": "transportation"

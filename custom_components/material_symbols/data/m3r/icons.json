@@ -387,6 +387,9 @@
         "name": "app-shortcut"
     },
     {
+        "name": "app-spark"
+    },
+    {
         "name": "approval"
     },
     {
@@ -3055,6 +3058,9 @@
     },
     {
         "name": "home-storage"
+    },
+    {
+        "name": "home-storage-gear"
     },
     {
         "name": "home-work"
@@ -6343,6 +6349,12 @@
     },
     {
         "name": "transition-push"
+    },
+    {
+        "name": "translate-cc"
+    },
+    {
+        "name": "translate-subtitles"
     },
     {
         "name": "transportation"
