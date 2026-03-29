@@ -3681,6 +3681,9 @@
         "name": "movie-edit"
     },
     {
+        "name": "movie-edit-off"
+    },
+    {
         "name": "movie-filter"
     },
     {
@@ -4795,6 +4798,9 @@
     },
     {
         "name": "sell"
+    },
+    {
+        "name": "sell-cloud"
     },
     {
         "name": "send-time-extension"

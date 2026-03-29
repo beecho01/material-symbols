@@ -6105,6 +6105,9 @@
         "name": "movie-edit"
     },
     {
+        "name": "movie-edit-off"
+    },
+    {
         "name": "movie-info"
     },
     {
@@ -7903,6 +7906,9 @@
     },
     {
         "name": "self-improvement"
+    },
+    {
+        "name": "sell-cloud"
     },
     {
         "name": "send"

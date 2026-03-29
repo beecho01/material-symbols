@@ -4056,6 +4056,9 @@
         "name": "movie-edit"
     },
     {
+        "name": "movie-edit-off"
+    },
+    {
         "name": "movie-info"
     },
     {
@@ -5284,6 +5287,9 @@
     },
     {
         "name": "select-window-off"
+    },
+    {
+        "name": "sell-cloud"
     },
     {
         "name": "send"
