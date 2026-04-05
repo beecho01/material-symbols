@@ -2466,6 +2466,9 @@
         "name": "lightbulb-2"
     },
     {
+        "name": "lightstrip"
+    },
+    {
         "name": "linked-camera"
     },
     {
@@ -4035,6 +4038,9 @@
         "name": "sound-detection-loud-sound"
     },
     {
+        "name": "soundbar"
+    },
+    {
         "name": "source-notes"
     },
     {
@@ -4048,6 +4054,9 @@
     },
     {
         "name": "speaker"
+    },
+    {
+        "name": "speaker-2"
     },
     {
         "name": "speaker-group"
@@ -4239,6 +4248,9 @@
         "name": "subtitles-off"
     },
     {
+        "name": "subwoofer"
+    },
+    {
         "name": "summarize"
     },
     {
@@ -4291,6 +4303,9 @@
     },
     {
         "name": "switch-camera"
+    },
+    {
+        "name": "switch-off"
     },
     {
         "name": "switch-video"

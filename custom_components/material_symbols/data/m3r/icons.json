@@ -738,6 +738,12 @@
         "name": "blender"
     },
     {
+        "name": "blinds-2"
+    },
+    {
+        "name": "blinds-2-closed"
+    },
+    {
         "name": "blood-pressure"
     },
     {
@@ -2760,6 +2766,9 @@
         "name": "garage-door"
     },
     {
+        "name": "garage-door-open"
+    },
+    {
         "name": "garage-home"
     },
     {
@@ -3415,6 +3424,9 @@
     },
     {
         "name": "light-group"
+    },
+    {
+        "name": "light-group-2"
     },
     {
         "name": "light-mode"
@@ -5436,6 +5448,12 @@
         "name": "settop-component"
     },
     {
+        "name": "shades"
+    },
+    {
+        "name": "shades-closed"
+    },
+    {
         "name": "shapes"
     },
     {
@@ -5676,6 +5694,9 @@
         "name": "sound-detection-loud-sound"
     },
     {
+        "name": "soundbar"
+    },
+    {
         "name": "soup-kitchen"
     },
     {
@@ -5698,6 +5719,9 @@
     },
     {
         "name": "spatial-tracking"
+    },
+    {
+        "name": "speaker-2"
     },
     {
         "name": "speaker-group"
@@ -5925,6 +5949,9 @@
         "name": "subway-walk"
     },
     {
+        "name": "subwoofer"
+    },
+    {
         "name": "summarize"
     },
     {
@@ -6010,6 +6037,9 @@
     },
     {
         "name": "switch-camera"
+    },
+    {
+        "name": "switch-off"
     },
     {
         "name": "switch-video"

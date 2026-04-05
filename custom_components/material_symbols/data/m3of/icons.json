@@ -1524,6 +1524,12 @@
         "name": "blinds"
     },
     {
+        "name": "blinds-2"
+    },
+    {
+        "name": "blinds-2-closed"
+    },
+    {
         "name": "blinds-closed"
     },
     {
@@ -4782,6 +4788,9 @@
         "name": "garage-door"
     },
     {
+        "name": "garage-door-open"
+    },
+    {
         "name": "garage-home"
     },
     {
@@ -6009,6 +6018,9 @@
         "name": "light-group"
     },
     {
+        "name": "light-group-2"
+    },
+    {
         "name": "light-mode"
     },
     {
@@ -6025,6 +6037,9 @@
     },
     {
         "name": "lightning-stand"
+    },
+    {
+        "name": "lightstrip"
     },
     {
         "name": "line-axis"
@@ -9285,6 +9300,12 @@
         "name": "severe-cold"
     },
     {
+        "name": "shades"
+    },
+    {
+        "name": "shades-closed"
+    },
+    {
         "name": "shadow"
     },
     {
@@ -9705,6 +9726,9 @@
         "name": "sound-sensing"
     },
     {
+        "name": "soundbar"
+    },
+    {
         "name": "soup-kitchen"
     },
     {
@@ -9751,6 +9775,9 @@
     },
     {
         "name": "speaker"
+    },
+    {
+        "name": "speaker-2"
     },
     {
         "name": "speaker-group"
@@ -10227,6 +10254,9 @@
         "name": "subway-walk"
     },
     {
+        "name": "subwoofer"
+    },
+    {
         "name": "summarize"
     },
     {
@@ -10345,6 +10375,9 @@
     },
     {
         "name": "switch-left"
+    },
+    {
+        "name": "switch-off"
     },
     {
         "name": "switch-right"
@@ -11224,6 +11257,12 @@
     },
     {
         "name": "vacuum"
+    },
+    {
+        "name": "vacuum-2"
+    },
+    {
+        "name": "vacuum-2-on"
     },
     {
         "name": "valve"

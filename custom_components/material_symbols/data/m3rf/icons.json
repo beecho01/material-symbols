@@ -1332,6 +1332,12 @@
         "name": "blinds"
     },
     {
+        "name": "blinds-2"
+    },
+    {
+        "name": "blinds-2-closed"
+    },
+    {
         "name": "blinds-closed"
     },
     {
@@ -4230,6 +4236,9 @@
         "name": "garage-door"
     },
     {
+        "name": "garage-door-open"
+    },
+    {
         "name": "garage-home"
     },
     {
@@ -5245,6 +5254,9 @@
     },
     {
         "name": "light-group"
+    },
+    {
+        "name": "light-group-2"
     },
     {
         "name": "light-mode"
@@ -8085,6 +8097,12 @@
         "name": "severe-cold"
     },
     {
+        "name": "shades"
+    },
+    {
+        "name": "shades-closed"
+    },
+    {
         "name": "shadow-add"
     },
     {
@@ -8433,6 +8451,9 @@
         "name": "sound-sampler"
     },
     {
+        "name": "soundbar"
+    },
+    {
         "name": "soup-kitchen"
     },
     {
@@ -8473,6 +8494,9 @@
     },
     {
         "name": "spatial-tracking"
+    },
+    {
+        "name": "speaker-2"
     },
     {
         "name": "speaker-group"
@@ -8862,6 +8886,9 @@
         "name": "subway-walk"
     },
     {
+        "name": "subwoofer"
+    },
+    {
         "name": "summarize"
     },
     {
@@ -8974,6 +9001,9 @@
     },
     {
         "name": "switch-left"
+    },
+    {
+        "name": "switch-off"
     },
     {
         "name": "switch-right"
