@@ -1392,6 +1392,9 @@
         "name": "bolt"
     },
     {
+        "name": "bolt-boost"
+    },
+    {
         "name": "bomb"
     },
     {
