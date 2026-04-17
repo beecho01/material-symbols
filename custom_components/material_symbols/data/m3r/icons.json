@@ -672,6 +672,9 @@
         "name": "battery-charging-full"
     },
     {
+        "name": "battery-charging-full-2"
+    },
+    {
         "name": "battery-error"
     },
     {
@@ -1069,6 +1072,12 @@
     },
     {
         "name": "car-fan-mid-low-right"
+    },
+    {
+        "name": "car-fan-recirculate"
+    },
+    {
+        "name": "car-fan-recirculate-2"
     },
     {
         "name": "car-gear"
@@ -6880,6 +6889,9 @@
     },
     {
         "name": "wifi-channel"
+    },
+    {
+        "name": "wifi-device"
     },
     {
         "name": "wifi-find"

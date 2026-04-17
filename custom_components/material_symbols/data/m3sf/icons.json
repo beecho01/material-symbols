@@ -702,22 +702,40 @@
         "name": "battery-charging-20"
     },
     {
+        "name": "battery-charging-20-2"
+    },
+    {
         "name": "battery-charging-30"
+    },
+    {
+        "name": "battery-charging-30-2"
     },
     {
         "name": "battery-charging-50"
     },
     {
+        "name": "battery-charging-50-2"
+    },
+    {
         "name": "battery-charging-60"
     },
     {
+        "name": "battery-charging-60-2"
+    },
+    {
         "name": "battery-charging-80"
+    },
+    {
+        "name": "battery-charging-80-2"
     },
     {
         "name": "battery-charging-90"
     },
     {
         "name": "battery-charging-full"
+    },
+    {
+        "name": "battery-charging-full-2"
     },
     {
         "name": "battery-error"
@@ -1114,6 +1132,12 @@
     },
     {
         "name": "car-fan-mid-right"
+    },
+    {
+        "name": "car-fan-recirculate"
+    },
+    {
+        "name": "car-fan-recirculate-2"
     },
     {
         "name": "car-gear"
@@ -6103,6 +6127,9 @@
     },
     {
         "name": "wifi-calling-bar-3"
+    },
+    {
+        "name": "wifi-device"
     },
     {
         "name": "wifi-lock"
