@@ -9870,7 +9870,16 @@
         "name": "speed-1-7x"
     },
     {
+        "name": "speed-2"
+    },
+    {
         "name": "speed-2x"
+    },
+    {
+        "name": "speed-3"
+    },
+    {
+        "name": "speed-4"
     },
     {
         "name": "speed-camera"
@@ -10933,6 +10942,9 @@
     },
     {
         "name": "touch-double"
+    },
+    {
+        "name": "touch-double-2"
     },
     {
         "name": "touch-long"
