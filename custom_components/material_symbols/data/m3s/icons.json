@@ -3897,6 +3897,9 @@
         "name": "shapes"
     },
     {
+        "name": "share-location"
+    },
+    {
         "name": "share-reviews"
     },
     {
@@ -3909,10 +3912,16 @@
         "name": "shelf-position"
     },
     {
+        "name": "shield-card"
+    },
+    {
         "name": "shield-lock"
     },
     {
         "name": "shield-locked"
+    },
+    {
+        "name": "shield-radar"
     },
     {
         "name": "shoe-cleats"

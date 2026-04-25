@@ -8142,9 +8142,6 @@
         "name": "share-eta"
     },
     {
-        "name": "share-location"
-    },
-    {
         "name": "share-off"
     },
     {
@@ -8166,6 +8163,9 @@
         "name": "shield"
     },
     {
+        "name": "shield-card"
+    },
+    {
         "name": "shield-lock"
     },
     {
@@ -8179,6 +8179,9 @@
     },
     {
         "name": "shield-question"
+    },
+    {
+        "name": "shield-radar"
     },
     {
         "name": "shield-spark"

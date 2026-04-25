@@ -8109,7 +8109,13 @@
         "name": "pin-end"
     },
     {
+        "name": "pin-history"
+    },
+    {
         "name": "pin-invoke"
+    },
+    {
+        "name": "pin-road"
     },
     {
         "name": "pinboard"
@@ -9393,6 +9399,9 @@
         "name": "shield"
     },
     {
+        "name": "shield-card"
+    },
+    {
         "name": "shield-lock"
     },
     {
@@ -9406,6 +9415,9 @@
     },
     {
         "name": "shield-question"
+    },
+    {
+        "name": "shield-radar"
     },
     {
         "name": "shield-spark"
