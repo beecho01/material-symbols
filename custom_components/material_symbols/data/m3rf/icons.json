@@ -9384,6 +9384,12 @@
         "name": "tile-small"
     },
     {
+        "name": "tilt-arrow-down"
+    },
+    {
+        "name": "tilt-arrow-up"
+    },
+    {
         "name": "time-auto"
     },
     {
@@ -10107,6 +10113,9 @@
         "name": "watch-arrow-down"
     },
     {
+        "name": "watch-button"
+    },
+    {
         "name": "watch-button-press"
     },
     {
@@ -10201,6 +10210,9 @@
     },
     {
         "name": "wb-twilight"
+    },
+    {
+        "name": "wb-twilight-2"
     },
     {
         "name": "wc"
