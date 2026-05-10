@@ -3231,6 +3231,9 @@
         "name": "ink-highlighter-move"
     },
     {
+        "name": "ink-highlighter-off"
+    },
+    {
         "name": "ink-pen"
     },
     {

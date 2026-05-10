@@ -1530,6 +1530,9 @@
         "name": "biotech"
     },
     {
+        "name": "bitbucket"
+    },
+    {
         "name": "blanket"
     },
     {
@@ -4878,6 +4881,9 @@
         "name": "gite"
     },
     {
+        "name": "gitlab"
+    },
+    {
         "name": "glass-cup"
     },
     {
@@ -5638,6 +5644,9 @@
     },
     {
         "name": "ink-highlighter-move"
+    },
+    {
+        "name": "ink-highlighter-off"
     },
     {
         "name": "ink-marker"
