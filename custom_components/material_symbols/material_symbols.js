@@ -172,10 +172,7 @@
                         for (let attempt = 1; attempt <= 2; attempt++) {
                             try {
                                 console.debug(`Fetching icon ${iconName} from ${set}, attempt ${attempt}`);
-                                const response = await fetch(iconUrl, {
-                                    cache: 'no-cache',
-                                    headers: { 'Cache-Control': 'no-cache' }
-                                });
+                                const response = await fetch(iconUrl);
                                 
                                 if (!response.ok) {
                                     throw new Error(`HTTP ${response.status}: ${response.statusText}`);

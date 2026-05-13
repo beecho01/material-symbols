@@ -1,3 +1,27 @@
 {
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "cSpell.words": [
+        "HACS",
+        "hass",
+        "hassfest",
+        "homeassistant",
+        "iconify",
+        "iconset",
+        "Iconsets",
+        "parsererror",
+        "svgs"
+    ],
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "spellright.parserByClass": {
+        "chatagent": {
+            "parser": "markdown"
+        }
+    }
 }

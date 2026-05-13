@@ -64,7 +64,7 @@ def export_svgs(base_path, icons):
     # Generate SVG files and count by folder
     for name, data in icons.items():
         svg_body = data["body"].replace('\"', '"')
-        svg_content = f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">{svg_body}</svg>'
+        svg_content = f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">{svg_body}</svg>'
         
         folder = get_folder(name)
         base_name = strip_suffix(name)
@@ -103,7 +103,7 @@ def create_icon_json(base_path, folder, icons):
     icons_data = [{"name": icon} for icon in sorted(icons)]
     json_path = os.path.join(base_path, folder, "icons.json")
     with open(json_path, "w") as json_file:
-        json.dump(icons_data, json_file, indent=4)
+        json.dump(icons_data, json_file, separators=(',', ':'))
 
 def update_js_version():
     """Update the version in material_symbols.js with current date"""
@@ -175,6 +175,36 @@ def update_manifest_version():
         print(f"❌ Error updating manifest version: {e}")
         return False
 
+def update_init_version():
+    """Update the VERSION constant in __init__.py with current date"""
+    init_file_path = os.path.join("..", "__init__.py")
+
+    if not os.path.exists(init_file_path):
+        print(f"\u274c __init__.py not found: {init_file_path}")
+        return False
+
+    version = datetime.now().strftime("%Y.%m.%d")
+
+    try:
+        with open(init_file_path, "r", encoding="utf-8") as file:
+            content = file.read()
+
+        version_pattern = r'(VERSION = ")\d{4}\.\d{2}\.\d{2}(")'
+
+        if re.search(version_pattern, content):
+            updated_content = re.sub(version_pattern, rf'\g<1>{version}\g<2>', content)
+            with open(init_file_path, "w", encoding="utf-8") as file:
+                file.write(updated_content)
+            print(f"\u2705 Updated __init__.py VERSION to: {version}")
+            return True
+        else:
+            print("\u26a0\ufe0f VERSION pattern not found in __init__.py")
+            return False
+    except Exception as e:
+        print(f"\u274c Error updating __init__.py version: {e}")
+        return False
+
+
 def update_readme_icon_count(total_icons):
     """Update the README.md with current icon count"""
     readme_path = os.path.join("..", "..", "..", "README.md")
@@ -225,6 +255,9 @@ def main():
     
     # Update the version in the manifest file
     update_manifest_version()
+
+    # Update the VERSION constant in __init__.py
+    update_init_version()
 
 if __name__ == "__main__":
     main()
