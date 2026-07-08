@@ -207,7 +207,9 @@ Contributions are welcome! Feel free to submit pull requests.
 <img src="https://raw.githubusercontent.com/beecho01/material-symbols/refs/heads/main/docs/assets/images/Line.svg" alt="line break" width="100%" height="3px">
 
 ## <a name="copyright-and-licence"></a>Copyright and Licence
-This work is licenced under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+This integration is licenced under the MIT Licence.
+
+The Material Symbols icon data and any upstream icon assets remain subject to their respective upstream licenses. See **[Third Party Notices](THIRD_PARTY_NOTICES.md)** for attribution and source information.
 
 #### <a name="licence-summary"></a>Licence Summary
  - **Attribution**: You must give appropriate credit, provide a link to the licence, and indicate if changes were made.
