@@ -13,7 +13,7 @@ There is a [Icon Finder Tool](https://beecho01.github.io/material-symbols-iconfi
 <div align="left">
   <br>
   <img src="https://img.shields.io/badge/built_for-Home_Assistant-47BFF5?style=for-the-badge"> &nbsp;
-  <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/license-CC--BY--NC--SA--4.0-lightgrey?style=for-the-badge"></a> &nbsp;
+  <a href="https://opensource.org/license/mit"><img src="https://img.shields.io/badge/license-MIT-lightgrey?style=for-the-badge"></a> &nbsp;
   <img src="https://img.shields.io/github/downloads/beecho01/material-symbols/total?style=for-the-badge"> &nbsp;
   <img src="https://img.shields.io/github/v/release/beecho01/material-symbols?style=for-the-badge"> &nbsp;
   <img src="https://img.shields.io/github/repo-size/beecho01/material-symbols?style=for-the-badge"> &nbsp;
