@@ -198,11 +198,13 @@ Contributions are welcome! Feel free to submit pull requests.
 <img src="https://raw.githubusercontent.com/beecho01/material-symbols/refs/heads/main/docs/assets/images/Line.svg" alt="line break" width="100%" height="3px">
 
 ## <a name="copyright-and-licence"></a>Copyright and Licence
-This integration is licenced under the MIT Licence.
 
-The Material Symbols icon data and any upstream icon assets remain subject to their respective upstream licenses. See **[Third Party Notices](THIRD_PARTY_NOTICES.md)** for attribution and source information.
+This integration is licensed under the MIT License. See the repository [LICENSE](LICENSE) file for details.
+
+The Material Symbols icon data and any upstream icon assets remain subject to their respective upstream licences. See **[Third Party Notices](THIRD_PARTY_NOTICES.md)** for attribution and source information.
 
 #### <a name="licence-summary"></a>Licence Summary
- - **Attribution**: You must give appropriate credit, provide a link to the licence, and indicate if changes were made.
- - **NonCommercial**: You may not use the material for commercial purposes.
- - **ShareAlike**: If you remix, transform, or build upon the material, you must distribute your contributions under the same licence.
+
+* **Integration code**: Licensed under the MIT License.
+* **Third-party icon assets**: Remain subject to their original upstream licences.
+* **Attribution**: See [Third Party Notices](THIRD_PARTY_NOTICES.md) for Google Material Symbols and Iconify attribution.
