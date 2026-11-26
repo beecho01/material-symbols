@@ -53,7 +53,7 @@ Performance is the top priority. The integration serves potentially thousands of
 **Backend (`__init__.py`)**:
 - The `ListingView` must serve `icons.json` efficiently. Prefer in-process JSON generation over filesystem walks at runtime.
 - Cache aggressively on the Python side. The current 5-minute TTL is a floor, not a ceiling — consider longer TTLs or invalidation-on-restart for static icon data.
-- Serve SVG files as true static assets (`StaticPathConfig` with `cache_busting=True` where appropriate) so browsers can cache them long-term.
+- Serve SVG files as true static assets via `StaticPathConfig(url_path, path, cache_headers=True)` (the default) so browsers cache them for HA's 31-day `max-age`. `StaticPathConfig` has no `cache_busting` option — to make browsers fetch a changed file, change its URL (the JS loader is registered as `material_symbols.js?v={VERSION}` for this reason).
 - Avoid blocking the HA event loop — always use `async_add_executor_job` for filesystem I/O.
 
 **Frontend (`material_symbols.js`)**:
@@ -61,7 +61,8 @@ Performance is the top priority. The integration serves potentially thousands of
 - Icon fetches must be individually cached (`iconCache`). Do not re-fetch SVGs that are already in memory.
 - Prefer `cache: 'force-cache'` or browser-default caching for SVG requests (not `no-cache`) unless there is a specific reason to bypass — unnecessary `Cache-Control: no-cache` headers hurt performance on slow connections and low-memory devices.
 - Batch or defer icon list pre-loading — don't block the initial HA UI render.
-- Use `customIconsets` (the newer HA API) in preference to `customIcons` if the target HA version supports it; check HA release notes via `web` tool.
+- Register icon sets on `window.customIcons[prefix] = { getIcon, getIconList }` — this is the current HA API (`getIconList` feeds the icon picker). `window.customIconsets` is the legacy 2020 API that HA keeps only for backward compatibility; do not switch to it.
+- Register the icon sets synchronously when the script loads. `ha-icon` treats a prefix that is not yet registered as unknown and does not retry, so `getIcon`/`getIconList` must wait for the integration themselves.
 
 **`generate_svgs.py`**:
 - When regenerating icons, produce compact SVG output — strip unnecessary whitespace, comments, and metadata.
@@ -76,6 +77,7 @@ Performance is the top priority. The integration serves potentially thousands of
 - Keep `hacs.json` aligned with the current HACS default branch requirements.
 - Version format in `manifest.json` and `material_symbols.js` must follow `YYYY.MM.DD`.
 - When bumping versions, update **both** `manifest.json` and the `VERSION` constant in `__init__.py` to match.
+- `VERSION` is also the JS loader's cache-busting query (`?v=`). Any release that changes `material_symbols.js` must bump it, or browsers keep running the cached copy for up to 31 days. The auto-update workflow bumps it only when the icons change, so bump it by hand for JS-only releases.
 
 ### 5. GitHub Actions Workflow
 - The `auto-update-icons.yml` workflow runs daily. Ensure it correctly: fetches the iconify hash, compares with `.github/iconify-hash.txt`, runs `generate_svgs.py`, and commits only when there are real changes.
@@ -88,7 +90,7 @@ Performance is the top priority. The integration serves potentially thousands of
 - DO NOT use `cache: 'no-cache'` for individual SVG fetches in the JS unless debugging — it degrades performance for end-users.
 - DO NOT break HACS installation compatibility (valid `hacs.json`, correct domain in `manifest.json`).
 - DO NOT store credentials, tokens, or user data anywhere in the component.
-- ALWAYS test changes against the custom iconset registration API documented at https://developers.home-assistant.io/blog/2020/05/09/custom-iconsets/ before finalising JS changes.
+- ALWAYS check JS changes against the current HA frontend source before finalising them: [`src/data/custom_icons.ts`](https://github.com/home-assistant/frontend/blob/dev/src/data/custom_icons.ts) (registration API) and [`src/components/ha-icon.ts`](https://github.com/home-assistant/frontend/blob/dev/src/components/ha-icon.ts) (how and when icons are requested). The [2020 custom icon sets blog post](https://developers.home-assistant.io/blog/2020/05/09/custom-iconsets/) only covers the legacy `customIconsets` API.
 
 ## Approach
 

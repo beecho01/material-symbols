@@ -11,7 +11,7 @@ LOGGER = logging.getLogger(__name__)
 
 NAME = "Material Symbols"
 DOMAIN = "material_symbols"
-VERSION = "2026.11.17"
+VERSION = "2026.11.26"
 
 ICONS_URL = f"/{DOMAIN}"
 LOADER_URL = f"/{DOMAIN}/material_symbols.js"
@@ -70,7 +70,8 @@ async def async_setup(hass: HomeAssistant, config):
             [StaticPathConfig(LOADER_URL, hass.config.path(LOADER_PATH), True)]
         )
         LOGGER.debug(f"Static JS path registered: {LOADER_URL}")
-        add_extra_js_url(hass, LOADER_URL)
+        # Version query busts the browser cache (static files are cached for 31 days)
+        add_extra_js_url(hass, f"{LOADER_URL}?v={VERSION}")
 
         iconset_prefixes = ["m3o", "m3of", "m3r", "m3rf", "m3s", "m3sf"]
         registered_count = 0
