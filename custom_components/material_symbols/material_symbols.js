@@ -14,8 +14,11 @@
     let integrationReady = false;
     let readyCheckPromise = null;
 
-    // Function to check if the integration is ready
-    async function checkIntegrationReady(retries = 5, delay = 1000) {
+    // Wait until the integration's icon endpoints respond. HA serves the frontend
+    // before every integration is set up, so this keeps retrying (backoff capped at
+    // maxDelay) rather than giving up; a page loaded during startup recovers on its
+    // own. All callers share one in-flight check.
+    async function checkIntegrationReady(delay = 1000, maxDelay = 10000) {
         if (integrationReady) {
             return true;
         }
@@ -25,28 +28,27 @@
         }
 
         readyCheckPromise = (async () => {
-            for (let i = 0; i < retries; i++) {
+            for (let attempt = 1; ; attempt++) {
                 try {
                     const testUrl = `/${iconSet}/m3o/icons.json`;
-                    const response = await fetch(testUrl, { 
+                    const response = await fetch(testUrl, {
                         cache: 'no-cache',
                         headers: { 'Cache-Control': 'no-cache' }
                     });
                     if (response.ok) {
                         integrationReady = true;
-                        console.debug(`Material Symbols integration ready after ${i + 1} attempt(s)`);
+                        console.debug(`Material Symbols integration ready after ${attempt} attempt(s)`);
                         return true;
                     }
                 } catch (error) {
-                    console.debug(`Integration ready check attempt ${i + 1} failed:`, error.message);
+                    console.debug(`Integration ready check attempt ${attempt} failed:`, error.message);
                 }
-                
-                if (i < retries - 1) {
-                    await new Promise(resolve => setTimeout(resolve, delay * Math.pow(1.5, i)));
+
+                if (attempt === 5) {
+                    console.warn("Material Symbols integration not ready after 5 attempts, still retrying");
                 }
+                await new Promise(resolve => setTimeout(resolve, Math.min(delay * Math.pow(1.5, attempt - 1), maxDelay)));
             }
-            console.warn(`Material Symbols integration not ready after ${retries} attempts`);
-            return false;
         })();
 
         return readyCheckPromise;
@@ -63,11 +65,7 @@
         }
 
         // Wait for integration to be ready
-        const ready = await checkIntegrationReady();
-        if (!ready) {
-            console.error(`Integration not ready, cannot fetch icon list for ${set}`);
-            return [];
-        }
+        await checkIntegrationReady();
 
         const url = `/${iconSet}/${set}/icons.json`;
         let lastError = null;
@@ -119,33 +117,11 @@
     (async () => {
         try {
             console.debug("Material Symbols: Starting initialisation");
-            
-            // Wait for integration to be ready
-            const ready = await checkIntegrationReady();
-            if (!ready) {
-                console.error("Material Symbols: Integration not ready, initialisation failed");
-                return;
-            }
 
-            // Fetch all icon lists concurrently with proper error handling
-            const fetchPromises = iconSets.map(async (set) => {
-                try {
-                    await fetchIconList(set);
-                    return { set, success: true };
-                } catch (error) {
-                    console.error(`Error fetching icon list for ${set}:`, error);
-                    return { set, success: false, error };
-                }
-            });
-            
-            const results = await Promise.allSettled(fetchPromises);
-            const successful = results.filter(result => 
-                result.status === 'fulfilled' && result.value.success
-            ).length;
-            
-            console.debug(`Material Symbols: Fetched ${successful}/${iconSets.length} icon lists successfully`);
-
-            // Define the custom icons for each set
+            // Define the custom icons for each set straight away, before any await.
+            // HA's ha-icon only calls getIcon for a prefix that is already registered;
+            // an icon rendered before registration stays blank until it is re-created.
+            // getIcon/getIconList wait for the integration themselves.
             iconSets.forEach(set => {
                 window.customIcons = window.customIcons || {};
                 window.customIcons[set] = {
@@ -158,12 +134,8 @@
                             return iconCache[key];
                         }
 
-                        // Ensure integration is ready
-                        const ready = await checkIntegrationReady();
-                        if (!ready) {
-                            console.error(`Integration not ready, cannot fetch icon ${iconName} from ${set}`);
-                            return null;
-                        }
+                        // Wait for integration to be ready
+                        await checkIntegrationReady();
 
                         const iconUrl = `/${iconSet}/${set}/${iconName}.svg`;
                         let lastError = null;
@@ -239,6 +211,24 @@
             });
             
             console.debug(`Material Symbols: Custom icons defined for all sets`);
+
+            // Pre-load all icon lists in the background once the integration is ready
+            const fetchPromises = iconSets.map(async (set) => {
+                try {
+                    await fetchIconList(set);
+                    return { set, success: true };
+                } catch (error) {
+                    console.error(`Error fetching icon list for ${set}:`, error);
+                    return { set, success: false, error };
+                }
+            });
+
+            // Promise.all, not allSettled: each fetch above catches its own errors, and
+            // allSettled needs Chrome 76. HA supports Chrome 67 and loads this file as-is.
+            const results = await Promise.all(fetchPromises);
+            const successful = results.filter(result => result.success).length;
+
+            console.debug(`Material Symbols: Fetched ${successful}/${iconSets.length} icon lists successfully`);
         } catch (error) {
             console.error("Material Symbols: Initialisation failed:", error);
         }
@@ -246,7 +236,7 @@
 
     // Log a styled message to the console
     console.info(
-        "%c MATERIAL SYMBOLS                    %c %c 2026.11.17  ",
+        "%c MATERIAL SYMBOLS                    %c %c 2026.11.26  ",
         '@import url("https://fonts.googleapis.com/css2?family=Roboto");background-color:#1FBEF2;color:#FFFFFF;padding:3px 43px 2px 8px;border-radius:999vh;border:5px solid #1FBEF2;font-family:"Roboto", sans-serif;margin-top:18px',
         '@import url("https://fonts.googleapis.com/css2?family=Roboto");background-color:#FFFFFF;color:#1FBEF2;padding:3px 8px 2px 0;border-radius:999vh 0 0 999vh;border:0;font-family:"Roboto", sans-serif;margin-left:-94px',
         '@import url("https://fonts.googleapis.com/css2?family=Roboto");background-color:#FFFFFF;color:#1FBEF2;padding:3px 9px 2px 0;border-radius:0 999vh 999vh 0;border:0;font-family:"Roboto", sans-serif;margin-left:-1px;margin-bottom:18px'
